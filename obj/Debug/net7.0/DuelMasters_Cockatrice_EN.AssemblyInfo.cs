@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DuelMasters_Cockatrice_EN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db361c28b5302b6243f5bb2f9cf45619a5e89d5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DuelMasters_Cockatrice_EN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DuelMasters_Cockatrice_EN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
