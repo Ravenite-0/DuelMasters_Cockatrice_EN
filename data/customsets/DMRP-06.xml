@@ -1,0 +1,744 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-06</name>
+      <longname>DMRP-06</longname>
+      <settype>DMRP-06</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Deadly Fighter Braid Claw</name>
+      <text>
+■ This creature attacks each turn Attack if Able
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-06-G3">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quick Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone that cost 6 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-06-64">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eternal Brain</name>
+      <text>
+■ Look at the top 2 cards of your deck and put them back in any order. 
+■ After you cast this spell, return it your hand instead.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-06-71">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>5000GT, Riot</name>
+      <text>
+■ This creature costs 1 less to summon for each creature in your graveyard. It can't cost less than 1.
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all psychic creatures. Then destroy all creatures that have power 5000 or less.
+■ Players can't summon creatures that have power 5000 or less or put psychic creatures into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>12</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-06-G1">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reload Charger</name>
+      <text>
+■ You may discard a card. If you do, draw a card.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-06-G5">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arcadia Spark</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have an Angel Command, you may choose both:
+:► Choose one of your opponent's creatures. Your opponent shuffles it into their deck. Then your opponent draws a card.
+:► Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-06-G4">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dogiragon, Legendary Legend</name>
+      <text>
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature into the battle zone, this turn, this creature can attack untapped creatures.
+■ Whenever this creature wins a battle, you can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMRP-06-G2">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Haku★Yon</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When this creature attacks, destroy it after the attack.
+■ When you use a "Gate of Moonless Night" ability, you may put this creature from your graveyard into the battle zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Mugettsu</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-06-44">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Great Sonic</name>
+      <text>
+■ Gogogo Gangan Galaxy: If you have 1 or less card in your hand, this creature gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-06-25">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gogogo Brand</name>
+      <text>
+■ Master Gogogo Gangan Galaxy: If this is the only card in your hand, you may summon this creature For No Cost
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, if you have the fire civilization in your mana zone, draw a card. Then you may discard any number of cards from your hand. For each card discarded in this way, choose one of your opponent's creatures that has power 6000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-06-M1">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gogogo Brand</name>
+      <text>
+■ Master Gogogo Gangan Galaxy: If this is the only card in your hand, you may summon this creature For No Cost
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, if you have the fire civilization in your mana zone, draw a card. Then you may discard any number of cards from your hand. For each card discarded in this way, choose one of your opponent's creatures that has power 6000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-06-M1㊙1">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gogogo Brand</name>
+      <text>
+■ Master Gogogo Gangan Galaxy: If this is the only card in your hand, you may summon this creature For No Cost
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, if you have the fire civilization in your mana zone, draw a card. Then you may discard any number of cards from your hand. For each card discarded in this way, choose one of your opponent's creatures that has power 6000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-06- M1㊙2">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Strong Gedor 卍</name>
+      <text>
+■ Gate of Moonless Night
+■ Blocker
+■ Slayer
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Dolszak</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-06-18">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geotajio, Dragon Armored</name>
+      <text>
+■ Guardman
+■ Triple Breaker
+■ Your creatures that have power 12000 or more can't leave the battle zone except by losing a battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragon Guild/Gransect</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMRP-06-9">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Uisu, Dragon Armored's Investigation/Holy Spark</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone or whenever you cast a spell that has "Spark" in its name, your opponent's creatures don't untap at the start of your opponent's next turn.
+=========================
+■ Shield Trigger
+■ Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Metallica</type>
+        <manacost>6</manacost>
+        <colors>Light/Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMRP-06-S2">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fabula Snail/Gorchop Trap</name>
+      <text>
+■ Your creatures that have power 6000 or more cost 1 less to summon. They can't cost less than 0.
+=========================
+■ Shield Trigger
+■ Put all your opponent's creatures that have power 4000 or less into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>3</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-06-28">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manomi, Super Palace Soldier</name>
+      <text>
+■ Gravity Zero
+■ When you put this creature, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-06-16">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King the Slotton 7/Seventh Seven</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. If all 3 cards are Jokers, you may put a creature from among them into the battle zone. During that turn, that creature can attack your opponent. Put the rest on the bottom of your deck in any order.
+=========================
+■ Shield Trigger
+■ Your opponent reveals the top 3 cards of their deck, and you choose one of them. Your opponent puts their creatures that cost the same as the chosen card along with the 3 revealed cards on the bottom of their deck in any order.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7777</pt>
+      </prop>
+      <set num="DMRP-06-S1">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bangetsu 卍 Ga Ryuzark 卍/Bangokusatsu</name>
+      <text>
+■ Gate of Moonless Night Zetsu: At the End Step
+■ At the start of your opponent's turn, they can't untap more than 3 cards in their mana zone.
+■ Double Breaker
+=========================
+■ Destroy all creatures.
+■ If the total number of cards in each player's graveyards are 13 or more, and this spell is in your shields, it has "shield trigger".
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Dolszak/Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-06-MD1">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bangetsu 卍 Ga Ryuzark 卍/Bangokusatsu</name>
+      <text>
+■ Gate of Moonless Night Zetsu: At the End Step
+■ At the start of your opponent's turn, they can't untap more than 3 cards in their mana zone.
+■ Double Breaker
+=========================
+■ Destroy all creatures.
+■ If the total number of cards in each player's graveyards are 13 or more, and this spell is in your shields, it has "shield trigger".
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Dolszak/Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-06-MD1㊙1">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bangetsu 卍 Ga Ryuzark 卍/Bangokusatsu</name>
+      <text>
+■ Gate of Moonless Night Zetsu: At the End Step
+■ At the start of your opponent's turn, they can't untap more than 3 cards in their mana zone.
+■ Double Breaker
+=========================
+■ Destroy all creatures.
+■ If the total number of cards in each player's graveyards are 13 or more, and this spell is in your shields, it has "shield trigger".
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Dolszak/Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-06- MD1㊙2">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bangetsu 卍 Ga Ryuzark 卍/Bangokusatsu</name>
+      <text>
+■ Gate of Moonless Night Zetsu: At the End Step
+■ At the start of your opponent's turn, they can't untap more than 3 cards in their mana zone.
+■ Double Breaker
+=========================
+■ Destroy all creatures.
+■ If the total number of cards in each player's graveyards are 13 or more, and this spell is in your shields, it has "shield trigger".
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Dolszak/Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-06- MD1㊙3">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tsukutcho</name>
+      <text>
+■ Mach Fighter
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-06-55">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Furious Broken Mask Judgment</name>
+      <text>
+■ Draw a card.
+■ After you cast this spell from your hand, put it on top of one of your shields Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-06-65">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Na Turalgo Danger/Natural Trap</name>
+      <text>
+■ Mach Fighter
+■ Triple Breaker
+■ When you put this creature or whenever you cast a spell that has "Trap" in its name, you may put a nature creature that costs 6 or less from your hand or mana zone.
+=========================
+■ Shield Trigger
+■ Put one of your opponent's creatures in the battle zone into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect/Giant</type>
+        <manacost>7</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-06-S9">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Obuza 08, Demon Dragon Armored/Beginning of the End</name>
+      <text>
+■ This creature costs 1 less to summon for each of your creatures in your graveyard. It can't cost 0 or less. 
+■ Double Breaker
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -1000 power for each creature in your graveyard until the End Step
+=========================
+■ Put the top 3 cards of your deck into your graveyard. Then return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-06-S6">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oblady Hornet /「Let it Bee!」</name>
+      <text>
+■ Mach Fighter
+■ When this creature would be destroyed, put it into your mana zone instead.
+=========================
+■ Draw a card, then put a card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>4</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-06-10">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tranki, Strange Stone/Eye of the Tiger</name>
+      <text>
+■ Double Breaker
+■ Ignore any Ability
+■ At the End Step
+=========================
+■ Draw a card. Then you may put a creature that has "blocker" that costs 5 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light/Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMRP-06-2">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiny, Dragon Armored/Edge Spark</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, draw a card for each of your opponent's tapped creatures.
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Metallica</type>
+        <manacost>5</manacost>
+        <colors>Light/Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-06-14">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mushimushinonnon/Heat enough to burn to Ash</name>
+      <text>
+■ While battling, this creature gets +4000 power.
+■ Whenever this creature wins a battle, you may put a Jokers creature that costs 5 or less from your hand.
+=========================
+■ Shield Trigger
+■ You may put a Jokers creature that costs 6 or less from your hand. If you do, you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMRP-06-22">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akashishima/Red Agraf</name>
+      <text>
+■ Mach Fighter
+=========================
+■ One of your creatures gets +4000 power and can attack tapped or untapped creatures until the End Step
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>4</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-06-54">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cobanza, Walking Bribe</name>
+      <text>
+■ Whenever you cast a spell, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-06-70">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Griknife, Darma</name>
+      <text>
+■ Ultra Saver: Mafi Gang ''(When one of your Mafi Gang would leave the battle zone, you may destroy this creature instead.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Magic Tool</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-06-78">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Missile Jet</name>
+      <text>
+■ Gogogo Gangan Galaxy: If you have 1 or less card in your hand, this creature gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-06-85">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zett, Kiramekuseisen</name>
+      <text>
+■ When you put this creature, add the top card of your deck on one of your shields Face Up
+■ Whenever a card is put into your shields, you may reduce the cost of the next light card you use by up to 3 less this turn. It can't cost 0 or less.
+■ Sabaki Z
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Sabakist</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-06-S3">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bikkureeno</name>
+      <text>
+■ Whenever this creature attacks, your opponent chooses a card in their hand and discards it.
+■ Destroy this creature when your opponent uses a card that has "shield trigger".
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Specials</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-06-S7">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Changethe, Dragon Armored Ship/Fourth of the Six Bizarre ~Earth Breaking Waterfall~</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw 2 cards, then discard a card from your hand.
+■ Each turn, when a spell that costs 5 or less is discarded from your hand for the first time, you may cast that spell For No Cost
+=========================
+■ Until the start of your next turn, your opponent can only attack or block with a creature once each turn.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Mutopia</type>
+        <manacost>6</manacost>
+        <colors>Water/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-06-S5">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dolzwei Astelio</name>
+      <text>
+■ Mach Fighter
+■ Double Breaker
+■ This creature gets +1000 power for each card in your mana zone.
+■ While this creature has power 12000 or more, it has "triple breaker".
+■ Whenever this creature wins a battle, count the number of cards in your mana zone. You may put the same number of cards from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMRP-06-S10">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Neonkus, Palace Missionary/Neo Brain</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever you cast a spell that has "Brain" in its name, put the top card of your deck into your graveyard. If it's a spell, you may cast it For No Cost
+=========================
+■ Shield Trigger
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mutopia/Cyber Command</type>
+        <manacost>8</manacost>
+        <colors>Water/Water</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-06-3">DMRP-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

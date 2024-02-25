@@ -1,0 +1,361 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-26</name>
+      <longname>DMC-26</longname>
+      <settype>DMC-26</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Iere, Vizier of Bullets</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-26-29">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iocant, the Oracle</name>
+      <text>
+■ Blocker
+■ While you have at least 1 Angel Command in the battle zone, this creature gets +2000 power.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-26-15">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reusol, the Oracle</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-26-33">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Toel, Vizier of Hope</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-26-12">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diamond Cutter</name>
+      <text>
+■ This turn, ignore any effects that would prevent your creatures from attacking your opponent. ''(For example, ignore summoning sickness and card effects that say "This creature can't attack" or "This creature can't attack players". Your creatures can't attack creatures this way.)''
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-26-16">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kolon, the Oracle</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-26-28">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ularus, Punishment Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, for each creature you have in the battle zone, you may choose a shield and turn it Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMC-26-4">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valkyer, Starstorm Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-26-11">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asteria, Heaven's Blessing Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Whenever your opponent draws a card except when drawing a card at the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-26-3">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elupheus, Lord of Spirits</name>
+      <text>
+■ Evolution—Put on one of your Angel Commands.
+■ Your opponent's creatures are put into the battle zone tapped.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMC-26-1">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parshia, the Explorer</name>
+      <text>
+■ While all cards in your mana zone are light cards, this creature gets +2500 power and "Blocker". ''(Whenever an opponent's creature attacks, you may tap this creature to stop the attack. Then the 2 creatures battle.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-26-14">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shining Defense</name>
+      <text>
+■ Cross Gear Effect
+■ The crossed creature gets +1500 power and "blocker".
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-26-19">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Malta, the Oracle</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-26-31">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bix, Guardian of the Sacred Mountain</name>
+      <text>
+■ Saver
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-26-34">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Martial Law</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's cross gear in the battle zone and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-26-17">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reverse Armor</name>
+      <text>
+■ Cross Gear Effect
+■ End Step
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-26-35">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sirius, the Patroller</name>
+      <text>
+■ Blocker
+■ Whenever you generate a cross gear, you may draw a card.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cosmo Walker</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMC-26-5">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Petrial Flame</name>
+      <text>
+■ Cross Gear Effect
+■ Whenever your opponent would choose a creature in the battle zone, they can't choose the crossed creature. ''(It can still be attacked or blocked.)''
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-26-6">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rinne Seuss, Sacred Weapon Guardian</name>
+      <text>
+■ Saver: Cross Gear ''(When one of your Cross Gear would be destroyed, you may destroy this creature instead.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-26-13">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quick Defense</name>
+      <text>
+■ Shield Trigger
+■ Cross Gear Effect
+■ The crossed creature gets "blocker".
+■ When the crossed creature is destroyed, you may cross this with one of your creatures For No Cost
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-26-18">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arissa, Vizier of Holy Strikes</name>
+      <text>
+■ Accelerator
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-26-30">DMC-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,303 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-16</name>
+      <longname>DM-16</longname>
+      <settype>DM-16</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Ophanis, Unified Five Elemental</name>
+      <text>
+■ Gravity Zero
+■ Whenever one of your creatures would be destroyed, if you have cards of all 5 civilizations in the battle zone, return that creature to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-16-S1">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Überdragon Valkyrias</name>
+      <text>
+■ Evolution—Put on one of your Armored Dragons.
+■ When you put this creature into the battle zone, you may put a non-evolution Dragon from your mana zone into the battle zone.
+■ Triple breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM-16-S4">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Altgear, Holy Weaponry Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose a cross gear from your mana zone or graveyard and put it into the battle zone. Cross that cross gear with this creature For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-16-1">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dulanzames, Jet-Black War Demon</name>
+      <text>
+■ Gravity Zero
+■  When you put this creature into the battle zone, return all creatures in your graveyard to your hand.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM-16-3">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valkerios Dragon</name>
+      <text>
+■ Gravity Zero
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-16-4">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-16-7">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marshall Queen</name>
+      <text>
+■ Evolution—Put on one of your Splash Queens.
+■ When you put this creature, shieldify up to 3 cards from your hand, then return the same number of shields to your hand. ''(You may use "shield trigger".)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Splash Queen</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-16-9">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noble Enforcer</name>
+      <text>
+■ Cross Gear Effect 
+■ The crossed creature can't be attacked or blocked by creatures that have power 2000 or less.
+■ While this card isn't crossed with a creature, creatures that have power 2000 or less can't attack or block.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-16-11">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Immortal Blade</name>
+      <text>
+■ Cross Gear Effect
+■ Whenever the crossed creature attacks, you may return a creature from your graveyard to your hand.
+■ While this card isn't crossed with a creature, each creature in the battle zone gets "slayer".
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-16-14">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Malibu Dancer</name>
+      <text>
+■ Blocker
+■ Whenever this creature blocks, you may draw a card.
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Splash Queen</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-16-25">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Morse, Grave Robber Doll</name>
+      <text>
+■ Gravity Zero
+■ When you put this creature, return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-16-27">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zemechis, the Explorer</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose one of your opponent's cross gear and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-16-36">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Webius, the Patroller</name>
+      <text>
+■ Blocker
+■ Gravity Zero
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cosmo Walker</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-16-39">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paradise Aroma</name>
+      <text>
+■ Gravity Zero
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-16-42">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jenny, the Dismantling Puppet</name>
+      <text>
+■ When you put this creature, look at your opponent's hand and discard a card from it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-16-44">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mad Guitar</name>
+      <text>
+■ Gravity Zero
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gargoyle</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-16-46">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bind Shadow, Shadow of Bondage</name>
+      <text>
+■ This creature is put into the battle zone tapped.
+■ Darkness creatures are put into the battle zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-16-47">DM-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

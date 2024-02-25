@@ -1,0 +1,883 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMEX-18</name>
+      <longname>DMEX-18</longname>
+      <settype>DMEX-18</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Akashic Third, the Electro-Bandit</name>
+      <text>
+■ Whenever this creature battles, reveal cards from the top of your deck until you reveal a creature. This creature becomes the revealed creature until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-18-30">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evolution Blueprint</name>
+      <text>
+■ Shield Trigger
+■ Reveal the top 6 cards of your deck. Put all evolution creatures from among them into your hand, and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-48">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ken Geki, Absolute Ruler ~Final Flare~</name>
+      <text>
+■ Evolution—Put on one of your creatures that has tooltip
+■ Soulshift
+■ Quattro Breaker
+■ When this creature leaves the battle zone by the ability of one of your opponent's spells or creatures in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Flame Monster</type>
+        <manacost>25</manacost>
+        <colors>Fire</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DMEX-18-5">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ken, Crimson Lord ~Journey's Beginning~</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-18-67">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Secret Clocktower</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 3 cards of your deck. Put a card into your hand, put one on the bottom of your deck, and the other on top of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-59">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Future Blueprint</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 6 cards of your deck. You may choose a creature from them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-48">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brain Storm</name>
+      <text>
+■ Draw up to 3 cards. Then put 2 cards from your hand on top of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-58">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orbis, Cloud Elemental Q</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ Survivor
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Survivor</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMEX-18-34">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Triton Q</name>
+      <text>
+■ Survivor
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sea Hacker/Survivor</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-18-56">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poisonous Mokuren Q</name>
+      <text>
+■ Survivor
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tree Folk/Survivor</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-18-70">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nicol Bolas</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, your opponent discards 7 cards from their hand. 
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Elder Dragon/Planeswalker</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-18-S15">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jace, the Mind Sculptor</name>
+      <text>
+■ When you put this creature into the battle zone, draw 3 cards. Then put 2 cards from your hand on the top of your deck.
+■ Whenever this creature attacks, choose one of your opponent's creatures and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero/Planeswalker</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-18-21">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shining Near Future City</name>
+      <text>
+■ End Step
+■ ''(When another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-36">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gashagozra, Misfortune Demon 03</name>
+      <text>
+■ When you put this creature into the battle zone, put up to 3 non-evolution creatures that cost 3 or less from your graveyard into the battle zone.
+■ Each of your creatures gets "slayer".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-18-S8">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iwashin, One Man Army</name>
+      <text>
+■ When this creature is put into your graveyard from anywhere, you may draw a card. If you do, discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-18-37">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chicken Tatta</name>
+      <text>
+■ Joe
+■ Speed Attacker
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-18-64">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gokuga Roiza, Dragon Armored Ship</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, draw 2 cards.
+■ Whenever your opponent would choose a creature in the battle zone by a spell effect, they Unchoosable
+■ Whenever you cast a spell from your hand, after you do, you may cast that spell from your graveyard For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragon Guild/Mutopia</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-18-S6">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kotatsumuri</name>
+      <text>
+■ If you have 4 or more fire creatures in your mana zone, this creature gets "power attacker +4000" and "double breaker".
+■ Your opponent's creatures can't attack players during the turn they are put.
+■ When this creature attacks, it doesn't untap at the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Specials</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMEX-18-7">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meravolgal, Misfortune Demon Bangou</name>
+      <text>
+■ Gate of Moonless Night
+■ Double Breaker
+■ When you put this creature, break 2 of your opponent's shields. Then break 2 of your shields.
+■ While you have no shields, this creature gets "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command/Dolszak</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMEX-18-4">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shishio Kaiser, Explosive Ruins</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, put the top card of your deck into your mana zone. Then if you have 3 or more fire Dragons in your mana zone, destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-18-S14">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mikuru, Future Faerie/Miracle Brain</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+■ Mana Arms
+=========================
+■ Draw a card for each civilization in your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Snow Faerie/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Nature/Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-18-69">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hakiri, Leafcry Faerie</name>
+      <text>
+■ During your opponent's turn, this creature gets +4000 power.
+■ Whenever this creature attacks, you may summon a creature that costs the same as or less than the number of cards in your mana zone from your hand for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMEX-18-8">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Lotus</name>
+      <text>
+■ When you put this artifact, put 3 seals on it. ''(To seal a card, put the top card of your deck on that card face down.)''
+■ At the start of your turn, put a seal on this artifact on the bottom of your deck.
+■ When you remove all seals from this artifact, put it into your graveyard. The next time you use a card this turn, you may reduce its cost by up to 3. It can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Mono Artifact</maintype>
+        <type></type>
+        <manacost>0</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-S1">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emrakul, the Aeons Torn</name>
+      <text>
+■ Flying ''(This creature can't be attacked or blocked by creatures without flying.)''
+■ Triple Breaker
+■ When you summon this creature into the battle zone, take an Extra Turn
+■ Whenever this creature attacks, your opponent chooses a total of 6 of their Face Up
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Eldrazi/Zenith</type>
+        <manacost>15</manacost>
+        <colors>Colorless</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMEX-18-S2">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Serra Angel</name>
+      <text>
+■ Flying ''(This creature can't be attacked or blocked by creatures without flying.)''
+■ Blocker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-18-35">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Somenzan, Daspell</name>
+      <text></text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Magic Tool</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-60">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Giganto Usagi Robo Future X</name>
+      <text>
+■ Neo Evolution: You may put it on one of your creatures.
+■ Triple Breaker
+■ Whenever this creature attacks, look at the top 3 cards of your deck. Put any number of neo creatures into the battle zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Trinity Command</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMEX-18-15">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・BRELLA</name>
+      <text>
+■ Whenever your opponent would put a creature that costs 4 or less into the battle zone from anywhere other than their hand, your opponent puts that creature into their graveyard instead.
+■ Whenever your opponent would choose a creature by the effect of a spell that costs 4 or less, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-18-43">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dolge Ninpo, Dimension Hiding Jutsu</name>
+      <text>
+■ Choose one of your opponent's creatures and put it into its owner's hyperspatial zone. Until the start of your next turn, your opponent can't put creatures that cost the same as that creature into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-16">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Weimodel, Gig</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, put the top 3 cards of your deck into your graveyard. Then put a creature that costs 3 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-18-40">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Turbo Cho, Climb</name>
+      <text>
+■ Mugen Climb
+■ Blocker
+■ This creature can't attack.
+■ When this creature wins a battle, destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-18-62">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Re:Life</name>
+      <text>
+■ Guard Strike
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-74">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Glory Lupia</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your mana zone tapped. If it's a dragon, put another card from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-18-75">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World Order</name>
+      <text>
+■ If you have the 2 King Cells of "New World King's Creation" and "New World King's Destruction" in your hand or mana zone, you may pay this spell's cost to combine them and cast this spell. 
+■ Return all non-dragon creatures to their owner's hands.
+■ Put any number of dragons from your mana zone and graveyard. Each of them get "speed attacker" and "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-11">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World Order</name>
+      <text>
+■ If you have the 2 King Cells of "New World King's Creation" and "New World King's Destruction" in your hand or mana zone, you may pay this spell's cost to combine them and cast this spell. 
+■ Return all non-dragon creatures to their owner's hands.
+■ Put any number of dragons from your mana zone and graveyard. Each of them get "speed attacker" and "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18- 12">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Creation</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-11">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Destruction</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-12">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Secret Dragon</name>
+      <text>
+■ Attack Chance: Fire or Nature dragon that costs 7 or more ''(When one of your fire or nature dragons that cost 7 or more attacks, you may summon this creature for no cost.)''
+■ Mach Fighter
+■ Whenever this creature attacks, put the top card of your deck into your mana zone. If it's a dragon, you may return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-18-50">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dogiragon X, Blue Awakened</name>
+      <text>
+■ Parallel Revolution Change: When one of your non-psychic darkness or water dragons that cost 5 or more attack, you may switch that creature with this creature in your hyperspatial zone.
+■ Triple Breaker
+■ This creature can't be blocked.
+■ When you put this creature, discard a card from your hand.
+■ Whenever you discard from your hand, each of your other multicolored creatures gets "slayer" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMEX-18-S3b">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redzone Buster, Roaring Awakened</name>
+      <text>
+■ Evolution: Put on one of your light creatures.
+■ Parallel Invasion: When one of your non-psychic light commands attacks, you may put this creature from your hyperspatial zone onto it.
+■ Triple Breaker
+■ When you put this creature, put a card from your hand into your hyperspatial zone, then tap all your opponent's creatures that have the highest power. At the start of your opponent's next turn, they don't untap.
+  </text>
+      <prop>
+        <maintype>Evolution Psychic Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMEX-18-S3a">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pandora Royals</name>
+      <text>
+■ Pandora Shift: You may pay Costicon
+■ You may summon this creature from your hyperspatial zone.
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature or it's put into your hyperspatial zone, draw 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Alien/Hunter/King Command</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-18-S13">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Bow - ANOTHER</name>
+      <text>
+■ Cross Gear Effect
+■ You may pay Costicon
+■ The crossed creature gets +20000 power and "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Knight/Samurai</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-44">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rush, Break Blade Q</name>
+      <text>
+■ Survivor
+■ Each of your fire creatures gets the Survivor race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage/Survivor</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-18-65">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Birds of Paradise</name>
+      <text>
+■ Flying ''(This creature can't be attacked or blocked by creatures without flying.)''
+■ This creature can't break shields.
+■ You may tap this creature as if it was a card that has all civilizations in your mana zone. ''(You may use this ability on the turn you put it.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mana Bird</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-18-29">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Thirteen</name>
+      <text>
+■ 自分は、デッキの枚数を5枚増やしてゲームを開始する。
+  </text>
+      <prop>
+        <maintype>Rule Plus</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-19a">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sapphire Misty</name>
+      <text>
+■ At the End Step
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Starnoid/Cyber Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-18-19b">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gigalin Q, Dark Armor</name>
+      <text>
+■ Survivor
+■ Each of your darkness creatures gets the Survivor race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Knightmare/Survivor</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-18-63">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earthquake</name>
+      <text>
+■ Tap any number of cards in your mana zone. 
+■ Destroy all creatures that don't have "Flying" that have power less than 1000 times the number of cards you tapped. 
+■ For each 4 cards tapped in this way, each player breaks one of their shields.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-18-27">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zagaan GR, Knight of Darkness</name>
+      <text>
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-18-3">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Growing Horn Q</name>
+      <text>
+■ Survivor
+■ Each of your nature creatures gets the Survivor race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate/Survivor</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-18-68">DMEX-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

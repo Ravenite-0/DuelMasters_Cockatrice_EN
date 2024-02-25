@@ -1,0 +1,372 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-19</name>
+      <longname>DMD-19</longname>
+      <settype>DMD-19</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-18">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dulanzames, Jet-Black War Demon</name>
+      <text>
+■ Gravity Zero
+■  When you put this creature into the battle zone, return all creatures in your graveyard to your hand.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMD-19-14">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Emperor Hole</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone. That creature gets -2000 power until the End Step
+■ Put a Darkness psychic creature that costs 9 or less from your hyperspatial zone into the battle zone. Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-9">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dias Zeta, the Temporal Suppressor</name>
+      <text>
+■ Annihilating Soul Recall 4 ''(Whenever this creature attacks, you may choose 4 cards from your opponent's graveyard, your graveyard, or 4 cards from both graveyards. Put the chosen cards on the bottom of their owner's deck in any order. For each 4 cards chosen, you may use the following Icon
+■ Double Breaker
+■ Awaken—End Step
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Zombie Dragon</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMD-19-12a">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diabolos Zeta, Annihilation Awakened</name>
+      <text>
+■ Quattro Breaker
+■ Each of your opponent's creatures gets -5000 power.
+■ Each of your other creatures gets +5000 power.
+■ Release
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>16</manacost>
+        <colors>Darkness</colors>
+        <pt>18000</pt>
+      </prop>
+      <set num="DMD-19-12b">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Romanov Hole</name>
+      <text>
+■ Your opponent chooses one of their creatures and destroys it. 
+■ Put a Darkness psychic creature that costs 10 or less from your hyperspatial zone into the battle zone. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-17">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Ganveet, Temporal Wicked Soldier</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's tapped creatures.
+■ Awaken—At the end of your opponent's turn, if your opponent has no cards in their hand, Darkness Ganveet, the Assassin Awakened
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMD-19-15a">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Darkness Ganveet, the Assassin Awakened</name>
+      <text>
+■ Whenever this creature attacks, your opponent chooses a card in their hand and discards it, then chooses one of their creatures and destroys it.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>13</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMD-19-15b">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jenny, the Suicide Doll</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-19-21">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death Gate, Gate of Hell</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures. You may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-19">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Blade, Wolf Tiger</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMD-19-13">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Barrel, Western Doll</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-19-8">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bone Dance Charger</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-11">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Batou Shoulder, Shadow of Fiction</name>
+      <text>
+■ Your opponent's spells cost 1 more to cast for each spell in their graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-19-20">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Abayo Shabayo</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy one of your creatures. If you do, your opponent chooses one of their creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon/Unnoise</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-19-7">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diabolos, Prison Dragon Blade</name>
+      <text>
+■ When you put this dragheart, return a creature from your graveyard to your hand.
+■ Dragsolution
+■ Hyperspatial Dragheart
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-2a">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diajigoku, Annihilation Demon Dragon</name>
+      <text>
+■ Whenever this creature attacks, choose one of your opponent's creatures. That creature gets -1000 power for each darkness card in your graveyard until the End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMD-19-2b">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Uroborof, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a darkness dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-19-16">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Discald, Misfortune Demon Sickle</name>
+      <text>
+■ Whenever a creature equipped with this attacks, your opponent chooses a card from their hand and discards it.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-19-22a">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokurocald, Misfortune Demon Dragon</name>
+      <text>
+■ Whenever this creature attacks, discard a card from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMD-19-22b">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ganaldonal, Wrath Demon Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, destroy all tapped creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMD-19-3">DMD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,254 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-09</name>
+      <longname>DMSD-09</longname>
+      <settype>DMSD-09</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-9">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Acid Da Alcari</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-19">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Chupacal, Reigen /*</name>
+      <text>
+■ Your auras cost 1 less to use. They can't cost 0 or less.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-17">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Modopitote, Shigen /*</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ When the attached creature is destroyed, return all auras attached to that creature to your hand. 
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-14">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CL-20, Supply</name>
+      <text>
+■ When this creature leaves the battle zone, draw a card. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-09-10">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Nyamibaun, Nigen /*</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, you may choose a creature and return it to its owner's hand.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-13">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>TV-30, Moral</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-09-15">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Kerblock, Nigen /*</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, untap that creature.
+■ The attached creature gets "blocker". ''(You may tap a creature that has "blocker" to change the attack target of one of your opponent's creatures to that creature.)''
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-8">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A Stra Sensor</name>
+      <text>
+■ Look at the top 3 cards of your deck. You may choose a spell or aura from among them, show it to your opponent and add it to your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-18">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Proto Core/Shadow Cracking</name>
+      <text>
+■ Your spells cost 2 less to cast and your aura cost 2 less to use. They can't cost less than 1.
+=========================
+■ Choose one of your opponent's creatures. That creature gets -5000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-09-12">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Yonabikuni, Shigen /*</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ When you attach this to a creature, draw 2 cards.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-5">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Torimuner, Reigen /*</name>
+      <text>
+■ Shield Trigger
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-7">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Fipperd, Shigen /*</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-09-16">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>TT-20, Respon</name>
+      <text>
+■ Whenever your opponent chooses this creature with a spell effect or card ability, draw a card.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-09-11">DMSD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

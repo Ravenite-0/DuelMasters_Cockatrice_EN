@@ -1,0 +1,246 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-41</name>
+      <longname>DMC-41</longname>
+      <settype>DMC-41</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Pyrofighter Magnus</name>
+      <text>
+■ Speed Attacker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-41-11">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gonta, the Warrior Savage</name>
+      <text>
+■ Multi
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-41-10">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hearty Cap'n Polligon</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-41-14">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-41-5">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rinpao, King of Speed Eating</name>
+      <text>
+■ Speed Attacker
+■ Dynamo
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate/Dynamo</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-41-7">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hopstep Battan</name>
+      <text>
+■ End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Vehicle Bee</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-41-9">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Banjo, the Super-energetic</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a Dreammate from your deck, show that Dreammate to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-41-6">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Roubanrei of Impact</name>
+      <text>
+■ Speed Attacker
+■ This creature attacks each turn if able.
+■ Whenever one of your Tyranno Drake or Brave Spirits attack, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Brave Spirit</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-41-4">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gantora Maxivus</name>
+      <text>
+■ Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Vehicle Bee</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-41-3">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>1st Lt. Pen Pen, Special Forest Commander</name>
+      <text>
+■ Each of your other Dreammates gets +1000 power.
+■ Whenever your other Dreammates would be destroyed, put them into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-41-2">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kenji Panda Nelra, Tyrannical Shogun</name>
+      <text>
+■ Evolution—Put on one of your Dreammates.
+■ Whenever this creature attacks, reveal the top card of your deck. If it's a non-evolution Dreammate or Vehicle Bee, you may put it into the battle zone.     
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-41-1">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Colonel Koala, Forest Commander</name>
+      <text>
+■ Over Drive—Light x1 Fire x1 ''(When you summon this creature, you may tap another 1 light and/or 1 fire card in your mana zone. If you do, this creature gets the following Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-41-13">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bomber Doll</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 2000 or less or destroy one of your opponent's tapped creatures that has power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-41-8">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ralbin of Pop Mountain</name>
+      <text>
+■ While you have a nature card in your mana zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-41-12">DMC-41</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

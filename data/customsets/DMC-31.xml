@@ -1,0 +1,167 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-31</name>
+      <longname>DMC-31</longname>
+      <settype>DMC-31</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Brain Serum</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-31-10">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyber Robo Diecrusher</name>
+      <text>
+■ Dynamo
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Dynamo</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-31-7">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hydro Commune</name>
+      <text>
+■ Shield Trigger
+■ Choose a race. Return any number of your creatures in the battle zone that have that race to your hand. Then return a number of your opponent's creatures in the battle zone equal to or less than the number of creatures you returned to your hand to their owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-31-11">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jumbo Attacker, the Steel Ambassador</name>
+      <text>
+■ Dynamo
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Dynamo</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-31-15">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bursting Arm Robo Return Ace</name>
+      <text>
+■ Blocker
+■ Dynamo
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Dynamo</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-31-16">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Search Armor Garongar</name>
+      <text>
+■ Blocker
+■ Fort Energy
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-31-8">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Mecha Gomach V</name>
+      <text>
+■ Evolution—Put on one of your Great Mecha King.
+■ Fort Energy
+■ Fort Energy—Great Mecha King
+:Icon
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMC-31-3">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Osmosis Bullet Soul Skull Hunter</name>
+      <text>
+■ This creature can't be attacked or blocked.
+■ This creature can't attack creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-31-4">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Captain Gyro</name>
+      <text>
+■ Whenever one of your Great Mecha King wins a battle, you may tap this creature. If you do, untap that Great Mecha King.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Machine Hero</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-31-9">DMC-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

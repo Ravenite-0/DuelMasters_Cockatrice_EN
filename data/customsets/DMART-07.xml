@@ -1,0 +1,88 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-07</name>
+      <longname>DMART-07</longname>
+      <settype>DMART-07</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Pretty Children</name>
+      <text>
+■ Each of your creatures that cost 4 or more get "speed attacker".
+■ Your opponent's evolution creatures and your opponent's creatures that have "speed attacker" or "mach fighter" are put tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Children</type>
+        <manacost>3</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMART-07-1">DMART-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorphadillom, Holy Demon Concatenated King</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature or when this creature's "EX Life" shield leaves your shield zone, destroy all your opponent's non-multicolored creatures.
+■ Your opponent can't cast non-multicolored spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>13500</pt>
+      </prop>
+      <set num="DMART-07-3">DMART-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Disnomenon</name>
+      <text>
+■ Mach Fighter
+■ Speed Attacker
+■ Justdiver
+■ Whenever this creature wins a battle, look at the top card of your deck and add it to your hand or put it into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMART-07-5">DMART-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyakume-4, Spirit Treasure</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature or your opponent chooses this creature, put the top card of your deck into your mana zone. Then your opponent discards a card at random from their hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Pandora's Box/Arc Seraphim/Distas</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMART-07-4">DMART-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

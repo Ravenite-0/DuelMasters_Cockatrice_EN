@@ -1,0 +1,932 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-23</name>
+      <longname>DMR-23</longname>
+      <settype>DMR-23</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-FFL1a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL2a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL3a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL4a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL5a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-FFL1㊙a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL2㊙a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL3㊙a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL4㊙a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>FORBIDDEN STAR ~World's Last Day~</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Your seals can only be removed when you summon a Darkness or Fire command that costs 5 or more or put it into the battle zone through ZERO once per turn.
+■ You can't attack with creatures except commands, initials, or creatures that have "Forbidden (category)
+■ This Final Forbidden Field can't leave the battle zone.
+  </text>
+      <prop>
+        <maintype>Final Forbidden Field</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23- FFL5㊙a">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Dogiragolden</name>
+      <text>
+■ Revolution Change: Fire or Nature dragon that costs 5 or more
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and put it into their mana zone. Then destroy one of your opponent's Forbidden Creatures.
+■ Final Final Revolution—When you put this creature into the battle zone, if you haven't used another "Final Revolution" in this game, your opponent's creatures that have power 1000000 or less can't attack you next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMR-23-L2">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Dogiragolden</name>
+      <text>
+■ Revolution Change: Fire or Nature dragon that costs 5 or more
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and put it into their mana zone. Then destroy one of your opponent's Forbidden Creatures.
+■ Final Final Revolution—When you put this creature into the battle zone, if you haven't used another "Final Revolution" in this game, your opponent's creatures that have power 1000000 or less can't attack you next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMR-23- L2㊙1">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Dogiragolden</name>
+      <text>
+■ Revolution Change: Fire or Nature dragon that costs 5 or more
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and put it into their mana zone. Then destroy one of your opponent's Forbidden Creatures.
+■ Final Final Revolution—When you put this creature into the battle zone, if you haven't used another "Final Revolution" in this game, your opponent's creatures that have power 1000000 or less can't attack you next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMR-23- L2㊙2">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Dogiragolden</name>
+      <text>
+■ Revolution Change: Fire or Nature dragon that costs 5 or more
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and put it into their mana zone. Then destroy one of your opponent's Forbidden Creatures.
+■ Final Final Revolution—When you put this creature into the battle zone, if you haven't used another "Final Revolution" in this game, your opponent's creatures that have power 1000000 or less can't attack you next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMR-23- L2㊙3">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23-FFL1">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL2">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL3">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL4">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL5">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23-FFL1㊙">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL2㊙">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL3㊙">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL4㊙">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dormageddon X, Forbidden Armageddon</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Big Bangs, your opponent puts a seal on each of their creatures. ''(While creatures are sealed, both players ignore that creature.)''
+■ Your opponent can't put seals from their creatures into their graveyard.
+■ This creature can't be sealed.
+■ When this creature would leave the battle zone, you may put 2 of its Forbidden Core
+■ If this card is anywhere other than the battle zone, destroy all creatures, then Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Final Forbidden Creature</maintype>
+        <type></type>
+        <manacost>999</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>999999</pt>
+      </prop>
+      <set num="DMR-23- FFL5㊙">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Hamukatsu's Explosion Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Destroy all your opponent's creatures that have power 3000 or less. 
+:► Choose a card in the battle zone and put it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-28">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorbro, Final Forbidden Gamma</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When this creature wins a battle, destroy this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Initials X</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-23-51">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hamukatsuman Ace, Brave 1</name>
+      <text>
+■ Multi
+■ Revolution Change
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. You may take a multicolored creature, show that creature to your opponent and put it on top of your deck. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-23-27">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorhakaba, Final Forbidden Delta</name>
+      <text>
+■ Speed Attacker
+■ If you have a field in the battle zone, you may summon this creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Initials X</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-23-43">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorta, Final Forbidden Alpha</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, if you have a field in the battle zone, you may discard a card from your hand. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initials X</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-23-44">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Doremi's Light Spirit Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Tap all your opponent's creatures in the battle zone.
+:► Draw a card. Then you may cast a light or water spell that costs 5 or less from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-20">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noron Up, "Question 2"</name>
+      <text>
+■ When you put this creature, draw 2 cards. Then discard 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Revolutionary/Team Tech</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-23-67">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ooparts, Last Question</name>
+      <text>
+■ Revolution Change
+■ Double Breaker
+■ When you put this creature into the battle zone, draw 2 cards. Then your opponent chooses 2 cards in their hand and/or battle zone and puts them on the bottom of their deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon/Revolutionary/Team Tech</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMR-23-S8">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miracle Star, Time Caster</name>
+      <text>
+■ Multi
+■ Revolution Change
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone or when this creature is discarded from your hand by the effect of one of your opponent's spells or ability of a creature, you may return any number of spells that have different costs from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary/Team Doremi</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-23-S5">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doremi 24, Miracle 1</name>
+      <text>
+■ Revolution Change
+■ When you put this creature into the battle zone, you may cast a light or water spell that costs 3 or less from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Dragon/Revolutionary/Team Doremi</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-23-19">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wild Safari Channel, D of Great Revolution</name>
+      <text>
+■ Whenever you tap a multicolored card in your mana zone, you may change the Mana Number
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-7">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katsuking Jr, Kung Fu Generation</name>
+      <text>
+■ Revolution Change
+■ Double Breaker
+■ Whenever you put this creature into the battle zone or attacks, add the top card of your deck to your shields face down and break one of your opponent's shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX/Red Command Dragon/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Light/Fire</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DMR-23-S6">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Taiyaki Giant</name>
+      <text>
+■ When you put this creature into the battle zone, untap 4 cards in your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>4</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-23-73">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beroringa M, Third Seed</name>
+      <text>
+■ Revolution Change
+■ When you put this creature into the battle zone, you may put the top 3 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Dragon/Initials/Team Acme</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-23-25">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Platina Walsura S</name>
+      <text>
+■ Evolution―Put on one of your water creatures.
+■ Double Breaker
+■ Whenever this creature attacks, you may draw 3 cards. If you do, discard a card.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Magic Command/Initials</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-23-2">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jolly the Johnny Joe</name>
+      <text>
+■ Speed Attacker
+■ Quattro Breaker
+■ When you summon this creature into the battle zone, if your opponent has no creatures in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type></type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMR-23-L1">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jolly the Johnny Joe</name>
+      <text>
+■ Speed Attacker
+■ Quattro Breaker
+■ When you summon this creature into the battle zone, if your opponent has no creatures in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type></type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMR-23- L1㊙1">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jolly the Johnny Joe</name>
+      <text>
+■ Speed Attacker
+■ Quattro Breaker
+■ When you summon this creature into the battle zone, if your opponent has no creatures in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type></type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMR-23- L1㊙2">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Teranesk, Hard Battling Ancient Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, reveal the top 3 cards of your deck. From among them, put any number of creatures into your hand and put the rest into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon/Giant</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-23-S4">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demon's Light</name>
+      <text>
+■ Draw 2 cards.
+■ Choose one of your opponent's creatures. That creature gets -1000 power for each card in your hand until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-42">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rainbow Spark</name>
+      <text>
+■ Shield Trigger
+■ Choose up to 2 of your opponent's creatures and tap them.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-39">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Memento Guardian Shrine, Prison Court of D</name>
+      <text>
+■ Shield Trigger
+■ Each of your creatures gets "blocker". ''(Whenever an opponent's creature attacks, you may tap the creature that has "blocker" to change the attack to that creature.)''
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-30">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>S Zae</name>
+      <text>
+■ When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus Kai</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-23-32">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyberdice Vegas, Gambling Expert of D</name>
+      <text>
+■ Shield Trigger
+■ End Step
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-14">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-23-24">DMR-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

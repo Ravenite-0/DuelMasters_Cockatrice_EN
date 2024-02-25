@@ -1,0 +1,303 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-38</name>
+      <longname>DMC-38</longname>
+      <settype>DMC-38</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Death Smoke</name>
+      <text>
+■ Destroy one of your opponent's untapped creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-38-30">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-38-21">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ballom, Master of Death</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ When you put this creature into the battle zone, destroy all creatures except darkness creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-38-7">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-38-17">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vashuna, Sword Dancer</name>
+      <text>
+■ While your opponent has no shields, this creature can't attack.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-38-19">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Stream</name>
+      <text>
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-38-29">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miraculous Plague</name>
+      <text>
+■ Multi
+■ Choose 2 of your opponent's creatures in the battle zone. Your opponent chooses one of them, puts it into his hand, and destroys the other one. Then choose 2 cards in your opponent's mana zone. Your opponent chooses one of them, puts it into his hand, and puts the other one into his graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-38-14">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorballom, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ Triple Breaker
+■ When you put this creature, destroy all creatures except darkness creatures. Then each player puts all non-darkness cards in their mana zone into their graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>10</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-38-6">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bangren, Ancient Arhat</name>
+      <text>
+■ Each of your opponent's tapped creatures in the battle zone gets -1000 power. ''(A creature that has power 0 or less is destroyed.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-38-20">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorberos, the Imprisoning Fiend</name>
+      <text>
+■ Double Breaker
+■ Non-darkness creatures cost 2 more to summon.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-38-15">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Hydra, Evil Planet Lord</name>
+      <text>
+■ Double Breaker
+■ When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-38-9">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Maxval, Electro-Fuuma</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't attack.
+■ Your darkness creatures may each cost 1 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Grand Devil</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-38-2">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Olgaiza, Dark Demon of the Evil Fortress</name>
+      <text>
+■ When you put this creature into the battle zone, each of your opponent's creatures gets -1000 power until the End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-38-1">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Supernova Neptune Shutrom</name>
+      <text>
+■ Galaxy Vortex evolution—Put on top of 3 of your Grand Devils, Demon Commands, and/or Angel Commands.
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, your opponent  puts all their creatures in the battle zone on the top of their deck in any order.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-38-5">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyber Brain</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-38-26">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan</name>
+      <text>
+■ When you put this creature, you may reveal the top 5 cards of your deck. Put all light and darkness cards from among them into your hand, and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-38-18">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jumasol, Bloodcurdling Fuuma</name>
+      <text>
+■ Each of your Grand Devils in the battle zone and graveyard gets the Demon Command race.
+■ When this creature would be destroyed, you may destroy one of your other Demon Commands instead.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-38-8">DMC-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

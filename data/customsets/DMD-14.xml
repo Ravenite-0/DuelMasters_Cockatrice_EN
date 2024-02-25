@@ -1,0 +1,98 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-14</name>
+      <longname>DMD-14</longname>
+      <settype>DMD-14</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-14-12">DMD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-14-11">DMD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Stream</name>
+      <text>
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-14-13">DMD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyber N World</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, each player shuffles their hand and graveyard into their deck. Then each player draws 5 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-14-10">DMD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Loud Park, True Flashing Right God</name>
+      <text>
+■ Blocker
+■ While this creature isn't linked, it can't attack.
+■ When you put this creature, put the top 3 cards of your deck into your graveyard. Then you may return a God Nova OMG from your graveyard to your hand.
+■ Right God Link
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God Nova OMG/Zombie Dragon</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMD-14-5">DMD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

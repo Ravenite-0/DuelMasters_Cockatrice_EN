@@ -1,0 +1,107 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-02</name>
+      <longname>DMART-02</longname>
+      <settype>DMART-02</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bolshack Dogiragon</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution fire creature, put it into the battle zone, and put this creature on top of it.
+■ Evolution—Put on one of your fire creatures.
+■ Triple Breaker
+■ When you put this creature or whenever it attacks, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMART-02-3">DMART-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack NEX/Super Spark</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, search your deck. You may put a card that has Lupia in its name. Then shuffle your deck.
+■ This creature has "power attacker +1000" for each Fire Bird in your graveyard.
+=========================
+■ Shield Trigger
+■ Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire/Light</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMART-02-4">DMART-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Balga, Dragon Knight Wind Dragon</name>
+      <text>
+■ Gravity Zero
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all your opponent's creatures that have "blocker".
+■ Whenever this creature attacks, draw a card. Then you may put a Dragon from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon/Armored Dragon</type>
+        <manacost>19</manacost>
+        <colors>Fire</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMART-02-1">DMART-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Duel Dragon</name>
+      <text>
+■ Speed Attacker
+■ Powered Breaker
+■ When you put this creature, choose one of your opponent's creatures and put it into its owner's mana zone. Then you may put a Dragon that has Bolshack in its name from your mana zone that costs the same as or less than the number of cards in your mana zone.
+■ This creature gets +1000 power for each fire card in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMART-02-2">DMART-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Glory Lupia</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your mana zone tapped. If it's a dragon, put another card from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMART-02-5">DMART-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

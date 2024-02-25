@@ -1,0 +1,1502 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMEX-05</name>
+      <longname>DMEX-05</longname>
+      <settype>DMEX-05</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>The Joragon Gunmaster</name>
+      <text>
+■ If you have a total of 5 or more Jokers in the battle zone or your mana zone, this creature can attack your opponent on the turn you put it into the battle zone.
+■ Super Heaven Fever: If you have a total of 10 or more Jokers in the battle zone or your mana zone, this creature gets +8000 power and has "double breaker", and whenever this creature attacks, you may discard any number of Jokers from your hand. For each Jokers discarded in this way, destroy one of your opponent's creatures that has power 10000 or less.
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Master Dragon/Jokers/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMEX-05-M1">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A Stra Zeele</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ When you attach this to a creature, return all your opponent's creatures that have less power than that creature to their owners' hand. If 6 or more cards are returned in this way, take an Extra Turn
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-M3">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Chupacal, Reigen /*</name>
+      <text>
+■ Your auras cost 1 less to use. They can't cost 0 or less.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-73">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachadaman</name>
+      <text>
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+■ Each of your gacharange creatures gets "mach fighter". ''(A creature that has "mach fighter" can attack tapped or untapped creatures on the turn you put it into the battle zone.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-37">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Haileader, Play Music/Melody 3 「Temptation」</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down.
+■ Whenever you put a card into your shield zone, gacharange summon.
+=========================
+■ Draw a card, then put a card from your hand into your shields face down. Then put a card from your shields into your graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-21">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yattarerobo</name>
+      <text>
+■ Your Jokers cost 1 less to summon. They can't cost 0 or less. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-61">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Cupramen</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-60">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Machinegun Talk</name>
+      <text>
+■ When you put this creature, you may choose a creature and untap it.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-05-40">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vinci, Pure White Will</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMEX-05-62">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Curry Potter</name>
+      <text>
+■ While battling, your gacharange creatures get +3000 power.
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-56">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Washer Ikuzo</name>
+      <text>
+■ Guardman
+■ This creature can't attack players. 
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-05-86">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tutanmekhanen</name>
+      <text>
+■ When you put this creature into the battle zone, each player draws a card.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-39">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mount Fujiyamax</name>
+      <text>
+■ If you have another Mount Fujiyamax (category)
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMEX-05-S2">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Savarktis</name>
+      <text>
+■ If you have 5 or more Metallica in the battle zone, each of your other Metallica gets "Ultra Saver: Master Dragon". ''(When your Master Dragons would leave the battle zone, you may destroy one of your creatures that has "Ultra Saver: Master Dragon" instead.)''
+■ Super Heaven Fever: If you have 7 or more Metallica in the battle zone, this creature gets +4000 power, "blocker" and "double breaker", and untaps at the End Step
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Master Dragon/Metallica/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3500+</pt>
+      </prop>
+      <set num="DMEX-05-M2">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Modopitote, Shigen /*</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ When the attached creature is destroyed, return all auras attached to that creature to your hand. 
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-49">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachabeth 1/Gachagacha Scramble</name>
+      <text>
+■ Whenever this creature attacks, gacharange summon. Gacharange Summon
+=========================
+■ Gacharange summon.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-55">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DS-10, Through</name>
+      <text>
+■ This creature can't be blocked. 
+Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-05-70">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>♪ Look Up and Behold the Flash Miracle</name>
+      <text>
+■ Shield Trigger
+■ Gacharange summon. Gacharange Summon
+■ Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-28">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Looterchino, Reigen /*</name>
+      <text>
+■ When you attach this to a creature, draw a card, then discard a card from your hand.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-72">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Throunyan, Rokugen /*</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ The attached creature can't be blocked. 
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-48">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Gacharange Charger</name>
+      <text>
+■ Gacharange summon. Gacharange Summon
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-87">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CL-20, Supply</name>
+      <text>
+■ When this creature leaves the battle zone, draw a card. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-45">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Nyamibaun, Nigen /*</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, you may choose a creature and return it to its owner's hand.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-47">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Phara Oh</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, gacharange summon.
+■ Each of your gacharange creatures gets "power attacker +6000" and "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-05-26">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Edama Fuma, Yuuei</name>
+      <text>
+■ When the attached creature would leave the battle zone, you may put this aura into your graveyard instead.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-52">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>TV-30, Moral</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-69">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>TOKKO-BOON!</name>
+      <text>
+■ Gacharange summon. That creature gets "speed attacker". If that creature attacks this turn, destroy it after the attack. Gacharange Summon 
+''(A creature that has "speed attacker" doesn't get "summoning sickness".)''
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-35">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DOKIDOKI Zainama</name>
+      <text>
+■ When this creature is destroyed, gacharange summon twice. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-80">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>KAMASE-BURN!</name>
+      <text>
+■ Shield Trigger
+■ Gacharange summon. Then you may choose one of your opponent's creatures. The summoned gacharange creature battles the chosen creature. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-83">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Kerblock, Nigen /*</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, untap that creature.
+■ The attached creature gets "blocker". ''(You may tap a creature that has "blocker" to change the attack target of one of your opponent's creatures to that creature.)''
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-30">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ikkodas Cage/Seed Destiny</name>
+      <text>
+■ Mach Fighter
+■ Whenever this creature wins a battle, gacharange summon. Gacharange Summon
+=========================
+■ Choose one of your opponent's cards in the battle zone that costs 2 or less and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Nature/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-36">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>BAKUOOON Mizzail</name>
+      <text>
+■ When you summon this creature, you may destroy any number of your creatures. For each creature destroyed this way, this creature costs 2 less to summon. It can't cost 0 or less.
+■ Double Breaker
+■ When you put this creature, gacharange summon for each creature you destroyed to summon this creature.
+■ Each of your creatures gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMEX-05-S8">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>For You</name>
+      <text>
+■ For each of your creatures in the battle zone, this creature gets +1000 power.
+■ Powered Breaker
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Wonderforce</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>0000+</pt>
+      </prop>
+      <set num="DMEX-05-29">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saxmelody, Double Play Music</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, for each of your light creatures in the battle zone, gacharange summon. Gacharange creatures summoned this way are put into the battle zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragon Guild/Metallica/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-22">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Okopitchakochi</name>
+      <text>
+■ When you put this creature into the battle zone, gacharange summon. That creature gets "speed attacker" until the End Step
+■ Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-15">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dododo Dopydope</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, discard 2 cards.
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-05-S7">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stardom Stargeum</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature into the battle zone, gacharange summon twice. 
+Gacharange Summon
+■ Whenever you put a gacharange creature into the battle zone, choose one of your opponent's creatures in the battle zone and put it into its owners mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMEX-05-S9">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Harplara, Play Music</name>
+      <text>
+■ Double Breaker
+■ This creature is put into the battle zone tapped.
+■ If you have 2 or less other creatures in the battle zone, this creature can't untap.
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMEX-05-27">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ki Rujak, Majimajin</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ When you attach this to a creature, for each aura attached to that creature, destroy one of your opponent's creatures.
+■ When the attached creature is destroyed, put an aura that costs 6 or less from your graveyard into the battle zone.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Dolszak/Mafi Gang/Deletron</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-S6">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dustin Jorber</name>
+      <text>
+■ This creature is put into the battle zone tapped. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-05-59">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wairabi Fourth</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-84">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mercedesbentoo</name>
+      <text>
+■ Shield Trigger
+■ Gacharange summon. The gacharange creature is put into the battle zone tapped. Gacharange Summon
+■ Until the start of your next turn, whenever an opponent's creature attacks, they attack your creatures if able.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-58">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Torimuner, Reigen /*</name>
+      <text>
+■ Shield Trigger
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-8">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Fipperd, Shigen /*</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-71">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Andondoron</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 6000 or less.
+■ Gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-34">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paralira Sailing</name>
+      <text>
+■ Gacharange summon. Gacharange Summon
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-74">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rockyrock</name>
+      <text>
+■ When this creature leaves the battle zone, gacharange summon. That gacharange creature is put into the battle zone tapped. Gacharange Summon
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-05-32">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hoppyhop</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-79">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dejilmukade, Mushura</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ Your opponent's creatures are put into the battle zone tapped.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-24">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>HAJIKERO Bakuchi</name>
+      <text>
+■ When you put this creature or whenever it attacks, gacharange summon. That gacharange creature gets "speed attacker." At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-25">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spikyspike</name>
+      <text>
+■ Whenever this creature attacks, one of your other creatures gets +3000 power until the End Step
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-54">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Anemo Third</name>
+      <text>
+■ This creature can't be blocked by creatures that have less power than it. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-57">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stilpa, Play Music</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+■ When you put this creature or another creature into the battle zone, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMEX-05-42">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shanhe, Play Music</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ Whenever this creature taps, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-05-43">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poongi, Play Music</name>
+      <text>
+■ Your opponent's spells cost 1 more to cast.
+■ Whenever your opponent casts a spell during your turn, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMEX-05-44">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Okario, Play Music</name>
+      <text>
+■ Blocker
+■ This creature can't attack players. 
+■ When this creature is destroyed, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMEX-05-65">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>PAIPAI Pinnapo</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy one of your creatures. If you do, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-81">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>TEKUTEKU Bonbahei</name>
+      <text>
+■ When this creature is destroyed, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-05-82">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Man Obu Suteru</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone and put it into its owner's mana zone.
+■ Gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-38">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mr Chabakadono</name>
+      <text>
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-05-85">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gizanokko, Yuuki</name>
+      <text>
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-78">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyan, Yuugu</name>
+      <text>
+■ When you attach this to a creature, you may put the top 3 cards of your deck into your graveyard.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-77">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spina Pedro, Yuuei</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ You may use this aura from your graveyard. 
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-76">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gya Zaru, Kyokugenmu</name>
+      <text>
+■ Whenever the attached creature attacks, draw a card. Then you may use a spell or aura that costs 6 or less from your hand For No Cost
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-S5">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ganime De, Kyokugenchi</name>
+      <text>
+■ When you attach this to a creature, draw a card for each aura attached to that creature. 
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-23">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ranga, Yuugu</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, choose one of your opponent's creatures. For each aura attached to this creature, that creature gets -3000 power until the End Step
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-31">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>GARIGARI Nappam/Death Punchline</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, all your creatures gets +6000 power until the End Step
+■ When your other non-gacharange creatures are destroyed, gacharange summon. Gacharange Summon
+=========================
+■ Each of your creatures gets "slayer" until the End Step
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Fire/Darkness</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMEX-05-33">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rapaelo, Projected Will</name>
+      <text>
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMEX-05-41">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hei-Nishiki, Bakushu</name>
+      <text>
+■ When this creature leaves the battle zone, each player discard a card.
+Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-50">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mons Pierre, Yuuei</name>
+      <text>
+■ Shield Trigger
+■ The attached creature gets "blocker" and "slayer". 
+■ ''(You may tap a creature that has "blocker" to change the attack target of one of your opponent's creatures to that creature.)''
+■ ''(Whenever a creature that has "slayer" battles, destroy the opponent's creature after the battle.)''
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-51">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poise, Yuugu</name>
+      <text>
+■ The attached creature gets "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+■ When you attach this to a creature, destroy one of your creatures. 
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-53">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hei-Sanshiki, Muga</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-05-75">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>♪ Nothing Beats the Galactic Judgment</name>
+      <text>
+■ Gacharange summon. Gacharange Summon
+■ You may cast a spell that costs 3 or less from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-68">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>♪ Humble to the Will of Justice</name>
+      <text>
+■ Shield Trigger
+■ Gacharange summon. Gacharange Summon
+■ Choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-67">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>♪ Resound Melody by Playing</name>
+      <text>
+■ Gacharange summon twice. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-66">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Donato, Boundary Will</name>
+      <text>
+■ More than 2 of this card in your Super Gacharange
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMEX-05-63">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Langess, Protection Will</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMEX-05-64">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metal TokQ</name>
+      <text>
+■ This creature attacks each turn if able.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-1">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poktamatama</name>
+      <text>
+■ When you put this creature, you may shuffle all cards in your opponent's graveyard and put them on the bottom of their owner's deck.
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-2">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tei-Yonshiki, Shinigami</name>
+      <text>
+■ When this creature leaves the battle zone, put the top 2 cards of your deck into your graveyard.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-05-9">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shaggy Second</name>
+      <text>
+■ When this creature leaves the battle zone, you may return a card from your mana zone to your hand.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-17">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elgre, Controlling Will</name>
+      <text>
+■ When this creature leaves the battle zone, choose one of your opponent's creatures and tap it.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-3">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CS-20, Adapter</name>
+      <text>
+■ Your auras may cost 1 less to use. They can't cost 0 or less. Whenever you use aura in this way, attach it to this creature. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-5">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balife, Kapabetta</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, put the top card of your deck into your mana zone.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-20">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doressha, Yuuki</name>
+      <text>
+■ Shield Trigger
+■ When you attach this to a creature, your opponent discards a card at random from their hand.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-05-11">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>TT-20, Respon</name>
+      <text>
+■ Whenever your opponent chooses this creature with a spell effect or card ability, draw a card.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-05-46">DMEX-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

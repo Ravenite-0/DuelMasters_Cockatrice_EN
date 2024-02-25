@@ -1,0 +1,1641 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-25</name>
+      <longname>DMX-25</longname>
+      <settype>DMX-25</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Ghost Touch</name>
+      <text>
+■ Shield Trigger
+■ Your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-49">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Natural Snare</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone and put it into his mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-34">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Faerie Hole</name>
+      <text>
+■ Put the top card of your deck into your mana zone. 
+■ Choose one of the following. 
+:► Put any number of psychic creatures that have total cost 5 or less from your hyperspatial zone into the battle zone.
+:► Put a nature psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-20">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Shooting Hole</name>
+      <text>
+■ Destroy one of your opponent's creatures that has "blocker".
+■ Put a Fire psychic creature that costs 9 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-43">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Gaial Hole</name>
+      <text>
+■ Put up to 2 Fire psychic creatures that have total cost 8 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-15">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Kaiser</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever your shields break, look at that shield. You may put it into your graveyard instead of your hand. If you do, you may put a Hunter psychic creature from your hyperspatial zone into the battle zone that costs the same as the card that you put into your graveyard this way.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-25-V7a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragonic Pippi</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hunting
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-25-40a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragonic Pippi</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hunting
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-25-40b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Epsilon, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your water or fire creatures.
+■ Double Breaker
+■ When you put this creature into the battle zone, put a water, darkness, or fire psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Alien</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-25-10">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boost, Crimson Lord</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has less power than it.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Monster/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-25-39a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boost, Crimson Lord</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has less power than it.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Monster/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-25-39b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial King Dragon, Raging Dragon Lord</name>
+      <text>
+■ Whenever this creature attacks, destroy all your opponent's creatures that have less power than it. 
+■ World Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>King Command Dragon/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMX-25-V7b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial King Dragon, Raging Dragon Lord</name>
+      <text>
+■ Whenever this creature attacks, destroy all your opponent's creatures that have less power than it. 
+■ World Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>King Command Dragon/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMX-25-39b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Mira, the Reviving Shaman</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy any number of your other creatures. For each creature destroyed this way, you may put a psychic creature that costs 6 or less from your hyperspatial zone.  Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Alien</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMX-25-S3">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Gallows Hole</name>
+      <text>
+■ Choose a non-psychic creature in the battle zone and return it to its owner's hand.
+■ Put a water or darkness psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-17">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cebu Algol, Electro-Vanguard</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, put a light, water, or darkness psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater/Cyber Lord/Alien</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-25-16">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DNA Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ If you have 2 shields or less, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-30">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Thunder</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, choose a player. That player puts cards from the top of their deck into their graveyard until 2 creatures have been put into their graveyard in this way.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-25-V6a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Tiger, Thunder Beast</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, your opponent discards a card at random from their hand. Then choose a creature that costs less than the discarded card in your graveyard and put it into the battle zone.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMX-25-V6b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Tiger, Thunder Beast</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, your opponent discards a card at random from their hand. Then choose a creature that costs less than the discarded card in your graveyard and put it into the battle zone.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMX-25-38b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Tiger</name>
+      <text>
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ Psychic Link: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-25-38a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Tiger</name>
+      <text>
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ Psychic Link: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-25-38b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial White Blue Hole</name>
+      <text>
+■ Multi
+■ Put a psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ If you put a light psychic creature into the battle zone in this way, you may add a card in your hand to your shields face down. 
+■ If you put a water psychic creature into the battle zone in this way, this turn, your creatures can't be blocked.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-47">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Green White Hole</name>
+      <text>
+■ Put a psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ If you put a light psychic creature into the battle zone in this way, you may add a card from your hand to your shields face down.
+■ If you put a nature psychic creature into the battle zone in this way, you may return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-18">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Insight Indigo Kaiser</name>
+      <text>
+■ Double Breaker
+■ Whenever your opponent summons a creature or casts a spell, this turn, your opponent's creatures can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-25-9">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Bronze-Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a non-nature card from your deck and put it into your mana zone. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Alien</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-25-44">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silver Scoop</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your creatures in the battle zone and put it into your mana zone. Then your opponent chooses one of their creatures in the battle zone and puts it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-25-19">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Game On! Kirifuda Family!</name>
+      <text>
+■ Whenever this creature battles, you may say "Now show me the curry bread!". If you do, this creature gets +2000 power until the End Step
+■ Awaken—When this creature wins a battle, Katta Kirifuda, Curry Bread Master
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Curry Bread/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMX-25-26a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katta Kirifuda, Curry Bread Master</name>
+      <text>
+■ Each creature in the battle zone that costs 6 or less gets the Curry Bread race.
+■ This creature gets +1000 power for each other Curry Bread creature in the battle zone.
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Curry Bread/Red Command Dragon/Hunter</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMX-25-26b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quattro Fang, Soul Gang Leader</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-25-32a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quattro Fang, Soul Gang Leader</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-25-32b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chopping Ruzou, Rude Mincing Gang Leader</name>
+      <text>
+■ When this creature link awakens, you may put any number of Hunter creatures from your mana zone or hyperspatial zone into the battle zone.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-25-32b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Intense Boiling! Onsen Gallows</name>
+      <text>
+■ Double Breaker
+■ Whenever you summon a non-evolution water or fire creature during your turn, you may put that creature on the top of your deck Face Up
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Cyber Command/Flame Command/Alien</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-25-V10a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Kaiser, the Victorious</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, this creature can attack untapped creatures until the End Step
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-25-V12a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Kaiser, the Victorious</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, this creature can attack untapped creatures until the End Step
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-25- V12b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryusei Kaiser, the Victorious</name>
+      <text>
+■ Double Breaker
+■ Your opponent's cards are put into their mana zone tapped
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-25-V11a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryusei Kaiser, the Victorious</name>
+      <text>
+■ Double Breaker
+■ Your opponent's cards are put into their mana zone tapped
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-25- V11b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin Prin, the Victorious</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. Until the start of your next turn, that creature can't attack or block.
+■ Victory Psychic Link—If you have Ryusei Kaiser, the Victorious and Gaial Kaiser, the Victorious in the battle zone, link them to this creature and Gaial Ore Dragon, the Vainglory
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-25-21a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin Prin, the Victorious</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. Until the start of your next turn, that creature can't attack or block.
+■ Victory Psychic Link—If you have Ryusei Kaiser, the Victorious and Gaial Kaiser, the Victorious in the battle zone, link them to this creature and Gaial Ore Dragon, the Vainglory
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-25-21b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Intense World! Shachihoko Kaiser</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Rainbow Command Dragon/Alien</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMX-25-22a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Intense World! Shachihoko Kaiser</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Rainbow Command Dragon/Alien</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMX-25-22b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Intense Sumo! Thrust Wrestler</name>
+      <text>
+■ Each of your other creatures gets +1000 power for each of its civilizations. 
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Command/Alien</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-25-23a">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Intense Sumo! Thrust Wrestler</name>
+      <text>
+■ Each of your other creatures gets +1000 power for each of its civilizations. 
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Command/Alien</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-25-23b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katta Kirifuda, Curry Bread Boy</name>
+      <text>
+■ Whenever this creature attacks, you may ask your opponent "Do you love curry bread?". If your opponent says "Love", you may draw 2 cards. Otherwise, this creature gets +10000 power and breaks 2 additional shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Curry Bread/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMX-25-41">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codename Sherlock</name>
+      <text>
+■ Multi
+■ Quattro Breaker
+■ When you put this creature into the battle zone, destroy all psychic creatures.
+■ Nobody can put psychic creatures into the battle zone.
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown</type>
+        <manacost>10</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DMX-25-S7">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DMX-25-V11b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DMX-25- V12b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DMX-25-21b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gallows Hellish Dragon, Brink of Despair</name>
+      <text>
+■ Triple Breaker
+■ Whenever this creature attacks, your opponent puts all but the bottom 2 cards of their deck into their graveyard.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Alien</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-25-V10b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gallows Hellish Dragon, Brink of Despair</name>
+      <text>
+■ Triple Breaker
+■ Whenever this creature attacks, your opponent puts all but the bottom 2 cards of their deck into their graveyard.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Alien</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-25-22b">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Counterattacking Silent Spark</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ Choose one of the following.
+:► Tap all your opponent's creatures in the battle zone.
+:► Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-4">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Madonna, Channeler of Suns</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When this creature would leave the battle zone, if this creature has more than 0 power, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol/Alien</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMX-25-29">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel, Zenith of "Ore"</name>
+      <text>
+■ Blocker
+■ Triple Breaker
+■ When you summon this creature into the battle zone, add the top card of your deck to your shields face down. Then your opponent chooses one of your shields. You may add that shield to your hand.
+■ Each of your cards put into your hand from your shields gets "shield trigger".
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMX-25-V4">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rhapsody, Guard of Hope</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Hunter/Alien</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DMX-25-48">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onimaru "Head", Victory Rush</name>
+      <text>
+■ Speed Attacker
+■ Power Attacker
+■ Triple Breaker
+■ Gachinko Judge 2
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Red Command Dragon/Hunter/Alien</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMX-25-V9">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Princess Prin, the Curious</name>
+      <text>
+■ Each of your creatures in the battle zone gets the Alien and Hunter races. 
+■ Hunting
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMX-25-33">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel, Love Sniper</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature or a creature that costs 7 or more into the battle zone, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-25-42">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Number Nine</name>
+      <text>
+■ Double Breaker
+■ Your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMX-25-25">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Odol Needle</name>
+      <text>
+■ Shield Trigger
+■ This creature is put into the battle zone tapped. 
+■ Your opponent's attacking creatures attack this creature if able.
+■ When this creature battles, destroy this creature and your opponent's creature after the battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-25-2">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fate</name>
+      <text>
+■ Attack Chance
+■ Draw up to 5 cards. Then your opponent chooses 3 cards in your hand at random and reveals them. Put any number of Dragons from among them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-13">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beethoven, Zenith of "Horror"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature, return a total of 3 Dragons and/or colorless spells from your graveyard or mana zone into your hand. You may put the top 3 cards of your deck into your mana zone. Then you may tap this creature.
+■ If your opponent's creatures attack, they attack this creature if able.
+■ Each of your Dragons and Commands gets "Eternal Omega".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMX-25-V5">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prelude of Horror</name>
+      <text>
+■ This turn, the next colorless creature you summon may cost up to 5 less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-37">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Mozart</name>
+      <text>
+■ Multi
+■ Triple Breaker
+■ When you put this creature into the battle zone, destroy all non-Dragons. 
+■ Your opponent's Dragons can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>11</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-25-S9">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachinko Roulette</name>
+      <text>
+■ Put the top card of your deck into your mana zone.
+■ You and your opponent play Gachinko Judge. If you win, after you cast this spell, return it to your hand instead of your graveyard.  
+■ Gachinko Judge
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-46">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Niyare</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. You may reveal any number of colorless cards from among them and put them into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tristone</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-25-45">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Destiny Ryusei of Fate</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a colorless card from your deck, show that colorless card to your opponent, and put it into your hand. Then shuffle your deck.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-25-24">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Waking Up Miss Mei</name>
+      <text>
+■ Whenever this creature attacks your opponent and isn't blocked, if you have 7 or more Dreammates in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate/Hunter</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-25-11">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kaiser "Baki", Zenith of "Certain Victory"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, count the number of your opponent's shields and play that number of Gachinko Judge games. For each time you win Gachinko Judge in this way, put a Hunter from your graveyard, mana zone or hand into the battle zone. Gachinko Judge
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMX-25-V3">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shangri-La, Climax of "Cruelty"</name>
+      <text>
+■ Super Infinite evolution Omega—Put this creature into the battle zone on any number of Guardian creatures from your graveyard, mana zone or battle zone. 
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, choose one of your opponent's creatures and shuffle it into its owner's deck. 
+■ While this creature is tapped, your opponent's creatures can't attack.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Guardian/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-25-V1">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kiramaru, Great Miracle</name>
+      <text>
+■ Triple Breaker
+■ Eternal Omega
+■ When you summon this creature into the battle zone, you and your opponent play Gachinko Judge 3 times. Each time you win and reveal a creature, put that creature into the battle zone instead of putting it on the bottom of your deck. Each time you win and reveal a spell, cast it For No Cost
+■ Each of your creatures in the battle zone gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien/Zenith</type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-25-V2">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onishura, Golden Twins</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or when this creature leaves the battle zone, you and your opponent play Gachinko Judge. If you win, choose one of the following.
+:► Put a file:Victory Rare.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Human</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-25-S5">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin, Reversal Princess</name>
+      <text>
+■ Shield Trigger
+■ When you reveal this card during Gachinko Judge or when you put this creature into the battle zone, you may tap or untap a creature in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-25-36">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossfire, Millionaire</name>
+      <text>
+■ Gravity Zero
+■ Speed Attacker
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMX-25-S6">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nine, Zero Zero</name>
+      <text>
+■ Gravity Zero
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-25-50">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>5000GT, Riot</name>
+      <text>
+■ This creature costs 1 less to summon for each creature in your graveyard. It can't cost less than 1.
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all psychic creatures. Then destroy all creatures that have power 5000 or less.
+■ Players can't summon creatures that have power 5000 or less or put psychic creatures into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>12</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMX-25-V8">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pulsar, Trans Suction</name>
+      <text>
+■ When you put this creature into the battle zone, discard your hand, then draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-25-27">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Justice, Elemental Left God</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, look at the top 5 cards of your deck. You may choose a spell from among them that costs 6 or less and cast it For No Cost
+■ Left God Link
+■ While this creature is linked, this creature breaks an additional shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God Nova/Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DMX-25-8">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diehard Ryusei of Invincibility</name>
+      <text>
+■ Double Breaker
+■ Whenever one of your Dragons attack, choose one of your opponent's shields and put it into its owner's graveyard.
+■ When you would Prevents Defeat
+■ When this creature is destroyed, this turn, you can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-25-S4">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katsudon Break, Secret Fist</name>
+      <text>
+■ Shield Trigger
+■ You may put an Outrage that costs 7 or less from your hand into the battle zone. If you do, choose one of your opponent's creatures in the battle zone and the 2 creatures battle. Then, destroy that Outrage.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-31">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rage Crystal of Outrage</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone that has power 6000 or more and return it to its owner's hand. Then, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-6">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oracle Jewel of Control</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures.
+■ Tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-5">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hormone, Maxim Bronze</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-25-51">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shoegazer, Bright Deity</name>
+      <text>
+■ Double Breaker
+■ When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oraclion</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-25-S1">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katsuking MAX, Outlaw Caliber</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 8000 or less.
+■ During your turn, you may summon a creature from your mana zone. 
+■ Double Breaker
+■ Doron Go
+■ You can't put other exile creatures that have "Outlaw" in their Card Name
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-25-12">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Don Katsudon, Outlaw</name>
+      <text>
+■ Multi
+■ Whenever you put this creature into the battle zone or attacks, you may put the top card of your deck into your mana zone. 
+■ Power Attacker
+■ Doron Go
+■ You can't put other exile creatures that have "Outlaw" in their Card Name
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-25-28">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bhutan POP, Shenton</name>
+      <text>
+■ Whenever this creature attacks, you may look at the top 3 cards of your deck. If you do, put one of them into your hand and the rest into your graveyard.
+■ Doron Go
+■ You can't put other exile creatures that have "Shen" in their Card Name
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX/Oracle</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-25-35">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alice, Chaos Witch</name>
+      <text>
+■ When you put this creature into the battle zone, you may draw 3 cards. If you do, put 2 cards from your hand on top of your deck, bottom of your deck or both in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-25-14">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryusei, the End of Conclusion</name>
+      <text>
+■ Multi
+■ Gravity Zero
+■ Evolution—Put on one of your non-psychic Dragon creatures.
+■ Whenever this creature battles, return the other creature to its owner's hand and untap this creature instead of battling.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMX-25-S8">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boys to Men</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures and tap it.
+■ Draw a card.
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-25-7">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shura Beethoven, Zenith of "Hadou"</name>
+      <text>
+■ Triple Breaker
+■ Whenever you summon a dragon into the battle zone, you may put the top 2 cards of your deck into your mana zone.
+■ Each of your dragons get "speed attacker" and "slayer".
+■ You may summon dragons from your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMX-25-S10">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Large Gathering! Aqua Brothers</name>
+      <text>
+■ If you have 7 or more cards in your hand during your turn, you may summon a Liquid People For No Cost
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-25-1">DMX-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

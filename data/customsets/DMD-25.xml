@@ -1,0 +1,305 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-25</name>
+      <longname>DMD-25</longname>
+      <settype>DMD-25</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Dolmarks, the Shadow Warrior</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your creatures and put a card from your mana zone into your graveyard. Then your opponent chooses and destroys one of his creatures and chooses a card in his mana zone and puts it into his graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost/Human</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-25-11">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dandy Nasuo</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. Put a card from your deck into your mana zone, and then put a card from your mana zone into your graveyard. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-25-17">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Inferno Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a non-evolution creature that costs 7 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-25-13">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beginning Romanov, Lord of the Demonic Eye</name>
+      <text>
+■ Graveyard Galaxy Vortex evolution—Choose 3 darkness creatures in your graveyard and put this creature into the battle zone on top of those creatures.
+■ Meteorburn—Whenever this creature attacks, you may choose any number of cards under this creature and put them into your graveyard. For each card put into your graveyard in this way, choose a card in your opponent's hand at random. Then your opponent reveals that card and puts that card on the bottom of their deck.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMD-25-2">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romanov the 1st, Lord of the Demonic Eye</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, search your deck. You may take a darkness card from your deck and put it into your graveyard. Then shuffle your deck.
+■ Whenever this creature attacks, you may cast a darkness spell that costs 6 or less from your graveyard For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMD-25-3">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sir Virginia, Mystic Light Insect</name>
+      <text>
+■ When you put this creature, return a creature from your graveyard to your hand. If that creature is an evolution creature that has the same race as this creature, you may put that creature into the battle zone For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Parasite Worm/Knight</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-25-15">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Colorful Dance</name>
+      <text>
+■ Put the top 5 cards of your deck into your mana zone. Then put 5 cards from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-25-14">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jasmine, Mist Faerie</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-25-16">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death Gate, Gate of Hell</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures. You may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-25-10">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Odol Needle</name>
+      <text>
+■ Shield Trigger
+■ This creature is put into the battle zone tapped. 
+■ Your opponent's attacking creatures attack this creature if able.
+■ When this creature battles, destroy this creature and your opponent's creature after the battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMD-25-6">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Insect Magistrate</name>
+      <text>
+■ Graveyard evolution—Choose a darkness creature in your graveyard and put this creature into the battle zone on top of that creature.
+■ When you put this creature into the battle zone, destroy one of your opponent's non-evolution creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Parasite Worm</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMD-25-5">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossfire, Millionaire</name>
+      <text>
+■ Gravity Zero
+■ Speed Attacker
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMD-25-4">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Honenbe, Skeletal Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, you may put the top 3 cards of your deck into your graveyard. If you do, you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-25-12">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Johnny Walker, Exploding Mask</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy this creature. If you do, choose one of the following.
+:► Put the top card of your deck into your mana zone.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-25-9">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romanov the 2nd, Demonic Eye Hierophant</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put the top 5 cards of your deck into your graveyard. From among them, you may cast a spell that costs 6 or less For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMD-25-1">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eternal Sign</name>
+      <text>
+■ Multi
+■ Put a non-evolution darkness or fire creature that costs 7 or less from your graveyard into the battle zone. That creature gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-25-7">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Life</name>
+      <text>
+■ Look at the top 2 cards of your deck. Put one of them into your mana zone, and the other into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-25-8">DMD-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

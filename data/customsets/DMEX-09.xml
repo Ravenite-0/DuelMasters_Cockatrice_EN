@@ -1,0 +1,607 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMEX-09</name>
+      <longname>DMEX-09</longname>
+      <settype>DMEX-09</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Poisonous Mushroom</name>
+      <text>
+■ When you put this creature into the battle zone, you may put 1 card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Balloon Mushroom</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-22">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-38">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kooc Pollon</name>
+      <text>
+■ This creature can't be attacked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-35">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hearty Cap'n Polligon</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-09-37">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gantora Maxivus</name>
+      <text>
+■ Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Vehicle Bee</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-09-40">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tensai Janit of the Hidden Blade</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, you may choose another creature in the battle zone that costs 3 or less and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Shinobi</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-30">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deepsea Searcher</name>
+      <text>
+■  When you put this creature into the battle zone, search your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Monster</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-09-2">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Taiga, the Warrior Savage</name>
+      <text>
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-09-42">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jasmine, Mist Faerie</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-36">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-9">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Titan Giant</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, you may put the top 2 cards of your deck into your mana zone. Then return up to 2 creatures from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-09-6">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prometheus, Splash Axe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-25">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Shower</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 2 cards of your deck. Put one of them into your hand and the other into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-13">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunderbolt, Aqua Militant</name>
+      <text>
+■ When this creature would be discarded by one of your opponent's spell effect or creature ability, you may put it into the battle zone and draw 2 cards instead.
+■ If you have 5 or more cards in your hand, this creature gets +4000 power and "double breaker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People Sen</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMEX-09-29">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Johnny Walker, Exploding Mask</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy this creature. If you do, choose one of the following.
+:► Put the top card of your deck into your mana zone.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-09-28">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mega Blade Dragon</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-09-10">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Completely Unidentified</name>
+      <text>
+■ Triple Breaker
+■ During your opponent's turn, whenever your opponent puts a card in their mana zone or whenever they use a card, skip the rest of the turn
+■ Whenever an opponent's creature attacks, after the attack, skip the rest of the turn
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>???</type>
+        <manacost>11</manacost>
+        <colors>Water</colors>
+        <pt>16000</pt>
+      </prop>
+      <set num="DMEX-09-S1">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scale of Bravery and Love</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Discard a card from your hand, then draw 2 cards.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-17">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blue Dragon Earth</name>
+      <text>
+■ Shield Trigger
+■ Choose a non-evolution creature in your mana zone that costs less than the number of cards in your mana zone and put it into the battle zone. If it's a fire or nature creature, you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-14">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Toprasas, Rainbow Dash</name>
+      <text>
+■ Each turn, you may have the first fire or nature creature you summon cost 1 less. It can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-09-41">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ruins of the Lion King</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-23">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stepple, Cherry Blossom Wind Faerie</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+■ When this creature is destroyed, put a card from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-21">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Senno, Brainwash</name>
+      <text>
+■ During your opponent's turn, they can't put creatures into the battle zone in any way except by summoning.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-09-7">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onikamas, Strange Flow</name>
+      <text>
+■ Your opponent Unchoosable
+■ Whenever your opponent puts a creature in a way except by summoning during their turn, you may return that creature to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-09-15">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Analith, Cyber Armor</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy it. If you do, choose one of the following.
+:► Put the top card of your deck into your mana zone.
+:► Draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Giant Insect</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-09-26">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master of Duel</name>
+      <text>
+■ Sympathy: Human, Outrage, Jokers ''(This creature costs 1 less to summon for each of your Human, Outrage and/or Jokers creatures in the battle zone. It can't cost 0 or less.)''
+■ Speed Attacker
+■ Triple Breaker
+■ Each turn, when this creature attacks for the first or second time, untap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Outrage/Jokers</type>
+        <manacost>15</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMEX-09-3">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nikujiru Busher</name>
+      <text>
+■ Instead of paying the cost, you may put one of your creatures, a shield, and a card from your hand on the bottom of your deck to summon this creature.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-09-4">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brain's Coral Saint Tree</name>
+      <text>
+■ Draw 3 cards. Then you may choose a water card in your hand that costs the same as or less than the number of cards in your hand. If you do, use that card from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-8">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minomi, Greedy Young Magician</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. You may reveal a spell from among them and put it into your hand. Then put the rest of the cards on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-31">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tyke Tysons</name>
+      <text>
+■ Jokers Change
+■ When this creature leaves, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-09-20">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gagagan Jokers</name>
+      <text>
+■ Look at the top 3 cards of your deck. You may choose a creature from among them, show that creature to your opponent and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-24">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryusei Five Sword Kaiser</name>
+      <text>
+■ Speed Attacker
+■ Mach Fighter
+■ Triple Breaker
+■ Whenever this creature wins a battle, until the start of your next turn, you can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMEX-09-S3">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>【Kamikai】Mana has become haywire with Buzzrender?!【Startled】</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Wave</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-09-39">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rolemodeltiger</name>
+      <text>
+■ Buzzrender
+■ File:Buzzrender2.png
+■ Mach Fighter
+■ Triple Breaker
+■ Whenever an opponent's creature attacks, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>9</manacost>
+        <colors>Water/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMEX-09-S2">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tsunekin ☆ Games</name>
+      <text>
+■ When you put this creature, you may choose a creature and return it to its owner's hand.
+■ Whenever your opponent would put a creature that costs more than the number of cards in their mana zone, put that creature into its owner's mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-09-12">DMEX-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

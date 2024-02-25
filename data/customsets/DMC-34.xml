@@ -1,0 +1,683 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-34</name>
+      <longname>DMC-34</longname>
+      <settype>DMC-34</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Überdragon Bajula</name>
+      <text>
+■ Evolution—Put on one of your creatures that has Dragon in its race. 
+■ Whenever this creature attacks, choose up to 2 cards in your opponent's mana zone. Your opponent puts those cards into his graveyard. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-34-S3">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scheming Hands</name>
+      <text>
+■ Look at your opponent's hand and choose a card from it. Your opponent discards that card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-26">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Comet Missile</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has "blocker" and power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-28">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Petrova, Channeler of Suns</name>
+      <text>
+■ When you put this creature into the battle zone, choose a race other than Mecha Del Sol. Each creature of that race gets +4000 power.
+■ Whenever your opponent would choose a creature in the battle zone, he Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMC-34-S1">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trixo, Wicked Doll</name>
+      <text>
+■ Whenever this creature is attacking your opponent and isn't blocked, your opponent chooses one of his creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-34-45">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zombie Carnival</name>
+      <text>
+■ Shield Trigger
+■ Choose a race. Return up to 3 creatures of that race from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-47">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Relentless Blitz</name>
+      <text>
+■ Choose a race. This turn, each creature of that race can attack untapped creatures and can't be blocked while attacking a creature.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-51">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cavern Raider</name>
+      <text>
+■ Whenever this creature is attacking your opponent and isn't blocked, search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-34-53">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gonta, the Warrior Savage</name>
+      <text>
+■ Multi
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-34-35">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galek, the Shadow Warrior</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker." Then your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost/Human</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-34-34">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pala Olesis, Morning Guardian</name>
+      <text>
+■ Blocker
+■ During your opponent's turn, each of your other creatures gets +2000 power.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMC-34-6">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tulk, the Oracle</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DMC-34-39">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crystal Spinslicer</name>
+      <text>
+■ Blocker
+■ Evolution—Put on one of your Liquid People.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-34-9">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Upheaval</name>
+      <text>
+■ Shield Trigger
+■ Each player puts all the cards from his mana zone into his hand and, at the same time, puts all the cards from his hand into his mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-13">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Explosive Trooper Zalmez</name>
+      <text>
+■ When you put this creature into the battle zone, if your opponent has 2 or fewer shields, you may destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armorloid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-34-27">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mykee's Pliers</name>
+      <text>
+■ Each of your darkness creatures and nature creatures in the battle zone has "speed attacker." ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-34-48">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tajimal, Vizier of Aqua</name>
+      <text>
+■ Blocker
+■ Multi
+■ This creature can't attack players.
+■ While battling a fire creature, this creature gets +4000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Liquid People</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-34-31">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hide and Seek</name>
+      <text>
+■ Multi
+■ Choose one of your opponent's non-evolution creatures in the battle zone and return it to his hand. Then he discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-33">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hearty Cap'n Polligon</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-34-54">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emergency Typhoon</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-43">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lucky Ball</name>
+      <text>
+■ When you put this creature into the battle zone, if your opponent has 3 or fewer shields, draw up to 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-34-24">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ten-Ton Crunch</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-50">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cosmic Darts</name>
+      <text>
+■ Your opponent chooses one of your shields. Look at it. If it's a spell, you may cast it immediately For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-8">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pincer Scarab</name>
+      <text>
+■ This creature gets +2000 power for each card in your opponent's hand.
+■ While this creature has power 6000 or more, it has "double breaker'' (This creature breaks 2 shields)''."
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-34-16">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valkyer, Starstorm Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-34-22">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wily Carpenter</name>
+      <text>
+■ When you put this creature into the battle zone, draw up to 2 cards. Then discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Merfolk</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-34-41">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiritual Star Dragon</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, search your deck. You may take a creature that evolution creature
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-34-14">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fortification Against Barrage and Ambush</name>
+      <text>
+■ Multi
+■ Reveal cards from the top of your deck until you reveal a creature. Destroy all creatures that have less power than that creature. Put all revealed cards into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-20">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zereem Crawler</name>
+      <text>
+■ This creature can attack untapped fire creatures.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-34-23">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Funeral Song of the Beasts</name>
+      <text>
+■ Each of your creatures in the battle zone gets +4000 power and "Whenever this creature is attacking your opponent and becomes blocked, it breaks one of your opponent's shields" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-34-30">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Melcap, the Mutant Explorer</name>
+      <text>
+■ Multi
+■ Whenever this creature attacks your opponent and isn't blocked, tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator/Hedrian</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-34-32">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pulpy Goobie</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, look at up to 5 cards from the top of your deck. Then put them back in any order.
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gel Fish</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-34-40">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Zanjibar</name>
+      <text>
+■ Each of your opponent's tapped creatures in the battle zone gets -2000 power. ''(A creature that has power 0 or less is destroyed.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-34-3">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cloud Mayfly</name>
+      <text>
+■ While all cards in your mana zone are nature cards, this creature gets +4000 power, "Double breaker", and can't be blocked by creatures that have power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-34-29">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helios Tiga Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have power 2000 or less. If you have a tooltip
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-34-15">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Over Skill, Rampaging Machine</name>
+      <text>
+■ At the start of each player's turn, that player draws an extra card.
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-34-10">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zack Pichi, Winged Dragon Admiral</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. Put all Armored Dragons and Fire Birds from among them into your hand, and put the rest on the bottom of your deck in any order. If all the revealed cards were Dragons, this creature gets "speed attacker" until the End Step
+■ When this creature would be discarded during your opponent's turn, you may put it instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-34-4">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mint Shuval, Oracle Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Thrilling Three
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMC-34-37">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galzark, Divine Destruction Dragon Knight</name>
+      <text>
+■ Multi
+■ While you have at least one other Dragon in the battle zone, this creature gets "Power attacker +6000" and "Triple breaker".
+■ Double Breaker
+■ This creature can't be attacked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-34-S5">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Banjo, the Super-energetic</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a Dreammate from your deck, show that Dreammate to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-34-17">DMC-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

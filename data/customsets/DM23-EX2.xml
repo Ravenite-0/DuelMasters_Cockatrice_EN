@@ -1,0 +1,1879 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM23-EX2</name>
+      <longname>DM23-EX2</longname>
+      <settype>DM23-EX2</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Mana Crisis</name>
+      <text>
+■ Shield Trigger
+■ Choose a card in your opponent's mana zone and put it into his graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超32">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sniper Mosquito</name>
+      <text>
+■ Whenever this creature attacks, return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-105">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galamuta, Matchless Fear Lord</name>
+      <text>
+■ Sympathy
+■ Whenever this creature attacks, neither player may use "shield trigger" abilities this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-超G8">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evolution Blueprint</name>
+      <text>
+■ Shield Trigger
+■ Reveal the top 6 cards of your deck. Put all evolution creatures from among them into your hand, and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超22">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Darkness Romanov, the Enlightened</name>
+      <text>
+■ Ultimate evolution: Put on one of your evolution creatures.
+■ Double Breaker
+■ When you put this creature, look at your opponent's hand, choose up to 2 cards and your opponent discards them.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dark Lord/Lunatic Emperor/Knight</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-EX2-49">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan</name>
+      <text>
+■ When you put this creature, you may reveal the top 5 cards of your deck. Put all light and darkness cards from among them into your hand, and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-超16">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Destiny, the Super Enlightened</name>
+      <text>
+■ Ultimate evolution MAX: Put on one of your Ultimate Evolution creatures.
+■ Whenever this creature attacks, search your deck. You may put up to 2 creatures from among them. Then shuffle your deck.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Gaia Command/Luna's Sun Geyser</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM23-EX2-26">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Moon, the Enlightened</name>
+      <text>
+■ Ultimate evolution: Put on one of your evolution creatures.
+■ Triple Breaker
+■ When you put this creature, you may cast a spell from your mana zone For No Cost
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Lunatic Emperor/Angel Command</type>
+        <manacost>10</manacost>
+        <colors>Light</colors>
+        <pt>17500</pt>
+      </prop>
+      <set num="DM23-EX2-6">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Door of Miracle and Mystery</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ Reveal the top 4 cards of your deck. Your opponent chooses a non-evolution creature from among them and you put it into the battle zone. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超38">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oboro Kagerou, Moonlight Mecha</name>
+      <text>
+■ When you put this creature, you may draw a card for each civilization in your mana zone. Then put the same number of cards you drew from your hand on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-超33">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Mira, the Reviving Shaman</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy any number of your other creatures. For each creature destroyed this way, you may put a psychic creature that costs 6 or less from your hyperspatial zone.  Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Alien</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-EX2-12">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Switch Reincarnation</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature and return it to its owner's hand. Then that player may put a creature from their hand that costs less than the chosen creature.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超18">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Come On Pippi</name>
+      <text>
+■ When you put this creature, choose one of the following.
+:► Put up to 2 Fire Bird psychic creatures that cost 3 or less from your hyperspatial zone.
+:► Put a Fire psychic creature that costs 6 or less from your hyperspatial zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-78">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超19">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Kaiser, the Victorious</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, this creature can attack untapped creatures until the End Step
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-超G1a">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DM23-EX2-超G1b">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendelssohn</name>
+      <text>
+■ Reveal the top 2 cards of your deck. Put all Dragons revealed this way into your mana zone tapped and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超23">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codecommand Death Marriage</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands or Angel Commands.
+■ Triple Breaker
+■ When you put this creature, destroy all creatures except Demon Commands and Angel Commands. Then each player returns all spells from their mana zone to their owner's hand.
+■ Your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Demon Command/Unknown</type>
+        <manacost>10</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-EX2-28">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mystery Cube</name>
+      <text>
+■ Shield Trigger
+■ Shuffle your deck, then reveal the top card of your deck. If that cards a creature, you may put it. If it's not a creature, put it into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-54">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnarok, the Clock</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, skip the rest of the turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-EX2-超17">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marshall Crawler</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, you may shieldify any number of cards from your hand. Then this creature breaks the same number of your shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater</type>
+        <manacost>8</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-EX2-超G4">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goromaru Communication</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-106">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sr Spellcyclica, Dragment Symbol</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your graveyard For No Cost
+■ When this creature would be destroyed, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-EX2-8">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon's Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a non-evolution Light dragon creature that costs 7 or less from your hand. That creature gets "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超G12">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel, Lion Zenith Dragon</name>
+      <text>
+■ Triple Breaker
+■ Each Light card put into your hand gets "shield trigger".
+■ While you have no shields, this creature has "blocker".
+■ When this creature would leave, you may have your opponent choose one of your shields instead. Then break that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM23-EX2-1">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rich Four June</name>
+      <text>
+■ Put the top card of your deck into your mana zone. Then if you have 5 or less cards in your mana zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超36">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mega Manalock Dragon</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever it attacks, choose a card from each civilization in your opponent's mana zone and tap it. Those cards don't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM23-EX2-超G6">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dogiragon</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution fire creature, put it into the battle zone, and put this creature on top of it.
+■ Evolution—Put on one of your fire creatures.
+■ Triple Breaker
+■ When you put this creature or whenever it attacks, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM23-EX2-超G2">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forbidden ~The Sealed X~</name>
+      <text>
+■ This impulse Cards that can be put into the Battle Zone at the start of the game
+■ This impulse can't leave the battle zone.
+■ Forbidden Liberate: When this impulse has no seals on it, flip it to its creature side. 
+■ Seal
+  </text>
+      <prop>
+        <maintype>Forbidden Impulse</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超1a">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokindam X, The Legendary Forbidden</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Liberates, your opponent puts a seal on each of their creatures.
+■ Your opponent can't choose this creature with spells that cost 4 or less.
+■ If this card is in a zone other than the battle zone, Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Forbidden Creature</maintype>
+        <type></type>
+        <manacost>99</manacost>
+        <colors>Fire</colors>
+        <pt>99999</pt>
+      </prop>
+      <set num="DM23-EX2-超1b">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultimate Man</name>
+      <text>
+■ Shield Trigger
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage/Hedrian/Shinobi/Dynamo/Hunter/Children/Lost Crusader/Curry Bread/Pianist/World Idol</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM23-EX2-63">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oriotis Judge</name>
+      <text>
+■ Shield Trigger
+■ Each player puts all their creatures that cost the same as or more than the number of cards in their mana zones on the bottom of their decks in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超14">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arcadia Spark</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have an Angel Command, you may choose both:
+:► Choose one of your opponent's creatures. Your opponent shuffles it into their deck. Then your opponent draws a card.
+:► Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-58">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tyrant Black Monarch</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ Triple Breaker
+■ Whenever this creature attacks, put a non-evolution darkness creature from your graveyard. Then you may put a darkness creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Dark Lord</type>
+        <manacost>10</manacost>
+        <colors>Darkness</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM23-EX2-11">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sapphire Wisdom</name>
+      <text>
+■ Evolution—Put on one of your Angel Commands.
+■ Triple Breaker
+■ Whenever your opponent summons a creature or casts a spell, draw 2 cards.
+■ Your opponent can't summon creatures that cost the same as or less than the number of cards in your hand.
+■ Your opponent can't cast spells that cost the same as or less than the number of cards in your hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Starnoid</type>
+        <manacost>9</manacost>
+        <colors>Light/Water</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-EX2-15">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demon's Light</name>
+      <text>
+■ Draw 2 cards.
+■ Choose one of your opponent's creatures. That creature gets -1000 power for each card in your hand until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-84">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakogairu, Water Academy No. 9</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, shuffle your graveyard into your deck.
+■ At the start of your opponent's turn, draw 5 cards, then discard 3 cards from your hand.
+■ When you would lose the game by drawing the last card of your deck, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>9</manacost>
+        <colors>Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-EX2-超2">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bombardment Mutant</name>
+      <text>
+■ When this creature is put into your graveyard from anywhere, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-96">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>One Eye's Judgment</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-68">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mixel, Strange Stone/Jamming Chaff</name>
+      <text>
+■ Whenever your opponent puts a creature that costs more than the number of cards in your opponent's mana zone, your opponent puts it on the bottom of their deck.
+=========================
+■ Until the start of your next turn, your opponent can't cast spells.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light/Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-超G11">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rabiripit, Remembrance Doll</name>
+      <text>
+■ When you put this creature, discard one of your opponent's cards at random. 
+■ During your turn, whenever you summon a creature that costs 8 or more or cast a spell that costs 8 or more, your opponent discards their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-73">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valchuris, Dragon Armored</name>
+      <text>
+■ Whenever any of your creatures attacks, if this creature is in your hand, and that attack is the second attack by a creature this turn, after the attack, unless you put a '''Valchuris, Dragon Armored''' this turn, you may put this creature.
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragon Guild/Beat Jockey</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-EX2-77">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deal, Mechanic/「Today's Lucky Number!」</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, choose a number. Return all your opponent's creatures that cost the same as that number to their owner's hand.
+=========================
+■ Choose a number. Until the start of your next turn, your opponent can't summon creatures that have the same cost or cast spells that have the same cost.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Command</type>
+        <manacost>6</manacost>
+        <colors>Water/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-EX2-超9">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gogogo Brand</name>
+      <text>
+■ Master Gogogo Gangan Galaxy: If this is the only card in your hand, you may summon this creature For No Cost
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, if you have the fire civilization in your mana zone, draw a card. Then you may discard any number of cards from your hand. For each card discarded in this way, choose one of your opponent's creatures that has power 6000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-EX2-超G3">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King the Slotton 7/Seventh Seven</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. If all 3 cards are Jokers, you may put a creature from among them into the battle zone. During that turn, that creature can attack your opponent. Put the rest on the bottom of your deck in any order.
+=========================
+■ Shield Trigger
+■ Your opponent reveals the top 3 cards of their deck, and you choose one of them. Your opponent puts their creatures that cost the same as the chosen card along with the 3 revealed cards on the bottom of their deck in any order.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7777</pt>
+      </prop>
+      <set num="DM23-EX2-4">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Changethe, Dragon Armored Ship/Fourth of the Six Bizarre ~Earth Breaking Waterfall~</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw 2 cards, then discard a card from your hand.
+■ Each turn, when a spell that costs 5 or less is discarded from your hand for the first time, you may cast that spell For No Cost
+=========================
+■ Until the start of your next turn, your opponent can only attack or block with a creature once each turn.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Mutopia</type>
+        <manacost>6</manacost>
+        <colors>Water/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-EX2-7">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paua, Shell Beast</name>
+      <text>
+■ Blocker
+■ When you put this creature or when this creature is discarded by the effect of one of your opponent's spells or ability of your opponent's creature, you may draw 4 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-超15">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kotatsumuri</name>
+      <text>
+■ If you have 4 or more fire creatures in your mana zone, this creature gets "power attacker +4000" and "double breaker".
+■ Your opponent's creatures can't attack players during the turn they are put.
+■ When this creature attacks, it doesn't untap at the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Specials</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM23-EX2-25">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Xenoshark, Crystal Record/Crystal Memory</name>
+      <text>
+■ Smash Burst
+=========================
+■ Shield Trigger
+■ Search your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mutopia</type>
+        <manacost>3</manacost>
+        <colors>Water/Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-超10">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baraghiara, Heavenly Earth Momentum/Ringfinity Violent Ice</name>
+      <text>
+■ When you summon this creature, untap all cards in your mana zone.
+■ Ringfinity: You may cast the spell side of this card in the battle zone (pay the cost). If you do, for each of your '''Baraghiara, Heavenly Earth Momentum''' in the battle zone, put the top card of your deck into your mana zone.
+■ Triple Breaker
+=========================
+■ Look at the top 3 cards of your deck. Put 2 of them into your hand, and put the rest on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Hazard/Gransect</type>
+        <manacost>9</manacost>
+        <colors>Nature/Water</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM23-EX2-3">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gompadu, Daspell</name>
+      <text>
+■ Look at the top 3 cards of your deck. Add one from among them into your hand and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Magic Tool</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超34">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>BAKUOOON Mizzail</name>
+      <text>
+■ When you summon this creature, you may destroy any number of your creatures. For each creature destroyed this way, this creature costs 2 less to summon. It can't cost 0 or less.
+■ Double Breaker
+■ When you put this creature, gacharange summon for each creature you destroyed to summon this creature.
+■ Each of your creatures gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-EX2-超G5">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poongi, Play Music</name>
+      <text>
+■ Your opponent's spells cost 1 more to cast.
+■ Whenever your opponent casts a spell during your turn, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DM23-EX2-超27">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zorego, Misfortune Demon 90/Jackpot! Another One!!</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, choose one of your opponent's creatures and destroy it.
+=========================
+■ The next time one of your creatures is put and its ability would trigger this turn, that ability triggers twice instead of once.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mafi Gang</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM23-EX2-64">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>GIRIGIRI Chiktak</name>
+      <text>
+■ When you put this creature, if your opponent has 4 or less shields, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-79">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-EX2-超24">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stegoro Kaiser, Struggling Battlekind/Purification Sharrup</name>
+      <text>
+■ Mach Fighter
+■ Double Breaker
+■ Whenever this creature attacks, put the top card of your deck into your mana zone. Then you may return a card from your mana zone to your hand.
+=========================
+■ Put the top card of your deck into your mana zone.
+■ You may choose one or more cards from a player's graveyard. That player shuffles those cards into their deck.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jurassic Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-EX2-超21">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kariyadone, Magic Library/Hermit Circle</name>
+      <text>
+■ Sympathy Creature
+■ When you put this creature, you may cast up to 3 spells that cost 3 or less from your graveyard for no cost. After you cast a spell this way, put it on the bottom of your deck instead.
+■ Double Breaker
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mutopia</type>
+        <manacost>14</manacost>
+        <colors>Water/Light</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-EX2-超G9">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hope, Judgment Bond's Rainbow/Keyboard Access</name>
+      <text>
+■ Sympathy Creature
+■ Blocker
+■ When you put this creature, you may tap any number of your untapped creatures. Gacharange summon for each creature tapped this way.
+=========================
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone. Then you may return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>10</manacost>
+        <colors>Light/Nature</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM23-EX2-39">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akakage Redshadow</name>
+      <text>
+■ Mana Drive 5 (Fire): When you put this creature, if you have 5 or more cards in your mana zone and one or more of them is fire civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+■ While battling, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DM23-EX2-13">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Southern A</name>
+      <text>
+■ Mana Drive 4 (Water): When you put this creature, if you have 4 or more cards in your mana zone and one or more of them is water civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-69">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sorting Gate</name>
+      <text>
+■ End Step
+■ ''(Whenever another D2 Field is put, destroy this D2 Field.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-34">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zombieponnosuke</name>
+      <text>
+■ ''(A creature that has power 0 or less is destroyed.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>0</manacost>
+        <colors>Colorless</colors>
+        <pt>-5000</pt>
+      </prop>
+      <set num="DM23-EX2-90">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor, Infinite Dragon</name>
+      <text>
+■ Mugen Climb
+■ Infinity Breaker
+■ Blocker
+■ Ignore the ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Infinite Master Dragon/Team Zero</type>
+        <manacost></manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-2">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hayatata Churis</name>
+      <text>
+■ When you put this creature, choose one of your opponent's Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-超35">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DG-Parthenon ~Where Dragon's are Created~</name>
+      <text>
+■ When you put this DG Field, draw a card.
+■ Each player can only put up to 3 creatures each turn.
+■ Each player can only cast up to 3 spells each turn.
+  </text>
+      <prop>
+        <maintype>DG Field</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-41">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ajisai, Love Faerie</name>
+      <text>
+■ Whenever you put a Snow Faerie, you may draw a card.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-EX2-超30">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shikumi of the Shadow World</name>
+      <text>
+■ Shield Trigger
+■ Put the top 3 cards of your deck into your graveyard.
+■ You may put a creature that costs 3 or less from your graveyard or hand. That creature gets "blocker" until the start of your next turn.  ''(You may tap a creature that has "blocker" to change the attack target of your opponent's creature to that creature.)''
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-60">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Re:Life</name>
+      <text>
+■ Guard Strike
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-107">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Volcanic Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 3 cards of your deck. Put one in your mana zone, add one to your hand and put one into your graveyard. Destroy one of your opponent's creatures that costs the same as or less than the card put into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超25">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trial of God</name>
+      <text>
+■ Reveal cards from the top of your deck until you show 2 cards that have the same cost.
+■ If you reveal your entire deck in this way, take an Extra Turn
+■ Add all face up cards to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超11">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Disi Choice</name>
+      <text>
+■ Blocker
+■ Slayer
+⁯■ When you put this creature, you may choose a card that has "shield trigger" from your mana zone. Use the chosen card for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command/Distas</type>
+        <manacost>6</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-EX2-35">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gar Raganzark</name>
+      <text>
+■ Fantasy Gate of Moonless Night: When you summon a Magic Tool creature or cast a Magic Tool spell, you may choose a total of 4 Magic Tools from the battle zone and/or graveyard and summon this creature from your hand or graveyard onto those 4 cards for no cost.
+■ Blocker
+■ Double Breaker
+■ Your opponent can't choose this creature with spells.
+■ During your opponent's turn, if your opponent would put a creature in any way except by summoning, your opponent puts that creature into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dolszak/Mafi Gang</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-EX2-超G7">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gunter Pegasus, the Super Enlightened</name>
+      <text>
+■ You may summon this creature from your mana zone.
+■ Ultimate evolution MAX—Put on one of your Ultimate Evolution creatures.
+■ Triple Breaker
+■ Whenever this creature attacks, put the top 3 cards of your deck into your mana zone. Then put any number of creatures from your mana zone. Ignore all effects that are triggered when those creatures are put.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dreammate/Luna's Sun Geyser</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM23-EX2-超12">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kenji Kingdom, the Enlightened</name>
+      <text>
+■ You may summon this creature from your graveyard.
+■ Ultimate Evolution—Put on one of your evolution creatures.
+■ Double Breaker
+■ When you put this creature, put the top 3 cards of your deck into your graveyard. Then put a creature from among those 3 cards.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Dreammate/Lunatic Emperor</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-EX2-超13">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>BloodRayne, Restart Dash</name>
+      <text>
+■ Guard Strike
+■ Each turn, you may have the first darkness creature you summon cost 1 less. It can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-97">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Enlightened Nova Apollonus Dragerion</name>
+      <text>
+■ Ultimate Evolution: Put on one of your evolution creatures.
+■ Invasion: Fire Evolution Dragon ''(When one of your fire evolution dragons attacks, you may put this creature from your hand onto it.)''
+■ Triple Breaker
+■ Whenever your opponent chooses this creature, choose 2 cards from your opponent's mana zone and put them into their owner's graveyard. 
+■ Meteorburn: When you put this creature, you may put 3 cards under this creature into your graveyard. If you do, this creature breaks all your opponent's shields.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-EX2-超4">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nero Gryphis the 2nd, Mystic Light Emperor</name>
+      <text>
+■ Blocker
+■ Triple Breaker
+■ When you put this creature, you may reveal the top 5 cards of your deck. If you do, put all spells from among them into your hand and put the rest into your graveyard.
+■ Whenever one of your Knights is destroyed, you may cast a Knight spell or spell that has "shield trigger" from your hand for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Dark Lord/Knight</type>
+        <manacost>9</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM23-EX2-29">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prince Avaraldo, Cavalier of Thunder/Magic Shot - Arcadia Egg</name>
+      <text>
+■ When you put this creature, reveal the top 3 cards of your deck. You may put any number of spells revealed in this way into your hand, and the rest on the bottom of your deck in any order.
+=========================
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures.
+■ If "tooltip
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Arc Seraphim/Knight/Knight</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-超26">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rafululu Love, Acoustic Dragon Elemental/「It's coming from the future, so it's a Miracle」</name>
+      <text>
+■ Revolution Change
+■ Double Breaker
+■ When you put this creature, your opponent can't cast spells until the end of your opponent's next turn.
+=========================
+■ Draw 3 cards. Then you may cast a spell that costs 5 or less from your hand for no cost.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Angel Command Dragon/Team Doremi/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Light/Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM23-EX2-超8">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akashic Original, Cyber Armor</name>
+      <text>
+■ When you put this creature, look at the top 2 cards of your deck. You may reveal a creature from among them to your opponent and put it into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Giant Insect/Survivor</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-108">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Bow - ANOTHER</name>
+      <text>
+■ Cross Gear Effect
+■ You may pay Costicon
+■ The crossed creature gets +20000 power and "powered breaker". ''(A creature that has "powered breaker" breaks an additional shield for each 6000 power.)''
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Knight/Samurai</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-81">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rush, Break Blade Q</name>
+      <text>
+■ Survivor
+■ Each of your fire creatures gets the Survivor race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage/Survivor</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-EX2-100">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Thirteen</name>
+      <text>
+■ 自分は、デッキの枚数を5枚増やしてゲームを開始する。
+  </text>
+      <prop>
+        <maintype>Rule Plus</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超20a">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sapphire Misty</name>
+      <text>
+■ At the End Step
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Starnoid/Cyber Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-EX2-超20b">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gigalin Q, Dark Armor</name>
+      <text>
+■ Survivor
+■ Each of your darkness creatures gets the Survivor race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Knightmare/Survivor</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-94">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Growing Horn Q</name>
+      <text>
+■ Survivor
+■ Each of your nature creatures gets the Survivor race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate/Survivor</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-103">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onsoku Doji (Turbo Ogre)</name>
+      <text>
+■ Star Evolution
+■ When you put this creature, discard a card from your hand, then draw a card. If this creature evolved from a tamaseed, draw another card.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Sonic Command/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-EX2-99">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helcopta's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, look at the top 4 cards of your deck. You may take an evolution creature from among them, show that creature to your opponent, and put it into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超37">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gelacho's Memory</name>
+      <text>
+■ Shield Trigger
+■ Shinkarise
+■ When you put this tamaseed, draw a card, then your opponent chooses one of their untapped creatures and taps it.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-超28">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infelstarge</name>
+      <text>
+■ Guard Strike
+■ Double Breaker
+■ When you put this creature, choose up to 2 Non-Creature Card
+■ Whenever a card in the battle zone is put into your mana zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-EX2-超G10">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel's Jewel</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, if your opponent has more cards in their hand than you do, draw a card. If your opponent has more cards in their mana zone than you do, put the top card of your deck into your mana zone tapped. If your opponent has more shields than you do, shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Angel Command/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-43">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redzone X, Temporal Forbidden</name>
+      <text>
+■ Evolution: Put on one of your darkness creatures.
+■ Parallel Invasion: When one of your non-psychic darkness commands that cost 5 or more attacks, you may put this creature from your hyperspatial zone onto it.
+■ Double Breaker
+■ When you put this creature on a non-evolution creature, discard a card from your hand. Then choose one of your opponent's creatures. That creature gets -9000 power until the End Step
+■ Meteorburn Awaken: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Evolution Psychic Creature</maintype>
+        <type>Sonic Command/Invader/Initials X</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-EX2-10a">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redzone Basara, Final Awakened</name>
+      <text>
+■ Triple Breaker
+■ Whenever this creature attacks, choose one the following.
+:► Your opponent discards 2 cards from their hand.
+:► Choose one of your opponent's creatures and your opponent puts a seal on it.
+''(To seal a card, put the top card of your deck on that card face down.)''
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Sonic Command/Invader/Initials X</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-EX2-10b">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aple, Young Great Elder</name>
+      <text>
+■ Guard Strike
+■ Guardman
+■ Your opponent's cards can’t leave their graveyard or mana zone.
+■ Your opponent can’t cast spells from their graveyard or mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-EX2-超31">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ningyo, Floating in the Starry Sky</name>
+      <text>
+■ Guard Strike
+■ Slayer
+■ During your opponent's turn, whenever your opponent would put a card in their mana zone from anywhere other than their hand, put it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-EX2-超29">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Head Nebula Man/Zero Birthday</name>
+      <text>
+■ This creature costs 1 less to summon for each of your water or darkness cards in your graveyard. It can't cost 0 or less.
+■ When you put this creature or whenever it attacks, your opponent chooses 2 cards from their hand and discards them.
+■ Triple Breaker
+=========================
+■ Shield Trigger
+■ Destroy one of your creatures. Then destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Demon Command/Zerolist</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM23-EX2-超3">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orbimaker Par 100, Tenth Dragon</name>
+      <text>
+■ This creature costs 3 less to summon for each nature creature and/or nature tamaseed you put this turn. It can't cost 0 or less.
+■ Mach Fighter
+■ Quattro Breaker
+■ '''Civil Count 5''': If you have a total of 5 or more nature creatures and/or nature tamaseeds, during your opponent's turn, whenever your opponent puts a creature or tamaseed into the battle zone and that ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DM23-EX2-超5">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hamma %3D Dhamma</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard. Then choose one of your opponent's creatures that costs less than the number of cards in your graveyard and destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-EX2-74">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Jigengaeshi</name>
+      <text>
+■ Guard Strike
+■ When you put this creature, you may put a cross gear from your hand or hyperspatial zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Samurai</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-EX2-91">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>WD Cyclepedia, Dragment Symbol</name>
+      <text>
+■ Blocker
+■ Justdiver
+■ When you put this creature, you may cast a spell that costs 4 or less from your graveyard for no cost.
+■ Once per turn, whenever you cast a spell from your hand, you may cast that spell again from your graveyard for no cost. 
+■ After you cast a spell from your graveyard, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon/Dark Lord</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-超7">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glenmalt Buster, Explosive Swordsman</name>
+      <text>
+■ This creature can't attack if you don't have a dragheart or cross gear.
+■ At the start of your turn, you may put the top card of your deck into your graveyard. If it's a Dragon, flip this card to the Star King Red Oni Victory, Dragon Sword side.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Gaial Command Dragon/Human Baku</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-33a">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Star King Red Oni Victory, Dragon Sword</name>
+      <text>
+■ Cross Gear
+■ While crossed, each of your multicolored creatures gets "speed attacker" and +3000 power.
+■ Whenever the crossed creature attacks, you may put a multicolored creature that costs 6 or less from your mana zone. 
+■ You may cross this cross gear with a Dragon for no cost.
+  </text>
+      <prop>
+        <maintype>Psychic Cross Gear</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-EX2-33b">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miroku, Senkai's Greatest Genius</name>
+      <text>
+■ When you put this creature or at the start of your turn, choose one of your creatures. Then equip a weapon or cross a cross gear that costs less than that chosen creature from your hyperspatial zone to the chosen creature.
+■ If one of your other creatures has a crossed cross gear or equipped weapon, your opponent Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Starnoid/Machine Eater</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-EX2-超6">DM23-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

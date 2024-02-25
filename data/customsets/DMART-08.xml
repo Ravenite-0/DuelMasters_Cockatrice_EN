@@ -1,0 +1,213 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-08</name>
+      <longname>DMART-08</longname>
+      <settype>DMART-08</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMART-08-1">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMART-08- 2">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMART-08- 3">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Authority</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-1">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Thoughts</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-2">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Fighting Spirit</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-3">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earth Dragon God's Magic Encampment</name>
+      <text>
+■ Guard Strike
+■ Look at the top 3 cards of your deck. Put one of them into your hand or mana zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-6">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World Order</name>
+      <text>
+■ If you have the 2 King Cells of "New World King's Creation" and "New World King's Destruction" in your hand or mana zone, you may pay this spell's cost to combine them and cast this spell. 
+■ Return all non-dragon creatures to their owner's hands.
+■ Put any number of dragons from your mana zone and graveyard. Each of them get "speed attacker" and "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-4">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World Order</name>
+      <text>
+■ If you have the 2 King Cells of "New World King's Creation" and "New World King's Destruction" in your hand or mana zone, you may pay this spell's cost to combine them and cast this spell. 
+■ Return all non-dragon creatures to their owner's hands.
+■ Put any number of dragons from your mana zone and graveyard. Each of them get "speed attacker" and "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08- 5">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Creation</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-4">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Destruction</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-08-5">DMART-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,322 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-13</name>
+      <longname>DMC-13</longname>
+      <settype>DMC-13</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Larba Geer, the Immaculate</name>
+      <text>
+■ Evolution—Put on one of your Guardians.
+■ When you put this creature into the battle zone, tap all your opponent's creatures in the battle zone that have "blocker".
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-13-6">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reso Pacos, Clear Sky Guardian</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-13-17">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gray Balloon, Shadow of Greed</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-13-11">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Barkwhip, the Smasher</name>
+      <text>
+■ Evolution—Put on one of your Beast Folk.
+■ While this creature is tapped, each of your other Beast Folk in the battle zone gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-13-13">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silver Axe</name>
+      <text>
+■ Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-13-36">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wailing Shadow Belbetphlo</name>
+      <text>
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-13-27">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mist Rias, Sonic Guardian</name>
+      <text>
+■ Whenever another creature is put into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-13-7">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sopian</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-13-21">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lone Tear, Shadow of Solitude</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-13-28">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Automated Weaponmaster Machai</name>
+      <text>
+■ This creature attacks each turn if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armorloid</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-13-33">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bazagazeal Dragon</name>
+      <text>
+■ Speed Attacker
+■ This creature can attack untapped creatures.
+■ Double Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-13-4">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Innocent Hunter, Blade of All</name>
+      <text>
+■ You can put an evolution creature of any race on this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-13-15">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gazarias Dragon</name>
+      <text>
+■ While you have no shields, this creature gets +4000 power and has "double breaker ''(This creature breaks 2 shields)''."
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-13-32">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Otherworldly Warrior Naglu</name>
+      <text>
+■ This creature can't be attacked.
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armorloid</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-13-12">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sol Galla, Halo Guardian</name>
+      <text>
+■ Blocker
+■ Whenever a player casts a spell, this creature gets +3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-13-18">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Melgars</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-13-34">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quixotic Hero Swine Snout</name>
+      <text>
+■ Whenever another creature is put into the battle zone, this creature gets +3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-13-37">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Hydra, Evil Planet Lord</name>
+      <text>
+■ Double Breaker
+■ When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-13-S1">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan</name>
+      <text>
+■ When you put this creature, you may reveal the top 5 cards of your deck. Put all light and darkness cards from among them into your hand, and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-13-2">DMC-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

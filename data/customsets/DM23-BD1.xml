@@ -1,0 +1,788 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM23-BD1</name>
+      <longname>DM23-BD1</longname>
+      <settype>DM23-BD1</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-BD1-14">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorphadillom, Holy Demon Concatenated King</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature or when this creature's "EX Life" shield leaves your shield zone, destroy all your opponent's non-multicolored creatures.
+■ Your opponent can't cast non-multicolored spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>13500</pt>
+      </prop>
+      <set num="DM23-BD1-SE1">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zardiclica, Hybrid Winds Dragon</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your hand or graveyard for no cost. After you cast, put it on the bottom of your deck instead.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Crystal Command Dragon/Angel Command/Melt Warrior</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-BD1-SE4">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zardiclica, Hybrid Winds Dragon</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your hand or graveyard for no cost. After you cast, put it on the bottom of your deck instead.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Crystal Command Dragon/Angel Command/Melt Warrior</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-BD1- BE1">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heavenash Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a creature that costs 8 or less from your graveyard. That creature gets "blocker" until the start of your next turn. Then you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-9">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diszircon</name>
+      <text>
+■ Blocker
+■ You may summon this creature from your mana zone or your graveyard.
+■ When you put this creature, draw 2 cards and discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-BD1-15">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wiljavelin, Sutured Fakespear</name>
+      <text>
+■ EX Life
+■ Triple Breaker
+■ When you put this creature, choose one of your opponent's cards in the battle zone, one in their mana zone and one from your opponent's hand at random. Your opponent puts them into their graveyard.
+■ At the end of your turn, choose a player. That player draws 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/King Command Dragon/Liquid People</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-BD1-SE7">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Grateful Ven, Connected Breaker Horror</name>
+      <text>
+■ EX Life
+■ Blocker
+■ When you put this creature, you may put all cards in your graveyard into your mana zone tapped.
+■ You may summon a creature from your mana zone once per turn. If it's a Distas, summon it for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/King Command Dragon/Gaia Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-BD1-SE5">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Grateful Ven, Connected Breaker Horror</name>
+      <text>
+■ EX Life
+■ Blocker
+■ When you put this creature, you may put all cards in your graveyard into your mana zone tapped.
+■ You may summon a creature from your mana zone once per turn. If it's a Distas, summon it for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/King Command Dragon/Gaia Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-BD1- BE4">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Radiof Roseld, Sutured Dark Wisdom</name>
+      <text>
+■ EX Life
+■ Mach Fighter
+■ Quattro Breaker
+■ When you summon this creature, draw 5 cards. Then your opponent discards 5 cards from their hand.
+■ If you have 5 or less cards in your deck, you can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Zenith/Zombie Dragon</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DM23-BD1-SE6">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vol-Val-8, Forbidden Dragon King</name>
+      <text>
+■ EX Life
+■ Justdiver
+■ Whenever this creature attacks, look at the top 5 cards of your deck. Add up to 2 cards from among them to your hand and put the rest on the bottom of your deck in any order. Then you may destroy all creatures that have power 6000 or less.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/Earth Dragon/Forbidden</type>
+        <manacost>9</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>54321</pt>
+      </prop>
+      <set num="DM23-BD1-SE2">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyakume-4, Spirit Treasure</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature or your opponent chooses this creature, put the top card of your deck into your mana zone. Then your opponent discards a card at random from their hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Pandora's Box/Arc Seraphim/Distas</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-BD1-13">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiash Kaiser, the Meteor</name>
+      <text>
+■ At the end of your opponent's turn, if your opponent put a creature or cast a spell without tapping a card in their mana zone that turn, and you don't have a '''Gaiash Kaiser, the Meteor''', you may summon this creature for no cost.
+■ Double Breaker
+■ When you put this creature, draw 2 cards.
+■ Your creatures that cost 10 or more cost 4 less to summon. They can't cost 0 or less.
+■ Your opponent's creatures can't attack players on the turn they are put.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Command Dragon/Green Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Water/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-BD1-SE3">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Life Gate, Gate of Earth</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures and put it into its owner's mana zone. Then you may put a non-evolution creature that costs less than that creature from your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-16">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DM23-BD1-1">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DM23-BD1- 2">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DM23-BD1- 3">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Authority</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-1">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Thoughts</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-2">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Fighting Spirit</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-3">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Re:Soul</name>
+      <text>
+■ Guard Strike
+■ Your opponent discards all cards from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-10">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earth Dragon God's Magic Encampment</name>
+      <text>
+■ Guard Strike
+■ Look at the top 3 cards of your deck. Put one of them into your hand or mana zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-BD1-18">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Bigbang, Sutured Phoenix</name>
+      <text>
+■ EX Life
+■ Blocker
+■ When you put this creature or whenever it attacks, put the top 2 cards of your deck into your graveyard then draw 2 cards.
+■ Even if you have 0 cards in your deck, you can't Prevents Defeat
+■ Whenever you would draw a card, if you have 0 cards in your deck, you may put a creature from your graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Phoenix</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-BD1-SE8">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Double Cross DD Zeta, Concatenated Awakened</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Each of your creatures gets "speed attacker" and "slayer". 
+■ Whenever this creature attacks, you may put this creature's "EX Life" shield into your graveyard. If you do, your opponent can't cast spells until the start of your turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/World Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-BD1-SE9">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect World, Connected Planetary Soul</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Whenever a card is put from your shield zone into your graveyard, if it's a Distas or Dispector that costs the same as or or less than the number of cards in your mana zone, put it. Otherwise, add it to your hand.
+■ Each of your other creatures get "Sasagale 2".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/World Command Dragon/Distas</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-BD1-SE10">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Discotton %26 Diskerasas</name>
+      <text>
+■ Blocker
+■ When you put this creature, put the top card of your deck into your mana zone tapped. If it's a multicolored card, put another card from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Outrage/Distas</type>
+        <manacost>3</manacost>
+        <colors>Light/Nature</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DM23-BD1-17">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Discotton %26 Diskerasas</name>
+      <text>
+■ Blocker
+■ When you put this creature, put the top card of your deck into your mana zone tapped. If it's a multicolored card, put another card from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Outrage/Distas</type>
+        <manacost>3</manacost>
+        <colors>Light/Nature</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DM23-BD1- BE10">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sezen the Fumate, Hybrid Super Disaster</name>
+      <text>
+■ EX Life
+■ Blocker
+■ Double Breaker
+■ Each turn, whenever a creature is put for the first time, you may draw a card.
+■ Neither player can take an extra turn.
+■ Players can't Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/The Answer</type>
+        <manacost>6</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-BD1-4">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sezen the Fumate, Hybrid Super Disaster</name>
+      <text>
+■ EX Life
+■ Blocker
+■ Double Breaker
+■ Each turn, whenever a creature is put for the first time, you may draw a card.
+■ Neither player can take an extra turn.
+■ Players can't Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/The Answer</type>
+        <manacost>6</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-BD1- BE2">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bajuwen the Rola, Concatenated Überdragon</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all your opponent's creatures that have power 3000 or less.
+■ During your opponent's turn, when this creature's "EX Life" shield leaves your shield zone, tap all cards in your opponent's mana zone. At the start of your opponent's next turn, those cards don't untap.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DM23-BD1-5">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bajuwen the Rola, Concatenated Überdragon</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all your opponent's creatures that have power 3000 or less.
+■ During your opponent's turn, when this creature's "EX Life" shield leaves your shield zone, tap all cards in your opponent's mana zone. At the start of your opponent's next turn, those cards don't untap.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DM23-BD1- BE3">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Malvadias, Connected Armor Way</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, look at the top 5 cards of your deck. From among them, put up to 2 Distas that cost 6 or less. Put the rest on the bottom of your deck in any order.
+■ Your opponent's non-multicolored cards cost 2 more to use.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-BD1-6">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Malvadias, Connected Armor Way</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, look at the top 5 cards of your deck. From among them, put up to 2 Distas that cost 6 or less. Put the rest on the bottom of your deck in any order.
+■ Your opponent's non-multicolored cards cost 2 more to use.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-BD1- BE5">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minmei-1, Faerie</name>
+      <text>
+■ Guard Strike
+■ When you put this card into your mana zone, you may reveal a multicolored card in your hand to your opponent. If you do, untap this card.
+■ During your turn, you may summon a Dispector from your mana zone.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Distas</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-BD1-12">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minmei-1, Faerie</name>
+      <text>
+■ Guard Strike
+■ When you put this card into your mana zone, you may reveal a multicolored card in your hand to your opponent. If you do, untap this card.
+■ During your turn, you may summon a Dispector from your mana zone.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Distas</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-BD1- BE9">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Decurl-1, Tyrant</name>
+      <text>
+■ Guard Strike
+■ When you put this card into your mana zone, you may reveal a multicolored card in your hand to your opponent. If you do, untap this card.
+■ During your turn, you may summon a Dispector from your graveyard.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Distas</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-BD1-11">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Decurl-1, Tyrant</name>
+      <text>
+■ Guard Strike
+■ When you put this card into your mana zone, you may reveal a multicolored card in your hand to your opponent. If you do, untap this card.
+■ During your turn, you may summon a Dispector from your graveyard.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Distas</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-BD1- BE8">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The%3DKiller Kinari, Doomsday Sutured King</name>
+      <text>
+■ EX Life
+■ Triple Breaker
+■ When you put this creature, choose one of your opponent's creatures. You may return that chosen creature to your opponent's hand. Then put a creature that costs the same as or less than that creature from your graveyard.
+■ Whenever your opponent puts a creature and their ability would trigger, that ability doesn't trigger instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Jurassic Command Dragon/Zombie Dragon</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-BD1-7">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The%3DKiller Kinari, Doomsday Sutured King</name>
+      <text>
+■ EX Life
+■ Triple Breaker
+■ When you put this creature, choose one of your opponent's creatures. You may return that chosen creature to your opponent's hand. Then put a creature that costs the same as or less than that creature from your graveyard.
+■ Whenever your opponent puts a creature and their ability would trigger, that ability doesn't trigger instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Jurassic Command Dragon/Zombie Dragon</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-BD1- BE6">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Soul Zweilax, Electrofused True Spear</name>
+      <text>
+■ As you summon this creature, you may return one of your creatures to your hand. If you do, this creature costs 2 less to summon.
+■ EX Life
+■ Speed Attacker
+■ Mach Fighter
+■ This creature can't be blocked the turn it's put.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Liquid People/Phoenix</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-BD1-8">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Soul Zweilax, Electrofused True Spear</name>
+      <text>
+■ As you summon this creature, you may return one of your creatures to your hand. If you do, this creature costs 2 less to summon.
+■ EX Life
+■ Speed Attacker
+■ Mach Fighter
+■ This creature can't be blocked the turn it's put.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Liquid People/Phoenix</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-BD1- BE7">DM23-BD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

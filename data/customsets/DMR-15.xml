@@ -1,0 +1,808 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-15</name>
+      <longname>DMR-15</longname>
+      <settype>DMR-15</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Little Eyes Growth</name>
+      <text>
+■ Reveal the top 2 cards of your deck. Put all creatures into your mana zone, and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-55">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gigaheart, Invincible King Sword</name>
+      <text>
+■ A creature equipped with this gets "speed attacker" and can't be destroyed while attacking.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-VV1a">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ohginga, Strongest Passion</name>
+      <text>
+■ Speed Attacker
+■ Triple Breaker
+■ Whenever this creature attacks or whenever your opponent chooses this creature, put a Dragheart Creature
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>11</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMR-15-VV1b">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ohginga, Strongest Passion</name>
+      <text>
+■ Speed Attacker
+■ Triple Breaker
+■ Whenever this creature attacks or whenever your opponent chooses this creature, put a Dragheart Creature
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>11</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMR-15-VV1b㊙1">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ohginga, Strongest Passion</name>
+      <text>
+■ Speed Attacker
+■ Triple Breaker
+■ Whenever this creature attacks or whenever your opponent chooses this creature, put a Dragheart Creature
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>11</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMR-15- VV1b㊙2">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Heaven, Heavenly Justice</name>
+      <text>
+■ At the End Step
+■ Non-light spells cost 1 more to cast.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Fortress</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-V1a">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Neverlast, Destiny Adoration</name>
+      <text>
+■ Blocker
+■ Triple Breaker
+■ Your Light creatures Win All Battles
+■ Players can't cast non-Light spells that cost 5 or less.
+■ Escape
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>14500</pt>
+      </prop>
+      <set num="DMR-15-V1b">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Niga%3DAbushumu, Invasive Mystery</name>
+      <text>
+■ Cards in your mana zone are considered to be cards of every civilization.
+■ Whenever one of your Dragons would be destroyed, put it into your mana zone instead.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Fortress</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-V2a">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Niga%3DVermut, Evil King</name>
+      <text>
+■ Quattro Breaker
+■ Cards in your mana zone are considered to be cards of every civilization.
+■ Whenever creatures attack, your opponent chooses one of their untapped creatures and puts it into its owner’s mana zone.
+■ Dragon Evade
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>11</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>18000</pt>
+      </prop>
+      <set num="DMR-15-V2b">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valhalla Grande, Invincible Hero</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, choose up to 2 of your opponent's creatures in the battle zone and tap them. Those creatures don't untap at the start of the opponent's next turn.
+■ Double Breaker
+■ Mana Arms 9: While you have 9 or more light cards in your mana zone, you can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-15-S1">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Southern Renaissance, Resonance Dragon Elemental</name>
+      <text>
+■ Sympathy: Light creature that costs 3 or less ''(This creature costs 1 less to summon for each of your Light creatures that cost 3 or less in the battle zone. It can't cost less than 1.)''
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone, you may draw a card for each of your Light creatures that cost 3 or less in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-15-1">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glenmalt "King", Dual Sword Dragon Ruler</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put a fire Dragheart Weapon
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon/Human Baku/Draguner</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMR-15-4">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glenmalt "King", Dual Sword Dragon Ruler</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put a fire Dragheart Weapon
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon/Human Baku/Draguner</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMR-15- 4d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saint Rose, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a light dragheart that costs 5 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ While you have a light dragheart in the battle zone, this creature gets "blocker".
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing/Draguner</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMR-15-6">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saint Rose, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a light dragheart that costs 5 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ While you have a light dragheart in the battle zone, this creature gets "blocker".
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing/Draguner</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMR-15- 6d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oriotis, Control Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Whenever your opponent puts a creature into the battle zone that costs more than the number of cards in their mana zone, your opponent puts that creature on the bottom of their deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMR-15-7">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Xf Croce Fuoco, Dragment Symbol</name>
+      <text>
+■ Gravity Zero
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, each player shuffles all cards in their graveyard into their deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-15-10">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiral Hurricane, Hero Secret Technique</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature in the battle zone and return it to its owner's hand.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-11">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jackpot Entry, Dragon Secret Formation</name>
+      <text>
+■ For each Dragon in your mana zone, look at the top card of your deck. You may put a non-evolution Dragon from among it that costs 8 or less into the battle zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-16">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The%3DDeadman, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a nature dragheart that costs 5 or less from your hyperspatial zone into the battle zone.
+■ Whenever you summon a creature or cast a spell, you may tap a light card, a water card, a darkness card, a fire card and a nature card in your mana zone instead of paying its cost.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon/Draguner</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-15-17">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parasrex, Chain Parasitic Eye</name>
+      <text>
+■ When you put this creature or whenever it attacks, you may put a creature that has "Paras" in its name from your mana zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-15-18">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parasrex, Chain Parasitic Eye</name>
+      <text>
+■ When you put this creature or whenever it attacks, you may put a creature that has "Paras" in its name from your mana zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-15- 18d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven Anthem, Dragon Secret Formation</name>
+      <text>
+■ For each Dragon in your mana zone, look at a card on the top of your deck. Choose one of them and add it to your shields face down. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-22">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven Anthem, Dragon Secret Formation</name>
+      <text>
+■ For each Dragon in your mana zone, look at a card on the top of your deck. Choose one of them and add it to your shields face down. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15- 22d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Batrevenge, Passion Dragon</name>
+      <text>
+■ Revenge Chance
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. This creature battles that creature. 
+■ While battling, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMR-15-28">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Islay Fizz, Dragon Ruler</name>
+      <text>
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Draguner</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-15-29">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gett Junior, Courageous Tradition</name>
+      <text>
+■ Mana Arms 3: If you have 3 or more fire cards in your mana zone, this creature can't be attacked by creatures that cost 4 or less.
+■ Mana Arms 5: If you have 5 or more fire cards in your mana zone, this creature gets "double breaker" and "power attacker +4000".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-15-30">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gett Junior, Courageous Tradition</name>
+      <text>
+■ Mana Arms 3: If you have 3 or more fire cards in your mana zone, this creature can't be attacked by creatures that cost 4 or less.
+■ Mana Arms 5: If you have 5 or more fire cards in your mana zone, this creature gets "double breaker" and "power attacker +4000".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-15- 30d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nam%3DAueiki, Growth Style</name>
+      <text>
+■ Mana Arms 3: Whenever this creature attacks, if you have 3 or more nature cards in your mana zone, you may put the top card of your deck into your mana zone.
+■ Mana Arms 5: When this creature would be destroyed, if you have 5 or more nature cards in your mana zone, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-15-32">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spellbook Charger</name>
+      <text>
+■ Look at the top 5 cards of your deck. You may take a spell from among them, show that spell to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-25">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spellbook Charger</name>
+      <text>
+■ Look at the top 5 cards of your deck. You may take a spell from among them, show that spell to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15- 25d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Donbaku Bobobon</name>
+      <text>
+■ When this creature is destroyed, choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-15-44">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Eternal Spark</name>
+      <text>
+■ Shield Trigger
+■ Choose a non-evolution card that costs 6 or less in the battle zone and add it to its owner's shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-21">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dual Wield Training</name>
+      <text>
+■ Choose one of your creatures in the battle zone. When that creature is tapped for the first time this turn, untap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-51">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorodoro Gekikarekara Curryban, Passion Dragon</name>
+      <text>
+■ This creature can only be attacked by Dragons.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon/Curry Bread</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-15-47">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Attacking Bonsura</name>
+      <text>
+■ Blocker
+■ Whenever this creature attacks, destroy it after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-15-45">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parasmaru, Parasitic Demon Dragon</name>
+      <text>
+■ Each of your Command Dragons in the battle zone gets "slayer". ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-15-43">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parasmaru, Parasitic Demon Dragon</name>
+      <text>
+■ Each of your Command Dragons in the battle zone gets "slayer". ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-15- 43d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Pulse Technique - Fortress Destroyer</name>
+      <text>
+■ Shield Trigger
+■ Choose a card in the battle zone that costs 6 or less and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-41">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shamisen, Aqua Operative</name>
+      <text>
+■ When you put this creature into the battle zone, each player may draw 3 cards. If they do, they discard 3 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People Sen</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-15-39">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shamisen, Aqua Operative</name>
+      <text>
+■ When you put this creature into the battle zone, each player may draw 3 cards. If they do, they discard 3 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People Sen</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-15- 39d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alishion, Robust Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-15-36">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alishion, Robust Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-15- 36d">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zantetsu Big Horn, Passion Dragon</name>
+      <text>
+■ Each of your other creatures in the battle zone gets the Gaial Command Dragon race.
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMR-15-15b">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zantetsu Big Horn, Passion Dragon</name>
+      <text>
+■ Each of your other creatures in the battle zone gets the Gaial Command Dragon race.
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMR-15- 15bd">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Horn, Iron-slashing Sword</name>
+      <text>
+■ The equipped creature gets "power attacker +2000" and the Gaial Command Dragon race. 
+■ Dragsolution: End Step
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-15-15a">DMR-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,501 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-07</name>
+      <longname>DMR-07</longname>
+      <settype>DMR-07</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Fate</name>
+      <text>
+■ Attack Chance
+■ Draw up to 5 cards. Then your opponent chooses 3 cards in your hand at random and reveals them. Put any number of Dragons from among them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-07-6">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beethoven, Zenith of "Horror"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature, return a total of 3 Dragons and/or colorless spells from your graveyard or mana zone into your hand. You may put the top 3 cards of your deck into your mana zone. Then you may tap this creature.
+■ If your opponent's creatures attack, they attack this creature if able.
+■ Each of your Dragons and Commands gets "Eternal Omega".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMR-07-V2">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Funklapsody of Hope</name>
+      <text>
+■ Multi
+■ Each of your Hunters and Aliens in the battle zone gets "speed attacker".
+■ Double Breaker
+■ Whenever one of your Alien or Hunter creatures is destroyed, search your deck, hand or mana zone. From among them, take a card that has the same name and put it into the battle zone. If you looked at your deck in this way, shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Armored Dragon/Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-07-20">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Funklapsody of Hope</name>
+      <text>
+■ Multi
+■ Each of your Hunters and Aliens in the battle zone gets "speed attacker".
+■ Double Breaker
+■ Whenever one of your Alien or Hunter creatures is destroyed, search your deck, hand or mana zone. From among them, take a card that has the same name and put it into the battle zone. If you looked at your deck in this way, shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Armored Dragon/Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-07- 20m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenith Requiem, Secret Zenith</name>
+      <text>
+■ Attack Chance
+■ One of your creatures in the battle zone gets +50000 power, "world breaker" and "Whenever this creature wins a battle, you may untap it." until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-07-㊙2">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zeta-File, Zenith of "Mystery"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, you may destroy all your other creatures. If you do, put all your Demon Commands from your graveyard into the battle zone. 
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMR-07-S1">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Wilhelm</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, destroy one of your opponent's creatures. Then choose a card from your opponent's mana zone and put it into its owner's graveyard.
+■ Whenever your opponent puts a card into their graveyard from anywhere, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-07-S5">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachinko Roulette</name>
+      <text>
+■ Put the top card of your deck into your mana zone.
+■ You and your opponent play Gachinko Judge. If you win, after you cast this spell, return it to your hand instead of your graveyard.  
+■ Gachinko Judge
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-07-35">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pepper Silva of Betrayal</name>
+      <text>
+■ Multi
+■ Double Breaker
+■ When this creature is destroyed, you may put a non-evolution Unknown from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Cyber Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-07-19">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pepper Silva of Betrayal</name>
+      <text>
+■ Multi
+■ Double Breaker
+■ When this creature is destroyed, you may put a non-evolution Unknown from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Cyber Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-07- 19m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Matsurida Wasshoi</name>
+      <text>
+■ Guardman
+■ This creature can't attack.
+■ Your creatures that have Vanilla
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-07-34">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>School Man</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy 2 of your creatures. Then your opponent chooses one of their creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian/Alien</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-07-13">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Teacher</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Whenever a creature that has Vanilla
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-07-42">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Teacher</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Whenever a creature that has Vanilla
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-07- 42m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Niyare</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. You may reveal any number of colorless cards from among them and put them into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tristone</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-07-33">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Niyare</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. You may reveal any number of colorless cards from among them and put them into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tristone</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-07- 33m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goodnight Mr. Hippopo</name>
+      <text>
+■ When you win Gachinko Judge by revealing this creature, put this creature into the battle zone instead of the bottom of your deck.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMR-07-16">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oni Seven "Win", Matchless Amazement</name>
+      <text>
+■ If a shield added to your hand is a creature that costs 7 or more, it gets "shield trigger".
+■ Whenever this creature attacks, you may have your opponent choose one of your shields. Add that shield to your hand. ''(You can use the "shield trigger" ability of that shield.)''
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter/Alien</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-07-S4">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Destiny Ryusei of Fate</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a colorless card from your deck, show that colorless card to your opponent, and put it into your hand. Then shuffle your deck.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-07-㊙1">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Waking Up Miss Mei</name>
+      <text>
+■ Whenever this creature attacks your opponent and isn't blocked, if you have 7 or more Dreammates in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate/Hunter</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-07-5">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Toramaru GGG, Armored Oni Beast</name>
+      <text>
+■ Evolution—Put on one of your Humans.
+■ Whenever this creature attacks, you and your opponent play Gachinko Judge 3 times. If you win 3 times, you may summon a non-evolution Hunter that costs 12 or less For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-07-14">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Toramaru GGG, Armored Oni Beast</name>
+      <text>
+■ Evolution—Put on one of your Humans.
+■ Whenever this creature attacks, you and your opponent play Gachinko Judge 3 times. If you win 3 times, you may summon a non-evolution Hunter that costs 12 or less For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-07- 14m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel Go, Explosive Oni Princess</name>
+      <text>
+■ When you put this creature, search your deck. You may take a Hunter from your deck, show it to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-07-51">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel Go, Explosive Oni Princess</name>
+      <text>
+■ When you put this creature, search your deck. You may take a Hunter from your deck, show it to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-07- 51m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metafiction, Ruler of Fiction</name>
+      <text>
+■ Blocker
+■ Whenever your opponent casts a spell, you may return a spell from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMR-07-38">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metafiction, Ruler of Fiction</name>
+      <text>
+■ Blocker
+■ Whenever your opponent casts a spell, you may return a spell from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMR-07- 38m">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magnum, Fast Attack Puppet</name>
+      <text>
+■ Speed Attacker
+■ Whenever a player puts a creature into the battle zone without tapping cards in their mana zone, destroy that creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-07-30">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sagrada Familia, Vizier of Instant Seal</name>
+      <text>
+■ While this creature is tapped, your opponent can't use the "shield trigger" ability of spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMR-07-22">DMR-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

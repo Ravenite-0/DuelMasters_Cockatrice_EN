@@ -1,0 +1,233 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-03</name>
+      <longname>DMBD-03</longname>
+      <settype>DMBD-03</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Jojojo Jokers</name>
+      <text>
+■ Look at the top 4 cards of your deck. You may choose a Jokers creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-03-12">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bainaradoor</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, if you have a total of 3 or more Jokers in the battle zone or your mana zone, choose one of your opponent's creatures and put it on the bottom of their deck. Then draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-03-10">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yattareman</name>
+      <text>
+■ Your Jokers cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-03-14">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baron Gelacho</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, choose a creature and tap or untap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-03-4">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pali Nights</name>
+      <text>
+■ When you put this creature, put a card from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-03-6">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ura NICE</name>
+      <text>
+■ Super Shield Trigger
+■ Draw a card.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-03-11">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helcopta</name>
+      <text>
+■ When you put this creature into the battle zone, you may draw a card for each of your Jokers in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-03-5">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Barberpapa</name>
+      <text>
+■ Joe
+■ Double Breaker
+■ This creature can attack your opponent on the turn you put it into the battle zone.
+■ Whenever this creature attacks, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMBD-03-13">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cameralife</name>
+      <text>
+■ Joe
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has 4000 power or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-03-15">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beginning the Merabeat</name>
+      <text>
+■ Speed Attacker
+■ Master Merabeat: When you summon this creature into the battle zone, put a Jokers that has a "Jokers Over Explode" ability from your hand into the battle zone. End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMBD-03-3">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Smapon</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, destroy all your opponent's creatures that have power 2000 or less.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-03-7">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meramera Jokers</name>
+      <text>
+■ You may discard a Jokers from your hand. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-03-9">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Caterpillar Master</name>
+      <text>
+■ Joe
+■ Speed Attacker
+■ Whenever a player puts a creature into the battle zone for no cost, destroy that creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMBD-03-8">DMBD-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

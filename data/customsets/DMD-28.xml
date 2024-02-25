@@ -1,0 +1,254 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-28</name>
+      <longname>DMD-28</longname>
+      <settype>DMD-28</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-28-19">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Number Nine</name>
+      <text>
+■ Double Breaker
+■ Your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMD-28-17">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Double Tail</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have an Angel Command in the battle zone, you may choose both:
+:► Choose up to 2 of your opponent's creatures in the battle zone and tap them.
+:► Add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-28-3">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Andorom, Chanting Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMD-28-5">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Koltiolu, Scale Dragon Elemental</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, for each of your Dragons in the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-28-10">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-28-4">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Commanduo, Order Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, draw a card. Then you may put a non-evolution light creature that costs 5 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-28-11">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Red Rose, Crimson Dragon Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, draw a card.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-28-13">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Freeze Charger</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone and tap it. That creature doesn't untap at the start of your opponent's next turn.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-28-6">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Raraa, Trust Ball</name>
+      <text>
+■ Your light Commands cost 1 less to summon. They can't cost 0 or less.
+■ Mana Arms 3: If you have 3 light cards in your mana zone, your light Dragons cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Orb</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-28-12">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shibainu, Two Extremes</name>
+      <text>
+■ Icon
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Invader</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMD-28-18">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Angel Feather</name>
+      <text>
+■ Reveal the top 3 cards of your deck. Take a light spell and a light command from the revealed cards and put them into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-28-2">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Generarose, Red Rose Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, draw a card. Then you may put a non-evolution light creature that costs 6 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMD-28-8">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pikarie, Radiance Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-28-1">DMD-28</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

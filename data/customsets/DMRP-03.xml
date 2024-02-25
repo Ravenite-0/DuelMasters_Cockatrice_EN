@@ -1,0 +1,602 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-03</name>
+      <longname>DMRP-03</longname>
+      <settype>DMRP-03</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Barberpapa</name>
+      <text>
+■ Joe
+■ Double Breaker
+■ This creature can attack your opponent on the turn you put it into the battle zone.
+■ Whenever this creature attacks, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-03-47">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Merabeat the Johnny</name>
+      <text>
+■ Speed Attacker
+■ Master Double Merabeat: When you summon this creature in the battle zone, put up to 2 creatures that have the "Jokers Over Explode" ability from your hand into the battle zone. At the End Step
+■ When you put this creature, if you have 5 or more Jokers in the battle zone, destroy all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DMRP-03-M1">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Merabeat the Johnny</name>
+      <text>
+■ Speed Attacker
+■ Master Double Merabeat: When you summon this creature in the battle zone, put up to 2 creatures that have the "Jokers Over Explode" ability from your hand into the battle zone. At the End Step
+■ When you put this creature, if you have 5 or more Jokers in the battle zone, destroy all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DMRP-03-M1㊙1">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Merabeat the Johnny</name>
+      <text>
+■ Speed Attacker
+■ Master Double Merabeat: When you summon this creature in the battle zone, put up to 2 creatures that have the "Jokers Over Explode" ability from your hand into the battle zone. At the End Step
+■ When you put this creature, if you have 5 or more Jokers in the battle zone, destroy all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DMRP-03- M1㊙2">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Merabeat the Johnny</name>
+      <text>
+■ Speed Attacker
+■ Master Double Merabeat: When you summon this creature in the battle zone, put up to 2 creatures that have the "Jokers Over Explode" ability from your hand into the battle zone. At the End Step
+■ When you put this creature, if you have 5 or more Jokers in the battle zone, destroy all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DMRP-03- M1㊙3">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakogairu, Water Academy No. 9</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, shuffle your graveyard into your deck.
+■ At the start of your opponent's turn, draw 5 cards, then discard 3 cards from your hand.
+■ When you would lose the game by drawing the last card of your deck, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>9</manacost>
+        <colors>Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-03-S3">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DG ~The Thing Made By Man~</name>
+      <text>
+■ When you put this creature into the battle zone or whenever this creature taps, choose one of your shields and one of your opponent's. This creature breaks those chosen shields.
+■ All Metallica and Judgment Emblems added to your hand from your shields gets "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-03-1">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DG ~The Thing Made By Man~</name>
+      <text>
+■ When you put this creature into the battle zone or whenever this creature taps, choose one of your shields and one of your opponent's. This creature breaks those chosen shields.
+■ All Metallica and Judgment Emblems added to your hand from your shields gets "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-03-1㊙1">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DG ~The Thing Made By Man~</name>
+      <text>
+■ When you put this creature into the battle zone or whenever this creature taps, choose one of your shields and one of your opponent's. This creature breaks those chosen shields.
+■ All Metallica and Judgment Emblems added to your hand from your shields gets "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-03- 1㊙2">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cameralife</name>
+      <text>
+■ Joe
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has 4000 power or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-03-80">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Big Bang Flare</name>
+      <text>
+■ Bad Action Dynamite Spell 2 ''(You may reduce this spells cast cost by 2. If you do, discard a card from your hand.)''
+■ You may put a Beat Jockey from your hand. If you do, choose one of your opponent's creatures. Those 2 creatures battle. At the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-24">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Maruhavaan, Red Attack Silver</name>
+      <text>
+■ Sympathy: Creature that costs 3 or less ''(This creature costs 1 less to summon for each of your creatures that cost 3 or less in the battle zone. It can't cost less than 1.)''
+■ Blocker
+■ Whenever one of your creatures that cost 3 or less is destroyed, untap this creature.
+■ Whenever one of your creatures that cost 4 or more would be destroyed, you may destroy one of your creatures that cost 3 or less instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-03-S1">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gale Vesper of Heavenly Winds</name>
+      <text>
+■ Double Sympathy: Creatures that have power 12000 or more. ''(When you summon this creature, you may pay 2 less for each of your creatures in the battle zone that have power 12000 or more. It can't cost 0 or less.)''
+■ Triple Breaker
+■ Each of your creatures in your hand gets "Double Sympathy: Creatures that have power 12000 or more".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-03-S9">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gustav Albussar</name>
+      <text>
+■ Neo Evolution
+■ Double Breaker
+■ Kizuna
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-03-S4">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shocking Dantal</name>
+      <text>
+■ Destroy one of your creatures. Then put a creature that costs 1 more than that creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-20">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocoon Shanabagan</name>
+      <text>
+■ Super Shield Trigger
+■ Put the top 2 cards of your deck into your mana zone. Then return a card from your mana zone to your hand.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-28">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kolencoco Tank</name>
+      <text>
+■ Guardman
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, reveal the top 3 cards of your deck. From among them, put any number of creatures that have power 12000 or more into your hand, and the rest into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-03-27">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Staff, Misfortune Demon 82</name>
+      <text>
+■ Neo Evolution
+■ Kizuna
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-03-39">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rorocagetti</name>
+      <text>
+■ Neo Evolution
+■ Kizuna
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Gransect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-03-52">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Justy Luminarie</name>
+      <text>
+■ Shield Trigger
+■ You may put a non-evolution light creature that costs 5 or less from your hand into the battle zone.
+■ Labyrinth: If you have more shields than your opponent, you may put a non-evolution Metallica that costs 8 or less from your hand into the battle zone tapped.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-13">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyaribeta, Misfortune Demon 09</name>
+      <text>
+■ You may summon this creature from your graveyard.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-03-S5">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Skullbent Gades</name>
+      <text>
+■ Super Shield Trigger
+■ Put a non-evolution darkness creature that costs 8 or less from your graveyard into the battle zone.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-19">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tarutahoru</name>
+      <text>
+■ When you put this creature into the battle zone, you may reveal a creature that has power 12000 or more from your hand. If you do, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-03-92">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torkoi, Sound Stone</name>
+      <text>
+■ Neo Evolution
+■ Kizuna
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-03-30">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Synchro Spiral</name>
+      <text>
+■ Instead of paying the cost, you may tap 2 of your water creatures to cast this spell. 
+■ Choose one of your opponent's creatures and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-38">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fakepital</name>
+      <text>
+■ Shield Trigger
+■ Your opponent chooses a card from their hand and discards it.
+■ Return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-77">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bombardment Mutant</name>
+      <text>
+■ When this creature is put into your graveyard from anywhere, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-03-75">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Tantanmen</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-03-82">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hasaisaku</name>
+      <text>
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-03-87">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>HAL, Dimensional Wave Guide Magic</name>
+      <text>
+■ Super Shield Trigger
+■ Draw 2 cards.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-17">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jibabon 3 Brothers</name>
+      <text>
+■ Super Shield Trigger
+■ Destroy one of your opponent's creatures that has power 6000 or less. 
+■ If you have 6 or more Jokers in the battle zone or your mana zone, destroy one of your opponent's creatures that has power 12000 or less.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-23">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Law Guard, Geared for War</name>
+      <text>
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down.
+■ Whenever a card is added to your shields, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-03-31">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iwashin, One Man Army</name>
+      <text>
+■ When this creature is put into your graveyard from anywhere, you may draw a card. If you do, discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-03-36">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Revival of the Lost Forbidden Spell</name>
+      <text>
+■ Shield Trigger
+■ Cast a spell that costs 4 or less from your graveyard For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-03-37">DMRP-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

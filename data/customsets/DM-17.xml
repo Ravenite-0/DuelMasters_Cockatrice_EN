@@ -1,0 +1,300 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-17</name>
+      <longname>DM-17</longname>
+      <settype>DM-17</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Dual Shock Dragon</name>
+      <text>
+■ Strike Back
+■ Double Breaker
+■ When you put this creature into the battle zone, choose one of your shields and put it into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-17-S3">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tsunami Catastrophe</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your water or darkness cross gear.
+■ The crossed creature gets +2000 power.
+■ Whenever the crossed creature attacks, draw up to 2 cards. Then your opponent discards 2 cards from their hand.
+  </text>
+      <prop>
+        <maintype>Evolution Cross Gear</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-3">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prominence Catastrophe</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your fire or nature cross gear.
+■ The crossed creature has "power attacker +11000" and "triple breaker".
+■ If the crossed creature is a non-evolution Armored Dragon, whenever it attacks search your deck. You may put a creature from your deck that has the same Card Name
+  </text>
+      <prop>
+        <maintype>Evolution Cross Gear</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-5">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Variable Poker</name>
+      <text>
+■ Look at all your shields. Put any number of shields on the bottom of your deck in any order. Then add that many cards from the top of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-8">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Phantasm Clutch</name>
+      <text>
+■ Strike Back
+■ Destroy one of your opponent's tapped creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-14">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Big Nasdeen, Great Veggie King</name>
+      <text>
+■ Evolution—Put on one of your Wild Veggies.
+■ When you put this creature into the battle zone, count the number of civilizations in your mana zone. Then put a number of cards equal to that number from the top of your deck into your mana zone.
+■ Double Breaker
+■ When this creature is destroyed, return 2 cards from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Wild Veggies</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-17-18">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evolution Totem</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take an evolution creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+■ This creature gets +3000 power for each evolution creature in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mystery Totem</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DM-17-19">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Punish Hold</name>
+      <text>
+■ Strike Back
+■ Choose up to 2 of your opponent's creatures in the battle zone and tap them.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-23">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Denden Percussion</name>
+      <text>
+■ When this creature would leave the battle zone by the effect of one of your opponent's spells, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gargoyle</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-17-28">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flame Lance Trap</name>
+      <text>
+■ Strike Back
+■ Destroy one of your opponent's creatures that has power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-31">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ochappi, Pure Hearted Faerie</name>
+      <text>
+■ Strike Back
+■ When you put this creature into the battle zone, you may put a card from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-17-35">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tempest Baby</name>
+      <text>
+■ When you put this creature into the battle zone, draw up to 2 cards. Then put the same number of cards on top of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-17-42">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Synapse Cube</name>
+      <text>
+■ Look at the top 4 cards of your deck, then put them back in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-43">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mind Reset</name>
+      <text>
+■ Look at your opponent's hand and discard a spell from it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-17-47">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Byulah, Thief of the Red Wind</name>
+      <text>
+■ While you have no cards in your hand, this creature gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Feathernoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-17-51">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gardener, the Invoked</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose a cross gear in the battle zone and put it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wonder Trick</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-17-53">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dandy Nasuo</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. Put a card from your deck into your mana zone, and then put a card from your mana zone into your graveyard. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-17-55">DM-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

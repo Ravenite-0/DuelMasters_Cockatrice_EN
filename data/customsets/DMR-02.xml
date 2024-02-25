@@ -1,0 +1,716 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-02</name>
+      <longname>DMR-02</longname>
+      <settype>DMR-02</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Death Gate, Gate of Hell</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures. You may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-10">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iron Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-02-46">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iron Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-02- 46m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DNA Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ If you have 2 shields or less, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-6">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Superhero</name>
+      <text>
+■ When you put this creature into the battle zone, destroy all non-psychic creatures that have power 3000 or less. Then destroy all psychic creatures that have power 5000 or less.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-02-11">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Falcon, Counterattack Fortress</name>
+      <text>
+■ Castle Fortify
+■ Each of your Hunters in the battle zone gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Castle</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-12">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Falcon, Counterattack Fortress</name>
+      <text>
+■ Castle Fortify
+■ Each of your Hunters in the battle zone gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Castle</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02- 12m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Thunder</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, choose a player. That player puts cards from the top of their deck into their graveyard until 2 creatures have been put into their graveyard in this way.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-02-V1a">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Thunder</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, choose a player. That player puts cards from the top of their deck into their graveyard until 2 creatures have been put into their graveyard in this way.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-02- V1b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Tiger, Thunder Beast</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, your opponent discards a card at random from their hand. Then choose a creature that costs less than the discarded card in your graveyard and put it into the battle zone.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMR-02-V1b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volg Tiger, Thunder Beast</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, your opponent discards a card at random from their hand. Then choose a creature that costs less than the discarded card in your graveyard and put it into the battle zone.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMR-02-24b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Tiger</name>
+      <text>
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ Psychic Link: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-02-24a">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Tiger</name>
+      <text>
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ Psychic Link: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-02- 24am">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Tiger</name>
+      <text>
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ Psychic Link: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-02-24b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial White Blue Hole</name>
+      <text>
+■ Multi
+■ Put a psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ If you put a light psychic creature into the battle zone in this way, you may add a card in your hand to your shields face down. 
+■ If you put a water psychic creature into the battle zone in this way, this turn, your creatures can't be blocked.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-30">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Green White Hole</name>
+      <text>
+■ Put a psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ If you put a light psychic creature into the battle zone in this way, you may add a card from your hand to your shields face down.
+■ If you put a nature psychic creature into the battle zone in this way, you may return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-31">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deis Melnia, the Aqua Shadow</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't be blocked.
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Ghost/Alien</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-02-52">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deis Melnia, the Aqua Shadow</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't be blocked.
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Ghost/Alien</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-02- 52m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryusei Kaiser, the Eternal</name>
+      <text>
+■ Double Breaker
+■ Each of your creatures gets "speed attacker".
+■ Your opponent's creatures are put tapped.
+■ When this creature would be discarded by the effect of one of your opponent's spells or ability of an opponent's creature, you may put it instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-02-S3">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Gotsusan Hole</name>
+      <text>
+■ Multi
+■ Put a Darkness, Fire, or Nature psychic creature that costs 8 or less from your hyperspatial zone into the battle zone.
+■ Whenever an opponent's creature attacks, if you have a tooltip
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-20">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Gotsusan Hole</name>
+      <text>
+■ Multi
+■ Put a Darkness, Fire, or Nature psychic creature that costs 8 or less from your hyperspatial zone into the battle zone.
+■ Whenever an opponent's creature attacks, if you have a tooltip
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02- 20m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gil Fuji, Yokozuna</name>
+      <text>
+■ Whenever this creature wins a battle, you may untap it.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Command/Alien</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-02-2a">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gil Fuji, Yokozuna</name>
+      <text>
+■ Whenever this creature wins a battle, you may untap it.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Command/Alien</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-02- 2b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jealousy Bell</name>
+      <text>
+■ Shield Trigger
+■ Discard a card. Then your opponent discards 2 cards from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-15">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Jet (Charging Brotherhood!)</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. You may put a tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-02-7">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Jet (Charging Brotherhood!)</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. You may put a tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-02- 7m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chan Bell, Channeler of Suns</name>
+      <text>
+■ Double Breaker
+■ When this creature would be destroyed, you may discard a light creature instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-02-21">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chan Bell, Channeler of Suns</name>
+      <text>
+■ Double Breaker
+■ When this creature would be destroyed, you may discard a light creature instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-02- 21m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Raiden Hole</name>
+      <text>
+■ Put a darkness psychic creature that costs 6 or less from your hyperspatial zone into the battle zone.
+■ You may destroy one of your non-psychic creatures. If you do, put a darkness psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-43">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Raiden Hole</name>
+      <text>
+■ Put a darkness psychic creature that costs 6 or less from your hyperspatial zone into the battle zone.
+■ You may destroy one of your non-psychic creatures. If you do, put a darkness psychic creature that costs 5 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02- 43m">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Komusubi Flower</name>
+      <text>
+■ Your opponent's creatures must block if able.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Living Dead/Alien</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-02-25a">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Komusubi Flower</name>
+      <text>
+■ Your opponent's creatures must block if able.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Living Dead/Alien</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-02-25b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Unryu Deis Izu, Great Yokozuna</name>
+      <text>
+■ Your opponent's creatures must block if able.
+■ Whenever this creature wins a battle, untap it.
+■ Each of your other Aliens in the battle zone gets +5000 power.
+■ Quattro Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Sumo Wrestler Command Dragon/Alien</type>
+        <manacost>20</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>20000</pt>
+      </prop>
+      <set num="DMR-02-2b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Unryu Deis Izu, Great Yokozuna</name>
+      <text>
+■ Your opponent's creatures must block if able.
+■ Whenever this creature wins a battle, untap it.
+■ Each of your other Aliens in the battle zone gets +5000 power.
+■ Quattro Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Sumo Wrestler Command Dragon/Alien</type>
+        <manacost>20</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>20000</pt>
+      </prop>
+      <set num="DMR-02-25b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Ohzeki Hamlet</name>
+      <text>
+■ Each of your other Aliens in the battle zone gets +2000 power.
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Wild Veggies/Alien</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-02-28a">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Ohzeki Hamlet</name>
+      <text>
+■ Each of your other Aliens in the battle zone gets +2000 power.
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Wild Veggies/Alien</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-02-28b">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thunder Blade, Wolf Tiger</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-02-S2">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Insight Indigo Kaiser</name>
+      <text>
+■ Double Breaker
+■ Whenever your opponent summons a creature or casts a spell, this turn, your opponent's creatures can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-02-1">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Switch Reincarnation</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature and return it to its owner's hand. Then that player may put a creature from their hand that costs less than the chosen creature.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-8">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Formation in the Springs</name>
+      <text>
+■ Shield Trigger
+■ If you have a water or nature creature in the battle zone, put a creature that costs 5 or less from your graveyard into the battle zone. Otherwise, put a creature that costs 3 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-02-37">DMR-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,627 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-66</name>
+      <longname>DMC-66</longname>
+      <settype>DMC-66</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Alphadios, Lord of Spirits</name>
+      <text>
+■ Evolution—Put on one of your Angel Commands. 
+■ Players can't summon creatures other than light creatures or cast spells other than light spells. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>10</manacost>
+        <colors>Light</colors>
+        <pt>15500</pt>
+      </prop>
+      <set num="DMC-66-1">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dragon</name>
+      <text>
+■ While attacking, this creature gets +1000 power for each fire card in your graveyard.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-66-32">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fighter Dual Fang</name>
+      <text>
+■ Evolution—Put on one of your Beast Folk.
+■ When you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-66-15">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emeral</name>
+      <text>
+■ When you put this creature into the battle zone, you may add a card from your hand to your shields face down. If you do, choose one of your shields and put it into your hand. You can't use the "shield trigger" ability of that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-66-36">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Überdragon Bajula</name>
+      <text>
+■ Evolution—Put on one of your creatures that has Dragon in its race. 
+■ Whenever this creature attacks, choose up to 2 cards in your opponent's mana zone. Your opponent puts those cards into his graveyard. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-66-11">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Syrius, Firmament Elemental</name>
+      <text>
+■ Blocker
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>11</manacost>
+        <colors>Light</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-66-3">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Cataclysm</name>
+      <text>
+■ Choose up to 3 of your opponent's shields and put them into his graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>13</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-66-33">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Petrova, Channeler of Suns</name>
+      <text>
+■ When you put this creature into the battle zone, choose a race other than Mecha Del Sol. Each creature of that race gets +4000 power.
+■ Whenever your opponent would choose a creature in the battle zone, he Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMC-66-5">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death Phoenix, Avatar of Doom</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on one of your Zombie Dragons and one of your Fire Birds.
+■ Double Breaker
+■ Whenever this creature would break a shield, your opponent puts that shield into his graveyard instead.
+■ When this creature leaves the battle zone, your opponent discards his hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-66-21">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dolgeza, Strong Striker</name>
+      <text>
+■ Multi
+■ Sympathy
+■ When you put this creature into the battle zone, you may draw a card for each of your Earth Eaters in the battle zone. Then you may draw a card for each of your Giants in the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater/Giant</type>
+        <manacost>8</manacost>
+        <colors>Water/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-66-20">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolberg Cross Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ You may cross your cross gear in the battle zone with this creature For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-66-13">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dulanzames, Jet-Black War Demon</name>
+      <text>
+■ Gravity Zero
+■  When you put this creature into the battle zone, return all creatures in your graveyard to your hand.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>12</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-66-29">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prominence Catastrophe</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your fire or nature cross gear.
+■ The crossed creature has "power attacker +11000" and "triple breaker".
+■ If the crossed creature is a non-evolution Armored Dragon, whenever it attacks search your deck. You may put a creature from your deck that has the same Card Name
+  </text>
+      <prop>
+        <maintype>Evolution Cross Gear</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-66-34">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Supernova Venus la Saint Mother</name>
+      <text>
+■ Galaxy Vortex evolution—Put on top of 3 of your Guardians, Great Mecha Kings, and/or Arc Seraphims.
+■ Meteorburn—When this creature would leave the battle zone, you may put a card under this creature into your graveyard instead.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DMC-66-2">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geki, Dragon Ultimate God</name>
+      <text>
+■ Whenever this creature is blocked, your opponent discards their hand.
+■ Double Breaker
+■ God Link (tooltip
+■ While this creature is linked, it has "quattro breaker". (''A creature that has "Quattro breaker" breaks 4 shields'').
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMC-66-30">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metsu, Dragon Ultimate God</name>
+      <text>
+■ Whenever this creature attacks your opponent and isn't blocked, you may destroy one of your opponent's creatures that has power 3000 or less.
+■ Double Breaker
+■ God Link (tooltip
+■ Whenever this creature attacks while linked, you may choose up to 2 cards in your opponent's mana zone and put them into their owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMC-66-31">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Earth, Planetary Dragon</name>
+      <text>
+■ Double Breaker
+■ Each card put into your hand from your shield zone gets "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>World Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-66-24">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ballom Emperor, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ When you put this creature into the battle zone, destroy all creatures except darkness creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-66-9">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Supernova Neptune Shutrom</name>
+      <text>
+■ Galaxy Vortex evolution—Put on top of 3 of your Grand Devils, Demon Commands, and/or Angel Commands.
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, your opponent  puts all their creatures in the battle zone on the top of their deck in any order.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-66-6">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dragon, the Temporal Blaze</name>
+      <text>
+■ While attacking, this creature gets +1000 power for each fire card in your graveyard.
+■ Double Breaker
+■ Awaken—When this creature wins a battle, Bolshack Möbius, Victory Awakened
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-66-10a">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Möbius, Victory Awakened</name>
+      <text>
+■ Whenever this creature attacks, you may put one of your shields into your graveyard. If you do, you may destroy one of your opponent's creatures that has power 6000 or less.
+■ Each turn, you may untap this creature the first time it is tapped.
+■ While attacking, this creature gets +1000 power for each fire card in your graveyard.
+■ Triple Breaker
+■ Release
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>14</manacost>
+        <colors>Fire</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DMC-66-10b">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beginning Romanov, Lord of the Demonic Eye</name>
+      <text>
+■ Graveyard Galaxy Vortex evolution—Choose 3 darkness creatures in your graveyard and put this creature into the battle zone on top of those creatures.
+■ Meteorburn—Whenever this creature attacks, you may choose any number of cards under this creature and put them into your graveyard. For each card put into your graveyard in this way, choose a card in your opponent's hand at random. Then your opponent reveals that card and puts that card on the bottom of their deck.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-66-8">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Darkness Romanov, the Enlightened</name>
+      <text>
+■ Ultimate evolution: Put on one of your evolution creatures.
+■ Double Breaker
+■ When you put this creature, look at your opponent's hand, choose up to 2 cards and your opponent discards them.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dark Lord/Lunatic Emperor/Knight</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMC-66-35">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Galaxy, Immortality Elemental</name>
+      <text>
+■ Double Breaker
+■ Shield Force
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-66-26">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Draghurricane Energy</name>
+      <text>
+■ Shield Trigger
+■ Launcher Energy
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-66-17">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Astral Reef</name>
+      <text>
+■ Evolution—Put on one of your Cyber Viruses.
+■ When you put this creature, you may draw 3 cards.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Cyber Virus</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-66-28">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Milzam, Miracles Elemental</name>
+      <text>
+■ Blocker
+■ Ultra Shield Plus—When you put this creature into the battle zone, you may put up to 5 cards from the top of your deck under one of your shields. ''(Each card stack is still considered to be one shield.)''
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMC-66-4">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rising NEX, the Enlightened</name>
+      <text>
+■ Ultimate Evolution—Put on one of your evolution Armored Dragons or evolution Fire Birds.
+■ When you put this creature into the battle zone, your opponent chooses one of their creatures in the battle zone that has the lowest power and destroys it.
+■ God Slayer ''(Whenever this creature battles a God, destroy the God after the battle.)''
+■ Triple Breaker
+■ When this creature is destroyed, your opponent chooses one of their creatures in the battle zone that has the lowest power and destroys it. Then destroy your creature in the battle zone that has the lowest power. Then you may put a non-evolution Dragon from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Lunatic Emperor/Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-66-12">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Skull Moon, the Enlightened</name>
+      <text>
+■ Ultimate evolution—Put on one of your evolution creatures.
+■ Triple Breaker
+■ When this creature would be destroyed, you may destroy one of your opponent's creatures instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Lunatic Emperor/Dark Lord</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-66-7">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiden Galaxy, Super Champ</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on top of 2 of your Angel Commands and/or creatures that have Dragon in their race.
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks for the first time this turn, you may put up to 2 cards under this creature into your graveyard. If you put a Dragon into your graveyard this way, untap this creature. If you put an Angel Command into your graveyard this way, whenever this creature would be destroyed this turn, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Armored Dragon/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMC-66-19">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Supernova Bigbang Anastasis</name>
+      <text>
+■ Galaxy Vortex evolution—Put on top of 3 of your Arc Seraphims, Dreammates, and/or Great Mecha Kings.
+■ Blocker
+■ When you put this creature into the battle zone, reveal the top 5 cards of your deck. You may summon any number of creatures from among them For No Cost
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-66-14">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silver Glory, Invincible Fortress</name>
+      <text>
+■ Castle Fortify
+■ Your creatures Win All Battles
+■ If the fortified shield isn't fortified by any other castles, whenever the fortified shield would be broken by your opponent's creatures, you may return one of your other shields to your hand instead.
+  </text>
+      <prop>
+        <maintype>Castle</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-66-27">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Violence Thunder, Extreme Dragon Wizard</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ Whenever this creature attacks your opponent and isn't blocked, draw 3 cards, your opponent discards 3 cards at random from their hand, and you may destroy one of your opponent's creatures that has power 6000 or less.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Poseidia Dragon/Zombie Dragon/Armored Dragon</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-66-23">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spell Del Fin, Light Divine Dragon</name>
+      <text>
+■ Your opponent plays with their hand Face Up
+■ This creature gets +2000 power for each spell in your opponent's hand.
+■ Your opponent can't cast spells.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-66-25">DMC-66</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

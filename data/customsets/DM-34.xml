@@ -1,0 +1,416 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-34</name>
+      <longname>DM-34</longname>
+      <settype>DM-34</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Heracles, Birther of Gods</name>
+      <text>
+■ When you tap mana to summon this creature, the Mana Number
+■ When you put this creature into the battle zone, you may return any number of Gods from your mana zone to your hand.
+■ Your Gods each cost 3 less to summon. They can't cost less than 1.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaia Command</type>
+        <manacost>12</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM-34-S5">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White Knight Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-34-8">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Cross NEX</name>
+      <text>
+■ Speed Attacker
+■ Power Attacker
+■ Triple Breaker
+■ Players can't summon creatures that cost 4 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DM-34-秘1">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Cross NEX</name>
+      <text>
+■ Speed Attacker
+■ Power Attacker
+■ Triple Breaker
+■ Players can't summon creatures that cost 4 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DM-34-S4">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eternal Moon, the Enlightened White Knight</name>
+      <text>
+■ Ultimate evolution—Put on one of your light evolution creatures.
+■ Double Breaker
+■ While this creature is tapped and you have no shields, your opponent's creatures can't attack you. ''(Your creatures can still be attacked.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Lunatic Emperor/Angel Command</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-34-S1">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beginning Romanov, Lord of the Demonic Eye</name>
+      <text>
+■ Graveyard Galaxy Vortex evolution—Choose 3 darkness creatures in your graveyard and put this creature into the battle zone on top of those creatures.
+■ Meteorburn—Whenever this creature attacks, you may choose any number of cards under this creature and put them into your graveyard. For each card put into your graveyard in this way, choose a card in your opponent's hand at random. Then your opponent reveals that card and puts that card on the bottom of their deck.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM-34-S3">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lord Gou Ken ~Symphony of Swords~</name>
+      <text>
+■ Evolution—Put on one of your creatures that has tooltip
+■ Soulshift
+■ Tap Ability
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Flame Monster</type>
+        <manacost>17</manacost>
+        <colors>Fire</colors>
+        <pt>16000</pt>
+      </prop>
+      <set num="DM-34-15">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wan Ken, Crimson Lord ~Full Speed Ahead~</name>
+      <text>
+■ Evolution—Put on one of your creatures that has Ken, Crimson Lord in its name.
+■ When you put this creature into the battle zone, look at the top 2 cards of your deck and put one of these on the bottom of your deck.
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Blue Monster/Flame Monster</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-34-10">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Überdragon Galactica "Sword Flash" Dragon</name>
+      <text>
+■ Evolution—Put on one of your Fire Birds.
+■ Whenever one of your creatures that has Dragon in its race attacks, reveal the top card of your deck. If that card is a creature you may put it under this creature. ''(If you don't, return the card to the top of your deck face down.)''
+■ Meteorburn—Whenever this creature attacks, you may put 3 cards under this card into your graveyard. If you do, choose any number of your opponent's creatures that have total power 9000 or less and destroy them. If you put a Dragon that has Sword Flash in its Card Name
+■ Double breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM-34-4">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reaper Hand</name>
+      <text>
+■ Destroy one of your opponent's creatures.
+■ If you have a creature that has "Reaper" in its name in the battle zone, your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-34-47">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Luluke "Shigen" Lupia</name>
+      <text>
+■ Whenever one of your Dragons that has "Sword Flash" in its Card Name
+■ Saver: Dragons that have "Sword Flash" in their name. ''(If one of your Dragons that has "Sword Flash" in its Card Name
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Samurai</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-34-31">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kagekiri, Bird of Fire</name>
+      <text>
+■ Evolution—Put on one of your Fire Birds or Origins.
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, untap this creature.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Fire Bird/Origin</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-34-16">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Massu Lupia</name>
+      <text>
+■ Each of your other creatures in the battle zone that have NEX or Lupia in its name gets +1000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-34-53">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mach Lupia</name>
+      <text>
+■ Your creatures that have NEX in their name each cost 1 less to summon. They can't cost less than 1. 
+■ Each of your Armored Dragons in the battle zone has "speed attacker".
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-34-49">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Burster</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may destroy this creature. If you do, choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Origin</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-34-40">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death Circle, the Explosive Shadow</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may destroy this creature. If you do, your opponent chooses one of their untapped creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-34-45">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Twilight Sigma, the Super-Electric</name>
+      <text>
+■ Evolution—Put on one of your creatures that has Cyber in its race.
+■ Double Breaker
+■ When you put this creature into the battle zone, you may return any number of your non-evolution creatures that have "Cyber" in their race from the battle zone to your hand. For each returned creature, you may put a non-evolution creature that has "Cyber" in its race from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Cyber Command</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-34-S2">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Time Changer, Space-Time Engineer</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your evolution creatures in the battle zone. If you do, search your deck and you may take up to 2 creatures from your deck, show them to your opponent, and put them under the chosen evolution creature. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-34-26">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Timeless Garden</name>
+      <text>
+■ Put the top card of your deck into your mana zone. Then you may put a creature from your mana zone under one of your evolution creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-34-20">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balga Raizou, the Super-Heavenly Nova</name>
+      <text>
+■ Mana Galaxy Vortex evolution—Choose 3 Dragons in your mana zone and put this creature into the battle zone on top of those creatures.
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks, you may put 3 cards under this creature into your graveyard. If you do, reveal the top 3 cards of your deck. You may put any non-evolution Dragons you reveal into the battle zone. Put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Earth Dragon/Phoenix/Samurai</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM-34-5">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nyanjiro, Treasure Cat</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-34-52">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emperor Maribel</name>
+      <text>
+■ Evolution—Put on one of your creatures that has Cyber in its race or one of your Origins.
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Cyber Lord/Origin</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-34-11">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Phantom Lion's Flame</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Destroy one of your opponent's creatures that has power 2000 or less. 
+:► Choose one of your opponent's cross gear in the battle zone and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-34-51">DM-34</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

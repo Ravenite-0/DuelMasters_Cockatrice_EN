@@ -1,0 +1,344 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-25</name>
+      <longname>DMC-25</longname>
+      <settype>DMC-25</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Brawler Zyler</name>
+      <text>
+■ Power Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-25-42">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volcano Charger</name>
+      <text>
+■ Destroy one of your opponent's creatures that has power 2000 or less.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-25">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Langren, the Lone Wolf</name>
+      <text>
+■ This creature can't attack if there is another untapped creature in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-25-40">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zack Ranba, the Sword Attacker</name>
+      <text>
+■ While all cards in your mana zone are tapped, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-25-43">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crimson Back Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have "blocker" and power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-25-7">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-9">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zyler's Lighter</name>
+      <text>
+■ While all cards in your mana zone are fire cards, this creature gets +1000 power and "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-25-21">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chitta Peloru</name>
+      <text>
+■ All Dragons in the battle zone can attack untapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-25-23">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drill Bowgun</name>
+      <text>
+■ Choose one of your opponent's cross gear and put it into its owner's graveyard. Then if the creature that was crossed with that cross gear has power 2000 or less, destroy that creature.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-24">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crimson Rifle</name>
+      <text>
+■ Cross Gear Effect
+■ Instead of having the crossed creature attack, you may tap it to use this Tap ability.
+:Tap Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-27">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Explosion Lizard</name>
+      <text>
+■ Shield Trigger
+■ Power Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Melt Warrior</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-25-37">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pyuzero, Prince of the South Wind</name>
+      <text>
+■ This creature attacks each turn if able.
+■ Power Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Feathernoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-25-41">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fire Blade</name>
+      <text>
+■ Cross Gear Effect
+■ The crossed creature gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-45">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metalchaos Dragon</name>
+      <text>
+■ Double Breaker
+■ Accelerator
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-25-2">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sharion, Hunter of the West Wind</name>
+      <text>
+■ Your cross gear each cost 1 less to generate or cross. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Feathernoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-25-8">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyulcas, Sage of the East Wind</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a cross gear from your deck, show that cross gear to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Feathernoid</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-25-20">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Inferno Scissors</name>
+      <text>
+■ Shield Trigger
+■ Cross Gear Effect
+■ Whenever the crossed creature attacks, you may destroy any number of your opponent's creatures that have total power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-26">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magma Colossus</name>
+      <text>
+■ Power Attacker
+■ This creature attacks each turn if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Big Muscle</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMC-25-38">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mysterious, Armed Soldier</name>
+      <text>
+■ Accelerator
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-25-39">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Screw Rocket</name>
+      <text>
+■ Choose one of your opponent's cross gear and put it into its owner's graveyard.
+■ Metamorph
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-25-44">DMC-25</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

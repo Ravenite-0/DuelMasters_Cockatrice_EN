@@ -1,0 +1,284 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-20</name>
+      <longname>DMSD-20</longname>
+      <settype>DMSD-20</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-17">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Riku, the Oracle</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, if you have 2 shields or less, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-20-12">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chotto Q (Regari Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Jokers/Earth Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-20-14">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ov Sidia (Southern Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, draw a card for each of your creatures that cost 4 or less in the battle zone.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Angel Command Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-20-7">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark (Galaxy Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+■ Double Breaker
+■ Whenever your creatures would leave, you may put 2 of your tamaseeds on the bottom of your deck in any order instead.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Master Dragon/Angel Command/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMSD-20-2">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark (Galaxy Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+■ Double Breaker
+■ Whenever your creatures would leave, you may put 2 of your tamaseeds on the bottom of your deck in any order instead.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Master Dragon/Angel Command/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMSD-20- ㊙1">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helcopta's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, look at the top 4 cards of your deck. You may take an evolution creature from among them, show that creature to your opponent, and put it into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-16">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Khanen's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, reveal the top 3 cards of your deck. You may take an evolution creature and a tamaseed from among them, and put them into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-13">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gelacho's Memory</name>
+      <text>
+■ Shield Trigger
+■ Shinkarise
+■ When you put this tamaseed, draw a card, then your opponent chooses one of their untapped creatures and taps it.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-5">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Slotton's Memory</name>
+      <text>
+■ Shield Trigger
+■ Shinkarise
+■ When you put this tamaseed, choose one of the following.
+:► Draw a card.
+:► Put a light evolution creature that costs 7 or less from your hand. That creature gets "blocker" until the start of your next turn. ''(You may tap a creature that has "blocker" to change the attack target of your opponent's creature to that creature.)''
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-8">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goichigo Captain</name>
+      <text>
+■ Shield Trigger
+■ This creature is put tapped.
+■ If you have a tamaseed, this creature gets +4000 power and "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+■ Whenever an opponent's creature attacks, they must attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMSD-20-10">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crysta (Voyage Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+■ Each of your evolution creatures cost 1 less to summon and your tamaseeds cost 1 less to use. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Rainbow Phantom/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMSD-20-11">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jasmine's Rune</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, put the top card of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Snow Faerie/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-15">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shield Knight (Absolute Star)</name>
+      <text>
+■ This creature costs 2 less to summon if you evolve from a tamaseed.
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, choose one of the following.
+:► Choose one of your opponent's creatures or tamaseeds that cost 4 or less. Your opponent's shieldify
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Phoenix/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMSD-20-6">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bainaradoor's Memory</name>
+      <text>
+■ Shield Trigger
+■ Shinkarise
+■ When you put this tamaseed, choose one of your opponent's creatures and put it into it's owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-20-9">DMSD-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

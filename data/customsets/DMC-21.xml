@@ -1,0 +1,296 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-21</name>
+      <longname>DMC-21</longname>
+      <settype>DMC-21</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Critical Blade</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-21-79">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Horrid Worm</name>
+      <text>
+■ Whenever this creature attacks, your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Parasite Worm</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-21-69">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Soul</name>
+      <text>
+■ Your opponent discards all cards from his hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-21-32">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Angler Cluster</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ While all the cards in your mana zone are water cards, this creature gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Cluster</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMC-21-62">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scratchclaw</name>
+      <text>
+■ Slayer
+■ This creature gets +1000 power for each other darkness creature you have in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-21-11">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Snake Attack</name>
+      <text>
+■ Each of your creatures in the battle zone gets "double breaker" until the End Step
+■ Choose one of your shields and put it into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-21-77">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Locomotiver</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-21-28">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pyrofighter Magnus</name>
+      <text>
+■ Speed Attacker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-21-85">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sopian</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-21-61">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Frost Specter, Shadow of Age</name>
+      <text>
+■ Evolution—Put on one of your Ghosts.
+■ Each of your Ghosts in the battle zone has "slayer." ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-21-5">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Propeller Mutant</name>
+      <text>
+■ When this creature is destroyed, your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-21-73">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Venom Charger</name>
+      <text>
+■ One of your creatures in the battle zone gets "slayer" until the End Step
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-21-33">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dimension Splitter</name>
+      <text>
+■ When you put this creature into the battle zone, you may return all creatures that have Dragon in their race from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Brain Jacker</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-21-30">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trixo, Wicked Doll</name>
+      <text>
+■ Whenever this creature is attacking your opponent and isn't blocked, your opponent chooses one of his creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-21-67">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zombie Carnival</name>
+      <text>
+■ Shield Trigger
+■ Choose a race. Return up to 3 creatures of that race from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-21-74">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Melnia, the Aqua Shadow</name>
+      <text>
+■ Multi
+■ This creature can't be blocked.
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Ghost</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-21-44">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Zekira</name>
+      <text>
+■ When you put this creature, destroy one of your creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-21-29">DMC-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

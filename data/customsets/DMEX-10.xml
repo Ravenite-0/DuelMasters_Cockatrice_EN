@@ -1,0 +1,592 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMEX-10</name>
+      <longname>DMEX-10</longname>
+      <settype>DMEX-10</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Snake Attack</name>
+      <text>
+■ Each of your creatures in the battle zone gets "double breaker" until the End Step
+■ Choose one of your shields and put it into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-32">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galek, the Shadow Warrior</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker." Then your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost/Human</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-22">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Time Tripper, Shadow of Stagnation</name>
+      <text>
+■ Whenever your opponent's puts a card into their mana zone, tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-10-8">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flame Lance Trap</name>
+      <text>
+■ Strike Back
+■ Destroy one of your opponent's creatures that has power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-21">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Triple Mouth, Decaying Savage</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-42">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kodamanma, All-Devouring Doll</name>
+      <text>
+■ When you put this creature into the battle zone, return one of your shields to your hand. You can't use the "shield trigger" ability of that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-31">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kodamanma, Gil Gil Doll</name>
+      <text>
+■ When you put this creature into the battle zone, return one of your shields to your hand. You can't use the "shield trigger" ability of that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-34">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vice Kaiser Zeta, the Vengeance</name>
+      <text>
+■ For each spell in your opponent's graveyard, this creature costs 1 less to summon. It can't cost less than 1.
+■ When you put this creature into the battle zone, your opponent reveals their hand and discards all spells from it.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Black Command Dragon/Alien</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-10-7">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Barrel, Western Doll</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-30">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bone Dance Charger</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-33">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Nasuo</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then put a card from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies/Alien</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-10-37">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Entertainer of Stealing and Lying</name>
+      <text>
+■ If you have other creatures in the battle zone, this creature can't be attacked. 
+■ Whenever your opponent puts a creature into the battle zone without paying its cost, destroy that creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Dark Lord</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-10-6">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Honenbe, Skeletal Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, you may put the top 3 cards of your deck into your graveyard. If you do, you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-10-18">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Devil Hand</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+■ You may put the top 3 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-19">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arima and Kicker, Quiche Ban Ban</name>
+      <text>
+■ Mana Reburst
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-10-36">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shibakage Hitoshi</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Mana Arms 5: At the start of your turn, if you have 5 or more darkness cards in your mana zone and this creature is in your graveyard, put the top 5 cards of your deck into your graveyard. If you do, put this creature into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-16">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Masters, Demon Dragon</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, look at your opponent's hand and discard up to 3 cards from it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-10-1">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iron Fist of Revolution</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may cast this spell For No Cost
+■ Reveal the top 4 cards of your deck and choose a fire creature from among them. Destroy one of your opponent's creatures that has the same as or less power than that creature.
+■ After you cast this spell, shuffle it into your deck instead of your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-9">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Myscu, Mirage</name>
+      <text>
+■ When you put this creature into the battle zone, choose a creature and put it into its owner's mana zone. Then that player shuffles their deck and reveals the top card. If it's a creature, that player may put it in the battle zone For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mystery Totem/Invader</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-10-4">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romanov the 2nd, Demonic Eye Hierophant</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put the top 5 cards of your deck into your graveyard. From among them, you may cast a spell that costs 6 or less For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMEX-10-S1">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Life</name>
+      <text>
+■ Look at the top 2 cards of your deck. Put one of them into your mana zone, and the other into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-28">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Lost, Dark Armor</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ At the start of your turn, if this creature is in your graveyard, you may put one of your shields into your graveyard. If you do, put this creature into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Knightmare/Revolutionary</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-10-17">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mega Magma Dragon</name>
+      <text>
+■ This creature costs 1 less to summon for each of your opponent's creatures in the battle zone. It can't cost 0 or less.
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy all creatures that have 5000 power or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMEX-10-S2">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kodamadance Charger</name>
+      <text>
+■ Return one of your shields to your hand. You can't use the "shield trigger" ability of that shield.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-20">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kizamu, Forbidden V</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Initials</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-10-11">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reload Charger</name>
+      <text>
+■ You may discard a card. If you do, draw a card.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-23">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Burgmaru-Kun</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+■ When this creature is destroyed, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-10-40">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bell Hell De Skull, Moon Reaper</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may return a card from your mana zone or graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-10-13">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hexpain, Invincible Reaper</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. Add one to your hand, put one into your graveyard, and put one into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Giant</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-10-25">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Linnevenus, M Demon Dragon</name>
+      <text>
+■ Slayer
+■ Double Breaker
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon/Initials</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-10-5">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nurgle, Forbidden X</name>
+      <text>
+■ Whenever one of your opponent's creatures attacks and isn't blocked, destroy this creature. Then destroy the attacking creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initials</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-10-41">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Colorful Nasuo</name>
+      <text>
+■ When you put this creature into the battle zone, put the top 4 cards of your deck into your mana zone tapped. Then put 4 cards from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-10-10">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Domanmodrange</name>
+      <text>
+■ Triple Breaker
+■ During your turn, you may summon a creature from your mana zone.
+■ Whenever you put another creature into the battle zone, your opponent chooses and discards a card.
+■ Fushigiverse
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon/Fushigi Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMEX-10-S4">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oniyose's Jutsu</name>
+      <text>
+■ Choose one of your shields and add it to your hand. You can't use the "shield trigger".
+■ This turn, the next darkness or fire creature you summon may cost up to 4 less to summon. It can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-10-12">DMEX-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,1042 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMEX-03</name>
+      <longname>DMEX-03</longname>
+      <settype>DMEX-03</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Dimension Gate</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-69">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Cataclysm</name>
+      <text>
+■ Choose up to 3 of your opponent's shields and put them into his graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>13</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-38">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Siren Concerto</name>
+      <text>
+■ Shield Trigger
+■ Put a card from your mana zone into your hand. Then put a card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-53">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Irvine, the Spydroid</name>
+      <text>
+■ Metamorph
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Soltrooper</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-03-51">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noble Enforcer</name>
+      <text>
+■ Cross Gear Effect 
+■ The crossed creature can't be attacked or blocked by creatures that have power 2000 or less.
+■ While this card isn't crossed with a creature, creatures that have power 2000 or less can't attack or block.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-46">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shadowwave Cyclone</name>
+      <text>
+■ Cyclone
+■ Choose a card in the battle zone or either player's mana zone, and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-45">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Last Violence</name>
+      <text>
+■ Multi
+■ Add the top card of your deck to your shields face down.
+■ Destroy one of your opponent's non-multicolored creatures.
+■ Your opponent chooses 2 non-multicolored cards in their mana zone and puts them into their graveyard.
+■ Search your deck. You may take a multicolored creature from it, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-49">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chief De Baula, Machine King of Mystic Light</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-03-42">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloody Cross</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard. Then your opponent puts the top 2 cards of their deck into their graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-67">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Open Brain</name>
+      <text>
+■ Shield Trigger
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-66">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oboro Kagerou, Moonlight Mecha</name>
+      <text>
+■ When you put this creature, you may draw a card for each civilization in your mana zone. Then put the same number of cards you drew from your hand on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-03-65">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Logic Circle</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a spell from your deck, and show that spell to your opponent. Then shuffle your deck and put that spell on top of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-64">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Hot Spring</name>
+      <text>
+■ Destroy all creatures that cost 3 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-56">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codenight Star in the Love</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy all other creatures. If you do, put all your shields into your graveyard. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMEX-03-12">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Carol, Gokigen Shout</name>
+      <text>
+■ When this creature would be put into your graveyard from anywhere, if you have a water card and a fire card in your mana zone, return this creature to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-29">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Schumacher, New World</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, each player discards their hand. Then they may each draw up to 5 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-03-S6">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ninjariban, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a  dragheart that costs 3 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare/Draguner</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-03-54">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Xf Croce Fuoco, Dragment Symbol</name>
+      <text>
+■ Gravity Zero
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, each player shuffles all cards in their graveyard into their deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-03-43">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hellborof, Supreme Dragon Ruler</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put a dragheart that costs 3 or less or a darkness dragheart that costs 5 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ When you put this creature into the battle zone, you may put the top 2 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon/Funky Knightmare/Draguner</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-03-47">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Double Life, Continuous Chant</name>
+      <text>
+■ Put the top 2 cards of your deck into your mana zone.
+■ Recycle
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-68">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Myscu, Mirage</name>
+      <text>
+■ When you put this creature into the battle zone, choose a creature and put it into its owner's mana zone. Then that player shuffles their deck and reveals the top card. If it's a creature, that player may put it in the battle zone For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mystery Totem/Invader</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-03-39">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Revolution Taiman</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature. Until your next turn, that creature gets +4000 power and can't attack players.
+■ Revolution 2—If you have 2 shields or less, until the start of your next turn your opponent's creatures can't attack you.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-57">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus Black Dragon</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy one of your opponent's creatures.
+■ Whenever this creature would break a shield, your opponent puts that shield into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMEX-03-30">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Phoenix Life</name>
+      <text>
+■ Look at the top 2 cards of your deck. Put one of them into your shields face down, and put the other into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Phoenix</type>
+        <manacost>4</manacost>
+        <colors>Light/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-28">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolberg "Shori" Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Samurai Generation
+■ You may cross your cross gear with this creature For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMEX-03-18">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zakira, Ultimate Lifeform</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures.
+■ You may summon this creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Demon Command/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-03-13">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parasking, Revolution Invasionkind</name>
+      <text>
+■ Evolution—Put on one of your creatures.
+■ Invasion
+■ Triple Breaker
+■ Your cards in the battle zone are considered to be cards of every civilization.
+■ Revolution 2—If you have 2 shields or less, your creatures may cost up to 5 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Jurassic Command Dragon/Revolutionary/Invader</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMEX-03-S7">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Overkill Graveyard</name>
+      <text>
+■ Each of your creatures gets "slayer." ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-55">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bell Hell De Skull, Moon Reaper</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may return a card from your mana zone or graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-03-31">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>VV-8, Forbidden Machine</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, look at the top 5 cards of your deck and put 2 of them into your hand. Put 3 seals on this creature.
+■ Forbidden Mechanism: When this creature has no seals on it, take an extra turn after this one. 
+■ Seal
+  </text>
+      <prop>
+        <maintype>Forbidden Creature</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>12345</pt>
+      </prop>
+      <set num="DMEX-03-L1">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mishra, Triple Star Iron Man</name>
+      <text>
+■ Multi
+■ Revolution Change
+■ Double Breaker
+■ When you put this creature into the battle zone, search your deck. You may choose a multicolored Dragon, show it to your opponent and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMEX-03-S10">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>ZERO Hand</name>
+      <text>
+■ ZERO
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-14">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-48">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jojojo Jokers</name>
+      <text>
+■ Look at the top 4 cards of your deck. You may choose a Jokers creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-50">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bainaradoor</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, if you have a total of 3 or more Jokers in the battle zone or your mana zone, choose one of your opponent's creatures and put it on the bottom of their deck. Then draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-41">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yattareman</name>
+      <text>
+■ Your Jokers cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-59">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pali Nights</name>
+      <text>
+■ When you put this creature, put a card from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-2">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faywon, Green Knowledge Silver</name>
+      <text>
+■ When you put this creature into the battle zone, you may tap one of your creatures. If you do, draw a card.
+■ You may untap this creature to change your opponent's creatures attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMEX-03-5">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chocolate House</name>
+      <text>
+■ Whenever this creature attacks, put a card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-03-58">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beginning the Merabeat</name>
+      <text>
+■ Speed Attacker
+■ Master Merabeat: When you summon this creature into the battle zone, put a Jokers that has a "Jokers Over Explode" ability from your hand into the battle zone. End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-03-G3">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Golden the Johnny</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Master Blaster ''(Whenever this creature attacks, if you have a total of 4 or more Jokers in the battle zone or mana zone, choose one of your opponent's cards in the battle zone and put it on the bottom of their deck.)''
+■ Your opponent can only cast 1 spell each turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DMEX-03-G2">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master of Duel</name>
+      <text>
+■ Sympathy: Human, Outrage, Jokers ''(This creature costs 1 less to summon for each of your Human, Outrage and/or Jokers creatures in the battle zone. It can't cost 0 or less.)''
+■ Speed Attacker
+■ Triple Breaker
+■ Each turn, when this creature attacks for the first or second time, untap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Outrage/Jokers</type>
+        <manacost>15</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMEX-03-17">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Life Wing's Judgment</name>
+      <text>
+■ Add the top card of your deck to your shields face down.
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-03-52">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Smapon</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, destroy all your opponent's creatures that have power 2000 or less.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-03-19">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hazure Ponnosuke</name>
+      <text>
+■ This creature can't break shields.
+■ You can't use "shield trigger" ability
+■ More than 4 of this card in your deck
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Colorless</colors>
+        <pt>820</pt>
+      </prop>
+      <set num="DMEX-03-62">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hazure Ponnosuke</name>
+      <text>
+■ This creature can't break shields.
+■ You can't use "shield trigger" ability
+■ More than 4 of this card in your deck
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Colorless</colors>
+        <pt>820</pt>
+      </prop>
+      <set num="DMEX-03-63">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Atari Ponnosuke</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, choose a creature card name except '''Atari Ponnosuke'''.
+■ Ignore any ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-03-S1">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Okke Brothers</name>
+      <text>
+■ When you put this creature into the battle zone, choose a creature and untap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Colorless</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMEX-03-60">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dangerdeon, Super Mechanical Trap/Hell Utopia's Trap Revelation</name>
+      <text>
+■ Double Breaker
+■ At the Start of Turn Step
+■ Wana Wana Panic: When creatures attack, if it's the first attack this turn, you may cast a spell that has "Trap" in its name from your hand for no cost.
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures or shields and put it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>6</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-03-M1">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dangerdeon, Super Mechanical Trap/Hell Utopia's Trap Revelation</name>
+      <text>
+■ Double Breaker
+■ At the Start of Turn Step
+■ Wana Wana Panic: When creatures attack, if it's the first attack this turn, you may cast a spell that has "Trap" in its name from your hand for no cost.
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures or shields and put it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>6</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-03-M1㊙1">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Liliang, Mysterious Light</name>
+      <text>
+■ Kizuna
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Specials</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-S3">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deshibuko Guchipa, Zenith of "Fist"</name>
+      <text>
+■ Quattro Breaker
+■ Once per turn, when you would lose a game of Rock-Paper-Scissors, you may win it instead.
+■ When you summon this creature into the battle zone, play Rock-Paper-Scissors with your opponent 5 times. If you win each time, you Alternate Win
+■ Whenever your creatures would lose a battle, you may play Rock-Paper-Scissors with your opponent. If you win, that creature wins the battle instead.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith/Specials</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>21000</pt>
+      </prop>
+      <set num="DMEX-03-33">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>E-Gogogo</name>
+      <text>
+■ Marshall Touch
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Sonic Command/Specials</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-03-22">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Managorilla</name>
+      <text>
+■ Mana Evolution
+■ Double Breaker
+■ When you put this creature into the battle zone, put the top 4 cards of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Gransect/Specials</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMEX-03-25">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jishou Jisho</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Specials</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-03-1">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Number Question</name>
+      <text>
+■ Double Breaker
+■ At the End Step
+■ Gachinko Judge
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Specials</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-03-7">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wals Awandes</name>
+      <text>
+■ Gravity Zero
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Specials</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-8">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Shiritori Ga</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature into the battle zone, discard a card from your hand. Then draw 2 cards.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Specials</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-03-21">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Grape Dal</name>
+      <text>
+■ Mach Fighter
+■ Jokers Change
+■ When you put this creature, you may put the top 2 cards of your deck into your mana zone. If you do, put a card from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Specials</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMEX-03-40">DMEX-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

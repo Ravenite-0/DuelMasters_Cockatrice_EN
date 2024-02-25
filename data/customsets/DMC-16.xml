@@ -1,0 +1,232 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-16</name>
+      <longname>DMC-16</longname>
+      <settype>DMC-16</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>La Ura Giga, Sky Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-16-48">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holy Awe</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-8">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Solar Ray</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-50">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiral Gate</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-54">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diamond Cutter</name>
+      <text>
+■ This turn, ignore any effects that would prevent your creatures from attacking your opponent. ''(For example, ignore summoning sickness and card effects that say "This creature can't attack" or "This creature can't attack players". Your creatures can't attack creatures this way.)''
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-21">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Stream</name>
+      <text>
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-53">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Misha, Channeler of Suns</name>
+      <text>
+■ This creature can't be attacked by any creature that has Dragon in its race.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-16-42">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thrumiss, Zephyr Guardian</name>
+      <text>
+■ Whenever any of your creatures attacks, you may choose one of your opponent's creatures in the battle zone and tap it. ''(First choose what your creature is attacking. Then choose a creature to tap.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-16-5">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eureka Charger</name>
+      <text>
+■ Draw a card.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-52">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wave Lance</name>
+      <text>
+■ Choose a creature in the battle zone and return it to its owner's hand. If it has Dragon in its race, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-16-22">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jil Warka, Time Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When this creature is destroyed, choose up to 2 of your opponent's creatures in the battle zone and tap them.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-16-46">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pala Olesis, Morning Guardian</name>
+      <text>
+■ Blocker
+■ During your opponent's turn, each of your other creatures gets +2000 power.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMC-16-7">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tajimal, Vizier of Aqua</name>
+      <text>
+■ Blocker
+■ Multi
+■ This creature can't attack players.
+■ While battling a fire creature, this creature gets +4000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Liquid People</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-16-38">DMC-16</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

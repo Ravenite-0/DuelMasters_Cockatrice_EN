@@ -1,0 +1,192 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-18</name>
+      <longname>DMSD-18</longname>
+      <settype>DMSD-18</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>DNA Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ If you have 2 shields or less, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-18-7">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bone Dance Charger</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-18-13">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scale of Bravery and Love</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Discard a card from your hand, then draw 2 cards.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-18-10">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pergaladaida, Concatenated Destruction General</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, put a creature that costs 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Demon Command/Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMSD-18-2">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pergaladaida, Concatenated Destruction General</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, put a creature that costs 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Demon Command/Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMSD-18- ㊙1">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodow-2, Rotten Saint</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature, draw a card.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost/Distas</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMSD-18-11">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Urgaan, Connected Pure Dark</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Untap this creature at the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMSD-18-9">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolsren Buster, Hybrid Flame Machine</name>
+      <text>
+■ Guard Strike
+■ EX Life
+■ Speed Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/Machine Hero</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-18-8">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ldbat-1, Nightmare</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your graveyard. Then return a creature from your graveyard to your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Knightmare/Distas</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-18-12">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bakuislay-1, Warrior</name>
+      <text>
+■ When you put this creature, you may discard a card from your hand. If you do, draw a card.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Distas</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-18-14">DMSD-18</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

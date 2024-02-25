@@ -1,0 +1,221 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-59</name>
+      <longname>DMC-59</longname>
+      <settype>DMC-59</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Natural Snare</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone and put it into his mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-59-7">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-59-12">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-59-4">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bazagaberg "Hayate" Dragon</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature into the battle zone, you may cross one of your cross gear with this creature For No Cost
+■ This creature can attack untapped creatures.
+■ Double Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-59-2">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus Musha Dragon</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, you may put one of your shields into your graveyard. If you do, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-59-3">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flameburn Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-59-9">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus "Kensei" Dragon</name>
+      <text>
+■ Gravity Zero
+■ Double Breaker
+■ Whenever this creature attacks, you may destroy one of your opponent's creatures that has power 6000 or less.
+■ While this creature is in the battle zone, it also has the Card Name
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-59-1">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Living Lithograph</name>
+      <text>
+■ Put the top card of your deck into your mana zone. If that card is a creature, each of your creatures in the battle zone gets +2000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-59-11">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Gear - Zangeki Mach Armor</name>
+      <text>
+■ Cross Gear Effect
+■ While this card isn't crossed with a creature, your Dragon and Samurai creatures may each cost 1 less to summon. They can't cost less than 1.
+■ While this card is crossed with a Dragon or Samurai creature, each of your Dragon and Samurai creatures in the battle zone gets +2000 power and "speed attacker".
+■ This card may be crossed with "tooltip
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-59-5">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryoma Giant</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a cross gear from your mana zone into the battle zone and cross it with this creature For No Cost
+■ This creature breaks an additional shield for each cross gear crossed with this creature.
+■ When this creature would leave the battle zone due to an opponent's spell, you may put one of the cross gear crossed with this creature into your graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-59-6">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirino Giant</name>
+      <text>
+■ Your Giants may each cost up to 2 less to summon. They can't cost less than 1.
+■ Saver
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Samurai</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-59-8">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White, Blastflame Crimson Lord</name>
+      <text>
+■ Each of your Samurai creatures get "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-59-10">DMC-59</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

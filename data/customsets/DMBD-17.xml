@@ -1,0 +1,257 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-17</name>
+      <longname>DMBD-17</longname>
+      <settype>DMBD-17</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Morse, Grave Robber Doll</name>
+      <text>
+■ Gravity Zero
+■ When you put this creature, return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-17-14">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kubrick, Spiral Accelerator</name>
+      <text>
+■ Multi
+■ If you have 3 or more fire cards in your mana zone, this creature gets "Speed attacker".
+■ Double Breaker
+■ When this creature is put into your graveyard from anywhere, if you have 3 or more water cards in your mana zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-17-11">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossfire, Millionaire</name>
+      <text>
+■ Gravity Zero
+■ Speed Attacker
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMBD-17-6">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>5000GT, Riot</name>
+      <text>
+■ This creature costs 1 less to summon for each creature in your graveyard. It can't cost less than 1.
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all psychic creatures. Then destroy all creatures that have power 5000 or less.
+■ Players can't summon creatures that have power 5000 or less or put psychic creatures into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>12</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMBD-17-3">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnarok, the Clock</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, skip the rest of the turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-17-12">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Iwashin, One Man Army</name>
+      <text>
+■ When this creature is put into your graveyard from anywhere, you may draw a card. If you do, discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-17-13">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Obuza 08, Demon Dragon Armored/Beginning of the End</name>
+      <text>
+■ This creature costs 1 less to summon for each of your creatures in your graveyard. It can't cost 0 or less. 
+■ Double Breaker
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -1000 power for each creature in your graveyard until the End Step
+=========================
+■ Put the top 3 cards of your deck into your graveyard. Then return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMBD-17-5">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Changethe, Dragon Armored Ship/Fourth of the Six Bizarre ~Earth Breaking Waterfall~</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw 2 cards, then discard a card from your hand.
+■ Each turn, when a spell that costs 5 or less is discarded from your hand for the first time, you may cast that spell For No Cost
+=========================
+■ Until the start of your next turn, your opponent can only attack or block with a creature once each turn.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Mutopia</type>
+        <manacost>6</manacost>
+        <colors>Water/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-17-4">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katsuking, Victory Kung Fu</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ During your turn, this creature has infinite power while battling.
+■ This creature can attack untapped creatures that have power 6000 or more.
+■ Whenever this creature wins a battle, you may draw 2 cards.
+■ At the start of your turn, if this creature is in your graveyard and you have no '''Katsuking, Victory Kung Fu''' in the battle zone, you may discard a card from your hand and destroy one of your Outrages. If you do, put this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMBD-17-2">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jackie, Infinity Dream/"Our Dreams Will Never End!"</name>
+      <text>
+■ Double Breaker
+■ Your opponent's spells cost infinite mana to cast.
+=========================
+■ Shield Trigger
+■ You may put an Outrage that costs 8 or less from your hand. Then you may choose one of your opponent's creatures. If you do, those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>6</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-17-1">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pulsar, Trust Suction</name>
+      <text>
+■ Ninja Strike
+■ This creature can't attack.
+■ When you put this creature, draw a card then discard a card.
+■ If you have 6 or more cards in your graveyard, this creature gets "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage/Shinobi</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-17-8">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bruce, Clearly Drive/"No hesitation. I have decided on what I must do."</name>
+      <text>
+■ Triple Breaker
+■ If you have less than 13 cards in your graveyard, this creature can't attack.
+■ At the End Step
+=========================
+■ Shield Trigger
+■ Put a creature that costs 3 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMBD-17-9">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa, Burn the Heart</name>
+      <text>
+■ When you put this creature, draw up to 2 cards. Then discard the same number of cards you drew.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-17-10">DMBD-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

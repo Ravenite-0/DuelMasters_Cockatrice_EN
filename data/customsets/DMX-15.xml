@@ -1,0 +1,139 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-15</name>
+      <longname>DMX-15</longname>
+      <settype>DMX-15</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Hormone, Maxim Bronze</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-15-30">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Inka, Karma's Curse Crest</name>
+      <text>
+■ During your turn, your opponent can't summon creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Snow Faerie</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-15-7">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bhutan Reincarnation</name>
+      <text>
+■ Destroy one of your creatures. If you do, search your deck. You may take a creature from among your deck, show it to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-15-14">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Atlantis, Deepsea Evangelist</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, choose one of your creatures in the battle zone and return the rest into your hand. Then your opponent chooses one of their creatures and puts the rest into their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Leviathan</type>
+        <manacost>10</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-15-4">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wendigo Apache, Izanai's Blank</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a creature that costs 4 or less that has vanilla
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-15-19">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lady Parlock, Pirate Shaman</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Cyber Lord</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-15-23">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arima and Kicker, Quiche Ban Ban</name>
+      <text>
+■ Mana Reburst
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-15-29">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kareiko, Karma's Banned Technique</name>
+      <text>
+■ Whenever a card would be put from a player's deck into a zone other than the hand, that player shuffles that card into their deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-15-5">DMX-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,21 @@
+
+<card>
+  <name>Colorless Rainbow, Zenith of "Color Disaster" / Zenith Hazard</name>
+  <text>
+■ Triple Breaker
+■ Zero Ringfinity: When you summon this creature or whenever it attacks, you may cast the spell side of this creature for no cost. If you do, put the top 5 cards of your deck into your mana zone.
+■ Eternal Omega
+==========
+■ Choose a card for each civilization from your graveyard. Put all those creatures from among it and put the rest into your hand.
+  </text>
+  <prop>
+    <maintype>Twinpact (Creature / Spell)</maintype>
+    <type>Zenith Hazard</type>
+    <manacost>11</manacost>
+    <colors>Light/Water/Darkness/Fire/Nature</colors>
+    <pt>17000</pt>
+  </prop>
+  <set num="18425074">Master Set</set>
+  <related></related>
+  <tablerow>2</tablerow>
+</card>

@@ -1,0 +1,455 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-29</name>
+      <longname>DM-29</longname>
+      <settype>DM-29</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bazagaberg "Hayate" Dragon</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature into the battle zone, you may cross one of your cross gear with this creature For No Cost
+■ This creature can attack untapped creatures.
+■ Double Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-29-S4">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryoma Giant</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a cross gear from your mana zone into the battle zone and cross it with this creature For No Cost
+■ This creature breaks an additional shield for each cross gear crossed with this creature.
+■ When this creature would leave the battle zone due to an opponent's spell, you may put one of the cross gear crossed with this creature into your graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-29-19">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White, Blastflame Crimson Lord</name>
+      <text>
+■ Each of your Samurai creatures get "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-29-48">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Romanov Strike</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone. That creature gets -5000 power until the End Step
+■ If you cast this spell from your graveyard with the ability of "tooltip
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-29-29">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bullet "Shirou" Barrett</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a cross gear from your deck, show it to your opponent, and put it into your hand. Then shuffle your deck.
+■ Each of your creatures in the battle zone that have Bolbalzak "Sword Flash" Dragon in their name gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Samurai</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-29-16">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Milzam, Miracles Elemental</name>
+      <text>
+■ Blocker
+■ Ultra Shield Plus—When you put this creature into the battle zone, you may put up to 5 cards from the top of your deck under one of your shields. ''(Each card stack is still considered to be one shield.)''
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-29-S1">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zerokage, Lightfang Lord</name>
+      <text>
+■ Blocker
+■ Ninja Strike
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Shinobi</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM-29-6">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hayabusamaru, Lightfang Ninja</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature, one of your creatures gets "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Shinobi</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-29-37">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tensai Janit of the Hidden Blade</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, you may choose another creature in the battle zone that costs 3 or less and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Shinobi</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-29-42">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gal Volf, Dark Wolfblade</name>
+      <text>
+■ When you put this creature into the battle zone, choose a race and look at your opponent's hand. You may choose a card that has the chosen race from among it. If you do, your opponent discards that card and chooses one of their shields and puts it into their graveyard.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-29-27">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Diruga Vejida</name>
+      <text>
+■ Quattro Breaker
+■ When this creature would be destroyed, shuffle it into your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DM-29-S5">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hanzou, Menacing Phantom</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. That creature gets -6000 power until the End Step
+■ When this creature would be destroyed and you have at least one darkness card in your mana zone, you may put one of your shields into your graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Shinobi</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-29-3">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alexander the 3rd, Emperor of the Demonic Eye</name>
+      <text>
+■ Double Breaker
+■ Whenever you cast a light, water, or darkness spell from your hand or graveyard, if you have at least one other Knight in the battle zone you may search your deck. You may take a spell from your deck that has the same name as the spell you cast and cast it For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-29-S3">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scissorspan, JK Sergeant</name>
+      <text>
+■ When you put this creature into the battle zone, play Rock-Paper-Scissors with your opponent. If you win, this creature gets "speed attacker" until the End Step
+■ If your opponent throws "rock" during Rock-Paper-Scissors, destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-29-31">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>JK Darkness Rockderian</name>
+      <text>
+■ When you put this creature into the battle zone, play Rock-Paper-Scissors with your opponent. If you win, return one of your creatures that costs 5 or less from your graveyard into the battle zone.
+■ If your opponent throws "paper" during Rock-Paper-Scissors, you may return one of your creatures that costs 4 or less from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Monster</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-29-14">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Whirlwind Tailspin</name>
+      <text>
+■ This turn, the next creature you summon may cost 1 less. It can't cost less than 1. When you put that creature into the battle zone, it gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-29-17">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baiken, Blue Dragon of the Hidden Blade</name>
+      <text>
+■ Double Breaker
+■ When this creature would be discarded from your hand during your opponent's turn, you may put it instead. If you do, you may choose a creature and return it to its owner's hand.
+■ Whenever you use a "Ninja Strike" ability of your Shinobi, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Poseidia Dragon/Shinobi</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-29-S2">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Tsubamegaeshi</name>
+      <text>
+■ Samurai Generation
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Samurai</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-29-25">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boiling Blade - Dual Stinger</name>
+      <text>
+■ Cross Gear Effect
+■ Whenever the crossed creature attacks, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-29-51">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orochi of the Hidden Blade</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, choose another creature in the battle zone and put it on the bottom of its owner's deck. That creature's owner reveals cards from the top of their deck until he reveals a non-evolution creature, puts that creature into the battle zone, and then puts the rest of the revealed cards on the bottom of their deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Shinobi</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-29-2">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Bullet Vice</name>
+      <text>
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-29-47">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Unkai Giant</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may choose up to 3 Shinobi from your deck and show them to your opponent. Put one of those into your hand without showing your opponent and shuffle the rest into your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Shinobi</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-29-53">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sarvarti, Thunder Spirit Knight</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-29-7">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Memories of the Planetary Dragon</name>
+      <text>
+■ Shield Trigger
+■ Each of your shield cards put into your hand get "shield trigger" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-29-8">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ninja Typhoon</name>
+      <text>
+■ Count the number of cards in your hand and put them on the bottom of your deck in any order. Then draw cards equal to that number plus 1.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-29-50">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yuunagi, Hidden Earth Fairy</name>
+      <text>
+■ Whenever your other Shinobi would leave the battle zone, you may put them into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Shinobi</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-29-55">DM-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

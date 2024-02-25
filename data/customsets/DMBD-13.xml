@@ -1,0 +1,587 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-13</name>
+      <longname>DMBD-13</longname>
+      <settype>DMBD-13</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-23">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13- 24">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13- 25">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13- 26">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Faerie Hole</name>
+      <text>
+■ Put the top card of your deck into your mana zone. 
+■ Choose one of the following. 
+:► Put any number of psychic creatures that have total cost 5 or less from your hyperspatial zone into the battle zone.
+:► Put a nature psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-22">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Devil Diabolos Zeta, Evil Awakened</name>
+      <text>
+■ Quattro Breaker
+■ Whenever this creature attacks, destroy one of your opponent's Light creatures, Water creatures, Darkness creatures, Fire creatures, and Nature creatures.
+■ Release
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>World Command</type>
+        <manacost>20</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DMBD-13-6b">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diabolos Zeta, Temporal Ruler</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Whenever your opponent would choose a creature due to the ability of a creature, they Unchoosable
+■ Awaken—At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>World Command</type>
+        <manacost>10</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMBD-13-6a">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Storm Genji Double Cross, the Super Temporal</name>
+      <text>
+■ Super Infinite evolution—Put this creature on one or more of your psychic creature(s) that have total cost 20 or more.
+■ Whenever you put psychic creatures into the battle zone or awaken them, you may put this creature from your hyperspatial zone into the battle zone. 
+■ Quattro Breaker
+■ Meteorburn Awaken: At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Evolution Psychic Creature</maintype>
+        <type>Armored Dragon/Flame Command/Samurai</type>
+        <manacost>20</manacost>
+        <colors>Fire</colors>
+        <pt>24000</pt>
+      </prop>
+      <set num="DMBD-13-5a">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Last Storm Double Cross, the Super Awakened</name>
+      <text>
+■ World Breaker
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+■ Whenever this creature attacks, you may put any number of psychic creatures that cost 10 or less from your hyperspatial zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Armored Dragon/Flame Command/Samurai</type>
+        <manacost>40</manacost>
+        <colors>Fire</colors>
+        <pt>35000</pt>
+      </prop>
+      <set num="DMBD-13-5b">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Gallows Hole</name>
+      <text>
+■ Choose a non-psychic creature in the battle zone and return it to its owner's hand.
+■ Put a water or darkness psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-19">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-16">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Kaiser, the Victorious</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, this creature can attack untapped creatures until the End Step
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMBD-13-4a">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ryusei Kaiser, the Victorious</name>
+      <text>
+■ Double Breaker
+■ Your opponent's cards are put into their mana zone tapped
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-13-2a">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin Prin, the Victorious</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. Until the start of your next turn, that creature can't attack or block.
+■ Victory Psychic Link—If you have Ryusei Kaiser, the Victorious and Gaial Kaiser, the Victorious in the battle zone, link them to this creature and Gaial Ore Dragon, the Vainglory
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMBD-13-4a">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin Prin, the Victorious</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. Until the start of your next turn, that creature can't attack or block.
+■ Victory Psychic Link—If you have Ryusei Kaiser, the Victorious and Gaial Kaiser, the Victorious in the battle zone, link them to this creature and Gaial Ore Dragon, the Vainglory
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Light/Water/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMBD-13-4a">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DMBD-13-2b">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DMBD-13- 4b">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ore Dragon, the Vainglory</name>
+      <text>
+■ Speed Attacker
+■ Hunting
+■ World Breaker
+■ Whenever this creature wins a battle, untap this creature, then choose 2 of your opponent's shields. Your opponent puts those shields into their hand.
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Rainbow Command Dragon/Hunter</type>
+        <manacost>30</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>26000+</pt>
+      </prop>
+      <set num="DMBD-13-3b">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Shower</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 2 cards of your deck. Put one of them into your hand and the other into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-18">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sr Spellcyclica, Dragment Symbol</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your graveyard For No Cost
+■ When this creature would be destroyed, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-13-10">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Johnny Walker, Exploding Mask</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy this creature. If you do, choose one of the following.
+:► Put the top card of your deck into your mana zone.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-13-21">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sword Saint Jigen, Awoken Dragon World</name>
+      <text>
+■ Speed Attacker
+■ Triple Breaker
+■ Whenever this creature attacks, you may flip any number of draghearts or psychic creatures.
+■ Whenever this creature wins a battle, you may untap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMBD-13-8">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyberdice Vegas, Gambling Expert of D</name>
+      <text>
+■ Shield Trigger
+■ End Step
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-17">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Analith, Cyber Armor</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy it. If you do, choose one of the following.
+:► Put the top card of your deck into your mana zone.
+:► Draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Giant Insect</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-13-20">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hurricane Crawler/Brain Charger</name>
+      <text>
+■ When you put this creature into the battle zone, put all the cards from your hand into your mana zone. Then put that many cards from your mana zone into your hand.
+=========================
+■ Draw a card.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Earth Eater</type>
+        <manacost>5</manacost>
+        <colors>Water/Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMBD-13-9">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Shower Now</name>
+      <text>
+■ Shield Trigger
+■ Put the top 2 cards of your deck into your mana zone tapped. 
+■ Return a creature from your mana zone to your hand. Then you may choose one of your opponent's creatures that costs the same as or less than that creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-11">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Ryusei Hole</name>
+      <text>
+■ Put a water, fire or nature psychic creature that costs 7 or less from your hyperspatial zone.
+■ Choose one of the following.
+:► Draw a card.
+:► Destroy one of your opponent's creatures that has power 3000 or less. 
+:► Put the top card of your deck into your mana zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-13-15">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Wars! Onimaru Boy/Hyperspatial Onishura Hole</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, put one of your opponent's cards in the battle zone that costs 4 or less into its owner's graveyard.
+=========================
+■ Destroy all your opponent's creatures that have power 2000 or less.
+■ Put a fire psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-13-13">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin Prin, Princess Rush</name>
+      <text>
+■ Speed Attacker
+■ Mach Fighter
+■ Double Breaker
+■ When you put this creature or whenever it wins a battle, put a psychic creature that costs 10 or less from your hyperspatial zone.
+■ At the start of your turn, if the total cost of your psychic creatures in the battle zone is 100 or more, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter/Alien</type>
+        <manacost>9</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMBD-13-7">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Everyone Gathered Together! Aqua Three Brothers/Hyperspatial JCA Hole</name>
+      <text>
+■ During your opponent's turn, whenever your opponent puts a creature into the battle zone without paying its cost, you may return that creature to its owner's hand.
+=========================
+■ Shield Trigger
+■ Draw 2 cards, then put a card from your hand on the bottom of your deck.
+■ Put a water psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Water/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-13-12">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Big Boss, Kiryuin Jin/"I Don't Give a Damn About Unknown's!"</name>
+      <text>
+■ Mach Fighter
+■ Double Breaker
+■ Whenever this creature wins a battle, put a nature psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+=========================
+■ Put the top card of your deck into your mana zone. If it's a spell that has "Hyperspatial" in its name, put another card from your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMBD-13-14">DMBD-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,236 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-01</name>
+      <longname>DMBD-01</longname>
+      <settype>DMBD-01</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Lost Soul</name>
+      <text>
+■ Your opponent discards all cards from his hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-01-9">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romanesk, the Dragon Wizard</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may put the top 4 cards of your deck into your mana zone.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon/Armored Dragon/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMBD-01-6">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sanctuary of the Mother</name>
+      <text>
+■ Put one of your non-evolution creatures in the battle zone into your mana zone. If you do, choose an evolution creature in your mana zone that costs the same as or less than the number of cards in your mana zone and put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-01-10">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kiryu Jilves, Gaia's Roar</name>
+      <text>
+■ When you put this creature into the battle zone, each of your creatures gets "slayer" and "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Lost Crusader</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-01-14">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Miracle</name>
+      <text>
+■ Put the top card of your deck into your mana zone.
+■ If you have all civilizations in your mana zone, put another card from the top of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-01-15">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolbalzak Ex</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, untap all cards in your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Earth Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-01-5">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glennya, Boiling Water</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Blue Monster</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-01-16">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prometheus, Splash Axe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-01-13">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The%3DDeadbrachio, World Evil Dragonkind</name>
+      <text>
+■ Multicolored Mana Arms 5: If you have this card in your hand and 5 or more civilizations and cards in your mana zone, this creature gets "Super Strike Back". ''(When a card is put into your hand from your shield zone, you may discard that card. If you do, summon this creature For No Cost
+■ Double Breaker
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures and put it into its owner's mana zone.
+■ Your opponent's draghearts can't dragsolution.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMBD-01-4">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kernel, Blue Stagnation Dragon Elemental</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, choose one of your opponent’s creatures. Until the start of your next turn, that creature can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Dragon/Revolutionary</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMBD-01-12">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ruins of the Lion King</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-01-11">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jack Alcadeias, Dark Gaia</name>
+      <text>
+■ Shield Trigger
+■ Slayer
+■ When you put this creature, destroy one of your opponent's cards that costs 4 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Lost Crusader</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-01-8">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Judgment of Confusing Flame and Entrancing Water</name>
+      <text>
+■ Shield Trigger
+■ Destroy all creatures that have power 3000 or less. Then you may draw a card for each creature destroyed.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-01-7">DMBD-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

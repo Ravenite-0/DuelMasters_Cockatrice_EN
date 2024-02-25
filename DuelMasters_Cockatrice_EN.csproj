@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="110.2.0"/>
+    <PackageReference Include="System.Xml.ReaderWriter" Version="4.3.1"/>
+    <PackageReference Include="NUnit" Version="3.13.3"/>
+    <PackageReference Include="NUnit.Runners" Version="3.12.0"/>
+    <PackageReference Include="Polly" Version="8.0.0"/>
+    <PackageReference Include="NUnitTestAdapter" Version="2.3.0"/>
+    <PackageReference Include="CsvHelper" Version="30.0.1"/>
+  </ItemGroup>
+</Project>

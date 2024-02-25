@@ -1,0 +1,429 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-20</name>
+      <longname>DMC-20</longname>
+      <settype>DMC-20</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Dimension Gate</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-100">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fonch, the Oracle</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-20-51">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rumble Gate</name>
+      <text>
+■ Each of your creatures in the battle zone gets +1000 power until the End Step
+■ Each of your creatures in the battle zone that can attack creatures can attack untapped creatures this turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-93">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elf-X</name>
+      <text>
+■ Your creatures each cost 1 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tree Folk</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-20-18">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silver Axe</name>
+      <text>
+■ Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-20-99">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kolon, the Oracle</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-20-52">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kip Chippotto</name>
+      <text>
+■ When one of your Armored Dragons would be destroyed, you may destroy this creature instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-20-88">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Twin-Cannon Skyterror</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Wyvern</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-20-14">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chekicul, Vizier of Endurance</name>
+      <text>
+■ Blocker
+■ Whenever this creature blocks, no battle happens. ''(Both creatures stay tapped.)''
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-20-50">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kanesill, the Explorer</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-20-53">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Protective Force</name>
+      <text>
+■ Shield Trigger
+■ One of your creatures in the battle zone that has "blocker" gets +4000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-24">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rain of Arrows</name>
+      <text>
+■ Look at your opponent's hand. He discards all darkness spells from it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-23">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vess, the Oracle</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-20-58">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Legionnaire Lizard</name>
+      <text>
+■ Speed Attacker
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dune Gecko</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-20-80">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-101">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lightning Charger</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone and tap it.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-20">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sol Galla, Halo Guardian</name>
+      <text>
+■ Blocker
+■ Whenever a player casts a spell, this creature gets +3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-20-56">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Melgars</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-20-83">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bakkra Horn, the Silent</name>
+      <text>
+■ Whenever you put a Dragonoid or a creature that has Dragon in its race into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Horned Beast</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-20-98">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Regarion</name>
+      <text>
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-20-97">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sanfist, the Savage Vizier</name>
+      <text>
+■ Blocker
+■ Multi
+■ When this creature would be discarded from your hand during your opponent's turn, you may put it into the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Initiate</type>
+        <manacost>3</manacost>
+        <colors>Light/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-20-49">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reap and Sow</name>
+      <text>
+■ Multi
+■ Choose a card in your opponent's mana zone and put it into his graveyard. Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-20-48">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alshia, Nova Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-20-3">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Zalberg</name>
+      <text>
+■ When you put this creature into the battle zone, choose up to 2 cards in your opponent's mana zone and put them into their graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-20-17">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Gardos</name>
+      <text>
+■ Speed Attacker
+■ This creature can't attack players. 
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-20-36">DMC-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,1181 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-13</name>
+      <longname>DMR-13</longname>
+      <settype>DMR-13</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-109">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deadly Love</name>
+      <text>
+■ Shield Trigger
+■ You may destroy one of your creatures. If you do, destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-58">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Macallan, Explosive Flame Shooter</name>
+      <text>
+■ Mana Arms
+■ While battling, this creature gets +1000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMR-13-99">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocco Docco</name>
+      <text>
+■ Your Command Dragons may cost up to 3 less to summon. They can't cost less than 1. 
+■ When you put a Command Dragon into the battle zone, destroy this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-13-55">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rococo, Aqua Birdman</name>
+      <text>
+■ Your Command Dragons may each cost 1 less to summon. They can't cost less than 1. 
+■ Whenever one of your dragons would be destroyed, return them to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People Sen</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-13-49">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragment Answer</name>
+      <text>
+■ Shuffle your hand into your deck and draw 4 cards. Then you may put a non-evolution Command Dragon that costs 7 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-21">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragment Answer</name>
+      <text>
+■ Shuffle your hand into your deck and draw 4 cards. Then you may put a non-evolution Command Dragon that costs 7 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13- 21d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Coccolua, Holy Dragon Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Your Command Dragons may each cost 1 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMR-13-43">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pia, Cocco Style</name>
+      <text>
+■ Your Command Dragons may each cost 1 less to summon. They can't cost less than 1.
+■ Whenever you put a Command Dragon in the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-13-67">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pia, Cocco Style</name>
+      <text>
+■ Your Command Dragons may each cost 1 less to summon. They can't cost less than 1.
+■ Whenever you put a Command Dragon in the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-13- 67d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meteor Charger</name>
+      <text>
+■ Destroy one of your opponent's creatures that has "blocker".
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-101">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Justice Plan</name>
+      <text>
+■ Reveal the top 3 cards of your deck. Put all Justice Wings and Angel Commands from among them into your hand, and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-46">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Justice Plan</name>
+      <text>
+■ Reveal the top 3 cards of your deck. Put all Justice Wings and Angel Commands from among them into your hand, and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13- 46d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiral Formation</name>
+      <text>
+■ Sympathy: Water creatures ''(This spell costs 1 less to cast for each of your water creatures in the battle zone. It can't cost less than 1.)''
+■ Choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-85">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiral Formation</name>
+      <text>
+■ Sympathy: Water creatures ''(This spell costs 1 less to cast for each of your water creatures in the battle zone. It can't cost less than 1.)''
+■ Choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13- 85d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiginga, Passionate Star Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When this creature is Dragsolutioned, destroy one of your opponent's creatures that has power 7000 or less.
+■ While battling, this creature gets +4000 power.
+■ Whenever your opponent chooses this creature, take an Extra Turn
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMR-13-VV1b">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiginga, Passionate Star Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When this creature is Dragsolutioned, destroy one of your opponent's creatures that has power 7000 or less.
+■ While battling, this creature gets +4000 power.
+■ Whenever your opponent chooses this creature, take an Extra Turn
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMR-13-VV1b㊙1">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiginga, Passionate Star Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When this creature is Dragsolutioned, destroy one of your opponent's creatures that has power 7000 or less.
+■ While battling, this creature gets +4000 power.
+■ Whenever your opponent chooses this creature, take an Extra Turn
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMR-13- VV1b㊙2">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiginga, Passionate Star Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When this creature is Dragsolutioned, destroy one of your opponent's creatures that has power 7000 or less.
+■ While battling, this creature gets +4000 power.
+■ Whenever your opponent chooses this creature, take an Extra Turn
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMR-13- VV1b㊙3">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiheart, Galaxy Greatsword</name>
+      <text>
+■ A creature equipped with this gets "speed attacker".
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-VV1a">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deathshiraz, Devil Corrupt King</name>
+      <text>
+■ Triple Breaker
+■ When this creature is Dragsolutioned, destroy one of your opponent's creatures.
+■ Whenever this creature attacks, you may put a non-evolution darkness creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-13-V3b">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Go To Hell, Annihilator Blade</name>
+      <text>
+■ When you put this dragheart or whenever a creature equipped with this attacks, you may put a Funky Knightmare that costs 5 or less from your graveyard.
+■ Dragsolution: End Step
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-V3a">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Judaina, Jurassic Hammer</name>
+      <text>
+■ During your turn, you may summon a Dragon from your mana zone.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-V4a">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saurpio, Ancient King</name>
+      <text>
+■ Triple Breaker
+■ If you have no shields, your opponent's creatures can't attack you.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-13-V4b">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nam%3DDaeddo, Bronze Style</name>
+      <text>
+■ Guardman
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-13-107">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nam%3DDaeddo, Bronze Style</name>
+      <text>
+■ Guardman
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-13- 107d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Otoma%3DKutto, Fang Hero</name>
+      <text>
+■ Double Breaker
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-13-10">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sr Spellcyclica, Dragment Symbol</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your graveyard For No Cost
+■ When this creature would be destroyed, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-13-S2">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon's Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a non-evolution Light dragon creature that costs 7 or less from your hand. That creature gets "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-16">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Uroborof, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a darkness dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13-25">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Uroborof, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a darkness dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13- 25d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Storas Islay, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ If you have a fire dragheart in the battle zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Draguner</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-13-98">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Storas Islay, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ If you have a fire dragheart in the battle zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Draguner</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-13- 98d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokuroskull, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ If you have a darkness dragheart in the battle zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare/Draguner</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-13-90">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gambalander, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ If you have a water dragheart in the battle zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People Sen/Draguner</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-13-81">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ariace, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ If you have a light dragheart in the battle zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing/Draguner</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-13-73">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sasoris, Dragon Ruler</name>
+      <text>
+■ When you put this creature into the battle zone, put a nature dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13-36">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glenmalt, Dragon Ruler</name>
+      <text>
+■ When you put this creature, put a fire dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ While battling, this creature gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMR-13-31">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glenmalt, Dragon Ruler</name>
+      <text>
+■ When you put this creature, put a fire dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+■ While battling, this creature gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMR-13- 31d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Everrose, Dragon Ruler</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, put a light dragheart that costs 4 or less or a dragheart that costs 2 or less from your hyperspatial zone into the battle zone. ''(If it's a Dragheart Weapon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13-13">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eggsaura, Nourishing Egg</name>
+      <text>
+■ Whenever you put a creature that has power 5000 or more into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13-66">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>JJ Avarspela, Dragment Symbol</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. Choose a spell from among them, show that spell to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13-47">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>JJ Avarspela, Dragment Symbol</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. Choose a spell from among them, show that spell to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13- 47d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akyoora, Crossing Wings</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMR-13-72">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Andorom, Chanting Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMR-13-74">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Andorom, Chanting Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMR-13-74d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tigermite, Bomb Devil</name>
+      <text>
+■ Mana Arms
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-13-92">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tigermite, Bomb Devil</name>
+      <text>
+■ Mana Arms
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-13- 92d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sullivan, Guidance Dragon Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, each player may draw 2 cards. Then you may put up to 2 light creatures that cost 3 or less from your hand into the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-13-12">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sullivan, Guidance Dragon Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, each player may draw 2 cards. Then you may put up to 2 light creatures that cost 3 or less from your hand into the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-13- 12d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zodiac, Chanting Cathedral</name>
+      <text>
+■ Shield Trigger
+■ Choose up to 3 of your opponent's creatures in the battle zone and tap them.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-15">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Batornado, Passion Dragon</name>
+      <text>
+■ Whenever this creature attacks, choose one of your creatures and one of your opponent's creatures in the battle zone. Those 2 creatures battle. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-13-30">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Batornado, Passion Dragon</name>
+      <text>
+■ Whenever this creature attacks, choose one of your creatures and one of your opponent's creatures in the battle zone. Those 2 creatures battle. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-13- 30d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hibiki, Explosive Mirror</name>
+      <text>
+■ Whenever your opponent casts a spell during their turn, choose a card from your opponent's mana zone and put it into their graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-13-32">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Powered Mirror, Aqua Teacher</name>
+      <text>
+■ Whenever your opponent casts a spell during their turn, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People Sen</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-13-48">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Buttagila, Bone Sever Demon Dragon</name>
+      <text>
+■ Whenever this creature attacks, you may destroy one of your other creatures. If you do, destroy one of your opponent's untapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13-54">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Buttagila, Bone Sever Demon Dragon</name>
+      <text>
+■ Whenever this creature attacks, you may destroy one of your other creatures. If you do, destroy one of your opponent's untapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-13- 54d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Discald, Misfortune Demon Sickle</name>
+      <text>
+■ Whenever a creature equipped with this attacks, your opponent chooses a card from their hand and discards it.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-57a">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokurocald, Misfortune Demon Dragon</name>
+      <text>
+■ Whenever this creature attacks, discard a card from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-13-57b">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glee Gee Horn, Passion Sword</name>
+      <text>
+■ The creature equipped with this can attack untapped creatures.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-63a">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Little Big Horn, Passion Dragon</name>
+      <text>
+■ This creature can attack untapped creatures.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-13-63b">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wald Brachio, Absolute World King</name>
+      <text>
+■ World Breaker
+■ Whenever your opponent puts a creature and that ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>11</manacost>
+        <colors>Nature</colors>
+        <pt>27000</pt>
+      </prop>
+      <set num="DMR-13-S5">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pteratox, Large Wing Chain</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a non-evolution nature creature that costs 4 or less from your mana zone into the battle zone.
+■ When this creature loses a battle with a creature that has power greater than this creature, your opponent's creature is put into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-13-65">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pteratox, Large Wing Chain</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a non-evolution nature creature that costs 4 or less from your mana zone into the battle zone.
+■ When this creature loses a battle with a creature that has power greater than this creature, your opponent's creature is put into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-13- 65d">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Explosive Swordplay, Sweltering Heat Tricks</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures in the battle zone that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-102">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demon Wolf, Howling Moonlight Castle</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the End Step
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-28">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tenshukaku, Dragon King Keep</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. From among them, you may show a fire creature to your opponent and destroy one of your opponent's creatures that has that creatures power or less.
+■ Mana Arms
+■ Shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-34">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Euru%3DBucca, Antique Dragon Ruins</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's untapped creatures and put it into its owner's mana zone.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-13-39">DMR-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

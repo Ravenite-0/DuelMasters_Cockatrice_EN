@@ -1,0 +1,1944 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM23-RP3</name>
+      <longname>DM23-RP3</longname>
+      <settype>DM23-RP3</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Treasure Map</name>
+      <text>
+■ Look at the top 5 cards of your deck. Choose a nature creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-T4">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Treasure Map</name>
+      <text>
+■ Look at the top 5 cards of your deck. Choose a nature creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- TF4">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachidive, Eureka</name>
+      <text>
+■ Evolution—Put on one of your water creatures.
+■ Invasion
+■ Double Breaker
+■ When you put this creature, you may put a creature from your hand under this creature. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Magic Command/Great Mecha King/Invader</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3-T1">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachidive, Eureka</name>
+      <text>
+■ Evolution—Put on one of your water creatures.
+■ Invasion
+■ Double Breaker
+■ When you put this creature, you may put a creature from your hand under this creature. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Magic Command/Great Mecha King/Invader</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- TF1">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sarutobi Giant, Dolge</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature, draw a card and discard a card from your hand. Then put a card from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Earth Eater/Shinobi</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-RP3-T7">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sarutobi Giant, Dolge</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature, draw a card and discard a card from your hand. Then put a card from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Earth Eater/Shinobi</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-RP3- TF7">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dolgeyukimura, Last Ninja</name>
+      <text>
+■ Gravity Zero
+■ Evolution—Put on one of your Giants.
+■ Triple breaker
+■ When you put this creature, return up to 3 creatures from your mana zone to your hand. Then put up to 3 cards from your hand into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Earth Eater/Giant/Shinobi</type>
+        <manacost>8</manacost>
+        <colors>Water/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM23-RP3-TR5">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meravolgal, Misfortune Demon Bangou</name>
+      <text>
+■ Gate of Moonless Night
+■ Double Breaker
+■ When you put this creature, break 2 of your opponent's shields. Then break 2 of your shields.
+■ While you have no shields, this creature gets "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command/Dolszak</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-RP3-SP3">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zainty Zain</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Choose one of your opponent's creatures. That creature gets -12000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-T2">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zainty Zain</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Choose one of your opponent's creatures. That creature gets -12000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- TF2">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Absolute Shield Knight</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ When you put this creature face up into your shield zone, or When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DM23-RP3-SP1">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Order's Will</name>
+      <text>
+■ Strike Back
+■ Choose one of your opponent's creatures and your opponent puts a seal on it.  Seal
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-T3">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Order's Will</name>
+      <text>
+■ Strike Back
+■ Choose one of your opponent's creatures and your opponent puts a seal on it.  Seal
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- TF3">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Cyberex</name>
+      <text>
+■ Revolution Change
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, choose one of the following.
+:► Your opponent chooses one of their creatures that has the lowest power and destroys it.
+:► Choose one of your opponent's creatures and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Cyber Command</type>
+        <manacost>6</manacost>
+        <colors>Water/Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM23-RP3-TR9">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Joydam Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ When you put this creature, put a creature that costs 3 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-RP3-SP4">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paradoxical Factory</name>
+      <text>
+■ Shield Trigger
+■ Draw 2 cards and discard 2 cards from your hand.
+■ Put up to 2 creatures that cost 2 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-T6">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paradoxical Factory</name>
+      <text>
+■ Shield Trigger
+■ Draw 2 cards and discard 2 cards from your hand.
+■ Put up to 2 creatures that cost 2 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- TF6">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Re:Life</name>
+      <text>
+■ Guard Strike
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-SP5">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master of Revolution</name>
+      <text>
+■ Revolution 0 Trigger: Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution light or fire creature, put it into the battle zone, and put this creature on top of it.
+■ Neo Evolution: You may put it on one of your light or fire creatures.
+■ Blocker
+■ Double Breaker
+■ Whenever this creature attacks, you may choose a Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Mega Command Dragon/Angel Command Dragon/Human/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-RP3-TR4">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abaku Onifuda and Onifuda Kingdom</name>
+      <text>
+■ When you put this creature, put the top 5 cards of your deck into your graveyard. Then destroy this creature.
+■ Onitime
+■ Speed Attacker
+■ Mach Fighter
+■ Triple Breaker
+■ You may summon this creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-RP3-TR7">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katta Kirifuda %26 Katsuking -Story of Passion-</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, look at the top 5 cards of your deck. Reveal one to your opponent, add it to your hand, and put the rest on the bottom of your deck in any order. If the revealed card is fire or nature, you may choose a creature and return it to its owner's hand.
+■ Revolution 2: If you have 2 shields or less, this creature gets "shield trigger" in your shield zone.
+■ Revolution 0: If you have no shields, this creature gets +10000 power, "speed attacker" and "triple breaker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage Dragon/Human</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM23-RP3-TR1">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Enlightened Nova Apollonus Dragerion</name>
+      <text>
+■ Ultimate Evolution: Put on one of your evolution creatures.
+■ Invasion: Fire Evolution Dragon ''(When one of your fire evolution dragons attacks, you may put this creature from your hand onto it.)''
+■ Triple Breaker
+■ Whenever your opponent chooses this creature, choose 2 cards from your opponent's mana zone and put them into their owner's graveyard. 
+■ Meteorburn: When you put this creature, you may put 3 cards under this creature into your graveyard. If you do, this creature breaks all your opponent's shields.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM23-RP3-TR3">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sir Leopol Deenay, the Ice Fang/Emergency Typhoon</name>
+      <text>
+■ Whenever you cast a spell, you may draw a card.
+=========================
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Cyber Virus/Knight/Knight</type>
+        <manacost>4</manacost>
+        <colors>Water/Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3-T9">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sir Leopol Deenay, the Ice Fang/Emergency Typhoon</name>
+      <text>
+■ Whenever you cast a spell, you may draw a card.
+=========================
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Cyber Virus/Knight/Knight</type>
+        <manacost>4</manacost>
+        <colors>Water/Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- TF9">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Secret Dragon</name>
+      <text>
+■ Attack Chance: Fire or Nature dragon that costs 7 or more ''(When one of your fire or nature dragons that cost 7 or more attacks, you may summon this creature for no cost.)''
+■ Mach Fighter
+■ Whenever this creature attacks, put the top card of your deck into your mana zone. If it's a dragon, you may return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3-T8">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Secret Dragon</name>
+      <text>
+■ Attack Chance: Fire or Nature dragon that costs 7 or more ''(When one of your fire or nature dragons that cost 7 or more attacks, you may summon this creature for no cost.)''
+■ Mach Fighter
+■ Whenever this creature attacks, put the top card of your deck into your mana zone. If it's a dragon, you may return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3- TF8">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dogiragon X, Blue Awakened</name>
+      <text>
+■ Parallel Revolution Change: When one of your non-psychic darkness or water dragons that cost 5 or more attack, you may switch that creature with this creature in your hyperspatial zone.
+■ Triple Breaker
+■ This creature can't be blocked.
+■ When you put this creature, discard a card from your hand.
+■ Whenever you discard from your hand, each of your other multicolored creatures gets "slayer" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-RP3-TR2b">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redzone Buster, Roaring Awakened</name>
+      <text>
+■ Evolution: Put on one of your light creatures.
+■ Parallel Invasion: When one of your non-psychic light commands attacks, you may put this creature from your hyperspatial zone onto it.
+■ Triple Breaker
+■ When you put this creature, put a card from your hand into your hyperspatial zone, then tap all your opponent's creatures that have the highest power. At the start of your opponent's next turn, they don't untap.
+  </text>
+      <prop>
+        <maintype>Evolution Psychic Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM23-RP3-TR2a">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kachikomi Nyudo (Batorai Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, if it evolved from a tamaseed, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Armored Dragon/Flame Command/Oni RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3-T10">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kachikomi Nyudo (Batorai Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, if it evolved from a tamaseed, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Armored Dragon/Flame Command/Oni RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- TF10">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baiken's Vision</name>
+      <text>
+■ Shinkarise
+■ You may draw a card at the End Step
+■ Whenever one of your opponent's creatures attacks you, you may destroy this tamaseed. If you do, put a water creature that costs 6 or less from your hand and it gets "blocker" until the End Step
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Poseidia Dragon/Shinobi/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-TR8">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Caddy Beetle</name>
+      <text>
+■ During your opponent's turn, whenever your opponent would put a creature that costs more than the number of cards in their mana zone, put it into its owner's mana zone instead.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-RP3-T5">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Caddy Beetle</name>
+      <text>
+■ During your opponent's turn, whenever your opponent would put a creature that costs more than the number of cards in their mana zone, put it into its owner's mana zone instead.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-RP3- TF5">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>WD Cyclepedia, Dragment Symbol</name>
+      <text>
+■ Blocker
+■ Justdiver
+■ When you put this creature, you may cast a spell that costs 4 or less from your graveyard for no cost.
+■ Once per turn, whenever you cast a spell from your hand, you may cast that spell again from your graveyard for no cost. 
+■ After you cast a spell from your graveyard, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon/Dark Lord</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3-SP2">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mad Rock Chester Romanov, Purgatory Wicked God</name>
+      <text>
+■ This creature costs 1 less to summon for the number of cards in each graveyard. It can't cost less than 2.
+■ Graveyard Galaxy Vortex evolution: Choose 3 darkness or fire creatures in your graveyard and put this creature on top of those creatures.
+■ Meteorburn: Whenever this creature attacks, you may put up to 3 cards under this creature into your graveyard. For each card put into your graveyard in this way, cast a darkness or fire spell that costs 6 or less from your graveyard for no cost and put it on the bottom of your deck.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>God/Dark Lord/Knight</type>
+        <manacost>20</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM23-RP3-TR6">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Sign</name>
+      <text>
+■ Put a non-evolution Armored creature that costs 7 or less from your hand. That creature gets "speed attacker" until the End Step
+■ Destroy one of your elements.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Armored Arts</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-38">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Sign</name>
+      <text>
+■ Put a non-evolution Armored creature that costs 7 or less from your hand. That creature gets "speed attacker" until the End Step
+■ Destroy one of your elements.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Armored Arts</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- 16A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Sign</name>
+      <text>
+■ Put a non-evolution Armored creature that costs 7 or less from your hand. That creature gets "speed attacker" until the End Step
+■ Destroy one of your elements.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Armored Arts</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- 18B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Napoleon Vibes/♪ Listen to my song, if you don't listen, we'll fight</name>
+      <text>
+■ If you have a Magic creature, this creature costs 1 less to summon.
+■ When you put this creature, discard up to 2 cards from your hand and draw 1 more card than that number.
+■ Mega Last Burst
+■ Speed Attacker
+■ Double Breaker
+=========================
+■ Destroy all your opponent's elements that cost 2 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Nitro Dragon/Magic Song</type>
+        <manacost>5</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3-S4">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Napoleon Vibes/♪ Listen to my song, if you don't listen, we'll fight</name>
+      <text>
+■ If you have a Magic creature, this creature costs 1 less to summon.
+■ When you put this creature, discard up to 2 cards from your hand and draw 1 more card than that number.
+■ Mega Last Burst
+■ Speed Attacker
+■ Double Breaker
+=========================
+■ Destroy all your opponent's elements that cost 2 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Nitro Dragon/Magic Song</type>
+        <manacost>5</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 4A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Napoleon Vibes/♪ Listen to my song, if you don't listen, we'll fight</name>
+      <text>
+■ If you have a Magic creature, this creature costs 1 less to summon.
+■ When you put this creature, discard up to 2 cards from your hand and draw 1 more card than that number.
+■ Mega Last Burst
+■ Speed Attacker
+■ Double Breaker
+=========================
+■ Destroy all your opponent's elements that cost 2 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Nitro Dragon/Magic Song</type>
+        <manacost>5</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 6B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyssbell %3D Death %3D Road</name>
+      <text>
+■ Revolution Change: Abyss that costs 5 or more
+■ Each of your Abyss get "mach fighter".
+■ Double Breaker
+■ At the End Step
+■ Each turn, whenever one of your opponent's creatures attacks for the first time, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-RP3-0R1">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyssbell %3D Death %3D Road</name>
+      <text>
+■ Revolution Change: Abyss that costs 5 or more
+■ Each of your Abyss get "mach fighter".
+■ Double Breaker
+■ At the End Step
+■ Each turn, whenever one of your opponent's creatures attacks for the first time, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-RP3- 1B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyssbell %3D Death %3D Road</name>
+      <text>
+■ Revolution Change: Abyss that costs 5 or more
+■ Each of your Abyss get "mach fighter".
+■ Double Breaker
+■ At the End Step
+■ Each turn, whenever one of your opponent's creatures attacks for the first time, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM23-RP3- 1S">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kakumeijin, Geima King Dragon</name>
+      <text>
+■ Revolution Change: Magic that costs 5 or more
+■ Double Breaker
+■ Each of your Magics get "speed attacker".
+■ Before the break
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Dragon/Game Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DM23-RP3-0R2">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kakumeijin, Geima King Dragon</name>
+      <text>
+■ Revolution Change: Magic that costs 5 or more
+■ Double Breaker
+■ Each of your Magics get "speed attacker".
+■ Before the break
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Dragon/Game Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DM23-RP3- 2B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kakumeijin, Geima King Dragon</name>
+      <text>
+■ Revolution Change: Magic that costs 5 or more
+■ Double Breaker
+■ Each of your Magics get "speed attacker".
+■ Before the break
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Dragon/Game Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>10000</pt>
+      </prop>
+      <set num="DM23-RP3- 2S">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akane, Cheer Space</name>
+      <text>
+■ Guard Strike
+■ Revolution Change: Giant ''(When one of your giants attacks, you may switch that creature with this creature from your hand.)''
+■ Mach Fighter
+■ When you put this creature, look at the top 2 cards of your deck. Add one of them to your hand and put the rest into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Snow Faerie</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3-7">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akane, Cheer Space</name>
+      <text>
+■ Guard Strike
+■ Revolution Change: Giant ''(When one of your giants attacks, you may switch that creature with this creature from your hand.)''
+■ Mach Fighter
+■ When you put this creature, look at the top 2 cards of your deck. Add one of them to your hand and put the rest into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Snow Faerie</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3- 11A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akane, Cheer Space</name>
+      <text>
+■ Guard Strike
+■ Revolution Change: Giant ''(When one of your giants attacks, you may switch that creature with this creature from your hand.)''
+■ Mach Fighter
+■ When you put this creature, look at the top 2 cards of your deck. Add one of them to your hand and put the rest into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Snow Faerie</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3- 13B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A:Enu:Makua</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, choose one of the following:
+:► Put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+:► Choose a player. That player shuffles their graveyard and puts it on the bottom of their deck. 
+:► Your opponent puts all their non-creature elements that cost 5 or less into their owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Veil Abyss</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3-S5">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A:Enu:Makua</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, choose one of the following:
+:► Put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+:► Choose a player. That player shuffles their graveyard and puts it on the bottom of their deck. 
+:► Your opponent puts all their non-creature elements that cost 5 or less into their owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Veil Abyss</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 5A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A:Enu:Makua</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, choose one of the following:
+:► Put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+:► Choose a player. That player shuffles their graveyard and puts it on the bottom of their deck. 
+:► Your opponent puts all their non-creature elements that cost 5 or less into their owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Veil Abyss</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 7B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A:Gunte</name>
+      <text>
+■ Shield Trigger Plus
+■ Icon
+■ When you put this creature, you may choose one of your opponent's elements that costs 5 or less and put it into it's owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Veil Abyss</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-RP3-24">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A:Gunte</name>
+      <text>
+■ Shield Trigger Plus
+■ Icon
+■ When you put this creature, you may choose one of your opponent's elements that costs 5 or less and put it into it's owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Veil Abyss</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-RP3- 14A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>A:Gunte</name>
+      <text>
+■ Shield Trigger Plus
+■ Icon
+■ When you put this creature, you may choose one of your opponent's elements that costs 5 or less and put it into it's owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Veil Abyss</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-RP3- 16B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pastel, Dancing Music Love/♪ Mysterious Magical Prison Kinkirarin</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ Mega Last Burst
+=========================
+■ Choose up to 2 of your opponent's creatures. They can't attack or block until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Mermaid/Magic Song</type>
+        <manacost>6</manacost>
+        <colors>Water/Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM23-RP3-12">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lakepoacher Par Zero, Fifth Dragon</name>
+      <text>
+■ Blocker
+■ Justdiver
+■ Double Breaker
+■ When you put this creature, look at the top 6 cards of your deck. Put 2 of them into your hand and put the rest on the bottom of your deck in any order. Then you may reveal a card from your hand to your opponent. If you do, choose one of your opponent's creatures that costs the same as the revealed card and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-RP3-S2">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lakepoacher Par Zero, Fifth Dragon</name>
+      <text>
+■ Blocker
+■ Justdiver
+■ Double Breaker
+■ When you put this creature, look at the top 6 cards of your deck. Put 2 of them into your hand and put the rest on the bottom of your deck in any order. Then you may reveal a card from your hand to your opponent. If you do, choose one of your opponent's creatures that costs the same as the revealed card and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-RP3- 2A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lakepoacher Par Zero, Fifth Dragon</name>
+      <text>
+■ Blocker
+■ Justdiver
+■ Double Breaker
+■ When you put this creature, look at the top 6 cards of your deck. Put 2 of them into your hand and put the rest on the bottom of your deck in any order. Then you may reveal a card from your hand to your opponent. If you do, choose one of your opponent's creatures that costs the same as the revealed card and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-RP3- 4B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Flare, Shining Revolution</name>
+      <text>
+■ Revolution Change: Armored that costs 5 or more ''(When one of your armoreds that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Blocker
+■ Each turn, the first time one of your creatures battles, that creature wins the battle.
+■ Each turn, when your opponent puts a creature for the first time, tap that creature.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-RP3-S7">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Flare, Shining Revolution</name>
+      <text>
+■ Revolution Change: Armored that costs 5 or more ''(When one of your armoreds that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Blocker
+■ Each turn, the first time one of your creatures battles, that creature wins the battle.
+■ Each turn, when your opponent puts a creature for the first time, tap that creature.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-RP3- 7A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Flare, Shining Revolution</name>
+      <text>
+■ Revolution Change: Armored that costs 5 or more ''(When one of your armoreds that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Blocker
+■ Each turn, the first time one of your creatures battles, that creature wins the battle.
+■ Each turn, when your opponent puts a creature for the first time, tap that creature.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-RP3- 9B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cannonball, Ifrit Frit/♪ Summer Grass, By Ifrit, Trace of Dream</name>
+      <text>
+■ Whenever your opponent puts a creature from anywhere other than from their hand, you may cast the spell side of one of your twinpact creatures in the battle zone for no cost.
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures that has power 12000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Outrage/Magic Song</type>
+        <manacost>3</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-RP3-21">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cannonball, Ifrit Frit/♪ Summer Grass, By Ifrit, Trace of Dream</name>
+      <text>
+■ Whenever your opponent puts a creature from anywhere other than from their hand, you may cast the spell side of one of your twinpact creatures in the battle zone for no cost.
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures that has power 12000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Outrage/Magic Song</type>
+        <manacost>3</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-RP3- 13A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cannonball, Ifrit Frit/♪ Summer Grass, By Ifrit, Trace of Dream</name>
+      <text>
+■ Whenever your opponent puts a creature from anywhere other than from their hand, you may cast the spell side of one of your twinpact creatures in the battle zone for no cost.
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures that has power 12000 or less and destroy it.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Outrage/Magic Song</type>
+        <manacost>3</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM23-RP3- 15B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torinodomino, Geima Mountain Falcon</name>
+      <text>
+■ Revolution Change: Magic ''(When one of your magics attacks, you may switch that creature with this creature from your hand.)''
+■ When you put this creature, draw 3 cards, then discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Monster/Game Command</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3-72">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torinodomino, Geima Mountain Falcon</name>
+      <text>
+■ Revolution Change: Magic ''(When one of your magics attacks, you may switch that creature with this creature from your hand.)''
+■ When you put this creature, draw 3 cards, then discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Monster/Game Command</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3- 20A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torinodomino, Geima Mountain Falcon</name>
+      <text>
+■ Revolution Change: Magic ''(When one of your magics attacks, you may switch that creature with this creature from your hand.)''
+■ When you put this creature, draw 3 cards, then discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Monster/Game Command</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM23-RP3- 22B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chaturanga, Geima Earth Chariot</name>
+      <text>
+■ Revolution Change: Magic that costs 5 or more ''(When one of your magics that cost 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Double Breaker
+■ This creature can't be attacked or blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Dragon/Game Command</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-RP3-43">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kerora, Pop Cola/♪ A Thin Frog, Don't Lose Kerora, Spiral</name>
+      <text>
+■ Blocker
+■ Mega Last Burst
+=========================
+■ Look at the top 4 cards of your deck. Put one of them into your hand and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Outrage/Magic Song</type>
+        <manacost>3</manacost>
+        <colors>Water/Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3-30">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ater Gorghini</name>
+      <text>
+■ Blocker
+■ When you put this creature, choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose one of your opponent's creatures. That creature gets -4000 power until the End Step
+■ When this creature would leave, you may destroy one of your other creatures instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero/Supercar Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3-S3">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ater Gorghini</name>
+      <text>
+■ Blocker
+■ When you put this creature, choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose one of your opponent's creatures. That creature gets -4000 power until the End Step
+■ When this creature would leave, you may destroy one of your other creatures instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero/Supercar Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 3A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ater Gorghini</name>
+      <text>
+■ Blocker
+■ When you put this creature, choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose one of your opponent's creatures. That creature gets -4000 power until the End Step
+■ When this creature would leave, you may destroy one of your other creatures instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero/Supercar Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 5B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bojisowaka, Thousand Feather Ninja Change</name>
+      <text>
+■ Revolution Change: Mecha that costs 5 or more ''(When one of your Mecha that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Double Breaker
+■ Blocker
+■ When you put this creature, you may put the top 4 cards of your deck into your graveyard.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-RP3-S6">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bojisowaka, Thousand Feather Ninja Change</name>
+      <text>
+■ Revolution Change: Mecha that costs 5 or more ''(When one of your Mecha that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Double Breaker
+■ Blocker
+■ When you put this creature, you may put the top 4 cards of your deck into your graveyard.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-RP3- 6A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bojisowaka, Thousand Feather Ninja Change</name>
+      <text>
+■ Revolution Change: Mecha that costs 5 or more ''(When one of your Mecha that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Double Breaker
+■ Blocker
+■ When you put this creature, you may put the top 4 cards of your deck into your graveyard.
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DM23-RP3- 8B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galactica Golfantasista</name>
+      <text>
+■ Revolution Change: Giant that costs 5 or more ''(When one of your giant that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Triple Breaker
+■ Whenever your opponent puts a creature, that creature can't attack or block until the start of your next turn.
+■ Whenever one of your other Giants would battle one of your opponent's creatures, you may have this creature battle instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-RP3-S8">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galactica Golfantasista</name>
+      <text>
+■ Revolution Change: Giant that costs 5 or more ''(When one of your giant that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Triple Breaker
+■ Whenever your opponent puts a creature, that creature can't attack or block until the start of your next turn.
+■ Whenever one of your other Giants would battle one of your opponent's creatures, you may have this creature battle instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-RP3- 8A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galactica Golfantasista</name>
+      <text>
+■ Revolution Change: Giant that costs 5 or more ''(When one of your giant that costs 5 or more attacks, you may switch that creature with this creature from your hand.)''
+■ Triple Breaker
+■ Whenever your opponent puts a creature, that creature can't attack or block until the start of your next turn.
+■ Whenever one of your other Giants would battle one of your opponent's creatures, you may have this creature battle instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM23-RP3- 10B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chaosmantra, Fallen</name>
+      <text>
+■ Ninja Change
+■ Double Breaker
+■ When you put this creature, each of your opponent's creatures attack if able until the start of your next turn.
+■ Each of your creatures gets "slayer".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3-2">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chaosmantra, Fallen</name>
+      <text>
+■ Ninja Change
+■ Double Breaker
+■ When you put this creature, each of your opponent's creatures attack if able until the start of your next turn.
+■ Each of your creatures gets "slayer".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 9A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chaosmantra, Fallen</name>
+      <text>
+■ Ninja Change
+■ Double Breaker
+■ When you put this creature, each of your opponent's creatures attack if able until the start of your next turn.
+■ Each of your creatures gets "slayer".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-RP3- 11B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Oratoriocles</name>
+      <text>
+■ If you put a creature this turn, this spell in your shield zone gets "shield trigger".
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose one of your opponent's creatures and destroy it.
+:► Put a creature that has "blocker" from your hand.
+:► Look at the top 2 cards of your deck. Shieldify one of them and put the other into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3-4">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Oratoriocles</name>
+      <text>
+■ If you put a creature this turn, this spell in your shield zone gets "shield trigger".
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose one of your opponent's creatures and destroy it.
+:► Put a creature that has "blocker" from your hand.
+:► Look at the top 2 cards of your deck. Shieldify one of them and put the other into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- 10A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Oratoriocles</name>
+      <text>
+■ If you put a creature this turn, this spell in your shield zone gets "shield trigger".
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose one of your opponent's creatures and destroy it.
+:► Put a creature that has "blocker" from your hand.
+:► Look at the top 2 cards of your deck. Shieldify one of them and put the other into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM23-RP3- 12B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kurokami, Like Reading Music Love</name>
+      <text>
+■ Justdiver
+■ Your spells may cost 1 less to cast. They can't cost 0 or less.
+■ Whenever you cast a spell, choose one of your opponent's creatures. That creature can't attack or block until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Mermaid</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3-15">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kurokami, Like Reading Music Love</name>
+      <text>
+■ Justdiver
+■ Your spells may cost 1 less to cast. They can't cost 0 or less.
+■ Whenever you cast a spell, choose one of your opponent's creatures. That creature can't attack or block until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Mermaid</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 12A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kurokami, Like Reading Music Love</name>
+      <text>
+■ Justdiver
+■ Your spells may cost 1 less to cast. They can't cost 0 or less.
+■ Whenever you cast a spell, choose one of your opponent's creatures. That creature can't attack or block until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Mermaid</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 14B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sasori, Scorpion Paper Holy Chaos</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, you may choose one of your opponent's creatures and shieldify it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM23-RP3-28">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sasori, Scorpion Paper Holy Chaos</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, you may choose one of your opponent's creatures and shieldify it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM23-RP3- 15A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sasori, Scorpion Paper Holy Chaos</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, you may choose one of your opponent's creatures and shieldify it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Stella/Shinobi</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM23-RP3- 17B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendosa, the Worker</name>
+      <text>
+■ When you put this creature, reveal the top card of your deck. If it's an Armored, put it into your hand. Otherwise, you may put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Cosmo Walker</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3-53">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendosa, the Worker</name>
+      <text>
+■ When you put this creature, reveal the top card of your deck. If it's an Armored, put it into your hand. Otherwise, you may put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Cosmo Walker</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 17A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendosa, the Worker</name>
+      <text>
+■ When you put this creature, reveal the top card of your deck. If it's an Armored, put it into your hand. Otherwise, you may put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Cosmo Walker</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 19B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bending Wheel! Nps vs. Brutula</name>
+      <text>
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale/Mecha Del Dinero</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3-60">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bending Wheel! Nps vs. Brutula</name>
+      <text>
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale/Mecha Del Dinero</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 18A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bending Wheel! Nps vs. Brutula</name>
+      <text>
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale/Mecha Del Dinero</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 20B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Let's Train Noruppi</name>
+      <text>
+■ When you put this creature, draw 2 cards. Then your opponent discards a card at random from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3-65">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Let's Train Noruppi</name>
+      <text>
+■ When you put this creature, draw 2 cards. Then your opponent discards a card at random from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 19A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Let's Train Noruppi</name>
+      <text>
+■ When you put this creature, draw 2 cards. Then your opponent discards a card at random from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM23-RP3- 21B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Arczeos NEX</name>
+      <text>
+■ If you have an armored creature, this creature costs 1 less to summon.
+■ Blocker
+■ Whenever this creature attacks, you may put an armored creature that costs 5 or less from your hand.
+■ When this creature leaves, you may shieldify the top card of your deck.
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DM23-RP3-S1">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Arczeos NEX</name>
+      <text>
+■ If you have an armored creature, this creature costs 1 less to summon.
+■ Blocker
+■ Whenever this creature attacks, you may put an armored creature that costs 5 or less from your hand.
+■ When this creature leaves, you may shieldify the top card of your deck.
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DM23-RP3- 1A">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Arczeos NEX</name>
+      <text>
+■ If you have an armored creature, this creature costs 1 less to summon.
+■ Blocker
+■ Whenever this creature attacks, you may put an armored creature that costs 5 or less from your hand.
+■ When this creature leaves, you may shieldify the top card of your deck.
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DM23-RP3- 3B">DM23-RP3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

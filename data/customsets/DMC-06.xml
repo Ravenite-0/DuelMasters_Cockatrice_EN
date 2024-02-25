@@ -1,0 +1,327 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-06</name>
+      <longname>DMC-06</longname>
+      <settype>DMC-06</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Deadly Fighter Braid Claw</name>
+      <text>
+■ This creature attacks each turn Attack if Able
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-06-72">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Explosive Fighter Ucarn</name>
+      <text>
+■ When you put this creature into the battle zone, put 2 cards from your mana zone into your graveyard.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-06-14">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onslaughter Triceps</name>
+      <text>
+■ When you put this creature into the battle zone, put 1 card from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-06-32">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bronze-Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-06-78">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dimension Gate</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-06-81">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolzard Dragon</name>
+      <text>
+■ Whenever this creature attacks, choose a card in your opponent's mana zone and put it into his graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-06-3">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Boltail Dragon</name>
+      <text>
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-06-12">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Snip Striker Bullraizer</name>
+      <text>
+■ This creature can't attack while your opponent has more creatures in the battle zone than you do.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-06-69">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volcanic Arrows</name>
+      <text>
+■ Shield Trigger
+■ Destroy a creature that has power 6000 or less.
+■ Choose one of your shields and put it into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-06-74">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pippie Kuppie</name>
+      <text>
+■ Each Armored Dragon in the battle zone gets +1000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-06-71">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kip Chippotto</name>
+      <text>
+■ When one of your Armored Dragons would be destroyed, you may destroy this creature instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-06-68">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Twin-Cannon Skyterror</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Wyvern</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-06-14">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pyrofighter Magnus</name>
+      <text>
+■ Speed Attacker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-06-66">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Enchanted Soil</name>
+      <text>
+■ Put up to 2 creatures from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-06-39">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Comet Missile</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has "blocker" and power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-06-35">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cutthroat Skyterror</name>
+      <text>
+■ Speed Attacker
+■ This creature can't attack players.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Wyvern</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-06-33">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torchclencher</name>
+      <text>
+■ While you have at least one other fire creature in the battle zone, this creature has "Power attacker +3000 ''(While attacking, this creature gets +3000 power)''."
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-06-67">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-06-82">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Storm Javelin Wyvern</name>
+      <text>
+■ This creature can't attack players.
+■ This creature can attack untapped light or water creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Wyvern</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-06-64">DMC-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

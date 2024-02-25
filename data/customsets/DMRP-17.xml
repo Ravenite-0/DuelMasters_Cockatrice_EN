@@ -1,0 +1,1580 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-17</name>
+      <longname>DMRP-17</longname>
+      <settype>DMRP-17</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Dorballom, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ Triple Breaker
+■ When you put this creature, destroy all creatures except darkness creatures. Then each player puts all non-darkness cards in their mana zone into their graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>10</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-17-13A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorballom, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ Triple Breaker
+■ When you put this creature, destroy all creatures except darkness creatures. Then each player puts all non-darkness cards in their mana zone into their graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>10</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-17- 13B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Galaxy, Immortality Elemental</name>
+      <text>
+■ Double Breaker
+■ Shield Force
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-17-14A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Galaxy, Immortality Elemental</name>
+      <text>
+■ Double Breaker
+■ Shield Force
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-17- 14B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jasmine, Mist Faerie</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17-19A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jasmine, Mist Faerie</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17- 19B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Wilhelm</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, destroy one of your opponent's creatures. Then choose a card from your opponent's mana zone and put it into its owner's graveyard.
+■ Whenever your opponent puts a card into their graveyard from anywhere, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-17-18A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Wilhelm</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, destroy one of your opponent's creatures. Then choose a card from your opponent's mana zone and put it into its owner's graveyard.
+■ Whenever your opponent puts a card into their graveyard from anywhere, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-17- 18B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnarok, the Clock</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, skip the rest of the turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-17-12A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnarok, the Clock</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, skip the rest of the turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-17- 12B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>MaltNEXT, Super Battle Dragon Ruler</name>
+      <text>
+■ Double Breaker
+■ Mana Arms
+■ Dragon Mana Arms 5: When this creature attacks for the first time in a turn, if you have 5 or more fire Dragons in your mana zone, untap this creature after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon/Human Baku/Draguner</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-17-16A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>MaltNEXT, Super Battle Dragon Ruler</name>
+      <text>
+■ Double Breaker
+■ Mana Arms
+■ Dragon Mana Arms 5: When this creature attacks for the first time in a turn, if you have 5 or more fire Dragons in your mana zone, untap this creature after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon/Human Baku/Draguner</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-17- 16B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holy, Flash Guardian</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-17-20A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holy, Flash Guardian</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-17- 20B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-11A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 11B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bad Brand</name>
+      <text>
+■ Master Bad Action Dynamite ''(This creature may cost 2 less to summon and an additional 2 less for each of your other fire creatures you summoned this turn. If you do, destroy one of your creatures End Step
+■ Double Breaker
+■ Each of your fire creatures gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-17-17A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bad Brand</name>
+      <text>
+■ Master Bad Action Dynamite ''(This creature may cost 2 less to summon and an additional 2 less for each of your other fire creatures you summoned this turn. If you do, destroy one of your creatures End Step
+■ Double Breaker
+■ Each of your fire creatures gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-17- 17B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pokchinchin</name>
+      <text>
+■ When you put this creature, choose a player. That player shuffles all cards in their graveyard into their deck.
+■ During your opponent's turn, whenever your opponent puts a creature into the battle zone For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-17-15A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pokchinchin</name>
+      <text>
+■ When you put this creature, choose a player. That player shuffles all cards in their graveyard into their deck.
+■ During your opponent's turn, whenever your opponent puts a creature into the battle zone For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-17- 15B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chotto Q (Regari Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Jokers/Earth Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-88">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Re:Life</name>
+      <text>
+■ Guard Strike
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-95">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Re:Life</name>
+      <text>
+■ Guard Strike
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 7A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Re:Life</name>
+      <text>
+■ Guard Strike
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 7B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorphadillom, Holy Demon Concatenated King</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature or when this creature's "EX Life" shield leaves your shield zone, destroy all your opponent's non-multicolored creatures.
+■ Your opponent can't cast non-multicolored spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>13500</pt>
+      </prop>
+      <set num="DMRP-17-KM2">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorphadillom, Holy Demon Concatenated King</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature or when this creature's "EX Life" shield leaves your shield zone, destroy all your opponent's non-multicolored creatures.
+■ Your opponent can't cast non-multicolored spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>13500</pt>
+      </prop>
+      <set num="DMRP-17- 2S">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorphadillom, Holy Demon Concatenated King</name>
+      <text>
+■ EX Life
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature or when this creature's "EX Life" shield leaves your shield zone, destroy all your opponent's non-multicolored creatures.
+■ Your opponent can't cast non-multicolored spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>13500</pt>
+      </prop>
+      <set num="DMRP-17- 2B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scrapper Spiral Spark</name>
+      <text>
+■ Shield Trigger
+■ Your opponent chooses one of their creatures that has the lowest power and destroys it.
+■ Your opponent chooses one of their creatures that has the highest power and return it to it's owner's hand.
+■ Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-27">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scrapper Spiral Spark</name>
+      <text>
+■ Shield Trigger
+■ Your opponent chooses one of their creatures that has the lowest power and destroys it.
+■ Your opponent chooses one of their creatures that has the highest power and return it to it's owner's hand.
+■ Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 9A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scrapper Spiral Spark</name>
+      <text>
+■ Shield Trigger
+■ Your opponent chooses one of their creatures that has the lowest power and destroys it.
+■ Your opponent chooses one of their creatures that has the highest power and return it to it's owner's hand.
+■ Tap all your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 9B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel Mohitch</name>
+      <text>
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ While battling, this creature gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMRP-17-83">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bronze-1, Savage</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your mana zone.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Distas</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17-92">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking Rex, Orai Hero</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, discard a card from your hand and draw 2 cards. Then you may put a creature from your hand that costs 7 or less that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, untap each time it wins a battle this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero Dragon/Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-KM3">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking Rex, Orai Hero</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, discard a card from your hand and draw 2 cards. Then you may put a creature from your hand that costs 7 or less that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, untap each time it wins a battle this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero Dragon/Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17- 3S">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking Rex, Orai Hero</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, discard a card from your hand and draw 2 cards. Then you may put a creature from your hand that costs 7 or less that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, untap each time it wins a battle this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero Dragon/Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17- 3B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Momoking NEX</name>
+      <text>
+■ Star Evolution
+■ Powered Breaker
+■ When you put this creature or whenever it attacks, reveal the top card of your deck. If it's a RexStars or fire creature, put that creature. Otherwise, put it into your graveyard.
+■ While attacking, this creature gets +2000 power for each fire card in your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Jokers/Armored Dragon/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMRP-17-KM1">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Momoking NEX</name>
+      <text>
+■ Star Evolution
+■ Powered Breaker
+■ When you put this creature or whenever it attacks, reveal the top card of your deck. If it's a RexStars or fire creature, put that creature. Otherwise, put it into your graveyard.
+■ While attacking, this creature gets +2000 power for each fire card in your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Jokers/Armored Dragon/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMRP-17- 1S">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Momoking NEX</name>
+      <text>
+■ Star Evolution
+■ Powered Breaker
+■ When you put this creature or whenever it attacks, reveal the top card of your deck. If it's a RexStars or fire creature, put that creature. Otherwise, put it into your graveyard.
+■ While attacking, this creature gets +2000 power for each fire card in your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Jokers/Armored Dragon/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMRP-17- 1B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paligiris</name>
+      <text>
+■ '''Shinkapower''': When this creature evolves, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-17-94">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zardiclica, Hybrid Winds Dragon</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your hand or graveyard for no cost. After you cast, put it on the bottom of your deck instead.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Crystal Command Dragon/Angel Command/Melt Warrior</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-S7">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zardiclica, Hybrid Winds Dragon</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your hand or graveyard for no cost. After you cast, put it on the bottom of your deck instead.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Crystal Command Dragon/Angel Command/Melt Warrior</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17- 10A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zardiclica, Hybrid Winds Dragon</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your hand or graveyard for no cost. After you cast, put it on the bottom of your deck instead.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Crystal Command Dragon/Angel Command/Melt Warrior</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17- 10B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Volcanic Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 3 cards of your deck. Put one in your mana zone, add one to your hand and put one into your graveyard. Destroy one of your opponent's creatures that costs the same as or less than the card put into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-29">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Volcanic Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 3 cards of your deck. Put one in your mana zone, add one to your hand and put one into your graveyard. Destroy one of your opponent's creatures that costs the same as or less than the card put into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 8A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Volcanic Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 3 cards of your deck. Put one in your mana zone, add one to your hand and put one into your graveyard. Destroy one of your opponent's creatures that costs the same as or less than the card put into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 8B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rigel-2, Soul Crystal</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, you may return a card from your mana zone or graveyard to your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-17-57">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloodow-2, Rotten Saint</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature, draw a card.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost/Distas</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-17-53">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Urgaan, Connected Pure Dark</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Untap this creature at the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Angel Command/Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMRP-17-30">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heavenash Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a creature that costs 8 or less from your graveyard. That creature gets "blocker" until the start of your next turn. Then you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-10">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolsren Buster, Hybrid Flame Machine</name>
+      <text>
+■ Guard Strike
+■ EX Life
+■ Speed Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/Machine Hero</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-22">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Still Justice Till The End (Kira Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw a card. Then you may put a creature from your hand that costs 4 or less.
+■ Each of your creatures that cost 4 or less gets "blocker" and untaps at the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Human/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>8500</pt>
+      </prop>
+      <set num="DMRP-17-S1">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Still Justice Till The End (Kira Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw a card. Then you may put a creature from your hand that costs 4 or less.
+■ Each of your creatures that cost 4 or less gets "blocker" and untaps at the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Human/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>8500</pt>
+      </prop>
+      <set num="DMRP-17- 4A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Still Justice Till The End (Kira Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw a card. Then you may put a creature from your hand that costs 4 or less.
+■ Each of your creatures that cost 4 or less gets "blocker" and untaps at the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Human/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>8500</pt>
+      </prop>
+      <set num="DMRP-17- 4B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ldbat-1, Nightmare</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your graveyard. Then return a creature from your graveyard to your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Knightmare/Distas</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17-76">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bakuislay-1, Warrior</name>
+      <text>
+■ When you put this creature, you may discard a card from your hand. If you do, draw a card.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Distas</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17-85">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt, Great Explosive Dragon</name>
+      <text>
+■ Speed Attacker
+■ Each turn, you may untap this creature the first time it's tapped.
+■ '''Shinkapower''': When this creature evolves, you may choose one of your opponent's creatures. After it evolves, this creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dynamite Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-17-5">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Re:Light</name>
+      <text>
+■ Guard Strike
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-73">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Re:Light</name>
+      <text>
+■ Guard Strike
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 5A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Re:Light</name>
+      <text>
+■ Guard Strike
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- 5B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Primal Giant</name>
+      <text>
+■ Guard Strike
+■ This creature can't attack players.
+■ Whenever your opponent would put a card from anywhere other than their hand, put it into its owner's mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-17-25">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dischalce Dony</name>
+      <text>
+■ Mach Fighter
+■ This creature gets "slayer" while attacking a creature that costs 5 or less.
+■ When you put this creature, you may put a creature from your hand that costs 5 or less .
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17-11">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diszircon</name>
+      <text>
+■ Blocker
+■ You may summon this creature from your mana zone or your graveyard.
+■ When you put this creature, draw 2 cards and discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-17-28">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Appo (Valbo Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Beat Jockey/Human/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-44">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Appo (Valbo Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Beat Jockey/Human/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17- Coro3">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor (Death the Star)</name>
+      <text>
+■ If you have 4 or more cards in your graveyard, this creature costs 3 less to summon.
+■ Star Evolution
+■ Triple Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Infinite Dragon/Demon Command Dragon/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-17-S3">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor (Death the Star)</name>
+      <text>
+■ If you have 4 or more cards in your graveyard, this creature costs 3 less to summon.
+■ Star Evolution
+■ Triple Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Infinite Dragon/Demon Command Dragon/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-17- 6A">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor (Death the Star)</name>
+      <text>
+■ If you have 4 or more cards in your graveyard, this creature costs 3 less to summon.
+■ Star Evolution
+■ Triple Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Infinite Dragon/Demon Command Dragon/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-17- 6B">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Charisma Manifest</name>
+      <text>
+■ When you put this creature, draw 3 cards then discard 2 cards from your hand. 
+■ '''Shinkapower''': When this creature evolves, it can't be blocked until the start of your next turn and whenever your opponent would choose a creature, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-17-2">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wiljavelin, Sutured Fakespear</name>
+      <text>
+■ EX Life
+■ Triple Breaker
+■ When you put this creature, choose one of your opponent's cards in the battle zone, one in their mana zone and one from your opponent's hand at random. Your opponent puts them into their graveyard.
+■ At the end of your turn, choose a player. That player draws 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/King Command Dragon/Liquid People</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMRP-17-S10">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・BOX</name>
+      <text>
+■ '''Shinkapower''': When this creature evolves, while battling, this creature gets +2000 power this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-17-84">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・BOX</name>
+      <text>
+■ '''Shinkapower''': When this creature evolves, while battling, this creature gets +2000 power this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-17- Coro5">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ov Sidia (Southern Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, draw a card for each of your creatures that cost 4 or less in the battle zone.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Angel Command Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-12">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ov Sidia (Southern Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, draw a card for each of your creatures that cost 4 or less in the battle zone.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Angel Command Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17- Coro6">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mukade, Asura (Deathshiraz Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, you may put a creature that costs 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Mafi Gang/Demon Command Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-17-18">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dope (Flameburn Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Beat Jockey/Armored Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-17-21">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dope (Flameburn Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Beat Jockey/Armored Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-17- Coro1">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aibo Churis</name>
+      <text>
+■ Guard Strike
+■ When you put this creature, reveal the top 4 cards from your deck. You may put a creature that costs 6 or less from among them that can evolve from this creature on top of it. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-17-23">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aibo Churis</name>
+      <text>
+■ Guard Strike
+■ When you put this creature, reveal the top 4 cards from your deck. You may put a creature that costs 6 or less from among them that can evolve from this creature on top of it. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-17- Coro2">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fireball Channeler %26 Legendary Taleteller</name>
+      <text>
+■ Guard Strike
+■ When you put this creature, you may put a creature that costs 4 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-17-14">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fireball Channeler %26 Legendary Taleteller</name>
+      <text>
+■ Guard Strike
+■ When you put this creature, you may put a creature that costs 4 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-17- Coro7">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manmasa, Sharpscaled Swordsman</name>
+      <text>
+■ '''Shinkapower''': When this creature evolves, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-17-70">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manmasa, Sharpscaled Swordsman</name>
+      <text>
+■ '''Shinkapower''': When this creature evolves, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-17- Coro9">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hulcus-1, Cyber</name>
+      <text>
+■ When you put this creature, draw a card.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-17-68">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Burst Oneshot</name>
+      <text>
+■ Shield Trigger
+■ Destroy all creatures that have power 3000 or less.
+■ If you have a creature in the battle zone that has power 6000 or more, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17-48">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Burst Oneshot</name>
+      <text>
+■ Shield Trigger
+■ Destroy all creatures that have power 3000 or less.
+■ If you have a creature in the battle zone that has power 6000 or more, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-17- Coro4">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mixel (Tajimal Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Initiate/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-17-58">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mixel (Tajimal Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Initiate/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-17- Coro8">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Seedrun, Hidden Lurker</name>
+      <text>
+■ Justdiver
+■ Whenever this creature attacks, draw 2 cards then put a card from your hand on top of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-17-Coro10">DMRP-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

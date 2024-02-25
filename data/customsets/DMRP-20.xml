@@ -1,0 +1,1582 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-20</name>
+      <longname>DMRP-20</longname>
+      <settype>DMRP-20</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-19A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 19B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendelssohn</name>
+      <text>
+■ Reveal the top 2 cards of your deck. Put all Dragons revealed this way into your mana zone tapped and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-17A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendelssohn</name>
+      <text>
+■ Reveal the top 2 cards of your deck. Put all Dragons revealed this way into your mana zone tapped and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 17B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>All Delete</name>
+      <text>
+■ Each player puts all their cards in the battle zone, hand, shield zone and graveyard into their deck and shuffles it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>11</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-11A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>All Delete</name>
+      <text>
+■ Each player puts all their cards in the battle zone, hand, shield zone and graveyard into their deck and shuffles it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>11</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 11B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-13A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20- 13B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Verde, Rainbow Sonic</name>
+      <text>
+■ You may summon this creature from your mana zone.
+■ Mach Fighter
+■ This creature has all civilizations while in the battle zone or in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-20-20A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Verde, Rainbow Sonic</name>
+      <text>
+■ You may summon this creature from your mana zone.
+■ Mach Fighter
+■ This creature has all civilizations while in the battle zone or in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-20- 20B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Almighty Zennou</name>
+      <text>
+■ Your opponent's creatures can't attack on the turn they are put into the battle zone.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-20-14A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Almighty Zennou</name>
+      <text>
+■ Your opponent's creatures can't attack on the turn they are put into the battle zone.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-20- 14B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Burnmare the Silver/Oraora Slash</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, gacharange summon twice. Those creatures get "speed attacker" until the End Step
+=========================
+■ Shield Trigger
+■ Until the start of your next turn, whenever an opponent's creature attacks, they must attack creatures if able.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-20-12A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Burnmare the Silver/Oraora Slash</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, gacharange summon twice. Those creatures get "speed attacker" until the End Step
+=========================
+■ Shield Trigger
+■ Until the start of your next turn, whenever an opponent's creature attacks, they must attack creatures if able.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-20- 12B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Umakin ☆ Project</name>
+      <text>
+■ Buzzrender
+■ file:Buzzrender2.png
+■ Powered Breaker
+■ This creature gets +1000 power for each card in your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Cyber Command/Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>0000+</pt>
+      </prop>
+      <set num="DMRP-20-18A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Umakin ☆ Project</name>
+      <text>
+■ Buzzrender
+■ file:Buzzrender2.png
+■ Powered Breaker
+■ This creature gets +1000 power for each card in your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Cyber Command/Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>0000+</pt>
+      </prop>
+      <set num="DMRP-20- 18B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Absolute Shield Knight</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ When you put this creature face up into your shield zone, or When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DMRP-20-15A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Absolute Shield Knight</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ When you put this creature face up into your shield zone, or When you put
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DMRP-20- 15B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor, Infinite Dragon</name>
+      <text>
+■ Mugen Climb
+■ Infinity Breaker
+■ Blocker
+■ Ignore the ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Infinite Master Dragon/Team Zero</type>
+        <manacost></manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-16A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor, Infinite Dragon</name>
+      <text>
+■ Mugen Climb
+■ Infinity Breaker
+■ Blocker
+■ Ignore the ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Infinite Master Dragon/Team Zero</type>
+        <manacost></manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 16B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Daichi-3, Savage</name>
+      <text>
+■ Guard Strike
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-95">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mukachakka</name>
+      <text>
+■ Shield Trigger
+■ Whenever an opponent's creature attacks, destroy this creature and that creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-16">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mukachakka</name>
+      <text>
+■ Shield Trigger
+■ Whenever an opponent's creature attacks, destroy this creature and that creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20- Coro6">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20-KM3">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- KM4">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- KM5">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- 3B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- 4B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- 5B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- 3S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- 4S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volzeos Balamord</name>
+      <text>
+■ If you have the 3 King Cells of "New World King's Authority", "New World King's Thoughts" and "New World King's Fighting Spirit" in your hand or mana zone, you may pay this creature's cost to combine them and summon this King Creature.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ Speed Attacker
+■ This creature can't be blocked on the turn you put it.
+■ Whenever this creature attacks, your opponent discards their hand.
+■ Whenever you use "Guard Strike", you may put the top card of your deck into your mana zone, then choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>King Creature</maintype>
+        <type>Dispector/New World Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>555555</pt>
+      </prop>
+      <set num="DMRP-20- 5S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mikadoleo, Doomsday Sutured King</name>
+      <text>
+■ EX Life
+■ Blocker
+■ Quattro Breaker
+■ When you summon this creature, reveal the top 4 cards of your deck. Put any number of creatures from among them and the rest into your mana zone.
+■ At the Start of Turn Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/God/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMRP-20-KM2">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mikadoleo, Doomsday Sutured King</name>
+      <text>
+■ EX Life
+■ Blocker
+■ Quattro Breaker
+■ When you summon this creature, reveal the top 4 cards of your deck. Put any number of creatures from among them and the rest into your mana zone.
+■ At the Start of Turn Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/God/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMRP-20- 2B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mikadoleo, Doomsday Sutured King</name>
+      <text>
+■ EX Life
+■ Blocker
+■ Quattro Breaker
+■ When you summon this creature, reveal the top 4 cards of your deck. Put any number of creatures from among them and the rest into your mana zone.
+■ At the Start of Turn Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/God/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMRP-20- 2S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Authority</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-KM3">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Authority</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 3B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Authority</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 3S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Thoughts</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-KM4">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Thoughts</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 4B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Thoughts</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 4S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Fighting Spirit</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-KM5">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Fighting Spirit</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 5B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>New World King's Fighting Spirit</name>
+      <text>
+■ Guard Strike
+■ When you put this card from your hand into your mana zone, untap it.
+  </text>
+      <prop>
+        <maintype>King Cell</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 5S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Original Finale, Secret Doomsday King</name>
+      <text>
+■ Attack Chance: Water, Darkness and Nature dispector ''(When one of your water, darkness and nature dispectors attacks, you may cast this spell For No Cost
+■ Look at the top 3 cards of your deck. Put 2 of them into your mana zone and the rest into your hand.
+■ Choose one of your opponent's creatures. That creature gets -1000 power for each card in your mana zone until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-11">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking JO, Future King Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, you may put an evolution creature that has "Momoking" in its name from your hand that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, you may put the top card of this creature into your graveyard after this creature attacks. If you do, untap this creature and draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Hero Dragon/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-20-KM1">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking JO, Future King Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, you may put an evolution creature that has "Momoking" in its name from your hand that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, you may put the top card of this creature into your graveyard after this creature attacks. If you do, untap this creature and draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Hero Dragon/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-20- 1B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking JO, Future King Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, you may put an evolution creature that has "Momoking" in its name from your hand that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, you may put the top card of this creature into your graveyard after this creature attacks. If you do, untap this creature and draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Hero Dragon/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-20- 1S">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onsen Deis Kaiser</name>
+      <text>
+■ Speed Attacker
+■ This creature can't be blocked.
+■ When you put this creature, you may discard a card from your hand. If you do, draw the number of civilizations that card has.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rainbow Dragon/Alien</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-20-6">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onsen Deis Kaiser</name>
+      <text>
+■ Speed Attacker
+■ This creature can't be blocked.
+■ When you put this creature, you may discard a card from your hand. If you do, draw the number of civilizations that card has.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rainbow Dragon/Alien</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-20- 8A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onsen Deis Kaiser</name>
+      <text>
+■ Speed Attacker
+■ This creature can't be blocked.
+■ When you put this creature, you may discard a card from your hand. If you do, draw the number of civilizations that card has.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rainbow Dragon/Alien</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-20- 8B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Re:Soul</name>
+      <text>
+■ Guard Strike
+■ Your opponent discards all cards from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-17">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Re:Soul</name>
+      <text>
+■ Guard Strike
+■ Your opponent discards all cards from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 10A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Re:Soul</name>
+      <text>
+■ Guard Strike
+■ Your opponent discards all cards from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 10B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dis Zorro Star</name>
+      <text>
+■ When you put this creature, shieldify the top card of your deck. Then put the top card of your deck into your graveyard. Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Distas</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-20-28">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earth Dragon God's Magic Encampment</name>
+      <text>
+■ Guard Strike
+■ Look at the top 3 cards of your deck. Put one of them into your hand or mana zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20-55">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earth Dragon God's Magic Encampment</name>
+      <text>
+■ Guard Strike
+■ Look at the top 3 cards of your deck. Put one of them into your hand or mana zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 7A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Earth Dragon God's Magic Encampment</name>
+      <text>
+■ Guard Strike
+■ Look at the top 3 cards of your deck. Put one of them into your hand or mana zone and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-20- 7B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Bigbang, Sutured Phoenix</name>
+      <text>
+■ EX Life
+■ Blocker
+■ When you put this creature or whenever it attacks, put the top 2 cards of your deck into your graveyard then draw 2 cards.
+■ Even if you have 0 cards in your deck, you can't Prevents Defeat
+■ Whenever you would draw a card, if you have 0 cards in your deck, you may put a creature from your graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Phoenix</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-20-S10">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Recodeking Number Nine</name>
+      <text>
+■ Guard Strike
+■ Double Breaker
+■ Your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-20-12">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Recodeking Number Nine</name>
+      <text>
+■ Guard Strike
+■ Double Breaker
+■ Your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-20- 6A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Recodeking Number Nine</name>
+      <text>
+■ Guard Strike
+■ Double Breaker
+■ Your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-20- 6B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami (Saga Star)</name>
+      <text>
+■ Guard Strike
+■ When you reveal this creature to your opponent with "Guard Strike", reveal the top card of your deck. If it's a non-evolution RexStars, you may put it. If you do, put this creature on it.
+■ Multi Star Evolution
+■ Double Breaker
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ Whenever this creature wins a battle, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Gransect/Creator/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-20-S7">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami (Saga Star)</name>
+      <text>
+■ Guard Strike
+■ When you reveal this creature to your opponent with "Guard Strike", reveal the top card of your deck. If it's a non-evolution RexStars, you may put it. If you do, put this creature on it.
+■ Multi Star Evolution
+■ Double Breaker
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ Whenever this creature wins a battle, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Gransect/Creator/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-20- 9A">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami (Saga Star)</name>
+      <text>
+■ Guard Strike
+■ When you reveal this creature to your opponent with "Guard Strike", reveal the top card of your deck. If it's a non-evolution RexStars, you may put it. If you do, put this creature on it.
+■ Multi Star Evolution
+■ Double Breaker
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ Whenever this creature wins a battle, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Gransect/Creator/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-20- 9B">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Double Cross DD Zeta, Concatenated Awakened</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Each of your creatures gets "speed attacker" and "slayer". 
+■ Whenever this creature attacks, you may put this creature's "EX Life" shield into your graveyard. If you do, your opponent can't cast spells until the start of your turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/World Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20-9">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mirei (Memento Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+■ Double Breaker
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20-30">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mirei (Memento Star)</name>
+      <text>
+■ Star Evolution
+■ Blocker
+■ Double Breaker
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20- Coro2">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bainaradouwa</name>
+      <text>
+■ Shield Trigger
+■ This creature can't attack players.
+■ When you put this creature, you may choose one of your opponent's creatures. That creature and this creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20-84">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bainaradouwa</name>
+      <text>
+■ Shield Trigger
+■ This creature can't attack players.
+■ When you put this creature, you may choose one of your opponent's creatures. That creature and this creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20- Coro4">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pungi, Strange Stone</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, choose one of your opponent's creatures and tap it.
+■ '''Shinkapower''': When this creature evolves, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-60">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pungi, Strange Stone</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, choose one of your opponent's creatures and tap it.
+■ '''Shinkapower''': When this creature evolves, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20- Coro3">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hatchichi</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, put the top card of your deck into your mana zone.
+■ '''Shinkapower''': When this creature evolves, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-87">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hatchichi</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, put the top card of your deck into your mana zone.
+■ '''Shinkapower''': When this creature evolves, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20- Coro5">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Monhata, the Restored One</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, draw a card.
+■ '''Shinkapower''': When this creature evolves, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-66">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Monhata, the Restored One</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, draw a card.
+■ '''Shinkapower''': When this creature evolves, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20- Coro9">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volgal, Misfortune Demon Hoshigou</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, your opponent chooses a card from their hand and discards it.
+■ '''Shinkapower''': When this creature evolves, your opponent chooses a card from their hand and discards it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20-73">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volgal, Misfortune Demon Hoshigou</name>
+      <text>
+■ Whenever this creature is attacked or chosen by your opponent, your opponent chooses a card from their hand and discards it.
+■ '''Shinkapower''': When this creature evolves, your opponent chooses a card from their hand and discards it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-20- Coro10">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Latelier (Haridel Star)</name>
+      <text>
+■ You may reduce this creature's summon cost by 2. If you do, destroy this creature at the End Step
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, you may return a card from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-20-37">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Latelier (Haridel Star)</name>
+      <text>
+■ You may reduce this creature's summon cost by 2. If you do, destroy this creature at the End Step
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, you may return a card from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-20- Coro8">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Guguppy (Shark Star)</name>
+      <text>
+■ You may reduce this creature's summon cost by 2. If you do, return this creature to your hand at the End Step
+■ Star Evolution
+■ Double Breaker
+■ This creature can't be blocked.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20-33">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Guguppy (Shark Star)</name>
+      <text>
+■ You may reduce this creature's summon cost by 2. If you do, return this creature to your hand at the End Step
+■ Star Evolution
+■ Double Breaker
+■ This creature can't be blocked.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Mutopia/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-20- Coro7">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Re:d, Lightning Sonic</name>
+      <text>
+■ Guard Strike
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-20-78">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Maple-1, Divine</name>
+      <text>
+■ When you put this creature, look at your opponent's hand and discard a card from it.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Oracle/Distas</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-20-39">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultrasonic Star Paladin</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature, choose one of your opponent's creatures and tap it.
+■ Each of your light creatures that cost 4 or less in your shield zone get "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-20-13">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultrasonic Star Paladin</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature, choose one of your opponent's creatures and tap it.
+■ Each of your light creatures that cost 4 or less in your shield zone get "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-20- Coro1">DMRP-20</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

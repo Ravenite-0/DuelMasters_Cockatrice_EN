@@ -1,0 +1,269 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-50</name>
+      <longname>DMC-50</longname>
+      <settype>DMC-50</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Syrius, Firmament Elemental</name>
+      <text>
+■ Blocker
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>11</manacost>
+        <colors>Light</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-50-7">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Syforce, Aurora Elemental</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, you may return a spell from your mana zone to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-50-11">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-50-15">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Stream</name>
+      <text>
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-50-28">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Triple Brain</name>
+      <text>
+■ Draw up to 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-50-17">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-50-13">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-50-14">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ailfreet, Holy Gates Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, reveal the top 3 cards of your deck. You may take a spell from among them, put it into your hand and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMC-50-2">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alshia, Nova Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-50-12">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ulcelios, Holy Core Elemental</name>
+      <text>
+■ Blocker
+■ Whenever one of your other creatures that has "blocker" is destroyed, you may add the top card of your deck to your shields face down.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-50-1">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyber Brain</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-50-24">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan</name>
+      <text>
+■ When you put this creature, you may reveal the top 5 cards of your deck. Put all light and darkness cards from among them into your hand, and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-50-16">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>El Kaiou, Spirit Mecha King</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim/Great Mecha King</type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMC-50-30">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Milzam, Miracles Elemental</name>
+      <text>
+■ Blocker
+■ Ultra Shield Plus—When you put this creature into the battle zone, you may put up to 5 cards from the top of your deck under one of your shields. ''(Each card stack is still considered to be one shield.)''
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMC-50-8">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultimus, Divine Law Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When this creature is destroyed, search your deck. You may take a spell that has "Shield Trigger" from your deck, show that spell to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMC-50-23">DMC-50</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

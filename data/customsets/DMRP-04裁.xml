@@ -1,0 +1,383 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-04裁</name>
+      <longname>DMRP-04裁</longname>
+      <settype>DMRP-04裁</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Life Wing's Judgment</name>
+      <text>
+■ Add the top card of your deck to your shields face down.
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-04裁-33">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark DG</name>
+      <text>
+■ When you put this creature, reveal the top 3 cards of your deck. From among them, add all Metallica, Dragons and spells into your hand and put the rest on the bottom of your deck in any order.
+■ At the End Step
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master DG/Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-04裁-M1">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark DG</name>
+      <text>
+■ When you put this creature, reveal the top 3 cards of your deck. From among them, add all Metallica, Dragons and spells into your hand and put the rest on the bottom of your deck in any order.
+■ At the End Step
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master DG/Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-04裁-M1㊙1">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark DG</name>
+      <text>
+■ When you put this creature, reveal the top 3 cards of your deck. From among them, add all Metallica, Dragons and spells into your hand and put the rest on the bottom of your deck in any order.
+■ At the End Step
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master DG/Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-04裁- M1㊙2">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark DG</name>
+      <text>
+■ When you put this creature, reveal the top 3 cards of your deck. From among them, add all Metallica, Dragons and spells into your hand and put the rest on the bottom of your deck in any order.
+■ At the End Step
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master DG/Metallica</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-04裁- M1㊙3">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirazeus Savark</name>
+      <text>
+■ Dragon Double Breaker ''(This creature breaks 2 shields. Before the break
+■ When you put this creature, choose one of your opponent's cards in the battle zone and put it on top of one of their shields Face Up
+■ Whenever one of your creatures would leave the battle zone, you may put a Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master Dragon/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-04裁-MD1">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirazeus Savark</name>
+      <text>
+■ Dragon Double Breaker ''(This creature breaks 2 shields. Before the break
+■ When you put this creature, choose one of your opponent's cards in the battle zone and put it on top of one of their shields Face Up
+■ Whenever one of your creatures would leave the battle zone, you may put a Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master Dragon/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-04裁-MD1㊙1">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirazeus Savark</name>
+      <text>
+■ Dragon Double Breaker ''(This creature breaks 2 shields. Before the break
+■ When you put this creature, choose one of your opponent's cards in the battle zone and put it on top of one of their shields Face Up
+■ Whenever one of your creatures would leave the battle zone, you may put a Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master Dragon/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-04裁- MD1㊙2">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirazeus Savark</name>
+      <text>
+■ Dragon Double Breaker ''(This creature breaks 2 shields. Before the break
+■ When you put this creature, choose one of your opponent's cards in the battle zone and put it on top of one of their shields Face Up
+■ Whenever one of your creatures would leave the battle zone, you may put a Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master Dragon/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-04裁- MD1㊙3">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Omegattai Sandaioh</name>
+      <text>
+■ Joe
+■ Speed Attacker
+■ Double Breaker
+■ This creature's attack target can't be changed.
+■ Whenever this creature would break a shield, if you have a total of 10 or more of your Jokers in the battle zone and/or your mana zone, your opponent puts it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-04裁-S7">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Heikkie</name>
+      <text>
+■ When you put this creature into the battle zone or whenever it attacks, you may choose another creature in the battle zone. If you do, that creature's owner puts it on the bottom of their deck and draws a card. Then they may put a creature that costs the same or less than that creature from their hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-04裁-S1">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hazure Ponnosuke</name>
+      <text>
+■ This creature can't break shields.
+■ You can't use "shield trigger" ability
+■ More than 4 of this card in your deck
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>1</manacost>
+        <colors>Colorless</colors>
+        <pt>820</pt>
+      </prop>
+      <set num="DMRP-04裁-57">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nikujiru Busher</name>
+      <text>
+■ Instead of paying the cost, you may put one of your creatures, a shield, and a card from your hand on the bottom of your deck to summon this creature.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-04裁-8">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chain Maximum</name>
+      <text>
+■ Bad Action Dynamite
+■ Speed Attacker
+■ When this creature would be destroyed, you may destroy one of your Beat Jockeys instead.
+■ When you would Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-04裁-S8">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yattare Sochou</name>
+      <text>
+■ Your Jokers that cost 7 or more cost 1 less to summon. However, they can't cost 0 or less.
+■ Whenever a card in the battle zone is put on the bottom of your deck, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-04裁-50">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Setsunano Sabato</name>
+      <text>
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down.
+■ When this creature leaves the battle zone, put one of your shields into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Sabakist</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-04裁-31">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oshakanakun</name>
+      <text>
+■ Ultra Saver: Jokers ''(When one of your Jokers would leave the battle zone, you may destroy this creature instead.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-04裁-85">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chicken Tatta</name>
+      <text>
+■ Joe
+■ Speed Attacker
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-04裁-79">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rush Churis</name>
+      <text>
+■ Neo Evolution
+■ Kizuna
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-04裁-45">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wakamecha, Eternal Girl</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When this creature is put into your graveyard from anywhere, shuffle all cards in your graveyard and put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-04裁-38">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Majugai, Shell Beast</name>
+      <text>
+■ Neo Evolution
+■ Kizuna
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-04裁-35">DMRP-04裁</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

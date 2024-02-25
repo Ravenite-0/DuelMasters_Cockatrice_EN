@@ -1,0 +1,432 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-06</name>
+      <longname>DMX-06</longname>
+      <settype>DMX-06</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Glory Stone</name>
+      <text>
+■ Shield Trigger
+■ If your opponent has more cards in their mana zone than you have in yours, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-06-15">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Seventh Tower</name>
+      <text>
+■ Put the top card of your deck into your mana zone.
+■ Metamorph
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-06-20">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Future Blueprint</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 6 cards of your deck. You may choose a creature from them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-06-12">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dimension Horn, of the Temporal Foundation</name>
+      <text>
+■ Tap Ability
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Horned Beast</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-06-7">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eco Aini</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. If that card is a Dragon, put another card from the top of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-06-19">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachinko Pippi</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ While this creature is tapped, your opponent's attacking creatures must attack this creature if able. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-06-9a">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachinko Pippi</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ While this creature is tapped, your opponent's attacking creatures must attack this creature if able. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-06-9b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zero Kaiser</name>
+      <text>
+■ Double Breaker
+■ Whenever one of your Fire Birds is destroyed, your opponent chooses one of their shields and returns it to their hand.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-06-4a">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zero Kaiser</name>
+      <text>
+■ Double Breaker
+■ Whenever one of your Fire Birds is destroyed, your opponent chooses one of their shields and returns it to their hand.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-06-4b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Raging Apache Lizard</name>
+      <text>
+■ When you put this creature into the battle zone, put a Fire or Nature psychic creature that costs 8 or less from your hyperspatial zone into the battle zone. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Melt Warrior/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-06-16">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Baribari Miranda</name>
+      <text>
+■ When you put this creature, put a light, fire or nature psychic creature that costs 6 or less from your hyperspatial zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Alien</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-06-18">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quattro Fang, Soul Gang Leader</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-06-6a">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quattro Fang, Soul Gang Leader</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-06-6b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chain Arm Tribe</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hunting
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-06-11a">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chain Arm Tribe</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hunting
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-06-11b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yuu, Passionate Duel Hero</name>
+      <text>
+■ Multi
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hero</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-06-21">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chopping Ruzou, Rude Mincing Gang Leader</name>
+      <text>
+■ When this creature link awakens, you may put any number of Hunter creatures from your mana zone or hyperspatial zone into the battle zone.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-06-V1b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chopping Ruzou, Rude Mincing Gang Leader</name>
+      <text>
+■ When this creature link awakens, you may put any number of Hunter creatures from your mana zone or hyperspatial zone into the battle zone.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-06-6b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chopping Ruzou, Rude Mincing Gang Leader</name>
+      <text>
+■ When this creature link awakens, you may put any number of Hunter creatures from your mana zone or hyperspatial zone into the battle zone.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-06- 11b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codename Ethan</name>
+      <text>
+■ Multi
+■ Blocker
+■ Tap Ability
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMX-06-8">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Berlin, Bell Gravekeeper</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Whenever your opponent would choose a creature by a spell effect, they Unchoosable
+■ Whenever a card is discarded from your hand by one of your opponent's spell effects or creature ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Hedrian/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-06-13">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Hot Spring</name>
+      <text>
+■ Destroy all creatures that cost 3 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-06-10">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kiryuin Jin, Crimson Rage</name>
+      <text>
+■ Whenever one of your fire or nature Hunters wins a battle, you may put a Hunter that costs less than that Hunter from your mana zone or hyperspatial zone into the battle zone.
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-06-V1a">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kiryuin Jin, Crimson Rage</name>
+      <text>
+■ Whenever one of your fire or nature Hunters wins a battle, you may put a Hunter that costs less than that Hunter from your mana zone or hyperspatial zone into the battle zone.
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-06- V1b">DMX-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

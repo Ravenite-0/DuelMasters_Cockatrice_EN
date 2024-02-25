@@ -1,0 +1,359 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-31</name>
+      <longname>DM-31</longname>
+      <settype>DM-31</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Amaterasu, Founder of the Blue Wolves</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of the following.
+:► Search your deck. Choose a spell that costs 4 or less from it and shuffle your deck. Then cast that spell for no cost.
+:► Search your deck. Choose a cross gear that costs 4 or less from it and shuffle your deck. Then generate that cross gear for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Knight/Samurai/Origin</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-31-10">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirino Giant</name>
+      <text>
+■ Your Giants may each cost up to 2 less to summon. They can't cost less than 1.
+■ Saver
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Samurai</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-31-34">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Inaba Geeze, the Explosive</name>
+      <text>
+■ Each of your other Knights in the battle zone gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid/Origin/Knight</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-31-48">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Greatest Caesar, the Dark Kaiser</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on 2 of your Dragons and/or Knights.
+■ Whenever this creature attacks, you may cast any number of fire or darkness spells from your graveyard that have total cost 7 or less. Then put those spells on the bottom of your deck in any order.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon/Zombie Dragon/Knight</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM-31-S5">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Force Again</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your creatures. Then put that creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-31-25">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master Weapon - All Yes</name>
+      <text>
+■ Cross Gear Effect
+■ The crossed creature gets +4000 power and has "blocker".
+■ Whenever the crossed creature attacks, your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-31-19">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiden Galaxy, Super Champ</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on top of 2 of your Angel Commands and/or creatures that have Dragon in their race.
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks for the first time this turn, you may put up to 2 cards under this creature into your graveyard. If you put a Dragon into your graveyard this way, untap this creature. If you put an Angel Command into your graveyard this way, whenever this creature would be destroyed this turn, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Armored Dragon/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM-31-秘1">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiden Galaxy, Super Champ</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on top of 2 of your Angel Commands and/or creatures that have Dragon in their race.
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks for the first time this turn, you may put up to 2 cards under this creature into your graveyard. If you put a Dragon into your graveyard this way, untap this creature. If you put an Angel Command into your graveyard this way, whenever this creature would be destroyed this turn, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Armored Dragon/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM-31-S4">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Shot - HELL</name>
+      <text>
+■ Choose any number of your opponent's creatures that have total power 9000 or less and destroy them. Then for each creature destroyed in this way, choose one of your opponent's shields and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-31-2">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Blade - THE FINAL</name>
+      <text>
+■ Cross Gear Effect
+■ The crossed creature gets +12000 power.
+■ Whenever the crossed creature attacks, until the end of the attack, that creature may get "Galaxy breaker" ''(A creature that has Galaxy breaker breaks all your opponent's shields. After the attack, break all your shields.)''
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>10</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-31-S2">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saigou Giant</name>
+      <text>
+■ Your Giants must be blocked if able.
+■ Whenever one of your Giants wins a battle during your turn, break one of your opponent's shields.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Samurai</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM-31-S3">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Balcry, Demonic Eye Lord</name>
+      <text>
+■ Evolution—Put on one of your Dark Lords.
+■ Whenever this creature attacks, you may put a non-evolution Dark Lord from your graveyard into the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dark Lord/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-31-12">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holy Gear - Nebula Wing</name>
+      <text>
+■ Cross Gear Effect
+■ The crossed creature gets +1500 power.
+■ Cross gear may be crossed with the crossed creature For No Cost
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-31-23">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Blade, Blue Wolf</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Knight/Samurai</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-31-40">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cosmo Politan</name>
+      <text>
+■ Blocker
+■ Whenever this creature blocks, you may draw a card.
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Splash Queen</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-31-42">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fortune Slot</name>
+      <text>
+■ Shield Trigger
+■ Reveal the top 4 cards of your deck. From among them, you may put a creature, a spell, cross gear, and castle into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-31-43">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dacity Dragoon, Explosive Beast</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tyranno Drake/Knight</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-31-16">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White Heaven, Thunderclap Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, if you have at least one other Angel Command in the battle zone, you may choose one of your opponent's non-evolution creatures in the battle zone and add it to its owner's shields face down.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Samurai</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-31-21">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sonic, Lightfang Ninja</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, untap one of your creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer/Shinobi</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-31-22">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Camster</name>
+      <text>
+■ When you put this creature into the battle zone, look at your opponent's hand and discard a Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Monster</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-31-28">DM-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

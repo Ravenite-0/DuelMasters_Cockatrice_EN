@@ -1,0 +1,189 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-19</name>
+      <longname>DMSD-19</longname>
+      <settype>DMSD-19</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bronze-1, Savage</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your mana zone.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Distas</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-19-15">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolsren Buster, Hybrid Flame Machine</name>
+      <text>
+■ Guard Strike
+■ EX Life
+■ Speed Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/Machine Hero</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-19-7">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hulcus-1, Cyber</name>
+      <text>
+■ When you put this creature, draw a card.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-19-13">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cutie-2, Viral</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, choose one of your opponent's creatures. That creature can't attack or block until the start of your next turn.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus/Distas</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-19-12">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elfi-1, Tree</name>
+      <text>
+■ Guardman
+■ This creature can't attack.
+■ Your Distas cost 1 less to summon. They can't cost 0 or less.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tree Folk/Distas</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMSD-19-10">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yaw Bardi, Connected Distorted Evil</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may put a Distas from your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Mystery Totem/Grand Devil</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMSD-19-9">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan-2, Electro</name>
+      <text>
+■ Guard Strike
+■ When you put this creature, reveal the top 4 cards of your deck. Add a water card, fire card and nature card from among them to your hand. Put the rest on the bottom of your deck in any order.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Distas</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-19-8">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Daichi-3, Savage</name>
+      <text>
+■ Guard Strike
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-19-6">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ajisai-2, Faerie</name>
+      <text>
+■ When you put this creature, look at the top 2 cards of your deck. Put one of them into your mana zone and the other into your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Distas</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-19-11">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onimoel-2, Warrior</name>
+      <text>
+■ When you put this creature, destroy one of your opponent's creatures that has power 2000 or less.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Distas</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-19-14">DMSD-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

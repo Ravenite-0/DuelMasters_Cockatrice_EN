@@ -1,0 +1,636 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-08</name>
+      <longname>DMRP-08</longname>
+      <settype>DMRP-08</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Mitsurugi Boost, Matchless Dragon Demon</name>
+      <text>
+■ When you put this creature into the battle zone, you may put this creature into your mana zone. If you do, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon/Armored Dragon/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-08-G4">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Wilhelm</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, destroy one of your opponent's creatures. Then choose a card from your opponent's mana zone and put it into its owner's graveyard.
+■ Whenever your opponent puts a card into their graveyard from anywhere, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-08-G5">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Shower</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 2 cards of your deck. Put one of them into your hand and the other into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-G3">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miracle Miradante</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution light creature, put that creature into the battle zone and put this creature on top of it.
+■ Evolution—Put on one of your light creatures.
+■ Triple Breaker
+■ When you put this creature, it gets "Blocker" and your opponent's Commands can't attack until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>14500</pt>
+      </prop>
+      <set num="DMRP-08-G1">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Destinia, Crystal Evil Dragon</name>
+      <text>
+■ Double Breaker
+■ This creature can't be blocked.
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon/Demon Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-08-G2">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dogongiyos, Misfortune Demon 02</name>
+      <text>
+■ When you summon this creature, you may discard 2 cards. If you do, this creature costs 3 less to summon.
+■ Slayer
+■ Double Breaker
+■ Your opponent's cards are put into their mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Mafi Gang</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-08-S6">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>卍 Grand Zero 卍</name>
+      <text>
+■ Whenever you cast a Magic Tool spell, instead of putting it into your graveyard after you cast, you may put it under this field and draw a card.
+■ Ignore any effects that would prevent you from casting Magic Tool spells or Dolszak spells.
+■ Gate of Moonless Night 99: At the End Step
+  </text>
+      <prop>
+        <maintype>Moonless Night Field</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-5">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gekabankai Ga Ryumizu 卍</name>
+      <text>
+■ You may summon up to 4 Dolszaks from your hand or graveyard for no cost.
+■ Take an extra turn after this one.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Dolszak</type>
+        <manacost>99</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-S4">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balga Raiser, Dragonic Meteor Armored</name>
+      <text>
+■ Sympathy
+■ Double Breaker
+■ Gogogo Gangan Galaxy: If you have 1 or less card in your hand, each of your creatures gets "speed attacker". 
+■ Whenever any of your creatures attacks, reveal the top card of your deck. If that card is a Beat Jockey or Dragon that costs the same or less than the attacking creature, put it into the battle zone. Otherwise, put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragon Guild/Beat Jockey</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-08-S7">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oraora Jokers</name>
+      <text>
+■ Put the top card of your deck into your mana zone. If that card is a Jokers, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-57">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oramach the Johnny</name>
+      <text>
+■ Triple Breaker
+■ Master Mach Fighter ''(This creature can attack tapped or untapped creatures on the turn you put it. Whenever this creature wins a battle this turn, untap it and break one of your opponent's shields.)''
+■ When you put this creature, return a card from your mana zone to your hand.
+■ Whenever your opponent casts a spell, you may discard a Jokers card that has the same cost as that spell from your hand. If you do, that spell loses its effect.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-08-M1">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oramach the Johnny</name>
+      <text>
+■ Triple Breaker
+■ Master Mach Fighter ''(This creature can attack tapped or untapped creatures on the turn you put it. Whenever this creature wins a battle this turn, untap it and break one of your opponent's shields.)''
+■ When you put this creature, return a card from your mana zone to your hand.
+■ Whenever your opponent casts a spell, you may discard a Jokers card that has the same cost as that spell from your hand. If you do, that spell loses its effect.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-08-M1㊙1">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oramach the Johnny</name>
+      <text>
+■ Triple Breaker
+■ Master Mach Fighter ''(This creature can attack tapped or untapped creatures on the turn you put it. Whenever this creature wins a battle this turn, untap it and break one of your opponent's shields.)''
+■ When you put this creature, return a card from your mana zone to your hand.
+■ Whenever your opponent casts a spell, you may discard a Jokers card that has the same cost as that spell from your hand. If you do, that spell loses its effect.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-08- M1㊙2">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oramach the Johnny</name>
+      <text>
+■ Triple Breaker
+■ Master Mach Fighter ''(This creature can attack tapped or untapped creatures on the turn you put it. Whenever this creature wins a battle this turn, untap it and break one of your opponent's shields.)''
+■ When you put this creature, return a card from your mana zone to your hand.
+■ Whenever your opponent casts a spell, you may discard a Jokers card that has the same cost as that spell from your hand. If you do, that spell loses its effect.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-08- M1㊙3">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami, Beginning Rainbow Emperor</name>
+      <text>
+■ Mach Fighter
+■ Whenever this creature attacks, you may reveal the top 3 cards of your deck. If you do, put all Twinpact cards from among them into your mana zone and put the rest on the bottom of your deck in any order. For each card put into your mana zone this way, this creature gets +5000 power  until the End Step
+■ Emperor Time: When you would Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-08-M2">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami, Beginning Rainbow Emperor</name>
+      <text>
+■ Mach Fighter
+■ Whenever this creature attacks, you may reveal the top 3 cards of your deck. If you do, put all Twinpact cards from among them into your mana zone and put the rest on the bottom of your deck in any order. For each card put into your mana zone this way, this creature gets +5000 power  until the End Step
+■ Emperor Time: When you would Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-08-M2㊙1">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami, Beginning Rainbow Emperor</name>
+      <text>
+■ Mach Fighter
+■ Whenever this creature attacks, you may reveal the top 3 cards of your deck. If you do, put all Twinpact cards from among them into your mana zone and put the rest on the bottom of your deck in any order. For each card put into your mana zone this way, this creature gets +5000 power  until the End Step
+■ Emperor Time: When you would Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-08- M2㊙2">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Minogami, Beginning Rainbow Emperor</name>
+      <text>
+■ Mach Fighter
+■ Whenever this creature attacks, you may reveal the top 3 cards of your deck. If you do, put all Twinpact cards from among them into your mana zone and put the rest on the bottom of your deck in any order. For each card put into your mana zone this way, this creature gets +5000 power  until the End Step
+■ Emperor Time: When you would Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-08- M2㊙3">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Xenoshark, Crystal Record/Crystal Memory</name>
+      <text>
+■ Smash Burst
+=========================
+■ Shield Trigger
+■ Search your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mutopia</type>
+        <manacost>3</manacost>
+        <colors>Water/Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-08-4">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Clanvia, Night Castle Ship</name>
+      <text>
+■ When you put this creature, shuffle your deck, then reveal the top 3 cards of your deck. Put all spells revealed this way under this creature. Put the rest into your graveyard.
+■ Whenever you cast a spell from your hand, you may put it under this creature instead of putting it into your graveyard.
+■ Whenever this creature attacks, you may cast a spell under this creature that shares a civilization with a card in your mana zone For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-08-S3">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baraghiara, Heavenly Earth Momentum/Ringfinity Violent Holy</name>
+      <text>
+■ When you summon this creature into the battle zone, untap all cards in your mana zone.
+■ Ringfinity: You may cast the spell side of this card in the battle zone (pay the cost). If you do, for each of your '''Baraghiara, Heavenly Earth Momentum''' in the battle zone, put the top card of your deck into your mana zone.
+■ Triple Breaker
+=========================
+■ Shield Trigger
+■ Your opponent chooses 2 of his untapped creatures in the battle zone and taps them.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Hazard/Gransect</type>
+        <manacost>9</manacost>
+        <colors>Nature/Light</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMRP-08-MH1">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baraghiara, Heavenly Earth Momentum/Ringfinity Violent Ice</name>
+      <text>
+■ When you summon this creature, untap all cards in your mana zone.
+■ Ringfinity: You may cast the spell side of this card in the battle zone (pay the cost). If you do, for each of your '''Baraghiara, Heavenly Earth Momentum''' in the battle zone, put the top card of your deck into your mana zone.
+■ Triple Breaker
+=========================
+■ Look at the top 3 cards of your deck. Put 2 of them into your hand, and put the rest on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Hazard/Gransect</type>
+        <manacost>9</manacost>
+        <colors>Nature/Water</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMRP-08-MH2">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baraghiara, Heavenly Earth Momentum/Ringfinity Violent Dark</name>
+      <text>
+■ When you summon this creature into the battle zone, untap all cards in your mana zone.
+■ Ringfinity: You may cast the spell side of this card in the battle zone (pay the cost). If you do, for each of your '''Baraghiara, Heavenly Earth Momentum''' in the battle zone, put the top card of your deck into your mana zone.
+■ Triple Breaker
+=========================
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone. That creature gets -4000 power until the End Step
+■ Put a creature that costs 5 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Hazard/Gransect</type>
+        <manacost>9</manacost>
+        <colors>Nature/Darkness</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMRP-08-MH3">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baraghiara, Heavenly Earth Momentum/Ringfinity Violent Blaze</name>
+      <text>
+■ When you summon this creature into the battle zone, untap all cards in your mana zone.
+■ Ringfinity: You may cast the spell side of this card in the battle zone (pay the cost). If you do, for each of your '''Baraghiara, Heavenly Earth Momentum''' in the battle zone, put the top card of your deck into your mana zone.
+■ Triple Breaker
+=========================
+■ Each of your creatures in the battle zone gets "speed attacker" until the End Step
+■ Destroy any number of your opponent's creatures that have total power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Master Hazard/Gransect</type>
+        <manacost>9</manacost>
+        <colors>Nature/Fire</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMRP-08-MH4">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>George Barbstein/Ghost Touch</name>
+      <text>
+■ Smash Burst
+■ Whenever your opponent discards a card, choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+=========================
+■ Shield Trigger
+■ Your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mafi Gang</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-08-7">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gompadu, Daspell</name>
+      <text>
+■ Look at the top 3 cards of your deck. Add one from among them into your hand and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Magic Tool</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-72">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scopunpun</name>
+      <text>
+■ Jokers Change
+■ Double Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures and put it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-08-26">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Airvo, Daspell</name>
+      <text>
+■ Shield Trigger
+■ Choose a card that costs 7 or less in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Magic Tool</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-37">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>End of Round</name>
+      <text>
+■ Shield Trigger
+■ Put a non-evolution creature that has "blocker" that costs 7 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-43">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiroinumusashi</name>
+      <text>
+■ Jokers Change
+■ When this creature leaves the battle zone, put the top 2 cards of your deck into your mana zone. Then put a card from your mana zone on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-08-53">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Funbalsan/Funba Fry Die</name>
+      <text>
+■ Shield Trigger
+■ Smash Burst
+=========================
+■ Destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-08-44">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Barcuebe/Cue Lactarow</name>
+      <text>
+■ Smash Burst
+■ Double Breaker
+=========================
+■ Look at the top 3 cards of your deck. You may take a creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-08-88">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tadaharu Kotatsumaru</name>
+      <text>
+■ You may summon this creature from your mana zone.
+■ Jokers Change
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-08-54">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ra Familie, Sabakinoseido</name>
+      <text>
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+■ Whenever any of your creatures attacks, if this card is in your shield zone Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-08-15">DMRP-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

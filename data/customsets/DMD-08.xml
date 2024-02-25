@@ -1,0 +1,341 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-08</name>
+      <longname>DMD-08</longname>
+      <settype>DMD-08</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-24">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-08-12">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emergency Typhoon</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-15">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Auzesu, Demonic Elemental</name>
+      <text>
+■ Multi
+■ Sympathy
+■ Whenever one of your Angel Commands or Demon Commands attacks, destroy one of your opponent's tapped creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMD-08-9">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-8">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bega, Vizier of Shadow</name>
+      <text>
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down. Then discard a card at random from your opponent's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-08-16">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ashliger, Holy Dark Beast</name>
+      <text>
+■ Multi
+■ Your Angel Commands and your Demon Commands may cost up to 2 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Shine Monster/Dark Monster</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMD-08-14">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan Jr.'s Delivery</name>
+      <text>
+■ Reveal the top 3 cards of your deck. Put all light and darkness cards from among them into your hand, and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-13">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bone Dance Charger</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-22">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wedding Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution, non-light Angel Command creatures from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-23">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Double Tail</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have an Angel Command in the battle zone, you may choose both:
+:► Choose up to 2 of your opponent's creatures in the battle zone and tap them.
+:► Add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-6">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wagahai Cat, Destiny Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may add one of your non-evolution Commands in the battle zone to your shields face down. If you do, your opponent adds one of their Commands in the battle zone to their shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMD-08-4">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kibbate Cat, Heaven's Gate Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, look at the top 4 cards of your deck. You may take a card that has "Heaven's" in its name from your deck, show that card to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unnoise</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-08-5">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kariisabira, Magical Heaven of Toasting</name>
+      <text>
+■ End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unnoise</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-08-20">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codenight Star in the Love</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy all other creatures. If you do, put all your shields into your graveyard. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMD-08-17">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trueangel Leo the Star</name>
+      <text>
+■ Evolution―Put on one of your Angel Commands.
+■ Blocker
+■ Triple Breaker
+■ Whenever your other Angel Commands would leave the battle zone, they stay in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Unknown/Hunter</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMD-08-1">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Baulion</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, you may return up to 2 spells from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMD-08-2">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Cube</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a spell from your deck, show that spell to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-08-7">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chulal Reis, Black Tie of Heaven Descent</name>
+      <text>
+■ Whenever this creature attacks, you may put one of your shields into your graveyard. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unnoise</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-08-21">DMD-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

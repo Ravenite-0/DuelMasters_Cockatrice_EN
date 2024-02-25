@@ -1,0 +1,240 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-17</name>
+      <longname>DMC-17</longname>
+      <settype>DMC-17</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Frei, Vizier of Air</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-17-20">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiral Gate</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-17-54">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marrow Ooze, the Twister</name>
+      <text>
+■ Blocker
+■ When this creature attacks a player, destroy it after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Living Dead</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-17-59">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jewel Spider</name>
+      <text>
+■ When this creature is destroyed, you may choose one of your shields and put it into your hand. You can't use the "shield trigger" ability of that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Brain Jacker</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-17-58">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lightning Grass</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Starlight Tree</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-17-45">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lone Tear, Shadow of Solitude</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-17-60">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Proclamation of Death</name>
+      <text>
+■ Shield Trigger
+■ Your opponent chooses one of his creatures in the battle zone and destroys it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-17-29">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Propeller Mutant</name>
+      <text>
+■ When this creature is destroyed, your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-17-59">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Megaria, Empress of Dread</name>
+      <text>
+■ Each creature in the battle zone has "slayer." ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-17-2">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nariel, the Oracle</name>
+      <text>
+■ Creatures that have power 3000 or more can't attack. ''(Creatures that have power less than 3000 and get power attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-17-6">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tulk, the Oracle</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DMC-17-49">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tajimal, Vizier of Aqua</name>
+      <text>
+■ Blocker
+■ Multi
+■ This creature can't attack players.
+■ While battling a fire creature, this creature gets +4000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Liquid People</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-17-38">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Melnia, the Aqua Shadow</name>
+      <text>
+■ Multi
+■ This creature can't be blocked.
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Ghost</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-17-39">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aquan</name>
+      <text>
+■ When you put this creature, you may reveal the top 5 cards of your deck. Put all light and darkness cards from among them into your hand, and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-17-9">DMC-17</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

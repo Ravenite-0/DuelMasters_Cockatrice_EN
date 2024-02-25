@@ -1,0 +1,448 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMPCD-02</name>
+      <longname>DMPCD-02</longname>
+      <settype>DMPCD-02</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Miraculous Snare</name>
+      <text>
+■ Multi
+■ Choose a non-evolution creature in the battle zone and add it to its owner's shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎7">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus "Kensei" Dragon</name>
+      <text>
+■ Gravity Zero
+■ Double Breaker
+■ Whenever this creature attacks, you may destroy one of your opponent's creatures that has power 6000 or less.
+■ While this creature is in the battle zone, it also has the Card Name
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMPCD-02-侍2">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Inferno Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a non-evolution creature that costs 7 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎11">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloody Shadow, Mystic Light Death Knight</name>
+      <text>
+■ Blocker
+■ Gravity Zero
+■ This creature can't attack.
+■ When this creature wins a battle, destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost/Knight</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMPCD-02-騎18">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Queen Alcadeias, Holy Gaia</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ Your opponent can't cast spells other than multicolored spells.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMPCD-02-騎8">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Gear - Zangeki Mach Armor</name>
+      <text>
+■ Cross Gear Effect
+■ While this card isn't crossed with a creature, your Dragon and Samurai creatures may each cost 1 less to summon. They can't cost less than 1.
+■ While this card is crossed with a Dragon or Samurai creature, each of your Dragon and Samurai creatures in the battle zone gets +2000 power and "speed attacker".
+■ This card may be crossed with "tooltip
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-侍8">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romanov the 1st, Lord of the Demonic Eye</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, search your deck. You may take a darkness card from your deck and put it into your graveyard. Then shuffle your deck.
+■ Whenever this creature attacks, you may cast a darkness spell that costs 6 or less from your graveyard For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Zombie Dragon/Knight</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMPCD-02-騎6">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Romanov Strike</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone. That creature gets -5000 power until the End Step
+■ If you cast this spell from your graveyard with the ability of "tooltip
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎10">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chief De Baula, Machine King of Mystic Light</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMPCD-02-騎9">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gregorias, Mystic Light Death Saint</name>
+      <text>
+■ Multi
+■ Blocker
+■ When you put this creature into the battle zone, you may return a Knight from your graveyard to your hand.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Zombie Dragon/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMPCD-02-騎5">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nero Gryphis, Mystic Light Emperor</name>
+      <text>
+■ Multi
+■ Blocker
+■ Whenever one of your Knight creatures is destroyed, you may cast a light or darkness Knight spell or a light or darkness spell from your hand that has "shield trigger" that costs 6 or less For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Dark Lord/Knight</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMPCD-02-騎4">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Arcadia Egg</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures.
+■ If "tooltip
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎3">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Glory Gate</name>
+      <text>
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎2">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Halsa, the Great Enigma</name>
+      <text>
+■ Evolution—Put on one of your Samurai.
+■ Samurai Generation
+■ Accelerator
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Giant/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMPCD-02-侍4">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ascendant Wing - Faerie Accela</name>
+      <text>
+■ Cross Gear Effect
+■ Whenever the crossed creature attacks, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-侍13">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Franz the 1st, the Ice Fang</name>
+      <text>
+■ Your spells may each cost 1 less to cast. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Knight</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMPCD-02-騎13">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Biwanoshin, Wandering Travelers</name>
+      <text>
+■ Accelerator
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies/Samurai</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMPCD-02-侍12">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Soul Catcher</name>
+      <text>
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎12">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Open Brain</name>
+      <text>
+■ Shield Trigger
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎14">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Dual Zanzibar</name>
+      <text>
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎16">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Bullet Vice</name>
+      <text>
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-騎17">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drum Treble, of the Mystic Light</name>
+      <text>
+■ Your "Knight Magic" spells cost 1 less to cast. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gargoyle/Knight</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMPCD-02-騎15">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blazing Tiger, Crimson Lord</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMPCD-02-侍6">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saving Sword - Memory Accela</name>
+      <text>
+■ Cross Gear Effect
+■ Whenever the crossed creature attacks, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type>Samurai</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMPCD-02-侍11">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Alcadeias Play's, Holy Gaia</name>
+      <text>
+■ Evolution: Put on one of your multicolored creatures.
+■ Double Breaker
+■ Whenever your opponent would put a non-multicolored creature, if none of your opponent's creatures were put into the graveyard by the ability of "'''King Alcadeias Play's, Holy Gaia'''" during this turn, put that creature into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMPCD-02-騎1">DMPCD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,263 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-40</name>
+      <longname>DMC-40</longname>
+      <settype>DMC-40</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-40-11">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Volcano Charger</name>
+      <text>
+■ Destroy one of your opponent's creatures that has power 2000 or less.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-40-13">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death Phoenix, Avatar of Doom</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on one of your Zombie Dragons and one of your Fire Birds.
+■ Double Breaker
+■ Whenever this creature would break a shield, your opponent puts that shield into his graveyard instead.
+■ When this creature leaves the battle zone, your opponent discards his hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-40-9">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heavy, Dragon God</name>
+      <text>
+■ When you put this creature, you may destroy one of your creatures. If you do, draw a card and your opponent chooses one of their creatures and destroys it.
+■ God Link (tooltip
+■ While this creature is linked, your opponent's creatures must attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Zombie Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMC-40-2">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death, Destruction God</name>
+      <text>
+■ Multi
+■ Speed Attacker
+■ Tri God Link (tooltip
+■ When this creature is linked with tooltip
+■ While this creature is linked with tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>11000+</pt>
+      </prop>
+      <set num="DMC-40-8">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metal, Dragon God</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, you may choose one of your opponent's cross gear or a card in your opponent's mana zone and put in its owner's graveyard.
+■ God Link (tooltip
+■ While this creature is linked, it has "triple breaker".
+■ If this creature is linked with tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMC-40-6">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloody Dragoon</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When this creature battles, destroy it after the battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tyranno Drake</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-40-4">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Jios, Dark Dragon Lord</name>
+      <text>
+■ Gravity Zero
+■ Whenever your Dragons attack, your opponent chooses one of their creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-40-1">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Dobolzack</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, search your deck. You may take a God or Phoenix from it, show it to your opponent, and put it into your hand. Then shuffle your deck.
+■ This creature can't attack.
+■ When this creature battles, after the battle, destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-40-3">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infernal Smash</name>
+      <text>
+■ Destroy one of your opponent's non-multicolored creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-40-12">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Soul Creation</name>
+      <text>
+■ You may destroy one of your creatures. If you do, draw 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-40-5">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>God Lupia</name>
+      <text>
+■ Your Gods each cost 1 less to summon. They can't cost less than 1.
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-40-7">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fuuma Bajir, Soul Weapon</name>
+      <text>
+■ Multi
+■ When this creature is destroyed, destroy one of your opponent's creatures that has power 3000 or less or your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil/Xenoparts</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-40-14">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galzark, Divine Destruction Dragon Knight</name>
+      <text>
+■ Multi
+■ While you have at least one other Dragon in the battle zone, this creature gets "Power attacker +6000" and "Triple breaker".
+■ Double Breaker
+■ This creature can't be attacked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-40-10">DMC-40</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,81 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-SP2</name>
+      <longname>DM22-SP2</longname>
+      <settype>DM22-SP2</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bolshack Mecha Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-SP2-2">DM22-SP2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Totto Gun Pipicchi</name>
+      <text>
+■ '''Civil Count''' 3: If you have 3 or more fire creatures and/or fire tamaseeds, this creature gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-SP2-3">DM22-SP2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Scrapper", Crushing Spell</name>
+      <text>
+■ Shield Trigger
+■ '''Civil Count 4''': If you have a total of 4 or more fire creatures and/or fire tamaseeds, you may cast this spell for no cost. 
+■ Choose any number of your opponent's creatures that have total power 5000 or less and destroy them.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-SP2-1">DM22-SP2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Raging Dragon's Gift</name>
+      <text>
+■ When you put this tamaseed, destroy one of your opponent's creatures that has "blocker". 
+■ Shield Saver
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-SP2-4">DM22-SP2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

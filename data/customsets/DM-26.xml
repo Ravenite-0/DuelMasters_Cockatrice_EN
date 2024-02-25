@@ -1,0 +1,492 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-26</name>
+      <longname>DM-26</longname>
+      <settype>DM-26</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Aku, Ultimate God</name>
+      <text>
+■ Multi
+■ Double Breaker
+■ Whenever one of your Gods in the battle zone would be destroyed, you may return it to your hand instead.
+■ God Link (tooltip
+■ Whenever this creature attacks while linked, you may destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God</type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DM-26-S4">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zen, Transcendent God</name>
+      <text>
+■ Multi
+■ Blocker
+■ Double Breaker
+■ God Link (tooltip
+■ While this creature is linked, it has "quattro breaker" and untaps at the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God</type>
+        <manacost>7</manacost>
+        <colors>Light/Nature</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DM-26-3">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Yamato Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ While attacking, this creature gets +1000 power for each fire card in your graveyard.
+■ When you would destroy one of your opponent's creatures that has power 6000 or less by the effect of tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DM-26-S2">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Alcadeias, Holy Gaia</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ Double Breaker
+■ Whenever your opponent would put a non-multicolored creature into the battle zone, put it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM-26-S3">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diamond Sword</name>
+      <text>
+■ This turn, ignore any of your creature’s effects that would prevent them from attacking your opponent. ''(For example, ignore summoning sickness and card effects that say "This creature can't attack" or "This creature can't attack players". Your creatures can't attack creatures this way.)''
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-26-6">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ballom Emperor, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ When you put this creature into the battle zone, destroy all creatures except darkness creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM-26-S1">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Wavester</name>
+      <text>
+■ When you put this creature into the battle zone, return all other creatures to their owner's hands except for multicolored creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-1">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Variable Amon Dragon</name>
+      <text>
+■ Double Breaker
+■ Your multicolored creatures break an additional shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-26-2">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crimson Mega Dragoon</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy all creatures that have "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tyranno Drake</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-26-4">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>El Kaiou, Spirit Mecha King</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim/Great Mecha King</type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DM-26-38">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Animabelgis, Fuuma Savage</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, choose one of your creatures in the battle zone. This turn, that creature breaks an additional shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-26-54">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murmur, Vizier of Formation</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Each of your other creatures in the battle zone that have "blocker" gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-21">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Triple Mouth, Decaying Savage</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-51">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jet R.E, Brave Vizier</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down. Then, destroy one of your opponent's creatures that has "blocker",
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Human</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-42">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jack Valdy, the Everlasting</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ When you put this creature into the battle zone, destroy one of your opponent's non-multicolored creatures that costs 5 or less, or put one of your opponent's non-multicolored cross gear that costs 5 or less into your opponent's graveyard.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Spirit Quartz</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM-26-13">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bega, Vizier of Shadow</name>
+      <text>
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down. Then discard a card at random from your opponent's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-40">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beautician, Viral Lord of Fear</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't attack.
+■ Over Drive—Water x1 and Darkness x1 ''(When you summon this creature, you may tap another 1 water and 1 darkness card in your mana zone. If you do, get the following Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus/Dark Lord</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-26-27">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Amdul, the Powerful Lightning Flame</name>
+      <text>
+■ Multi
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Wyvern/Giant</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM-26-30">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fuuma Harisenmon</name>
+      <text>
+■ Multi
+■ This creature can't be blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-44">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Door of Miracle and Mystery</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ Reveal the top 4 cards of your deck. Your opponent chooses a non-evolution creature from among them and you put it into the battle zone. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-26-49">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Antoinette, Beautiful Battle Dragon Princess</name>
+      <text>
+■ Multi
+■ When this creature is destroyed, choose one of the following.
+:► Choose one of your opponent's creatures in the battle zone and return it to its owner's hand. 
+:► Discard your hand and then draw the same number of cards that you discarded in this way.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Splash Queen/Tyranno Drake</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-26-46">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Great Reversal of Reality and Death</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ Destroy one of your opponent's creatures in the battle zone. Then choose one of your opponent's creatures in their graveyard. Your opponent puts that creature into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-26-11">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Happy-go-lucky Strike</name>
+      <text>
+■ Look at one of your shields. You may add that card to your hand. You can't use "shield trigger" ability of that shield. If you do, add the top card of your deck to your shields face down. If you don't add that shield to your hand, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-26-39">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Persistent Prison of Gaia</name>
+      <text>
+■ Multi
+■ Choose one of your opponent's creatures in the battle zone and return it to its owner's hand. Then your opponent discards a card at random from their hand. If the discarded creature has the same name as the returned creature, choose one of your opponent's shields and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-26-34">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirin Legacy, the Twin Meteor</name>
+      <text>
+■ Multi
+■ Vortex evolution—Put on 2 of your multicolored creatures.
+■ Meteorburn—Whenever you summon a non-evolution multicolored creature, you may put one of the cards under this creature into your graveyard. If you do, you may search your deck and put a creature that has the same name as the creature you put into your graveyard from your deck into the battle zone. Then shuffle your deck.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM-26-S5">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hundred Eyes, Secret Spirit Treasure</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, discard your hand. If you didn't discard at least one card in this way, destroy this creature.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim/Pandora's Box</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-26-17">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Peru Pere, Viral Guardian</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ This creature can't attack players.
+■ When this creature would be destroyed, you may return it to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Cyber Virus</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DM-26-37">DM-26</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

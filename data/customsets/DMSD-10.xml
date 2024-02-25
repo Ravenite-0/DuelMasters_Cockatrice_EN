@@ -1,0 +1,256 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-10</name>
+      <longname>DMSD-10</longname>
+      <settype>DMSD-10</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Scale of Gold and Binding</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Draw 2 cards.
+:► Choose up to 2 of your opponent's creatures. Until the start of your next turn, those creatures can't attack or block.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-10-15">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faywon, Green Knowledge Silver</name>
+      <text>
+■ When you put this creature into the battle zone, you may tap one of your creatures. If you do, draw a card.
+■ You may untap this creature to change your opponent's creatures attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMSD-10-10">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Just Labyrinth</name>
+      <text>
+■ Shield Trigger
+■ You may tap any number of your creatures.
+■ Draw a card for each of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-10-12">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rudolgo, Strange Stone</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, for each of your creatures in the battle zone, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-10-8">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Levoix, Blue Defense Silver</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may tap one of your creatures. If you do, choose one of your opponent's creatures and tap it.
+■ You may untap this creature to change your opponent's creature's attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-10-9">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saisei, Sacrificial Guard</name>
+      <text>
+■ Saver
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMSD-10-19">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vinci, Pure White Will</name>
+      <text>
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMSD-10-16">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Harplara, Play Music</name>
+      <text>
+■ Double Breaker
+■ This creature is put into the battle zone tapped.
+■ If you have 2 or less other creatures in the battle zone, this creature can't untap.
+■ When you put this creature into the battle zone, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMSD-10-11">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Okario, Play Music</name>
+      <text>
+■ Blocker
+■ This creature can't attack players. 
+■ When this creature is destroyed, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMSD-10-18">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rapaelo, Projected Will</name>
+      <text>
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMSD-10-13">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Donato, Boundary Will</name>
+      <text>
+■ More than 2 of this card in your Super Gacharange
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMSD-10-17">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elgre, Controlling Will</name>
+      <text>
+■ When this creature leaves the battle zone, choose one of your opponent's creatures and tap it.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-10-7">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shinpas, Calming Judgment Bond/Justice Shaper</name>
+      <text>
+■ Sympathy Creature
+■ Neo Evolution
+■ Double Breaker
+=========================
+■ Reveal the top 3 cards of your deck. Put all light cards from among them into your hand and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-10-3">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shantan, Play Music</name>
+      <text>
+■ When you put this creature into the battle zone, you may tap one of your other light creatures. If you do, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-10-14">DMSD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,120 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-08S</name>
+      <longname>DMR-08S</longname>
+      <settype>DMR-08S</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Katta Kirifuda, Curry Bread Boy</name>
+      <text>
+■ Whenever this creature attacks, you may ask your opponent "Do you love curry bread?". If your opponent says "Love", you may draw 2 cards. Otherwise, this creature gets +10000 power and breaks 2 additional shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Curry Bread/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMR-08S-3">DMR-08S</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forever Princess, Eternal Ruler</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever your opponent puts a creature into the battle zone For No Cost
+■ When this creature is put into your graveyard from anywhere, shuffle this card and your graveyard into your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter/Alien</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-08S-7">DMR-08S</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Idolmaster Leo</name>
+      <text>
+■ Blocker
+■ Whenever you put another Angel Command into the battle zone, you may draw a card.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Idol</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-08S-2">DMR-08S</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Violent Children</name>
+      <text>
+■ Each of your creatures in the battle zone that cost 3 or less get "speed attacker".
+■ Your opponent's evolution creatures and creatures that have "speed attacker" are put into the battle zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Children</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-08S-4">DMR-08S</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Karre Ganejar, Metal Lamp Djinn</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your water or fire creatures.
+■ Double Breaker
+■ When you put this creature into the battle zone or whenever it attacks, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Magical Monster</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-08S-6">DMR-08S</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kubrick, Spiral Accelerator</name>
+      <text>
+■ Multi
+■ If you have 3 or more fire cards in your mana zone, this creature gets "Speed attacker".
+■ Double Breaker
+■ When this creature is put into your graveyard from anywhere, if you have 3 or more water cards in your mana zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-08S-5">DMR-08S</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,159 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-29</name>
+      <longname>DMC-29</longname>
+      <settype>DMC-29</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Punish Hold</name>
+      <text>
+■ Strike Back
+■ Choose up to 2 of your opponent's creatures in the battle zone and tap them.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-29-8">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dandy Nasuo</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. Put a card from your deck into your mana zone, and then put a card from your mana zone into your graveyard. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-29-19">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sandal, Spirit Knight</name>
+      <text>
+■ When you put a creature into the battle zone, you may return one of your Arc Seraphims or Wild Veggies from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-29-6">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Assault Champion</name>
+      <text>
+■ When you put this creature into the battle zone, each of your other Arc Seraphims and Beast Folk in the battle zone get +3000 power and "double breaker" until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-29-5">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Farmahat, Holy Emperor</name>
+      <text>
+■ Evolution—Put on one of your Arc Seraphims.
+■ Meteorburn—Whenever an opponent's creature attacks, you may put a card under this creature into your graveyard. This creature untaps and gets "blocker" until the End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Arc Seraphim</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-29-7">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reverse Cyclone</name>
+      <text>
+■ Cyclone
+■ Choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-29-9">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragmal, Spirit Knight</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your creatures in the battle zone and put it into your mana zone. Then your opponent chooses one of their creatures in the battle zone and puts it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-29-12">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saiya, Spirit Knight</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-29-13">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rahars, Spirit Knight</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-29-14">DMC-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

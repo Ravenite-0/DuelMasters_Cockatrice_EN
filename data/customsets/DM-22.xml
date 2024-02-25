@@ -1,0 +1,488 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-22</name>
+      <longname>DM-22</longname>
+      <settype>DM-22</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Ultimate Galaxy Universe</name>
+      <text>
+■ Evolution—Put on one of your Phoenix.
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If it's the last card under this creature and it was a Phoenix, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM-22-S1">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Universe Gate</name>
+      <text>
+■ Reveal the top 3 cards of your deck. For each Phoenix creature revealed, take an Extra Turn
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-22-17">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Supernova Apollonus Dragerion</name>
+      <text>
+■ Galaxy Vortex evolution—Put on top of 3 of your Dragons.
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, this creature gets "power attacker +15000" and "World breaker".
+■ Whenever your opponent chooses this creature, put all cards in their mana zone into their graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix/Tyranno Drake</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>15000+</pt>
+      </prop>
+      <set num="DM-22-S4">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spell Great Blue, Blue Divine Dragon</name>
+      <text>
+■ Whenever this creature attacks, reveal the top card of your deck. If it's a spell that costs 7 or less, you may cast it For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Poseidia Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-22-2">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Guljeneraid</name>
+      <text>
+■ Whenever one of your Dragons other than '''Necrodragon Guljeneraid''' is destroyed, if this creature is in your graveyard, you may return this creature to the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-22-S3">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Babelginus, Demonic Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, choose a player. You may destroy one of that player's creatures. If you do, choose a non-evolution creature except '''Babelginus, Demonic Dragon''' from that player's graveyard and put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon/Grand Devil</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-22-3">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pop Rubin</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-22-50">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infinity Dragon</name>
+      <text>
+■ When one of your Dragons would leave the battle zone, put the top card of your deck into your graveyard. If it's a Dragon or a Fire Bird, it stays in the battle zone instead.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM-22-15">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Supernova Betelgeuse Final Cannon</name>
+      <text>
+■ Galaxy Vortex evolution—Put on top of 3 of your Great Mecha Kings, Grand Devils, and/or Poseidia Dragons.
+■ Whenever one of your other creatures would be destroyed, you may put it under this creature instead.
+■ Mega Meteorburn 6: Whenever this creature attacks, you may put 6 cards under this creature into your graveyard. If you do, return all your opponent's creatures in the battle zone and all cards in your opponent's mana zone to their owners' hands.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM-22-S2">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolgalshack, Super Divine Dragoon</name>
+      <text>
+■ Evolution—Put on one of your Dragons or Tyranno Drake.
+■ When you put this creature into the battle zone, if it's put on top of a Tyranno Drake, destroy one of your opponent's creatures that has power 4000 or less. 
+■ Whenever this creature attacks, if the card under it is a Dragon, you may destroy one of your opponent's non-Armored Dragon or non-Tyranno Drake creatures that has less power than this creature. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon/Tyranno Drake</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-22-4">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Time Changer, Space-Time Engineer</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your evolution creatures in the battle zone. If you do, search your deck and you may take up to 2 creatures from your deck, show them to your opponent, and put them under the chosen evolution creature. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-22-10">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flaming Jet Dragon</name>
+      <text>
+■ Speed Attacker
+■ Thrilling Three
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-22-48">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Seventh, Light Divine Dragon</name>
+      <text>
+■ Each of your Dragons in the battle zone gets "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM-22-22">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asteroid Mine, Light Comet</name>
+      <text>
+■ Vortex evolution—Put on 2 of your Arc Seraphims, Saint Heads, and/or Apollonia Dragons.
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-22-21">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lip Woppe</name>
+      <text>
+■ Whenever you put a Dragon into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-22-41">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asteroid Gaia, Ground Comet</name>
+      <text>
+■ Vortex evolution—Put on 2 of your Dreammates, Vehicle Bees, and/or Earth Dragons.
+■ Whenever this creature becomes blocked, it breaks one of your opponent's shields. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-22-33">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bomber Doll</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 2000 or less or destroy one of your opponent's tapped creatures that has power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-22-32">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asteroid Gauss, Flame Comet</name>
+      <text>
+■ Shield Trigger
+■ Vortex evolution—Put on 2 of your Tyranno Drake, Brave Spirit, and/or Armored Dragons.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-22-30">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spell Del Fin, Light Divine Dragon</name>
+      <text>
+■ Your opponent plays with their hand Face Up
+■ This creature gets +2000 power for each spell in your opponent's hand.
+■ Your opponent can't cast spells.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DM-22-1">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Geobreed</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone that has the lowest power and put into its owner's mana zone. If there's a tie, choose one of them.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-22-52">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Poppi Lucky</name>
+      <text>
+■ Whenever your opponent would choose a creature in the battle zone, they can't choose your Dragons. ''(However, your Dragons can still be attacked and blocked.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-22-7">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blossom Shower</name>
+      <text>
+■ Put the top card of your deck into your mana zone. Then you may return a Dragon or Phoenix from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-22-20">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fuuma Gorgonshack</name>
+      <text>
+■ All spells cost 2 more to cast.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-22-25">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Lab</name>
+      <text>
+■ Reveal the top 3 cards of your deck. From among them, choose a Dragon and put it into your hand. Put the rest on the bottom of your deck in any order. If all 3 revealed cards aren't Dragons, return this card to your hand instead.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-22-26">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asteroid Gellum, Dark Comet</name>
+      <text>
+■ Vortex evolution—Put on 2 of your Grand Devils, Deep Marines, and/or Zombie Dragons.
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM-22-27">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evolution Egg</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take an evolution creature from your deck, show that evolution creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-22-35">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fuuma Vines</name>
+      <text>
+■ When you put this creature into the battle zone, your opponent chooses one of their creatures that has "blocker" and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-22-46">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Little Eyes Growth</name>
+      <text>
+■ Reveal the top 2 cards of your deck. Put all creatures into your mana zone, and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-22-55">DM-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

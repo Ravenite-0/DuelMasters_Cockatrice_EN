@@ -1,0 +1,745 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-23</name>
+      <longname>DMX-23</longname>
+      <settype>DMX-23</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bronze-Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-23-29">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mist Rias, Sonic Guardian</name>
+      <text>
+■ Whenever another creature is put into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-23-35">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-23-51">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocco Lupia</name>
+      <text>
+■ Your creatures that have Dragon in their race each cost 2 less to summon. ''(Dragonoids don't count.)'' They can't cost less than 2.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-23-11">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Stream</name>
+      <text>
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-54">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bazagazeal Dragon</name>
+      <text>
+■ Speed Attacker
+■ This creature can attack untapped creatures.
+■ Double Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-23-10">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Skysword, the Savage Vizier</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Initiate</type>
+        <manacost>5</manacost>
+        <colors>Light/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-23-28">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tajimal, Vizier of Aqua</name>
+      <text>
+■ Blocker
+■ Multi
+■ This creature can't attack players.
+■ While battling a fire creature, this creature gets +4000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Liquid People</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMX-23-17">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-34">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolgress Bazz, Matchless Dragon Machine</name>
+      <text>
+■ Multi
+■ Double Breaker
+■ When you put this creature into the battle zone, you may return any number of Dragons from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Earth Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-23-3">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>North Grande, Blue Divine Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Poseidia Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-23-18">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eco Aini</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. If that card is a Dragon, put another card from the top of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-23-12">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Bronze Magic</name>
+      <text>
+■ Put the top card of your deck into your mana zone. If that card is a light or fire card, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-36">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Death Gate, Gate of Hell</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures. You may put a non-evolution creature that costs less than the destroyed creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-58">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DNA Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ If you have 2 shields or less, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-15">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Naruto Surfer</name>
+      <text>
+■ When you put this creature into the battle zone, choose up to 2 creatures in the battle zone and return them to their owners' hands.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-23-52">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Barrel, Western Doll</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-23-57">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bone Dance Charger</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-38">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mendelssohn</name>
+      <text>
+■ Reveal the top 2 cards of your deck. Put all Dragons revealed this way into your mana zone tapped and the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-6">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Baulion</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, you may return up to 2 spells from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-23-32">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mitsurugi Boost, Matchless Dragon Demon</name>
+      <text>
+■ When you put this creature into the battle zone, you may put this creature into your mana zone. If you do, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon/Armored Dragon/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-23-4">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Honenbe, Skeletal Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, you may put the top 3 cards of your deck into your graveyard. If you do, you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-23-59">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnarok, the Clock</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, skip the rest of the turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-23-16">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mypad, Start Dash</name>
+      <text>
+■ Each turn, you may have the first water creature you summon cost 1 less. It can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-23-53">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>BloodRayne, Start Dash</name>
+      <text>
+■ Each turn, you may have the first darkness creature you summon cost 1 less. It can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-23-60">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon's Sign</name>
+      <text>
+■ Shield Trigger
+■ Put a non-evolution Light dragon creature that costs 7 or less from your hand. That creature gets "blocker" until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-24">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Batocross Battle, Passion Dragon</name>
+      <text>
+■ Shield Trigger
+■ Double Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+■ When you put this creature into the battle zone during your opponent's turn, put this creature on the bottom of your deck at the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-23-8">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bakuadorgan, Passion Dragon</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks, reveal the top card of your deck. If that card is a Dragon, put it into your hand. If it's not a Dragon, put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaial Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-23-2">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ottakara Atakara</name>
+      <text>
+■ When you put this creature, put the top 2 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-23-42">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Red, Lightning Sonic</name>
+      <text>
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-23-48">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Talbot, Sonic</name>
+      <text>
+■ Shield Trigger
+■ This creature attacks each turn if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-23-47">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Liberation of the End</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 9999 or less. 
+■ Put one of your seals into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-45">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trooper, Forbidden U</name>
+      <text>
+■ Whenever this creature attacks, put one of your seals from the battle zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Invader/Initials</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-23-46">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Angel Feather</name>
+      <text>
+■ Reveal the top 3 cards of your deck. Take a light spell and a light command from the revealed cards and put them into your hand. Then put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-22">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Generarose, Red Rose Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, draw a card. Then you may put a non-evolution light creature that costs 6 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMX-23-20">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dante, Future Ball</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may return a spell from your mana zone or graveyard to your hand.
+■ When this creature would be destroyed, put it on the top of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Orb/Angel Command Dragon/Revolutionary</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-23-23">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chikichiki JET Circuit</name>
+      <text>
+■ Each of your creatures gets "speed attacker".
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-41">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Overkill Graveyard</name>
+      <text>
+■ Each of your creatures gets "slayer." ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-40">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Houma, Guide Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, draw a card. Then you may cast a light spell that costs 5 or less from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-23-21">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dairyugan, Turbulent Colonel</name>
+      <text>
+■ Multi
+■ Revolution Change
+■ Speed Attacker
+■ Double Breaker
+■ After this creature attacks, you may discard a fire and nature Dragon from your hand. If you do, untap this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>9</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMX-23-1">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Konchi, Foxkind</name>
+      <text>
+■ Blocker
+■ This creature can't attack players. 
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Dragon/Revolutionary</type>
+        <manacost>4</manacost>
+        <colors>Light/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-23-33">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rafululu, Sound Faerie</name>
+      <text>
+■ Revolution Change
+■ When you put this creature into the battle zone, this turn, your opponent can't cast spells.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Dragon/Revolutionary/Team Doremi</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-23-14">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wonder Tune MOTORS</name>
+      <text>
+■ Whenever your creatures battle, you may draw 2 cards. If you do, discard a card from your hand, and if that card is a creature, your battling creature gets +5000 power until the end of the battle.
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-23-50">DMX-23</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

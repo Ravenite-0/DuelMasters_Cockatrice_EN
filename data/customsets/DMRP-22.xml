@@ -1,0 +1,2113 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-22</name>
+      <longname>DMRP-22</longname>
+      <settype>DMRP-22</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Chopping Ruzou, Rude Mincing Gang Leader</name>
+      <text>
+■ When this creature link awakens, you may put any number of Hunter creatures from your mana zone or hyperspatial zone into the battle zone.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMRP-22-TR3b">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kiryuin Jin, Crimson Rage</name>
+      <text>
+■ Whenever one of your fire or nature Hunters wins a battle, you may put a Hunter that costs less than that Hunter from your mana zone or hyperspatial zone into the battle zone.
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Command/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-22-TR3a">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Judaina, Jurassic Hammer</name>
+      <text>
+■ During your turn, you may summon a Dragon from your mana zone.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-V4a">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Judaina, Jurassic Hammer</name>
+      <text>
+■ During your turn, you may summon a Dragon from your mana zone.
+■ Dragsolution
+  </text>
+      <prop>
+        <maintype>Dragheart Weapon</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-TR2a">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saurpio, Ancient King</name>
+      <text>
+■ Triple Breaker
+■ If you have no shields, your opponent's creatures can't attack you.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-22-V4b">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saurpio, Ancient King</name>
+      <text>
+■ Triple Breaker
+■ If you have no shields, your opponent's creatures can't attack you.
+  </text>
+      <prop>
+        <maintype>Dragheart Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-22-TR2b">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emeralda, Pitch Dragon Elemental</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may choose one of your shields and add it to your hand. Then you may add a card from your hand to your shields face down. ''(You may use "shield trigger" ability of a shield put into your hand in this way.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMRP-22-T8">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emeralda, Pitch Dragon Elemental</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may choose one of your shields and add it to your hand. Then you may add a card from your hand to your shields face down. ''(You may use "shield trigger" ability of a shield put into your hand in this way.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMRP-22- TF8">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hamukatsuman Ace, Brave 1</name>
+      <text>
+■ Multi
+■ Revolution Change
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. You may take a multicolored creature, show that creature to your opponent and put it on top of your deck. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-22-T11">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hamukatsuman Ace, Brave 1</name>
+      <text>
+■ Multi
+■ Revolution Change
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. You may take a multicolored creature, show that creature to your opponent and put it on top of your deck. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-22- TF11">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ooparts, Last Question</name>
+      <text>
+■ Revolution Change
+■ Double Breaker
+■ When you put this creature into the battle zone, draw 2 cards. Then your opponent chooses 2 cards in their hand and/or battle zone and puts them on the bottom of their deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Crystal Command Dragon/Revolutionary/Team Tech</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22-TR9">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doremi 24, Miracle 1</name>
+      <text>
+■ Revolution Change
+■ When you put this creature into the battle zone, you may cast a light or water spell that costs 3 or less from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Dragon/Revolutionary/Team Doremi</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-22-SP6">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onikamas, Strange Flow</name>
+      <text>
+■ Your opponent Unchoosable
+■ Whenever your opponent puts a creature in a way except by summoning during their turn, you may return that creature to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-T13">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onikamas, Strange Flow</name>
+      <text>
+■ Your opponent Unchoosable
+■ Whenever your opponent puts a creature in a way except by summoning during their turn, you may return that creature to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- TF13">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gale Vesper of Heavenly Winds</name>
+      <text>
+■ Double Sympathy: Creatures that have power 12000 or more. ''(When you summon this creature, you may pay 2 less for each of your creatures in the battle zone that have power 12000 or more. It can't cost 0 or less.)''
+■ Triple Breaker
+■ Each of your creatures in your hand gets "Double Sympathy: Creatures that have power 12000 or more".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-22-TR5">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mixel, Strange Stone/Jamming Chaff</name>
+      <text>
+■ Whenever your opponent puts a creature that costs more than the number of cards in your opponent's mana zone, your opponent puts it on the bottom of their deck.
+=========================
+■ Until the start of your next turn, your opponent can't cast spells.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light/Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-T7">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mixel, Strange Stone/Jamming Chaff</name>
+      <text>
+■ Whenever your opponent puts a creature that costs more than the number of cards in your opponent's mana zone, your opponent puts it on the bottom of their deck.
+=========================
+■ Until the start of your next turn, your opponent can't cast spells.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light/Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- TF7">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Way Wave</name>
+      <text>
+■ When you summon this creature into the battle zone, you may cast a spell that costs 4 or less from your graveyard for no cost. 
+■ Whenever you cast a spell for the first time each turn, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-22-T1">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Way Wave</name>
+      <text>
+■ When you summon this creature into the battle zone, you may cast a spell that costs 4 or less from your graveyard for no cost. 
+■ Whenever you cast a spell for the first time each turn, gacharange summon. Gacharange Summon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Wonderforce</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-22- TF1">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22-T5">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22- TF5">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Sandronia, Nigen /*</name>
+      <text>
+■ When you attach this to a creature, draw 3 cards. Then put 2 cards from your hand on the bottom of your deck in any order.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-T18">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>*/ Sandronia, Nigen /*</name>
+      <text>
+■ When you attach this to a creature, draw 3 cards. Then put 2 cards from your hand on the bottom of your deck in any order.
+■ Orega Aura
+  </text>
+      <prop>
+        <maintype>Orega Aura</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- TF18">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mirei, White Emperor's Will</name>
+      <text>
+■ If you have a card in your super gacharange, this creature can't attack and when this creature would leave the battle zone, it stays in the battle zone instead.
+■ World Breaker 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMRP-22-TR4">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CX-20, Energy</name>
+      <text>
+■ Mana Drive 6 (Water): When you put this creature into the battle zone, if you have 6 or more cards in your mana zone and one or more of them is water civilization, you may draw 3 cards.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-T9">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CX-20, Energy</name>
+      <text>
+■ Mana Drive 6 (Water): When you put this creature into the battle zone, if you have 6 or more cards in your mana zone and one or more of them is water civilization, you may draw 3 cards.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- TF9">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marchis, Continual Will</name>
+      <text>
+■ Mana Drive 5 (Light): When you put this creature into the battle zone, if you have 5 or more cards in your mana zone and one or more of them is light civilization, gacharange summon. Gacharange Summon
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-22-T12">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marchis, Continual Will</name>
+      <text>
+■ Mana Drive 5 (Light): When you put this creature into the battle zone, if you have 5 or more cards in your mana zone and one or more of them is light civilization, gacharange summon. Gacharange Summon
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Metallica/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-22- TF12">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Christma Third</name>
+      <text>
+■ Mana Drive 3 (Nature): When you put this creature into the battle zone, if you have 3 or more cards in your mana zone and one or more of them is nature civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22-T16">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Christma Third</name>
+      <text>
+■ Mana Drive 3 (Nature): When you put this creature into the battle zone, if you have 3 or more cards in your mana zone and one or more of them is nature civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22- TF16">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meccha Bayetataki</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Destroy one of your opponent's creatures that has power 3000 or less.
+:► Destroy one of your opponent's Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-T14">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meccha Bayetataki</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Destroy one of your opponent's creatures that has power 3000 or less.
+:► Destroy one of your opponent's Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- TF14">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oniyose's Jutsu</name>
+      <text>
+■ Choose one of your shields and add it to your hand. You can't use the "shield trigger".
+■ This turn, the next darkness or fire creature you summon may cost up to 4 less to summon. It can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-T10">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oniyose's Jutsu</name>
+      <text>
+■ Choose one of your shields and add it to your hand. You can't use the "shield trigger".
+■ This turn, the next darkness or fire creature you summon may cost up to 4 less to summon. It can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- TF10">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brachiodrange</name>
+      <text>
+■ Quattro Breaker
+■ Whenever your opponent puts a creature into the battle zone and your opponent's creature's ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature into the battle zone".)''
+■ Fushigiverse
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon/Fushigi Kingdom</type>
+        <manacost>11</manacost>
+        <colors>Nature</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DMRP-22-TR6">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jyuu・Ni・Shin・Ki</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Look at the top 4 cards of your deck. Put one of them into your hand and the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-T19">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jyuu・Ni・Shin・Ki</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Look at the top 4 cards of your deck. Put one of them into your hand and the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- TF19">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emotional Hardcore, Sacred Dragon</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone, choose a creature card name except '''Emotional Hardcore, Sacred Dragon'''.
+■ Ignore any ability
+■ Whenever your opponent would choose a creature, this creature Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle Dragon/Oraclion</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMRP-22-SP4">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon World ~The Land Where Dragons Descend~</name>
+      <text>
+■ At the start of your turn, put the top card of your deck into your graveyard. If it is a non-evolution Dragon, you may put this Dragonic Field into your graveyard. If you do, put that Dragon into the battle zone.
+  </text>
+      <prop>
+        <maintype>Dragonic Field</maintype>
+        <type>Dragon World</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-TR10">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yell, Cheering Faerie/Please support us together!</name>
+      <text>
+■ When you put this creature into the battle zone, untap up to 2 cards in your mana zone.
+=========================
+■ Shield Trigger
+■ Discard a card from your hand. Then destroy one of your opponent's creatures that has 6000 power or less. If the discarded card was a Snow Faerie, destroy another one of your opponent's creatures that has 6000 power or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-T15">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yell, Cheering Faerie/Please support us together!</name>
+      <text>
+■ When you put this creature into the battle zone, untap up to 2 cards in your mana zone.
+=========================
+■ Shield Trigger
+■ Discard a card from your hand. Then destroy one of your opponent's creatures that has 6000 power or less. If the discarded card was a Snow Faerie, destroy another one of your opponent's creatures that has 6000 power or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- TF15">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dogiragon Nova, Blue Guardian Deity</name>
+      <text>
+■ Revolution Change: Light or Fire dragon that costs 5 or more
+■ Blocker
+■ Triple Breaker
+■ At the End Step
+■ Final Revolution: When you put this creature with "Revolution Change" and you haven't used another "Final Revolution" during this turn, reveal the top 4 cards of your deck. Choose any number of non-evolution multicolored creatures from among them that have total cost 6 or less and put them into the battle zone. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Light/Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-22-SP2">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Justica, Shadow Dragon</name>
+      <text>
+■ Triple Breaker
+■ Whenever you put a dragon into the battle zone, destroy one of your opponent's creatures.
+■ Whenever one of your opponent's creatures is destroyed, you may add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol Dragon/Gekko Kingdom</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>13500</pt>
+      </prop>
+      <set num="DMRP-22-TR8">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magnificent War x Ten Kings Super Final Wars!!!</name>
+      <text>
+■ Look at the top 5 cards of your deck. Choose any number of King Master Card
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-T4">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magnificent War x Ten Kings Super Final Wars!!!</name>
+      <text>
+■ Look at the top 5 cards of your deck. Choose any number of King Master Card
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- TF4">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zardiclica, Hybrid Winds Dragon</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ When you put this creature, you may cast a spell that costs 7 or less from your hand or graveyard for no cost. After you cast, put it on the bottom of your deck instead.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Crystal Command Dragon/Angel Command/Melt Warrior</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-22-SP5">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jogirasta Gunlance</name>
+      <text>
+■ Attack Chance: Creature that has "Johnny" in its name. ''(When one of your creatures that has "Johnny" in its name attacks, you may cast this spell for no cost.)''
+■ Choose a creature. That creature gets +7000 power until the End Step
+■ Choose one of your creatures and one of your opponent's creatures. Those 2 creatures battle.
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-T6">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jogirasta Gunlance</name>
+      <text>
+■ Attack Chance: Creature that has "Johnny" in its name. ''(When one of your creatures that has "Johnny" in its name attacks, you may cast this spell for no cost.)''
+■ Choose a creature. That creature gets +7000 power until the End Step
+■ Choose one of your creatures and one of your opponent's creatures. Those 2 creatures battle.
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- TF6">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa, Survival Star</name>
+      <text>
+■ While battling, this creature gets +2000 power.
+■ During your opponent's turn, whenever your opponent would put a creature in any way except by summoning, your opponent puts that creature into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMRP-22-T20">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa, Survival Star</name>
+      <text>
+■ While battling, this creature gets +2000 power.
+■ During your opponent's turn, whenever your opponent would put a creature in any way except by summoning, your opponent puts that creature into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMRP-22- TF20">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>5000typeR, Rebellion/Lazy Tune</name>
+      <text>
+■ This creature costs 1 less to summon for each creature in your graveyard. It can't cost 0 or less.
+■ When you put this creature, destroy all creatures that have power 5000 or less.
+■ Each player can only put creatures from their hand.
+■ Speed Attacker
+■ Triple Breaker
+=========================
+■ Draw 3 cards. Then discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>12</manacost>
+        <colors>Fire/Water</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-22-TR1">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa and Alice, Brave Brain/"Let's go Alice!" "I'm coming Testa!"</name>
+      <text>
+■ When you put this creature, draw a card, then discard a card from your hand.
+=========================
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 7000 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-T2">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa and Alice, Brave Brain/"Let's go Alice!" "I'm coming Testa!"</name>
+      <text>
+■ When you put this creature, draw a card, then discard a card from your hand.
+=========================
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 7000 or less.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- TF2">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kangoku Nyudo</name>
+      <text>
+■ At the end of your turn, add one of your shields to your hand. You can't use the "shield trigger" ability of that shield.
+■ Onitime
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMRP-22-SP1">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Neo Bolshack Dragon/Bolshackssohn</name>
+      <text>
+■ Power Attacker
+■ Triple Breaker
+=========================
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>11000+</pt>
+      </prop>
+      <set num="DMRP-22-T">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Neo Bolshack Dragon/Bolshackssohn</name>
+      <text>
+■ Power Attacker
+■ Triple Breaker
+=========================
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>11000+</pt>
+      </prop>
+      <set num="DMRP-22- TF">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ajisai-2, Faerie</name>
+      <text>
+■ When you put this creature, look at the top 2 cards of your deck. Put one of them into your mana zone and the other into your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Distas</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-T17">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ajisai-2, Faerie</name>
+      <text>
+■ When you put this creature, look at the top 2 cards of your deck. Put one of them into your mana zone and the other into your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Distas</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- TF17">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Alcadeias Play's, Holy Gaia</name>
+      <text>
+■ Evolution: Put on one of your multicolored creatures.
+■ Double Breaker
+■ Whenever your opponent would put a non-multicolored creature, if none of your opponent's creatures were put into the graveyard by the ability of "'''King Alcadeias Play's, Holy Gaia'''" during this turn, put that creature into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22-TR7">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tera Szark (Romanov Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ You may put up to one card in your hand, shield, creature and tamaseed into your graveyard. This creature costs one less to summon for that chosen number.
+■ Whenever this creature attacks, you may put up to 4 tamaseeds that have a total cost of 6 or less from your graveyard. 
+■ You may summon this creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Dolszak/Zombie Dragon/Knight/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22-S5">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tera Szark (Romanov Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ You may put up to one card in your hand, shield, creature and tamaseed into your graveyard. This creature costs one less to summon for that chosen number.
+■ Whenever this creature attacks, you may put up to 4 tamaseeds that have a total cost of 6 or less from your graveyard. 
+■ You may summon this creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Dolszak/Zombie Dragon/Knight/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22- 5A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tera Szark (Romanov Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ You may put up to one card in your hand, shield, creature and tamaseed into your graveyard. This creature costs one less to summon for that chosen number.
+■ Whenever this creature attacks, you may put up to 4 tamaseeds that have a total cost of 6 or less from your graveyard. 
+■ You may summon this creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Dolszak/Zombie Dragon/Knight/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22- 7B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・AIDORU</name>
+      <text>
+■ Speed Attacker
+■ Whenever one of your evolution creatures is destroyed, if you don't have a '''U.S.A. AIDORU''' in the battle zone, you may put this creature from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22-20">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・AIDORU</name>
+      <text>
+■ Speed Attacker
+■ Whenever one of your evolution creatures is destroyed, if you don't have a '''U.S.A. AIDORU''' in the battle zone, you may put this creature from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22- 13A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel's Jewel</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, if your opponent has more cards in their hand than you do, draw a card. If your opponent has more cards in their mana zone than you do, put the top card of your deck into your mana zone tapped. If your opponent has more shields than you do, shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Angel Command/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-11">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baiken's Vision</name>
+      <text>
+■ Shinkarise
+■ You may draw a card at the End Step
+■ Whenever one of your opponent's creatures attacks you, you may destroy this tamaseed. If you do, put a water creature that costs 6 or less from your hand and it gets "blocker" until the End Step
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Poseidia Dragon/Shinobi/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-2">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baiken's Vision</name>
+      <text>
+■ Shinkarise
+■ You may draw a card at the End Step
+■ Whenever one of your opponent's creatures attacks you, you may destroy this tamaseed. If you do, put a water creature that costs 6 or less from your hand and it gets "blocker" until the End Step
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Poseidia Dragon/Shinobi/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- 9A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CRYMAX Jaouga</name>
+      <text>
+■ Oni Star Max Evolution
+■ Triple Breaker
+■ When you put this creature, each player chooses 3 of their shields and puts the rest into their graveyard.
+■ Whenever this creature attacks, destroy one of your opponent's creatures, then discard 2 cards from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-22-KM2">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CRYMAX Jaouga</name>
+      <text>
+■ Oni Star Max Evolution
+■ Triple Breaker
+■ When you put this creature, each player chooses 3 of their shields and puts the rest into their graveyard.
+■ Whenever this creature attacks, destroy one of your opponent's creatures, then discard 2 cards from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-22- 2B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>CRYMAX Jaouga</name>
+      <text>
+■ Oni Star Max Evolution
+■ Triple Breaker
+■ When you put this creature, each player chooses 3 of their shields and puts the rest into their graveyard.
+■ Whenever this creature attacks, destroy one of your opponent's creatures, then discard 2 cards from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-22- 2S">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>MAX-Gun Joragon</name>
+      <text>
+■ Star Max Evolution
+■ Double Breaker
+■ When you summon this creature or at the start of your turn, draw a card then put a card from your hand into your mana zone. If that card you put was a Jokers or RexStars creature or tamaseed, this creature gets all ability
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Master Dragon/Jokers/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22-KM1">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>MAX-Gun Joragon</name>
+      <text>
+■ Star Max Evolution
+■ Double Breaker
+■ When you summon this creature or at the start of your turn, draw a card then put a card from your hand into your mana zone. If that card you put was a Jokers or RexStars creature or tamaseed, this creature gets all ability
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Master Dragon/Jokers/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22- 1B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>MAX-Gun Joragon</name>
+      <text>
+■ Star Max Evolution
+■ Double Breaker
+■ When you summon this creature or at the start of your turn, draw a card then put a card from your hand into your mana zone. If that card you put was a Jokers or RexStars creature or tamaseed, this creature gets all ability
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Master Dragon/Jokers/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22- 1S">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark-MAX</name>
+      <text>
+■ Whenever one of your opponent's creatures attacks, you may tap a total of 3 of your untapped tamaseeds (including at least one light tamaseed). If you do, put this card from your hand.
+■ Star Max Evolution
+■ Blocker
+■ Double Breaker
+■  Your creatures can't be destroyed while blocking.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Master Dragon/Metallica/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22-S1">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark-MAX</name>
+      <text>
+■ Whenever one of your opponent's creatures attacks, you may tap a total of 3 of your untapped tamaseeds (including at least one light tamaseed). If you do, put this card from your hand.
+■ Star Max Evolution
+■ Blocker
+■ Double Breaker
+■  Your creatures can't be destroyed while blocking.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Master Dragon/Metallica/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22- 1A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Savark-MAX</name>
+      <text>
+■ Whenever one of your opponent's creatures attacks, you may tap a total of 3 of your untapped tamaseeds (including at least one light tamaseed). If you do, put this card from your hand.
+■ Star Max Evolution
+■ Blocker
+■ Double Breaker
+■  Your creatures can't be destroyed while blocking.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Master Dragon/Metallica/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-22- 3B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Adam"-Ogre MAX</name>
+      <text>
+■ Oni Star Max Evolution
+■ Blocker
+■ Whenever this creature taps, you may choose one of your opponent's untapped creatures or untapped tamaseeds and return it to its owner's hand. Then you may put a tamaseed from your graveyard that costs less than the returned card.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Adamunit/Demonio/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-22-S3">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Adam"-Ogre MAX</name>
+      <text>
+■ Oni Star Max Evolution
+■ Blocker
+■ Whenever this creature taps, you may choose one of your opponent's untapped creatures or untapped tamaseeds and return it to its owner's hand. Then you may put a tamaseed from your graveyard that costs less than the returned card.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Adamunit/Demonio/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-22- 3A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Adam"-Ogre MAX</name>
+      <text>
+■ Oni Star Max Evolution
+■ Blocker
+■ Whenever this creature taps, you may choose one of your opponent's untapped creatures or untapped tamaseeds and return it to its owner's hand. Then you may put a tamaseed from your graveyard that costs less than the returned card.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Adamunit/Demonio/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-22- 5B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>EVE-Ogre MAX</name>
+      <text>
+■ Oni Star Max Evolution
+■ Double Breaker
+■ Whenever one of your creatures attacks your opponent, you may choose one of your opponent's creatures. Those 2 creatures battle.
+■ Whenever one of your creatures wins a battle, you may destroy one of your opponent's non-creature cards.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Eveunit/Demonio/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22-S6">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>EVE-Ogre MAX</name>
+      <text>
+■ Oni Star Max Evolution
+■ Double Breaker
+■ Whenever one of your creatures attacks your opponent, you may choose one of your opponent's creatures. Those 2 creatures battle.
+■ Whenever one of your creatures wins a battle, you may destroy one of your opponent's non-creature cards.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Eveunit/Demonio/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22- 6A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>EVE-Ogre MAX</name>
+      <text>
+■ Oni Star Max Evolution
+■ Double Breaker
+■ Whenever one of your creatures attacks your opponent, you may choose one of your opponent's creatures. Those 2 creatures battle.
+■ Whenever one of your creatures wins a battle, you may destroy one of your opponent's non-creature cards.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Eveunit/Demonio/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMRP-22- 8B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pali Night's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, choose a player. That player shuffles their graveyard and put it the bottom of their deck.
+■ '''Shinkapower''': When this tamaseed evolves, put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-44">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pali Night's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, choose a player. That player shuffles their graveyard and put it the bottom of their deck.
+■ '''Shinkapower''': When this tamaseed evolves, put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- 17A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manhattan's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, choose one of your creatures and one of your opponent's creatures. Each player puts the rest of their creatures into their owner's mana zone.
+■ During your opponent's turn, whenever your opponent puts a creature, if your opponent put 2 or more other creatures that turn, your opponent puts that creature into their mana zone instead.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-24">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manhattan's Memory</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, choose one of your creatures and one of your opponent's creatures. Each player puts the rest of their creatures into their owner's mana zone.
+■ During your opponent's turn, whenever your opponent puts a creature, if your opponent put 2 or more other creatures that turn, your opponent puts that creature into their mana zone instead.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Jokers/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- 14A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt (Katsuking Star)</name>
+      <text>
+■ Ultimate Star Evolution: Put on one of your Fire evolution creatures or RexStars evolution creatures. ''(When this creature would leave, the top card leaves instead.)''
+■ Infinity Breaker
+■ Whenever this creature attacks, destroy up to 2 creatures that have power 25000 or less.
+■ When this card leaves, you may put an evolution creature that costs 6 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Dynamite Dragon/Outrage MAX/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMRP-22-S7">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt (Katsuking Star)</name>
+      <text>
+■ Ultimate Star Evolution: Put on one of your Fire evolution creatures or RexStars evolution creatures. ''(When this creature would leave, the top card leaves instead.)''
+■ Infinity Breaker
+■ Whenever this creature attacks, destroy up to 2 creatures that have power 25000 or less.
+■ When this card leaves, you may put an evolution creature that costs 6 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Dynamite Dragon/Outrage MAX/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMRP-22- 7A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt (Katsuking Star)</name>
+      <text>
+■ Ultimate Star Evolution: Put on one of your Fire evolution creatures or RexStars evolution creatures. ''(When this creature would leave, the top card leaves instead.)''
+■ Infinity Breaker
+■ Whenever this creature attacks, destroy up to 2 creatures that have power 25000 or less.
+■ When this card leaves, you may put an evolution creature that costs 6 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Dynamite Dragon/Outrage MAX/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMRP-22- 9B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Battle Growth</name>
+      <text>
+■ If you have a creature that has power 6000 or more, this spell costs 2 less to cast.
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Put the top card of your deck into your mana zone tapped.
+:► Choose one of your creatures and one of your opponent's creatures. Those creatures battle.
+:► Destroy a non-creature card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-8">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Battle Growth</name>
+      <text>
+■ If you have a creature that has power 6000 or more, this spell costs 2 less to cast.
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Put the top card of your deck into your mana zone tapped.
+:► Choose one of your creatures and one of your opponent's creatures. Those creatures battle.
+:► Destroy a non-creature card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- 11A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiahazard, Nature's Four Gentlemen</name>
+      <text>
+■ Mach Fighter
+■ Powered Breaker
+■ Whenever your opponent would put a creature, if you have more cards in your mana zone than your opponent, your opponent puts that creature into their mana zone instead.
+■ This creature gets +1000 power for each card in your mana zone.  
+■ Whenever your opponent's creature attacks, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect/RexStars</type>
+        <manacost>11</manacost>
+        <colors>Nature</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DMRP-22-S8">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiahazard, Nature's Four Gentlemen</name>
+      <text>
+■ Mach Fighter
+■ Powered Breaker
+■ Whenever your opponent would put a creature, if you have more cards in your mana zone than your opponent, your opponent puts that creature into their mana zone instead.
+■ This creature gets +1000 power for each card in your mana zone.  
+■ Whenever your opponent's creature attacks, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect/RexStars</type>
+        <manacost>11</manacost>
+        <colors>Nature</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DMRP-22- 8A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiahazard, Nature's Four Gentlemen</name>
+      <text>
+■ Mach Fighter
+■ Powered Breaker
+■ Whenever your opponent would put a creature, if you have more cards in your mana zone than your opponent, your opponent puts that creature into their mana zone instead.
+■ This creature gets +1000 power for each card in your mana zone.  
+■ Whenever your opponent's creature attacks, they attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect/RexStars</type>
+        <manacost>11</manacost>
+        <colors>Nature</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DMRP-22- 10B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magatsukaze, Toberutsubasa</name>
+      <text>
+■ Guard Strike
+■ Justdiver
+■ Whenever your opponent would look at or reveal one or more cards from their deck, your opponent reveals the top card of their deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Adamunit/Demonio/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22-30">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magatsukaze, Toberutsubasa</name>
+      <text>
+■ Guard Strike
+■ Justdiver
+■ Whenever your opponent would look at or reveal one or more cards from their deck, your opponent reveals the top card of their deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Adamunit/Demonio/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-22- 15A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultrahealing Princessmedic</name>
+      <text>
+■ Ultra Saver: Evolution creature or tamaseed ''(When one of your evolution creatures or tamaseeds would leave, you may destroy this creature instead.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DMRP-22-47">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultrahealing Princessmedic</name>
+      <text>
+■ Ultra Saver: Evolution creature or tamaseed ''(When one of your evolution creatures or tamaseeds would leave, you may destroy this creature instead.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/RexStars</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DMRP-22- 18A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White Swan</name>
+      <text>
+■ When you put this creature, each player shieldify
+■ If you have 5 or more shields, this creature gets +5000 power and "double breaker".
+■ Whenever one of your shields break, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Spriggan/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-22-S2">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White Swan</name>
+      <text>
+■ When you put this creature, each player shieldify
+■ If you have 5 or more shields, this creature gets +5000 power and "double breaker".
+■ Whenever one of your shields break, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Spriggan/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-22- 2A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>White Swan</name>
+      <text>
+■ When you put this creature, each player shieldify
+■ If you have 5 or more shields, this creature gets +5000 power and "double breaker".
+■ Whenever one of your shields break, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Spriggan/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMRP-22- 4B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ushimitsu Doji (Malvas Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard.
+■ Whenever you use a tamaseed, you may put an evolution creature that costs 4 or less that can evolve from that tamaseed from your graveyard on top of that tamaseed.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-22-15">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ushimitsu Doji (Malvas Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard.
+■ Whenever you use a tamaseed, you may put an evolution creature that costs 4 or less that can evolve from that tamaseed from your graveyard on top of that tamaseed.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-22- 12A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aple, Young Great Elder</name>
+      <text>
+■ Guard Strike
+■ Guardman
+■ Your opponent's cards can’t leave their graveyard or mana zone.
+■ Your opponent can’t cast spells from their graveyard or mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gransect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-22-42">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kooni Benten</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy 2 of your creatures and/or tamaseeds. Then your opponent chooses one of their creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-22-34">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kooni Benten</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy 2 of your creatures and/or tamaseeds. Then your opponent chooses one of their creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-22- 16A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lupia Flame Oni’s Seal</name>
+      <text>
+■ Shinkarise
+■ Your creatures that evolve from this tamaseed cost 2 less to summon. They can’t cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-69">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lupia Flame Oni’s Seal</name>
+      <text>
+■ Shinkarise
+■ Your creatures that evolve from this tamaseed cost 2 less to summon. They can’t cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- 20A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manifest (Final Star)</name>
+      <text>
+■ Super Infinite Star Evolution: Put on any number of your RexStars or water creatures. ''(When this creature would leave, the top card leaves instead.)''
+■ Powered Breaker
+■ This creature gets +2000 for each card under it.
+■ Whenever you use a tamaseed, you may put it under this creature.
+■ After this creature attacks, you may choose 6 cards under it and shuffle them onto the bottom of your deck. If you do, take an extra turn after this one.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Tricks/Phoenix/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMRP-22-S4">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manifest (Final Star)</name>
+      <text>
+■ Super Infinite Star Evolution: Put on any number of your RexStars or water creatures. ''(When this creature would leave, the top card leaves instead.)''
+■ Powered Breaker
+■ This creature gets +2000 for each card under it.
+■ Whenever you use a tamaseed, you may put it under this creature.
+■ After this creature attacks, you may choose 6 cards under it and shuffle them onto the bottom of your deck. If you do, take an extra turn after this one.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Tricks/Phoenix/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMRP-22- 4A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Manifest (Final Star)</name>
+      <text>
+■ Super Infinite Star Evolution: Put on any number of your RexStars or water creatures. ''(When this creature would leave, the top card leaves instead.)''
+■ Powered Breaker
+■ This creature gets +2000 for each card under it.
+■ Whenever you use a tamaseed, you may put it under this creature.
+■ After this creature attacks, you may choose 6 cards under it and shuffle them onto the bottom of your deck. If you do, take an extra turn after this one.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Tricks/Phoenix/RexStars</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMRP-22- 6B">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ningyo, Floating in the Starry Sky</name>
+      <text>
+■ Guard Strike
+■ Slayer
+■ During your opponent's turn, whenever your opponent would put a card in their mana zone from anywhere other than their hand, put it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-22-33">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Naga's Ring</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, you may put the top 3 cards of your deck into your graveyard. If you do, return a water or darkness card from your graveyard to your hand.
+■ Whenever a card leaves your graveyard for the first time each turn, choose one of the following.
+:► Your opponent chooses and discards a card from their hand.
+:► Draw a card.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Naga/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22-7">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Naga's Ring</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, you may put the top 3 cards of your deck into your graveyard. If you do, return a water or darkness card from your graveyard to your hand.
+■ Whenever a card leaves your graveyard for the first time each turn, choose one of the following.
+:► Your opponent chooses and discards a card from their hand.
+:► Draw a card.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Naga/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-22- 10A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shinaiga, Misfortune Demon 310</name>
+      <text>
+■ When you put this creature, you may destroy one of your tamaseeds. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-22-61">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shinaiga, Misfortune Demon 310</name>
+      <text>
+■ When you put this creature, you may destroy one of your tamaseeds. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-22- 19A">DMRP-22</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

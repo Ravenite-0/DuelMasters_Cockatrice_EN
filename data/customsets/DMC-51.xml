@@ -1,0 +1,80 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-51</name>
+      <longname>DMC-51</longname>
+      <settype>DMC-51</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Ultimate Dragon</name>
+      <text>
+■ This creature gets +5000 power for each of your other creatures in the battle zone that has Dragon in its race.
+■ Crew breaker—Dragon ''(This creature breaks one more shield for each of your other creatures in the battle zone that has Dragon in its race.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMC-51-6">DMC-51</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lupia Lapia</name>
+      <text>
+■ Multi
+■ Your Dragons may each cost 1 less to summon. They can't cost less than 1.
+■ When this creature is destroyed, you may put it into your mana zone instead. If you do, you may return a Dragon from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-51-5">DMC-51</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flaming Jet Dragon</name>
+      <text>
+■ Speed Attacker
+■ Thrilling Three
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-51-10">DMC-51</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Whirlwind Tailspin</name>
+      <text>
+■ This turn, the next creature you summon may cost 1 less. It can't cost less than 1. When you put that creature into the battle zone, it gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-51-8">DMC-51</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

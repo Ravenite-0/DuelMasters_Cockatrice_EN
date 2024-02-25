@@ -1,0 +1,165 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-09</name>
+      <longname>DMD-09</longname>
+      <settype>DMD-09</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Spiral Gate</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-09-13">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-09-10">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emergency Typhoon</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-09-12">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lucky Ball</name>
+      <text>
+■ When you put this creature into the battle zone, if your opponent has 3 or fewer shields, draw up to 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-09-11">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dacity Dragoon, Explosive Beast</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tyranno Drake/Knight</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-09-9">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glennya, Boiling Water</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Blue Monster</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-09-14">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-09-8">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossfire, Millionaire</name>
+      <text>
+■ Gravity Zero
+■ Speed Attacker
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DMD-09-1">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pulsar, Trans Suction</name>
+      <text>
+■ When you put this creature into the battle zone, discard your hand, then draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-09-4">DMD-09</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

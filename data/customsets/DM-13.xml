@@ -1,0 +1,433 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-13</name>
+      <longname>DM-13</longname>
+      <settype>DM-13</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Eternal Phoenix, Dragonflame Phoenix</name>
+      <text>
+■ Vortex evolution—Put on one of your Fire Birds and one of your Armored Dragons.
+■ Double Breaker
+■ Each of your Phoenix or Dragons in the battle zone can attack untapped creatures.
+■ When this creature leaves the battle zone, return all non-evolution creature
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-13-S1">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Auzesu, Demonic Elemental</name>
+      <text>
+■ Multi
+■ Sympathy
+■ Whenever one of your Angel Commands or Demon Commands attacks, destroy one of your opponent's tapped creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DM-13-S2">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asylum, Elemental Dragon Knight</name>
+      <text>
+■ Multi
+■ Sympathy
+■ Double Breaker
+■ When this creature would be destroyed, add it to your shields face down instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-13-S3">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dolgeza, Strong Striker</name>
+      <text>
+■ Multi
+■ Sympathy
+■ When you put this creature into the battle zone, you may draw a card for each of your Earth Eaters in the battle zone. Then you may draw a card for each of your Giants in the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater/Giant</type>
+        <manacost>8</manacost>
+        <colors>Water/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM-13-S4">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galamuta, Matchless Fear Lord</name>
+      <text>
+■ Sympathy
+■ Whenever this creature attacks, neither player may use "shield trigger" abilities this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Lord/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-13-S5">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balhols, Demonic Elemental</name>
+      <text>
+■ Multi
+■ Blocker
+■ Each of your opponent's creatures must attack if able.
+■ This creature can't attack players.
+■ Whenever this creature blocks, untap it after the battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-13-1">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Asteria, Heaven's Blessing Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Whenever your opponent draws a card except when drawing a card at the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-13-7">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pacific Champion</name>
+      <text>
+■ Evolution—Put on one of your Merfolk.
+■ This creature can't be attacked or blocked by non-evolution creatures.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Merfolk</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-13-9">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiritual Star Dragon</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, search your deck. You may take a creature that evolution creature
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM-13-12">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Courtney, Summer Breeze Faerie</name>
+      <text>
+■ Cards in your mana zone are considered to be cards of every civilization.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-13-15">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Grave of Angels and Demons</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ If there are 2 or more creatures that have the same Card Name
+■ Look at each player's mana zone. If there are 2 or more cards that have the same Card Name
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-13-16">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fortification Against Barrage and Ambush</name>
+      <text>
+■ Multi
+■ Reveal cards from the top of your deck until you reveal a creature. Destroy all creatures that have less power than that creature. Put all revealed cards into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-13-18">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akashic Third, the Electro-Bandit</name>
+      <text>
+■ Whenever this creature battles, reveal cards from the top of your deck until you reveal a creature. This creature becomes the revealed creature until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-13-19">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zereem Crawler</name>
+      <text>
+■ This creature can attack untapped fire creatures.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-13-22">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Funeral Song of the Beasts</name>
+      <text>
+■ Each of your creatures in the battle zone gets +4000 power and "Whenever this creature is attacking your opponent and becomes blocked, it breaks one of your opponent's shields" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-13-25">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Melcap, the Mutant Explorer</name>
+      <text>
+■ Multi
+■ Whenever this creature attacks your opponent and isn't blocked, tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator/Hedrian</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-13-26">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Funnoo, Bloody Winds Officer</name>
+      <text>
+■ Blocker
+■ Multi
+■ Speed Attacker
+■ Whenever one of your opponent's creatures breaks one of your shields, destroy this creature at the end of that turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Soltrooper/Melt Warrior</type>
+        <manacost>3</manacost>
+        <colors>Light/Fire</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DM-13-28">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stronghold of Lightning and Flame</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 3000 or less. Then you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-13-29">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tick Tick, Swift Viral Swordfighter</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus/Dragonoid</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-13-30">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Judgement of the Flame's Spear and the Water's Blade</name>
+      <text>
+■ Multi
+■ Destroy all creatures that have power 3000 or less. Then you may draw a card for each creature destroyed.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-13-31">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pulpy Goobie</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, look at up to 5 cards from the top of your deck. Then put them back in any order.
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gel Fish</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM-13-39">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Langren, the Lone Wolf</name>
+      <text>
+■ This creature can't attack if there is another untapped creature in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-13-45">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zack Ranba, the Sword Attacker</name>
+      <text>
+■ While all cards in your mana zone are tapped, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DM-13-46">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pixie Cocoon</name>
+      <text>
+■ Shield Trigger
+■ Return a creature from your mana zone to your hand.
+■ After you cast this spell, put it into your mana zone tapped instead of your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-13-50">DM-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

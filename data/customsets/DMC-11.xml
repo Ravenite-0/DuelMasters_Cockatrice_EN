@@ -1,0 +1,96 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-11</name>
+      <longname>DMC-11</longname>
+      <settype>DMC-11</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Torchclencher</name>
+      <text>
+■ While you have at least one other fire creature in the battle zone, this creature has "Power attacker +3000 ''(While attacking, this creature gets +3000 power)''."
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-11-39">DMC-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Otherworldly Warrior Naglu</name>
+      <text>
+■ This creature can't be attacked.
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armorloid</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-11-15">DMC-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kyrstron, Lair Delver</name>
+      <text>
+■ When this creature is destroyed, you may put a creature that has Dragon in its race from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-11-8">DMC-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Balga Geyser</name>
+      <text>
+■ Power Attacker
+■ Whenever this creature attacks, you may reveal the top card of your deck. If it's a Dragon, put it into the battle zone. Otherwise, put it into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMC-11-S2">DMC-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Storm Javelin Wyvern</name>
+      <text>
+■ This creature can't attack players.
+■ This creature can attack untapped light or water creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Wyvern</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-11-36">DMC-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

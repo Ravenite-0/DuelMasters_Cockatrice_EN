@@ -1,0 +1,265 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-06</name>
+      <longname>DMBD-06</longname>
+      <settype>DMBD-06</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Glory Snow</name>
+      <text>
+■ Shield Trigger
+■ If your opponent has more cards in his mana zone than you have in yours, put the top 2 cards of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-06-19">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-06-18">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel, Zenith of "Ore"</name>
+      <text>
+■ Blocker
+■ Triple Breaker
+■ When you summon this creature into the battle zone, add the top card of your deck to your shields face down. Then your opponent chooses one of your shields. You may add that shield to your hand.
+■ Each of your cards put into your hand from your shields gets "shield trigger".
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMBD-06-3">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Radio Roses, Zenith of "Wisdom"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, draw up to 5 cards, then your opponent discards 5 cards from their hand.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMBD-06-8">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wedding, Zenith of "Celebration"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature, your opponent chooses a total of 4 cards from their hand and/or creatures in the battle zone and shieldify
+■ Whenever this creature would break a shield, your opponent puts that shield into their graveyard instead.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMBD-06-7">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Suspense, Zenith of "Curse"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, you may choose 2 cards from your opponent's hand or shields at random. Your opponent reveals those cards. You may cast any spells from the revealed cards For No Cost
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt>16000</pt>
+      </prop>
+      <set num="DMBD-06-5">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenith Symphony, Secret Zenith</name>
+      <text>
+■ Attack Chance
+■ You may summon a creature that has both Zenith and Unknown races For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>9</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-06-12">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Baulion</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, you may return up to 2 spells from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMBD-06-13">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenith Requiem, Secret Zenith</name>
+      <text>
+■ Attack Chance
+■ One of your creatures in the battle zone gets +50000 power, "world breaker" and "Whenever this creature wins a battle, you may untap it." until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-06-11">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>VAN Beethoven, Zenith of "Shura"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, return all your opponent's creatures in the battle zone to their owners' hands.
+■ Whenever your opponent would put a command or dragon into the battle zone, your opponent puts that creature into their graveyard instead.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMBD-06-6">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel Finale, Zenith of "Lion"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, put any number of your shields into your hand. Then add up to 5 cards from your hand to your shields face down.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMBD-06-9">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Utopia Ever, Zenith of "Destruction"</name>
+      <text>
+■ Blocker
+■ Eternal Omega
+■ When you summon this creature into the battle zone, during your opponent's next turn, each of your opponent's creatures attacks if able.
+■ Whenever your other creatures would battle your opponent's creatures, this creature battles instead.
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Unknown/Zenith</type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMBD-06-4">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenith Clutch Destiny</name>
+      <text>
+■ Shield Trigger
+■ Shuffle your deck, then reveal the top card of your deck. If it's a Zenith card, you may summon it For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-06-17">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Triguard Charger</name>
+      <text>
+■ You may return a shield to your hand. However, you can't use the "shield trigger" ability of that shield.
+■ You may add a card from your hand to your shields face down.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-06-16">DMBD-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

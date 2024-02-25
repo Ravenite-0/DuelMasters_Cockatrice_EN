@@ -1,0 +1,314 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-46</name>
+      <longname>DMC-46</longname>
+      <settype>DMC-46</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Alphadios, Lord of Spirits</name>
+      <text>
+■ Evolution—Put on one of your Angel Commands. 
+■ Players can't summon creatures other than light creatures or cast spells other than light spells. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>10</manacost>
+        <colors>Light</colors>
+        <pt>15500</pt>
+      </prop>
+      <set num="DMC-46-18">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-46-28">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Auzesu, Demonic Elemental</name>
+      <text>
+■ Multi
+■ Sympathy
+■ Whenever one of your Angel Commands or Demon Commands attacks, destroy one of your opponent's tapped creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMC-46-21">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-46-26">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Alcadeias, Holy Gaia</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ Double Breaker
+■ Whenever your opponent would put a non-multicolored creature into the battle zone, put it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-46-20">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diamond Glorius, Light Divine Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, ignore any effects that prevent your other creatures from attacking your opponent this turn. ''(For example, ignore summoning sickness and card effects that say "This creature can't attack" or "This creature can't attack players". Your creatures can't attack creatures this way.)''
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-46-1">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Trash Train, Fuuma Devil</name>
+      <text>
+■ Whenever another creature is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian/Grand Devil</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-46-27">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bloody Shadow, Mystic Light Death Knight</name>
+      <text>
+■ Blocker
+■ Gravity Zero
+■ This creature can't attack.
+■ When this creature wins a battle, destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost/Knight</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMC-46-12">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Soul Creation</name>
+      <text>
+■ You may destroy one of your creatures. If you do, draw 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-46-5">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Queen Alcadeias, Holy Gaia</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ Your opponent can't cast spells other than multicolored spells.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMC-46-25">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gregorias, Mystic Light Death Saint</name>
+      <text>
+■ Multi
+■ Blocker
+■ When you put this creature into the battle zone, you may return a Knight from your graveyard to your hand.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Zombie Dragon/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-46-11">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nero Gryphis, Mystic Light Emperor</name>
+      <text>
+■ Multi
+■ Blocker
+■ Whenever one of your Knight creatures is destroyed, you may cast a light or darkness Knight spell or a light or darkness spell from your hand that has "shield trigger" that costs 6 or less For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Dark Lord/Knight</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-46-10">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Arcadia Egg</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's untapped creatures.
+■ If "tooltip
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-46-4">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magic Shot - Glory Gate</name>
+      <text>
+■ Knight Magic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Knight</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-46-3">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murmur, Vizier of Formation</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Each of your other creatures in the battle zone that have "blocker" gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-46-32">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spell Del Fin, Light Divine Dragon</name>
+      <text>
+■ Your opponent plays with their hand Face Up
+■ This creature gets +2000 power for each spell in your opponent's hand.
+■ Your opponent can't cast spells.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-46-22">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bega, Vizier of Shadow</name>
+      <text>
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down. Then discard a card at random from your opponent's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Ghost</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-46-35">DMC-46</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

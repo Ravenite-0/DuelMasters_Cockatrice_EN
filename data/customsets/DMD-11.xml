@@ -1,0 +1,267 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-11</name>
+      <longname>DMD-11</longname>
+      <settype>DMD-11</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Rothus, the Traveler</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your creatures. Then your opponent chooses one of his creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armorloid</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-11-c15">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bronze-Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-11-c20">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rumbling Terahorn</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Horned Beast</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-11-17c">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Surfer</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-11-c13">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-11-c21">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Qurian</name>
+      <text>
+■ When you put this creature into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-11-c19">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scramble Typhoon</name>
+      <text>
+■ Draw 5 cards, then discard 3 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-11-c18">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Flaming Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-11-16c">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-11-c14">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Robby, Cho Alchemy</name>
+      <text>
+■ Whenever this creature attacks, you may draw 3 cards. If you do, discard 2 cards from your hand.
+■ Doron Go
+■ You can't put other exile creatures that have "Alchemy" in their Card Name
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-11-a4">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katsudon, Kung Fu Dragon</name>
+      <text>
+■ Speed Attacker
+■ Power Attacker
+■ This creature can attack untapped creatures. 
+■ Doron Go
+■ You can't put other exile creatures that have "Kung Fu" in their Card Name
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMD-11-a5">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ikari, Hustle Commander</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand.
+■ Shield Go
+■ While this creature is Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-11-b8">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Canis, Wonderful One</name>
+      <text>
+■ This creature can't be blocked by creatures that have less power than it. 
+■ Shield Go
+■ While this creature is Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMD-11-b9">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rage Crystal of Outrage</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone that has power 6000 or more and return it to its owner's hand. Then, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-11-c11">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prometheus, Splash Axe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone tapped. Then return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-11-c12">DMD-11</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,407 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-24</name>
+      <longname>DM-24</longname>
+      <settype>DM-24</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>God Earth Leopard</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a light creature, show it to your opponent, and put it into your hand. Then shuffle your deck.
+■ God Link (tooltip
+■ While this creature is linked, it has "double breaker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DM-24-5">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>God Apollonia Pegasus</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a nature spell, show that spell to your opponent, and put it into your hand. Then shuffle your deck.
+■ God Link (tooltip
+■ While this creature is linked, whenever your opponent would choose a creature in the battle zone, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Apollonia Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DM-24-1">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geki, Dragon Ultimate God</name>
+      <text>
+■ Whenever this creature is blocked, your opponent discards their hand.
+■ Double Breaker
+■ God Link (tooltip
+■ While this creature is linked, it has "quattro breaker". (''A creature that has "Quattro breaker" breaks 4 shields'').
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DM-24-3">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Metsu, Dragon Ultimate God</name>
+      <text>
+■ Whenever this creature attacks your opponent and isn't blocked, you may destroy one of your opponent's creatures that has power 3000 or less.
+■ Double Breaker
+■ God Link (tooltip
+■ Whenever this creature attacks while linked, you may choose up to 2 cards in your opponent's mana zone and put them into their owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God/Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000+</pt>
+      </prop>
+      <set num="DM-24-4">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus Musha Dragon</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature attacks, you may put one of your shields into your graveyard. If you do, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-24-S4">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crest of Mother</name>
+      <text>
+■ Choose a civilization. You may put one of your creatures that has the chosen civilization from the battle zone into your mana zone. If you do, choose a creature in your mana zone that has the same civilization as the chosen creature that costs the same as or less than than the number of cards in your mana zone and put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-24-30">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infernal Smash</name>
+      <text>
+■ Destroy one of your opponent's non-multicolored creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-24-52">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fuuma Bajir, Soul Weapon</name>
+      <text>
+■ Multi
+■ When this creature is destroyed, destroy one of your opponent's creatures that has power 3000 or less or your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil/Xenoparts</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-24-68">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorvolan, Striking Dragon Rider</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 6000 or less. Then, choose one of your opponent's creatures in the battle zone that has more than 6000 power and return it to its owner's hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater/Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-24-S8">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ulpheus, Dragonic Elemental</name>
+      <text>
+■ When you put this creature into the battle zone, if you have at least one Dragon or Angel Command in your graveyard, you may cast a spell that has "shield trigger" from your hand For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon/Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-24-S1">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Mastercha, Unrivaled Dragon Spirit</name>
+      <text>
+■ Multi
+■ Each of your creatures in the battle zone that cost 4 or more gets +3000 power and the Apollonia Dragon and Earth Dragon races.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon/Earth Dragon</type>
+        <manacost>7</manacost>
+        <colors>Light/Nature</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DM-24-34">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paint Frappe</name>
+      <text>
+■ Shield Trigger
+■ Each of your light and darkness creatures in the battle zone are also water creatures.
+■ Each of your other water creatures in the battle zone gets +1000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Splash Queen</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-24-47">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baby Birth</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a light, water, darkness, or fire creature that costs 2 or less from it and put it into the battle zone. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-24-108">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Muramasa's Socket</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 1000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-24-98">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Gunner Volgan</name>
+      <text>
+■ Power Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM-24-96">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Statue Mutant</name>
+      <text>
+■ If you have all civilizations on your creatures, your opponent can't use "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-24-20">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gulan Berze, Poseidon Destroying Dragon</name>
+      <text>
+■ Multi
+■ Whenever this creature attacks your opponent and isn't blocked, choose a civilization. Your opponent reveals their hand and discards all cards that have that civilization. Then for each card your opponent discards, look at one of your shields.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Poseidia Dragon/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM-24-35">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blade of Enchanting Pulses</name>
+      <text>
+■ You may cast a spell that has "shield trigger" from your mana zone For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-24-39">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossheim, Gold Elemental</name>
+      <text>
+■ Shield Trigger
+■ Each of your multicolored creatures in the battle zone gets "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-24-41">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Watergate</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a multicolored card from it, and show it to your opponent. Then shuffle your deck and put that card on top of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-24-86">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spirit Reincarnation</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your creatures. Then put cards from the top of your deck into your mana zone equal to the same number of civilizations of the destroyed creature.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-24-110">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ralbin of Pop Mountain</name>
+      <text>
+■ While you have a nature card in your mana zone, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DM-24-99">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Royal Adonis</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck, and put them back on top of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Splash Queen</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-24-82">DM-24</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

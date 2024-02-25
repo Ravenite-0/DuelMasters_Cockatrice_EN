@@ -1,0 +1,179 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM23-SD1</name>
+      <longname>DM23-SD1</longname>
+      <settype>DM23-SD1</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Zack Pichi, Winged Dragon Admiral</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. Put all Armored Dragons and Fire Birds from among them into your hand, and put the rest on the bottom of your deck in any order. If all the revealed cards were Dragons, this creature gets "speed attacker" until the End Step
+■ When this creature would be discarded during your opponent's turn, you may put it instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM23-SD1-4">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocco Lupia GS</name>
+      <text>
+■ Guard Strike
+■ Your Dragons may each cost 2 less to summon. They can't cost 1 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-SD1-10">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Annie Lupia</name>
+      <text>
+■ Each turn, the first time one of your dragons attacks, untap it.
+■ If you have a dragon, this creature gets +3000 power.
+■ '''Civil Count 3''': If you have a total of 3 or more fire creatures and/or fire tamaseeds, each of your other creatures gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM23-SD1-6">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Tail Dragon</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ '''Civil Count 3''': If you have a total of 3 or more fire creatures and/or fire tamaseeds, this creature gets +2000 power and "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM23-SD1-5">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Loren Dragon</name>
+      <text>
+■ Shield Trigger
+■ Double Breaker
+■ When you put this creature, choose one of your opponent's creatures or tamaseeds that costs 6 or less and destroy it.
+■ '''Civil Count 3''': When you put this creature, if you don't have a total of 3 or more fire creatures and/or tamaseeds, destroy this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM23-SD1-8">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Raider, Assault Dragon/Raid Entry</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, Armored Mechraid 8. Mechraid
+=========================
+■ Shuffle this card into your deck. 
+■ Armored Mechraid 8.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon/Armored Arts</type>
+        <manacost>8</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-SD1-1">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Raider, Assault Dragon/Raid Entry</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, Armored Mechraid 8. Mechraid
+=========================
+■ Shuffle this card into your deck. 
+■ Armored Mechraid 8.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon/Armored Arts</type>
+        <manacost>8</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM23-SD1- 秘1">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Assister Coppi</name>
+      <text>
+■ Power Attacker
+■ Once per turn, your Armored may cost 1 less to use. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DM23-SD1-14">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fine Shoot Piyocchi/"Raging Dragon is Immortal!"</name>
+      <text>
+■ Speed Attacker
+=========================
+■ Armored Mechraid 5. Mechraid
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Fire Bird/Armored Arts</type>
+        <manacost>3</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM23-SD1-12">DM23-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,613 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMEX-14</name>
+      <longname>DMEX-14</longname>
+      <settype>DMEX-14</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Momoking, Jonetsu Hero</name>
+      <text>
+■ Kirifudash
+■ Speed Attacker
+■ Triple Breaker
+■ When this creature attacks for the first time each turn, untap it after the attack.
+■ Whenever your opponent would choose a creature by the effect of a non-multicolored spell or the ability of a non-multicolored creature, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero Dragon/Jokers/Team Kirifuda</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMEX-14-秘3">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jaouga, Oniga Overlord</name>
+      <text>
+■ Onitime
+■ Speed Attacker
+■ Triple Breaker
+■ This creature can't leave the battle zone during the turn it was summoned.
+■ When you put this creature, destroy all creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMEX-14-秘8">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gigandydanos, Big Tree King</name>
+      <text>
+■ World Breaker
+■ When you put this creature, your opponent puts their hand into their mana zone.
+■ You can't be attacked by creatures that have less power than this creature.
+■ Fushigiverse
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon/Fushigi Kingdom</type>
+        <manacost>12</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>50000</pt>
+      </prop>
+      <set num="DMEX-14-秘10">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt, Explosive Dragon Emperor</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ File:Double Magibomber white.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dynamite Dragon/Team Bomber</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMEX-14-秘1">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>I Am Justice If You Want</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ During your opponent's turn, if this creature is face up in your shield zone, each shield added to your hand gets "shield trigger".
+■ Triple Breaker
+■ Your creatures can't be attacked or blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMEX-14-秘2">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor, Infinite Dragon</name>
+      <text>
+■ Mugen Climb
+■ Infinity Breaker
+■ Blocker
+■ Ignore the ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Infinite Master Dragon/Team Zero</type>
+        <manacost></manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-秘5">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Manifest</name>
+      <text>
+■ Buzzrender
+■ File:Buzzrender2.png
+■ Mach Fighter
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMEX-14-秘4">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goukai! Kirifuda MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one fire creature and at least one nature creature in the battle zone, you may choose both.
+:► Destroy up to 2 of your opponent's creatures that have total cost 6 or less.
+:► Put a fire or nature creature that costs 5 or less from your mana zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Kirifuda</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-39">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goten! Ginga MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one water creature in the battle zone, you may choose both.
+:► Put a card from your hand into your shield zone face up.
+:► Choose one of your opponent's creatures and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-22">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Senyuu! Bomber MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one fire creature in the battle zone, you may choose both.
+:► Choose up to 3 of your opponent's creatures and tap them.
+:► Discard a card from your hand, then draw 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Light/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-26">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Toppa! Wave MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one water creature and at least one nature creature in the battle zone, you may choose both.
+:► Put the top card of your deck into your mana zone. Then you may return a card from your mana zone to your hand.
+:► Your opponent returns all creatures that cost more than the number of cards in their mana zone to their owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-34">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Messai! Onifuda MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one darkness creature and at least one fire creature in the battle zone, you may choose both.
+:► Destroy one of your opponent's creatures that has power 3000 or less.
+:► Your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-36">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jakkaru! Fushigi MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one darkness creature and at least one nature creature in the battle zone, you may choose both.
+:► Look at the top 3 cards of your deck. Put one of them into your mana zone and the rest into your graveyard.
+:► Choose one of your opponent's creatures. That creature gets -6000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Fushigi Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-38">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meteorshower Auroratheater</name>
+      <text>
+■ Vividdraw
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, draw 3 cards.
+■ This creature can't be blocked.
+■ While this creature is attacking, your opponent can't put a creature that costs the same as or less than the number of cards in your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Phoenix/Bikkuri Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMEX-14-秘7">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moon, Destruction, Satan and Angel</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature, put the top 2 cards of your deck into your shield zone face down.
+■ At the End Step
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command/Gekko Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DMEX-14-秘9">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saikyo! Zero MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one water creature and at least one darkness creature in the battle zone, you may choose both.
+:► Choose up to 2 of your opponent's creatures. Until the start of your next turn, they can't attack or block.
+:► Put the top 4 cards of your deck into your graveyard. Then you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-30">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mujun! Gekko MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one darkness creature in the battle zone, you may choose both.
+:► Put the top card of your deck into your shield zone face down.
+:► Destroy one of your opponent's creatures. Then put one of your shields into your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-24">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ougon! Bouken MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one nature creature in the battle zone, you may choose both.
+:► Put all your opponent's creatures that have power 2000 or less into your opponent's mana zone.
+:► Choose one of your opponent's non-evolution creatures and put it into its owner's shield zone face up.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bouken Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Light/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-28">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Senbatsu! Bikkuri MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one water creature and at least one fire creature in the battle zone, you may choose both.
+:► Look at the top 2 cards of your deck. Put one of them on the bottom of your deck. Then you may draw a card.
+:► Destroy one of your opponent's creatures that costs less than the number of cards in your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-32">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gorio Bugori, Gorira King</name>
+      <text>
+■ Mach Fighter
+■ Abarechain
+■ Change "If it's the first attack this turn" to "If it's the first or second attack this turn" for each of your creature's "Abarechain" abilities.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Bouken Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMEX-14-秘6">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heinous! Prison Oni Night Castle</name>
+      <text>
+■ At the end of each turn, if a creature attacked that turn, that player chooses a shield. That shield's owner puts it into their hand. ''(You may use the "shield trigger".)''
+■ Onitime
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-㊙12">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Social Manifest the 2nd</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Cyber Command/Team Wave</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMEX-14-S7">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>【Immediate】Wow...my opponent's attack stopped too much..? 【Click】</name>
+      <text>
+■ Shield Trigger
+■ Until the start of your next turn, your opponent's creatures that cost 5 or less can't attack or block.
+■ When you put this spell into your graveyard from anywhere, you may shuffle your graveyard and put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Wave</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-46">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gourmet Giant</name>
+      <text>
+■ When you summon this creature, you may choose any number of other cards from your mana zone and/or hand. For each card chosen this way, this creature costs 1 less to summon. It can't cost 0 or less. When you put this creature into the battle zone, put the chosen cards into your graveyard.
+■ Triple Breaker
+■ Mach Fighter
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Fushigi Kingdom</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMEX-14-19">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossbow War! Momo Castle Tower</name>
+      <text>
+■ File:Kirifudash.png
+■ Whenever any of your creatures become blocked, that creature breaks one of your opponent's shields.
+■ Your creature's can't be tapped due to the effects of your opponent's spells or a creature's ability.
+■ Whenever any of your creatures would put into the battle zone tapped, they are put in untapped instead.
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-㊙11">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crossbow War! Momo Castle Tower</name>
+      <text>
+■ File:Kirifudash.png
+■ Whenever any of your creatures become blocked, that creature breaks one of your opponent's shields.
+■ Your creature's can't be tapped due to the effects of your opponent's spells or a creature's ability.
+■ Whenever any of your creatures would put into the battle zone tapped, they are put in untapped instead.
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-40">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Piouspatrol Police</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ When you put this creature face up into your shield zone, choose a creature that costs 2 or less and return it to its owner's hand. During your opponent's next turn, your opponent can't summon creatures that cost 2 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-14-13">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kameworoll, Legendary Performer</name>
+      <text>
+■ At the start of your turn, each player draws a card. 
+■ Rainbownus: Whenever you would draw a card for the first time each turn, if you have a multicolored creature in the battle zone, you may draw 2 cards instead of one. If you do, discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMEX-14-4">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Paradoxical Factory</name>
+      <text>
+■ Shield Trigger
+■ Draw 2 cards and discard 2 cards from your hand.
+■ Put up to 2 creatures that cost 2 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-69">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jukushite Inai Zombiebanana</name>
+      <text>
+■ Shield Trigger
+■ Rainbownus: If you have a multicolored creature in the battle zone, this creature costs 4 less to summon.
+■ When you put this creature, destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Living Dead/Fushigi Kingdom/Specials</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMEX-14-5">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demon's Ons</name>
+      <text>
+■ Each of your creatures gets "slayer" until the End Step
+■ Add one of your shields to your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMEX-14-53">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hakumei Doji</name>
+      <text>
+■ Strike Back
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Onifuda Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMEX-14-93">DMEX-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

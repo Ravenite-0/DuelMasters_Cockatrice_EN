@@ -1,0 +1,316 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-BD2</name>
+      <longname>DM22-BD2</longname>
+      <settype>DM22-BD2</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Magnum, Shortshot</name>
+      <text>
+■ During your turn, whenever your opponent would put a creature, put that creature into its owner's graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-BD2-2">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shuff, Eureka</name>
+      <text>
+■ When you put this creature or whenever it attacks, choose a number. Until the start of your next turn, your opponent can't cast spells that cost the same as that number and your opponent's creatures that cost the same can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Command/Great Mecha King/Invader</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-BD2-13">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orlilia, Flash of Justice</name>
+      <text>
+■ You may untap this creature to change your opponent's creatures attack to this creature or one of your tapped creatures. 
+■ Labyrinth: If you have more shields than your opponent, they can't cast spells that cost 5 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DM22-BD2-10">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mixel, Strange Stone/Jamming Chaff</name>
+      <text>
+■ Whenever your opponent puts a creature that costs more than the number of cards in your opponent's mana zone, your opponent puts it on the bottom of their deck.
+=========================
+■ Until the start of your next turn, your opponent can't cast spells.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light/Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-BD2-15">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deal, Mechanic/「Today's Lucky Number!」</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, choose a number. Return all your opponent's creatures that cost the same as that number to their owner's hand.
+=========================
+■ Choose a number. Until the start of your next turn, your opponent can't summon creatures that have the same cost or cast spells that have the same cost.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Magic Command</type>
+        <manacost>6</manacost>
+        <colors>Water/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-BD2-11">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Liliang, Mysterious Light</name>
+      <text>
+■ Kizuna
+■ Escape
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Specials</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-BD2-6">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Fire</name>
+      <text>
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Put a creature that costs 3 or less from your hand.
+:► One of your creatures gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-BD2-14">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pretty Children</name>
+      <text>
+■ Each of your creatures that cost 4 or more get "speed attacker".
+■ Your opponent's evolution creatures and your opponent's creatures that have "speed attacker" or "mach fighter" are put tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Children</type>
+        <manacost>3</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DM22-BD2-4">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evo Lupia</name>
+      <text>
+■ When you put this creature, draw a card. Then you may put a creature from your hand that costs 5 or less that can evolve from this creature on top of it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-BD2-3">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Still Justice Till The End (Kira Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature or whenever it attacks, draw a card. Then you may put a creature from your hand that costs 4 or less.
+■ Each of your creatures that cost 4 or less gets "blocker" and untaps at the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Metallica/Human/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>8500</pt>
+      </prop>
+      <set num="DM22-BD2-5">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gagaga Gaial Brand</name>
+      <text>
+■ You may reduce this creature's Summon Cost
+■ Star Evolution
+■ Double Breaker
+■ When this card leaves, untap all your creatures and they get "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Beat Jockey/Red Command Dragon/RexStars</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-BD2-1">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa, Survival Star</name>
+      <text>
+■ While battling, this creature gets +2000 power.
+■ During your opponent's turn, whenever your opponent would put a creature in any way except by summoning, your opponent puts that creature into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM22-BD2-17">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Triple Three</name>
+      <text>
+■ Choose one of the following.
+:► Tap 3 of your opponent's creatures.
+:► Draw 3 cards.
+:► This turn, your next creature costs up to 3 less to summon. It can't cost 0 or less. When you put that creature, that creature gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-BD2-16">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Canbello (Rezo Star)</name>
+      <text>
+■ Star Evolution
+■ Invasion
+■ Double Breaker
+■ When you put this creature, during your opponent's next turn, your opponent can only put one creature.
+■ When this card leaves, untap the creature under it.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Jokers/Sonic Command/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM22-BD2-8">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Izanagiterasu, Great King of Blue Wolves</name>
+      <text>
+■ Blocker
+■ When you put this creature, look at the top 5 cards of your deck. Put one of them into your hand, and put the rest on the bottom of your deck in any order. Then you may cast a spell that costs 3 or less from your hand for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Knight/Origin/Poseidia Dragon</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-BD2-12">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pandora Royals</name>
+      <text>
+■ Pandora Shift: You may pay Costicon
+■ You may summon this creature from your hyperspatial zone.
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature or it's put into your hyperspatial zone, draw 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Alien/Hunter/King Command</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-BD2-9">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brand-MAX</name>
+      <text>
+■ Star Max Evolution
+■ Whenever this creature attacks, untap one of your other creatures. That creature breaks an additional shield until the End Step
+■ Whenever your opponent would choose this creature, put one of your opponent's shields into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Star Max Evolution Creature</maintype>
+        <type>Beat Jockey/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-BD2-7">DM22-BD2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

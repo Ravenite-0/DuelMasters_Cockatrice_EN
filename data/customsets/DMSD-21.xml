@@ -1,0 +1,242 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-21</name>
+      <longname>DMSD-21</longname>
+      <settype>DMSD-21</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Scale of Bravery and Love</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Discard a card from your hand, then draw 2 cards.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-21-10">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jack Alcadeias, Dark Gaia</name>
+      <text>
+■ Shield Trigger
+■ Slayer
+■ When you put this creature, destroy one of your opponent's cards that costs 4 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Lost Crusader</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-21-6">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ayatsuri Nyudo</name>
+      <text>
+■ Speed Attacker
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Onifuda Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-21-15">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mukade, Asura (Deathshiraz Star)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ Whenever this creature attacks, you may put a creature that costs 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Mafi Gang/Demon Command Dragon/RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-21-7">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onsoku Doji (Turbo Ogre)</name>
+      <text>
+■ Star Evolution
+■ When you put this creature, discard a card from your hand, then draw a card. If this creature evolved from a tamaseed, draw another card.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Sonic Command/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMSD-21-13">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stri's Thunder Oni Scroll</name>
+      <text>
+■ Shinkarise 
+■ When you put this tamaseed, put a card from your hand on the bottom of your deck, then draw a card.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-21-14">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magan Kongo (N Worl Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, put the top 2 cards of your deck into your graveyard. Then for each tamaseed put into your graveyard, discard a card from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMSD-21-2">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magan Kongo (N Worl Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, put the top 2 cards of your deck into your graveyard. Then for each tamaseed put into your graveyard, discard a card from your opponent's hand at random.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMSD-21- ㊙1">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shiraz's Death Oni Seal</name>
+      <text>
+■ Shield Trigger
+■ Shinkarise
+■ When you put this tamaseed, put any number of creatures that have total cost 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-21-9">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakunetsu's Devil Oni Scroll</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, put the top 2 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-21-3">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Viola's Shadow</name>
+      <text>
+■ Shield Trigger
+■ Shinkarise
+■ When you put this tamaseed, destroy one of your opponent's creatures. Then put a creature from your graveyard that costs less than the destroyed creature.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>King Command Dragon/Unknown/RexStars</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-21-8">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jenny's Shadow</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, discard a card at random from your opponent's hand.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Death Puppet/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-21-11">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kachikomi Nyudo (Batorai Ogre)</name>
+      <text>
+■ Star Evolution
+■ Double Breaker
+■ When you put this creature, if it evolved from a tamaseed, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Armored Dragon/Flame Command/Oni RexStars</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMSD-21-12">DMSD-21</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,164 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-29</name>
+      <longname>DMD-29</longname>
+      <settype>DMD-29</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Wind Axe, the Warrior Savage</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker." Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-29-10">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Piara Heart</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 1000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-29-11">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dacity Dragoon, Explosive Beast</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tyranno Drake/Knight</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-29-9">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Topgear, Start Dash</name>
+      <text>
+■ Each turn, you may have the first fire creature you summon cost 1 less. It can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-29-12">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Batorash Knuckle, Blastdragon</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Flame Command</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-29-2">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Next Charger</name>
+      <text>
+■ You may put all cards in your hand on the bottom of your deck in any order. If you do, draw the same number of cards. 
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-29-13">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gogo Jigocchi</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 5 cards of your deck. You may reveal a Dragon from among them and put it into your hand. Then put the rest of the cards on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird En/Revolutionary</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-29-4">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ifrit Hand</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that costs 9 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-29-5">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hamukatsuman, No.1 Wind</name>
+      <text>
+■ Multi
+■ Speed Attacker
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Revolutionary/Team Hamukatsu</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-29-8">DMD-29</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

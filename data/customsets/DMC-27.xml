@@ -1,0 +1,738 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-27</name>
+      <longname>DMC-27</longname>
+      <settype>DMC-27</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Marine Flower</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-42">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fonch, the Oracle</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-37">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Amber Piercer</name>
+      <text>
+■ Whenever this creature attacks, you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Brain Jacker</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-13">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marrow Ooze, the Twister</name>
+      <text>
+■ Blocker
+■ When this creature attacks a player, destroy it after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Living Dead</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-46">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cavalry General Curatops</name>
+      <text>
+■ This creature can attack untapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-30">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rumble Gate</name>
+      <text>
+■ Each of your creatures in the battle zone gets +1000 power until the End Step
+■ Each of your creatures in the battle zone that can attack creatures can attack untapped creatures this turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-51">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Elf-X</name>
+      <text>
+■ Your creatures each cost 1 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tree Folk</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-19">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fighter Dual Fang</name>
+      <text>
+■ Evolution—Put on one of your Beast Folk.
+■ When you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-27-S5">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sundrop Armor</name>
+      <text>
+■ Add a card from your hand to your shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-39">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Angler Cluster</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ While all the cards in your mana zone are water cards, this creature gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Cluster</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMC-27-41">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Ponitas</name>
+      <text>
+■ Whenever this creature attacks, search your deck. You may take a water card from your deck, show that card to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Leviathan</type>
+        <manacost>8</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-27-24">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Snip Striker Bullraizer</name>
+      <text>
+■ This creature can't attack while your opponent has more creatures in the battle zone than you do.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-27-50">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alcadeias, Lord of Spirits</name>
+      <text>
+■ Evolution—Put on one of your Angel Commands.
+■ Double Breaker
+■ Players can't cast spells other than light spells.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DMC-27-1">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ballom, Master of Death</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands.
+■ When you put this creature into the battle zone, destroy all creatures except darkness creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMC-27-S3">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus Steel Dragon</name>
+      <text>
+■ Double Breaker
+■ Whenever this creature would break a shield, your opponent puts that shield into his graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-27-S4">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hydro Hurricane</name>
+      <text>
+■ For each light creature you have in the battle zone, you may choose a card in your opponent's mana zone and return it to his hand.
+■ For each darkness creature you have in the battle zone, you may choose one of your opponent's creatures and return it to his hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-10">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sniper Mosquito</name>
+      <text>
+■ Whenever this creature attacks, return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-54">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mist Rias, Sonic Guardian</name>
+      <text>
+■ Whenever another creature is put into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-21">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mongrel Man</name>
+      <text>
+■ Whenever another creature is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-27-27">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scheming Hands</name>
+      <text>
+■ Look at your opponent's hand and choose a card from it. Your opponent discards that card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-29">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pyrofighter Magnus</name>
+      <text>
+■ Speed Attacker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-27-48">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocco Lupia</name>
+      <text>
+■ Your creatures that have Dragon in their race each cost 2 less to summon. ''(Dragonoids don't count.)'' They can't cost less than 2.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-31">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brutal Charge</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-20">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Enchanted Soil</name>
+      <text>
+■ Put up to 2 creatures from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-35">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kanesill, the Explorer</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-27-38">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rain of Arrows</name>
+      <text>
+■ Look at your opponent's hand. He discards all darkness spells from it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-23">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Energy Stream</name>
+      <text>
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-43">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Frost Specter, Shadow of Age</name>
+      <text>
+■ Evolution—Put on one of your Ghosts.
+■ Each of your Ghosts in the battle zone has "slayer." ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-27-14">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rikabu's Screwdriver</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-16">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bliss Totem, Avatar of Luck</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mystery Totem</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-27-33">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Innocent Hunter, Blade of All</name>
+      <text>
+■ You can put an evolution creature of any race on this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-34">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Propeller Mutant</name>
+      <text>
+■ When this creature is destroyed, your opponent discards a card at random from his hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-45">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Apocalypse Vise</name>
+      <text>
+■ Destroy any number of your opponent's creatures that have total power 8000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-17">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kachua, Keeper of the Icegate</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-27-5">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Thrumiss, Zephyr Guardian</name>
+      <text>
+■ Whenever any of your creatures attacks, you may choose one of your opponent's creatures in the battle zone and tap it. ''(First choose what your creature is attacking. Then choose a creature to tap.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-27-7">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Corpse Charger</name>
+      <text>
+■ Put a creature from your graveyard into your hand.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-47">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dimension Splitter</name>
+      <text>
+■ When you put this creature into the battle zone, you may return all creatures that have Dragon in their race from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Brain Jacker</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-28">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Giland</name>
+      <text>
+■ Double Breaker
+■ When this creature battles, destroy it after the battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-27-44">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Missile Soldier Ultimo</name>
+      <text>
+■ Turbo Rush
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMC-27-49">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Regarion</name>
+      <text>
+■ Power Attacker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMC-27-52">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fists of Forever</name>
+      <text>
+■ Choose one of your creatures in the battle zone. Whenever that creature wins a battle this turn, untap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-32">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolmeteus Sapphire Dragon</name>
+      <text>
+■ Speed Attacker
+■ Power Attacker
+■ Triple Breaker
+■ Whenever this creature would break a shield, your opponent puts that shield into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>11000+</pt>
+      </prop>
+      <set num="DMC-27-4">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glider Man</name>
+      <text>
+■ When this creature is destroyed, look at your opponent's hand and discard a card from it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-27-3">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Streaming Tutor</name>
+      <text>
+■ Reveal the top 5 cards of your deck. Put all fire and nature cards into your hand and put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-27-11">DMC-27</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

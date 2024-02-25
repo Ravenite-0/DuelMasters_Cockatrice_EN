@@ -1,0 +1,374 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-13</name>
+      <longname>DMX-13</longname>
+      <settype>DMX-13</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Eureka Charger</name>
+      <text>
+■ Draw a card.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-13-30">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Messa Danjiri Dragon</name>
+      <text>
+■ Your Unknown and Zenith creatures may each cost 1 less to summon. They can't cost less than 1.
+■ Each of your Unknown in the battle zone gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Unnoise</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-13-24">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Onbashi Raon</name>
+      <text>
+■ Your Unknown may each cost 1 less to summon, and your Zenith creatures may each cost 2 less to summon. They can't cost less than 1. 
+■ When you put a creature that has both Unknown and Zenith races into the battle zone, destroy this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon/Unnoise</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-13-23">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dontaku Giant</name>
+      <text>
+■ Your Unknown and Zenith creatures may each cost 1 less to summon. They can't cost less than 1.
+■ While you have an Unknown in the battle zone, this creature gets +5000 power and "double breaker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Unnoise</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMX-13-25">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yosakoi, Leader of Spirits</name>
+      <text>
+■ Blocker
+■ This creature can't attack players. 
+■ Your Unknown and Zenith creatures may each cost 1 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unnoise</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-13-20">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Acer</name>
+      <text>
+■ Your Unknown and Zenith creatures may each cost 1 less to summon. They can't cost less than 1.
+■ When this creature would be destroyed, return it to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Leviathan/Unnoise</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-13-21">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prelude of Horror</name>
+      <text>
+■ This turn, the next colorless creature you summon may cost up to 5 less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-13-18">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>De Baula Charger</name>
+      <text>
+■ Return a spell from your graveyard to your hand.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-13-28">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>VAN Beethoven, Zenith of "Shura"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, return all your opponent's creatures in the battle zone to their owners' hands.
+■ Whenever your opponent would put a command or dragon into the battle zone, your opponent puts that creature into their graveyard instead.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMX-13-S2">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Crystal</name>
+      <text>
+■ Put the top card of your deck into your mana zone. If it's a colorless card, put another card from the top of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-13-36">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onikirimaru</name>
+      <text>
+■ While all cards in your mana zone are fire or colorless, this creature gets +3000 power and has "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Unnoise</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMX-13-33">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Shuramaru</name>
+      <text>
+■ Whenever this creature attacks, reveal the top card of your deck. If it's a non-evolution colorless creature, you may put it into the battle zone. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-13-6">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kaiser "Baki", Zenith of "Certain Victory"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, count the number of your opponent's shields and play that number of Gachinko Judge games. For each time you win Gachinko Judge in this way, put a Hunter from your graveyard, mana zone or hand into the battle zone. Gachinko Judge
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMX-13-V1">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lionel Finale, Zenith of "Lion"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, put any number of your shields into your hand. Then add up to 5 cards from your hand to your shields face down.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Colorless</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMX-13-8">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nothing Zero, Secret Destruction</name>
+      <text>
+■ Attack Chance: Colorless creature ''(When one of your colorless creatures attacks, you may cast this spell For No Cost
+■ Reveal the top 3 cards of your deck. For each colorless card revealed, one of your creatures in the battle zone breaks an additional shield until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-13-13">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Utopia Ever, Zenith of "Destruction"</name>
+      <text>
+■ Blocker
+■ Eternal Omega
+■ When you summon this creature into the battle zone, during your opponent's next turn, each of your opponent's creatures attacks if able.
+■ Whenever your other creatures would battle your opponent's creatures, this creature battles instead.
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Unknown/Zenith</type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-13-S1">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Academian</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose a creature in the battle zone and return it to its owner's hand. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-13-5">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Notre Dame, Vizier of Illusion Shield</name>
+      <text>
+■ While all cards in your mana zone are light or colorless, this creature gets +2000 power and has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Unnoise</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMX-13-27">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Rihanna Glory</name>
+      <text>
+■ Blocker
+■ Whenever your opponent would choose a creature in the battle zone, they Unchoosable
+■ While your opponent has a psychic creature in the battle zone, your creatures Win All Battles
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-13-7">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saicho, Satori's Oracle</name>
+      <text>
+■ For each of your other colorless creatures in the battle zone, this creature gets +5000 power and breaks an additional shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMX-13-12">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenith Clutch Destiny</name>
+      <text>
+■ Shield Trigger
+■ Shuffle your deck, then reveal the top card of your deck. If it's a Zenith card, you may summon it For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-13-14">DMX-13</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

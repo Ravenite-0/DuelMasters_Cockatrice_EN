@@ -1,0 +1,1682 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-14</name>
+      <longname>DMRP-14</longname>
+      <settype>DMRP-14</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Pixie Cocoon</name>
+      <text>
+■ Shield Trigger
+■ Return a creature from your mana zone to your hand.
+■ After you cast this spell, put it into your mana zone tapped instead of your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-85">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt, Explosive Dragon Emperor</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ File:Double Magibomber white.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dynamite Dragon/Team Bomber</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMRP-14-KM1">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dynabolt, Explosive Dragon Emperor</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ File:Double Magibomber white.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dynamite Dragon/Team Bomber</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMRP-14- 秘1">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>I Am Justice If You Want</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ During your opponent's turn, if this creature is face up in your shield zone, each shield added to your hand gets "shield trigger".
+■ Triple Breaker
+■ Your creatures can't be attacked or blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-14-KM2">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>I Am Justice If You Want</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ During your opponent's turn, if this creature is face up in your shield zone, each shield added to your hand gets "shield trigger".
+■ Triple Breaker
+■ Your creatures can't be attacked or blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-14- 秘6">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Komori, Glasses Faerie</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ When you put this creature, put a card in your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14-91">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Komori, Glasses Faerie</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ When you put this creature, put a card in your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14- 91f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Komori, Glasses Faerie</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ When you put this creature, put a card in your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14- 秘15">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Personafukurou</name>
+      <text>
+■ Mach Fighter
+■ If you have 5 or more cards in your hand, this creature gets +4000 power and has "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMRP-14-90">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Personafukurou</name>
+      <text>
+■ Mach Fighter
+■ If you have 5 or more cards in your hand, this creature gets +4000 power and has "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water/Nature</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMRP-14- 90f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tetsutetsu Puipa</name>
+      <text>
+■ This creature can't attack if you didn't attack with another creature this turn.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Light/Fire</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-14-89">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tetsutetsu Puipa</name>
+      <text>
+■ This creature can't attack if you didn't attack with another creature this turn.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Light/Fire</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-14- 89f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Banban Rocker</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rock Beast/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Light/Fire</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-14-88">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Banban Rocker</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rock Beast/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Light/Fire</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-14- 88f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mechanical Watchdog</name>
+      <text>
+■ Each turn, when a card is put into your shields for the first time, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-14-87">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mechanical Watchdog</name>
+      <text>
+■ Each turn, when a card is put into your shields for the first time, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-14- 87f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mechanical Watchdog</name>
+      <text>
+■ Each turn, when a card is put into your shields for the first time, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-14- 秘10">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Solo Trooper</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ When you put this creature into the battle zone, choose up to 2 of your opponent's creatures. Until the start of your next turn, they can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Soltrooper/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-14-86">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Solo Trooper</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ When you put this creature into the battle zone, choose up to 2 of your opponent's creatures. Until the start of your next turn, they can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Soltrooper/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-14- 86f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hayatata Churis</name>
+      <text>
+■ When you put this creature, choose one of your opponent's Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-14-78">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・MOFFU</name>
+      <text>
+■ Shield Trigger
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14-76">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・MOFFU</name>
+      <text>
+■ Shield Trigger
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14- 76f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magics, Magician of Water</name>
+      <text>
+■ Buzzrender
+■ file:Buzzrender2.png
+■ If you use this creature's file:Buzzrender2.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave/Specials</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14-S2">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Manifest</name>
+      <text>
+■ Buzzrender
+■ File:Buzzrender2.png
+■ Mach Fighter
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-14-KM3">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Manifest</name>
+      <text>
+■ Buzzrender
+■ File:Buzzrender2.png
+■ Mach Fighter
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-14- 秘11">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Brachiodrange</name>
+      <text>
+■ Quattro Breaker
+■ Whenever your opponent puts a creature into the battle zone and your opponent's creature's ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature into the battle zone".)''
+■ Fushigiverse
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon/Fushigi Kingdom</type>
+        <manacost>11</manacost>
+        <colors>Nature</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DMRP-14-S5">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Superstar Halberd</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Triple Breaker
+■ When you put this creature into the battle zone, draw 2 cards. Then put a card from your hand into your shields face up.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DMRP-14-S6">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Superstar Halberd</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Triple Breaker
+■ When you put this creature into the battle zone, draw 2 cards. Then put a card from your hand into your shields face up.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DMRP-14- 秘7">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Varivarius, Lightning Dragon</name>
+      <text>
+■ If you have no creatures, this creature costs up to 3 less to summon.
+■ Speed Attacker
+■ Double Breaker
+■ Magibomber
+■ After this creature attacks, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Nitro Dragon/Team Bomber</type>
+        <manacost>8</manacost>
+        <colors>Light/Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-14-S7">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Varivarius, Lightning Dragon</name>
+      <text>
+■ If you have no creatures, this creature costs up to 3 less to summon.
+■ Speed Attacker
+■ Double Breaker
+■ Magibomber
+■ After this creature attacks, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Nitro Dragon/Team Bomber</type>
+        <manacost>8</manacost>
+        <colors>Light/Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-14- 秘2">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fabulous Number One Drip</name>
+      <text>
+■ file:Buzzrender.png
+■ file:Buzzrender2.png
+■ Triple Breaker
+■ When this creature's file:Buzzrender2.png
+■ When this creature would leave the battle zone, you may shuffle 5 cards in your hand into your deck instead.
+■ You can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>9</manacost>
+        <colors>Water/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-14-S8">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fabulous Number One Drip</name>
+      <text>
+■ file:Buzzrender.png
+■ file:Buzzrender2.png
+■ Triple Breaker
+■ When this creature's file:Buzzrender2.png
+■ When this creature would leave the battle zone, you may shuffle 5 cards in your hand into your deck instead.
+■ You can't Prevents Defeat
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>9</manacost>
+        <colors>Water/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-14- 秘12">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marvelous Iron</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Double Breaker
+■ When you put this creature face up into your shield zone, reveal the top 4 cards of your deck. Choose a light card and a water card from among them and put them into your hand. Put the rest on the bottom of your deck in any order.
+■ When you put this creature into the battle zone, choose another creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-14-2">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marvelous Iron</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Double Breaker
+■ When you put this creature face up into your shield zone, reveal the top 4 cards of your deck. Choose a light card and a water card from among them and put them into your hand. Put the rest on the bottom of your deck in any order.
+■ When you put this creature into the battle zone, choose another creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-14- 秘8">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jyadokumaru, Oni of "Orochi"</name>
+      <text>
+■ When you put this creature, add one of your shields to your hand. You can't use the "shield trigger" ability of that shield. Then destroy one of your opponent's untapped creatures.
+■ Onitime
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMRP-14-3">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tweeting Bluebird</name>
+      <text>
+■ Blocker
+■ Each turn, the first time you use a File:Buzzrender2.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14-8">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tweeting Bluebird</name>
+      <text>
+■ Blocker
+■ Each turn, the first time you use a File:Buzzrender2.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>2</manacost>
+        <colors>Water/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14- 秘13">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goukai! Kirifuda MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one fire creature and at least one nature creature in the battle zone, you may choose both.
+:► Destroy up to 2 of your opponent's creatures that have total cost 6 or less.
+:► Put a fire or nature creature that costs 5 or less from your mana zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Kirifuda</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-29">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goten! Ginga MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one water creature in the battle zone, you may choose both.
+:► Put a card from your hand into your shield zone face up.
+:► Choose one of your opponent's creatures and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-24">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Senyuu! Bomber MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one fire creature in the battle zone, you may choose both.
+:► Choose up to 3 of your opponent's creatures and tap them.
+:► Discard a card from your hand, then draw 3 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Light/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-25">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Toppa! Wave MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one water creature and at least one nature creature in the battle zone, you may choose both.
+:► Put the top card of your deck into your mana zone. Then you may return a card from your mana zone to your hand.
+:► Your opponent returns all creatures that cost more than the number of cards in their mana zone to their owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-26">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Messai! Onifuda MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one darkness creature and at least one fire creature in the battle zone, you may choose both.
+:► Destroy one of your opponent's creatures that has power 3000 or less.
+:► Your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-27">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jakkaru! Fushigi MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one darkness creature and at least one nature creature in the battle zone, you may choose both.
+:► Look at the top 3 cards of your deck. Put one of them into your mana zone and the rest into your graveyard.
+:► Choose one of your opponent's creatures. That creature gets -6000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Fushigi Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-28">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vevelokiller, Electric Dragon</name>
+      <text>
+■ Blocker
+■ Speed Attacker
+■ At the end of a creature's attack, if it's the first attack this turn, untap one of your creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Nitro Dragon/Team Bomber</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMRP-14-7">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vevelokiller, Electric Dragon</name>
+      <text>
+■ Blocker
+■ Speed Attacker
+■ At the end of a creature's attack, if it's the first attack this turn, untap one of your creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Nitro Dragon/Team Bomber</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMRP-14- 秘3">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenzen Dasenze</name>
+      <text>
+■ Your opponent can only put 2 creatures into the battle zone each turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMRP-14-13">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenzen Dasenze</name>
+      <text>
+■ Your opponent can only put 2 creatures into the battle zone each turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Team Bomber</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMRP-14- 秘4">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>ASAP Fryoris</name>
+      <text>
+■ Shield Trigger
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14-14">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>ASAP Fryoris</name>
+      <text>
+■ Shield Trigger
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14- 秘14">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emeral Trickster</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may put a card from your hand face up or face down into your shields as a new shield. If you do, choose one of your shields and add it to your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14-15">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onon Orb</name>
+      <text>
+■ Double Breaker
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator/Team Bomber</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-14-58">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onon Orb</name>
+      <text>
+■ Double Breaker
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gladiator/Team Bomber</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-14- 58f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zunzun Beat</name>
+      <text>
+■ Blocker
+■ Whenever this creature taps for the first time each turn, if you have a fire creature in the battle zone, untap this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Thunder/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14-59">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zunzun Beat</name>
+      <text>
+■ Blocker
+■ Whenever this creature taps for the first time each turn, if you have a fire creature in the battle zone, untap this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Thunder/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14- 59f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jess the Promise</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer/Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-14-60">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jess the Promise</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer/Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMRP-14- 60f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wanderer Robot</name>
+      <text>
+■ Shield Saver
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-14-62">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wanderer Robot</name>
+      <text>
+■ Shield Saver
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-14- 62f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Spy</name>
+      <text>
+■ This creature can't be blocked. 
+■ If you have a light creature in the battle zone, this creature can't be destroyed.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-14-64">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Invincible Spy</name>
+      <text>
+■ This creature can't be blocked. 
+■ If you have a light creature in the battle zone, this creature can't be destroyed.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-14- 64f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jyuu・Ni・Shin・Ki</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Look at the top 4 cards of your deck. Put one of them into your hand and the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-66">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jyuu・Ni・Shin・Ki</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Look at the top 4 cards of your deck. Put one of them into your hand and the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14- 66f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>【Miracle】Rainy Day God Hikikamibiki!!【Fortune】</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Wave</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-68">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>【Miracle】Rainy Day God Hikikamibiki!!【Fortune】</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Wave</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14- 68f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prismatic Vision</name>
+      <text>
+■ Shield Trigger
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rainbow Phantom/Team Ginga</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-14-30">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prismatic Vision</name>
+      <text>
+■ Shield Trigger
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Rainbow Phantom/Team Ginga</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-14- 30f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Warawara Energy</name>
+      <text>
+■ Magibomber
+■ At the end of your turn, if you put 2 or more creatures in the battle zone this turn, look at the top card of your deck. Put it into your shields face up or face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Team Bomber</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMRP-14-31">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Warawara Energy</name>
+      <text>
+■ Magibomber
+■ At the end of your turn, if you put 2 or more creatures in the battle zone this turn, look at the top card of your deck. Put it into your shields face up or face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Team Bomber</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMRP-14- 31f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zek・Ken・Ichi・Ban</name>
+      <text>
+■ Shield Trigger
+■ You may put one of your creatures into your shield zone face up. If you do, choose one of your opponent's creatures and put it into its owner's shield zone face up.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14-33">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zek・Ken・Ichi・Ban</name>
+      <text>
+■ Shield Trigger
+■ You may put one of your creatures into your shield zone face up. If you do, choose one of your opponent's creatures and put it into its owner's shield zone face up.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-14- 33f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Utattemita</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14-34">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Utattemita</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Team Wave</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14- 34f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wanabi Wallaby</name>
+      <text>
+■ Whenever your opponent would put a creature that costs 4 or less into the battle zone from anywhere other than their hand, your opponent puts that creature into their hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14-35">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wanabi Wallaby</name>
+      <text>
+■ Whenever your opponent would put a creature that costs 4 or less into the battle zone from anywhere other than their hand, your opponent puts that creature into their hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-14- 35f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moonultra Gardna</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ When you put this creature face up into your shield zone, look at one of your other shields. You may turn that shield face up.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Merfolk/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-14-36">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moonultra Gardna</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ When you put this creature face up into your shield zone, look at one of your other shields. You may turn that shield face up.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Merfolk/Team Ginga</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-14- 36f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・ONE</name>
+      <text>
+■ This creature can't attack unless you have 1 or less cards in your hand.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14-41">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・ONE</name>
+      <text>
+■ This creature can't attack unless you have 1 or less cards in your hand.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14- 41f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・ONE</name>
+      <text>
+■ This creature can't attack unless you have 1 or less cards in your hand.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14- 秘5">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kakingyo ＃ Ajisai ＃ Festival ＃ Pond</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14-45">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kakingyo ＃ Ajisai ＃ Festival ＃ Pond</name>
+      <text>
+■ Buzzrender
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14- 45f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mecha Movie Crawler</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater/Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-14-53">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mecha Movie Crawler</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater/Team Wave</type>
+        <manacost>4</manacost>
+        <colors>Water/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-14- 53f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glory Hammer</name>
+      <text>
+■ Each of your light or water creatures get "blocker". ''(You may tap a creature that has "blocker" to change the attack target of one of your opponent's creatures to that creature.)''
+■ Whenever one of your light or water creatures is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14-48">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glory Hammer</name>
+      <text>
+■ Each of your light or water creatures get "blocker". ''(You may tap a creature that has "blocker" to change the attack target of one of your opponent's creatures to that creature.)''
+■ Whenever one of your light or water creatures is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>4</manacost>
+        <colors>Light/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14- 48f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Victory Sentinel</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ When you put this creature into the battle zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14-49">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Victory Sentinel</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ When you put this creature into the battle zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14- 49f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Victory Sentinel</name>
+      <text>
+■ Galaxyshield
+■ Galaxy Go
+■ Blocker
+■ When you put this creature into the battle zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica/Team Ginga</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-14- 秘9">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・MASK</name>
+      <text>
+■ Double Breaker
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-14-50">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・MASK</name>
+      <text>
+■ Double Breaker
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-14- 50f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・VEGAS</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top card of your deck. You may put that card on the bottom of your deck.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Light/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14-51">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>U・S・A・VEGAS</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top card of your deck. You may put that card on the bottom of your deck.
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Team Bomber</type>
+        <manacost>4</manacost>
+        <colors>Light/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-14- 51f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arikinonair</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ When this creature would be destroyed, return it to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-14-52">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Arikinonair</name>
+      <text>
+■ Buzzrender
+■ Icon
+■ When this creature would be destroyed, return it to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>5</manacost>
+        <colors>Water/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-14- 52f">DMRP-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

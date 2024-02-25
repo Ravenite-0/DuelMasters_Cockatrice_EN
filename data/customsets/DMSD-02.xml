@@ -1,0 +1,147 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-02</name>
+      <longname>DMSD-02</longname>
+      <settype>DMSD-02</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Crysta, First Squad</name>
+      <text>
+■ Your Metallica cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-02-11">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faywon, Green Knowledge Silver</name>
+      <text>
+■ When you put this creature into the battle zone, you may tap one of your creatures. If you do, draw a card.
+■ You may untap this creature to change your opponent's creatures attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMSD-02-5">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Amber, Strange Stone</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-02-10">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shine Arrow</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature and tap it.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-02-12">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rockcrusher, Earth's Wrath</name>
+      <text>
+■ Whenever this creature wins a battle, add the top card of your deck to your shields face down.
+■ Labyrinth: If you have more shields than your opponent, this creature gets +3000 power and has "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMSD-02-9">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rudolgo, Strange Stone</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, for each of your creatures in the battle zone, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-02-2">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Levoix, Blue Defense Silver</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may tap one of your creatures. If you do, choose one of your opponent's creatures and tap it.
+■ You may untap this creature to change your opponent's creature's attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-02-3">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sokola, Strange Stone</name>
+      <text>
+■ Whenever this creature attacks, add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMSD-02-4">DMSD-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

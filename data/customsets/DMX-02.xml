@@ -1,0 +1,803 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-02</name>
+      <longname>DMX-02</longname>
+      <settype>DMX-02</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bronze-Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-36">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dimension Gate</name>
+      <text>
+■ Shield Trigger
+■ Search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-38">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Natural Snare</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone and put it into his mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-16">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Barkwhip, the Smasher</name>
+      <text>
+■ Evolution—Put on one of your Beast Folk.
+■ While this creature is tapped, each of your other Beast Folk in the battle zone gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-02-27">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocco Lupia</name>
+      <text>
+■ Your creatures that have Dragon in their race each cost 2 less to summon. ''(Dragonoids don't count.)'' They can't cost less than 2.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-24">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rikabu's Screwdriver</name>
+      <text>
+■ Tap Ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Xenoparts</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-13">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Life</name>
+      <text>
+■ Shield Trigger
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-39">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Skysword, the Savage Vizier</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Initiate</type>
+        <manacost>5</manacost>
+        <colors>Light/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-29">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sanfist, the Savage Vizier</name>
+      <text>
+■ Blocker
+■ Multi
+■ When this creature would be discarded from your hand during your opponent's turn, you may put it into the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Initiate</type>
+        <manacost>3</manacost>
+        <colors>Light/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-02-30">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pala Olesis, Morning Guardian</name>
+      <text>
+■ Blocker
+■ During your opponent's turn, each of your other creatures gets +2000 power.
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMX-02-9">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Courtney, Summer Breeze Faerie</name>
+      <text>
+■ Cards in your mana zone are considered to be cards of every civilization.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-15">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stronghold of Lightning and Flame</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 3000 or less. Then you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-28">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Heaven's Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution light creatures that have "blocker" from your hand to the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-10">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Velyrika Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take an Armored Dragon from your deck, show that Armored Dragon to your opponent, and put it into your hand. Then shuffle your deck.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-02-12">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-11">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Flameburn Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-02-33">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Living Lithograph</name>
+      <text>
+■ Put the top card of your deck into your mana zone. If that card is a creature, each of your creatures in the battle zone gets +2000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-40">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wiz, White Knight Enlightener</name>
+      <text>
+■ Blocker
+■ Evolution—Put on one of your creatures that has "Blocker".
+■ Double Breaker
+■ Ignore any effects that would prevent your creatures that have "blocker" from attacking your opponent. 
+■ End Step
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mecha Thunder</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>10500</pt>
+      </prop>
+      <set num="DMX-02-6">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cerulean Dagger Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, you may draw a card for each of your Dragons in the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-02-2">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Faerie Hole</name>
+      <text>
+■ Put the top card of your deck into your mana zone. 
+■ Choose one of the following. 
+:► Put any number of psychic creatures that have total cost 5 or less from your hyperspatial zone into the battle zone.
+:► Put a nature psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-37">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Shiny Hole</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone and tap it.
+■ Choose one of the following.
+:► Put any number of psychic creatures that have total cost 5 or less from your hyperspatial zone into the battle zone.
+:► Put a light psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-31">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chief De Baula, Machine King of Mystic Light</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-02-8">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Mildgarmus</name>
+      <text>
+■ When you put this creature into the battle zone, choose a card in your opponent's mana zone and put it into their graveyard. Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-02-14">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gantora Maxivus</name>
+      <text>
+■ Whenever this creature attacks, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Vehicle Bee</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-02-42">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Shooting Hole</name>
+      <text>
+■ Destroy one of your opponent's creatures that has "blocker".
+■ Put a Fire psychic creature that costs 9 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-25">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alligator, the Awakened Flower Beast</name>
+      <text>
+■ Whenever this creature attacks, put the top card of your deck into your mana zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMX-02-26b">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Caiman, Temporal Flower</name>
+      <text>
+■ Awaken—Whenever this creature attacks your opponent and isn't blocked, put the top card of your deck into your mana zone. After the attack, Alligator, the Awakened Flower Beast
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-02-26a">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nakatsumaki, Godly Guns Elemental</name>
+      <text>
+■ Blocker
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Origin</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DMX-02-17">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Murmur, Vizier of Formation</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Each of your other creatures in the battle zone that have "blocker" gets +3000 power.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-19">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ultimus, Divine Law Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When this creature is destroyed, search your deck. You may take a spell that has "Shield Trigger" from your deck, show that spell to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMX-02-18">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Corteo, Spirit Knight</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, for each of your creatures in the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim/Origin</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-7">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kill, Temporal Brawler</name>
+      <text>
+■ During your opponent's turn, whenever any of your psychic creatures would be returned to your hand by one of your opponent's spells or the ability of one of your opponent's creatures in the battle zone, that creature stays in the battle zone instead.
+■ Awaken—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Human</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-23a">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Setsudan, Awakened Giant</name>
+      <text>
+■ Power Attacker
+■ Double Breaker
+■ Whenever any of your psychic creatures would be returned to your hand by one of your opponent's spells or the ability of one of your opponent's creatures in the battle zone, that creature stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Giant</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMX-02-23b">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Surprise Hole</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Put a psychic creature that costs 2 or less from your hyperspatial zone into the battle zone.
+:► Put a light or water psychic creature that costs 4 or less from your hyperspatial zone into the battle zone. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-02-32">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reppi Aini</name>
+      <text>
+■ When you put this creature into the battle zone, you may reveal the top 2 cards of your deck. You may take a spell that has Hyperspatial in its name from among them into your hand, then put the rest into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-34">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Julia Matina, the Awakened Diva</name>
+      <text>
+■ Blocker
+■ Whenever this creature blocks, add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Mecha Del Sol</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-02-20b">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Martini, Temporal Dancer</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Awaken—When you put a creature that has "blocker" that costs 4 or more into the battle zone, Julia Matina, the Awakened Diva
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Splash Queen</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-20a">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jet R.E, Brave Vizier</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down. Then, destroy one of your opponent's creatures that has "blocker",
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Human</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-41">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cheering Pippi</name>
+      <text>
+■ Your Dragons may cost 1 less to summon and your Commands may cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Flame Monster</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-02-35">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gil Porrima's Pliers</name>
+      <text>
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Xenoparts/Alien</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-02-22a">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gil Porrima's Pliers</name>
+      <text>
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Xenoparts/Alien</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-02-22b">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Polymer, Marshmallow Doll</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-21a">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Polymer, Marshmallow Doll</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-21b">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Don Marshmallow, Hand of Temptation</name>
+      <text>
+■ Double Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Death Puppet/Xenoparts/Alien</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-02-21b">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Psychen Pippi</name>
+      <text>
+■ Saver
+■ When this creature is discarded during your opponent's turn, you may put a tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-02-3">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Go On Pippi</name>
+      <text>
+■ Each of your creatures in the battle zone that have both the Dragon and Hunter races gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-02-4">DMX-02</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

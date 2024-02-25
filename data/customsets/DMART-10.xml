@@ -1,0 +1,120 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-10</name>
+      <longname>DMART-10</longname>
+      <settype>DMART-10</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Gachanko Gachirobo</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever it attacks, reveal the top 3 cards of your deck. If all are creatures that have the same cost, put them. Otherwise, put them on the bottom of your deck in any order.
+■ If your opponent has 2 shields or less, your Water creatures can't be attacked or blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Invader</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMART-10-4">DMART-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shuff, Eureka</name>
+      <text>
+■ When you put this creature or whenever it attacks, choose a number. Until the start of your next turn, your opponent can't cast spells that cost the same as that number and your opponent's creatures that cost the same can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Command/Great Mecha King/Invader</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMART-10-5">DMART-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bad Brand</name>
+      <text>
+■ Master Bad Action Dynamite ''(This creature may cost 2 less to summon and an additional 2 less for each of your other fire creatures you summoned this turn. If you do, destroy one of your creatures End Step
+■ Double Breaker
+■ Each of your fire creatures gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMART-10-1">DMART-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rosia, Final Dragon Ruler</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, you may put a dragheart weapon that costs 4 or less that has the same civilization as a card in your mana zone from your hyperspatial zone. ''(Equip it to this creature.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Justice Wing/Draguner</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMART-10-6">DMART-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gagaga Gaial Brand</name>
+      <text>
+■ You may reduce this creature's Summon Cost
+■ Star Evolution
+■ Double Breaker
+■ When this card leaves, untap all your creatures and they get "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Star Evolution Creature</maintype>
+        <type>Beat Jockey/Red Command Dragon/RexStars</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMART-10-2">DMART-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Katta Kirifuda %26 Katsuking -Story of Passion-</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, look at the top 5 cards of your deck. Reveal one to your opponent, add it to your hand, and put the rest on the bottom of your deck in any order. If the revealed card is fire or nature, you may choose a creature and return it to its owner's hand.
+■ Revolution 2: If you have 2 shields or less, this creature gets "shield trigger" in your shield zone.
+■ Revolution 0: If you have no shields, this creature gets +10000 power, "speed attacker" and "triple breaker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage Dragon/Human</type>
+        <manacost>5</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMART-10-3">DMART-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

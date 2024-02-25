@@ -1,0 +1,232 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-SD1</name>
+      <longname>DM22-SD1</longname>
+      <settype>DM22-SD1</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Jenny, the Suicide Doll</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-SD1-12">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>School Man</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy 2 of your creatures. Then your opponent chooses one of their creatures and destroys it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian/Alien</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-SD1-9">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ottakara Atakara</name>
+      <text>
+■ When you put this creature, put the top 2 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-SD1-14">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rudolf Carnac</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, you may destroy one of your creatures. If you do, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-SD1-8">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hemoglo, Demonic Doctor</name>
+      <text>
+■ When you put this creature, your opponent chooses a card from their hand and discards it.
+■ When this creature is destroyed during your turn, put it into the battle zone from your graveyard at the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-SD1-11">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Demon Hand</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures. Then put the same number of cards as that creature's cost from the top of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-SD1-6">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fork %3D Fock</name>
+      <text>
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard. If you do, you may return an Abyss from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-SD1-10">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jashin, Abyssal Ruler</name>
+      <text>
+■ At the start of your turn, you may put the top card of your deck into your graveyard. Then you may put a creature that costs 3 or less from your graveyard.
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-SD1-1">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jashin, Abyssal Ruler</name>
+      <text>
+■ At the start of your turn, you may put the top card of your deck into your graveyard. Then you may put a creature that costs 3 or less from your graveyard.
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-SD1- 秘1">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Belle %3D Gelelle</name>
+      <text>
+■ Abyss Rush
+■ When you put this creature, put the top 2 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-SD1-5">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Knife %3D Alife</name>
+      <text>
+■ When you put this creature, each of your opponent's creatures gets -2000 power until the End Step
+■ Each turn, the first time a creature is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-SD1-7">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hamma %3D Dhamma</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard. Then choose one of your opponent's creatures that costs less than the number of cards in your graveyard and destroy it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-SD1-4">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyss Diner</name>
+      <text>
+■ Each turn, the first time one of your creatures attacks, you may put a creature or tamaseed that costs less than that creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-SD1-13">DM22-SD1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

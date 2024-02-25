@@ -1,0 +1,238 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMSD-14</name>
+      <longname>DMSD-14</longname>
+      <settype>DMSD-14</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Deadly Fighter Braid Claw</name>
+      <text>
+■ This creature attacks each turn Attack if Able
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragonoid</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-14-13">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blazing Tiger, Crimson Lord</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-14-8">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Taiga, the Warrior Savage</name>
+      <text>
+■ Speed Attacker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-14-7">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trap Giant</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and put it into their mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMSD-14-10">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Maple Chomomijin</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMSD-14-14">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Duedyne D</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMSD-14-12">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking, Jonetsu Dragon</name>
+      <text>
+■ Kirifudash
+■ Speed Attacker
+■ Double Breaker
+■ Mach Fighter
+■ When this creature wins a battle for the first time each turn, draw a card and untap this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero Dragon/Jokers/Team Kirifuda</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMSD-14-1">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bearshigara, Four-wheel Drive Bear</name>
+      <text>
+■ Kirifudash
+■ Double Breaker
+■ When you put this creature, you may put the top 2 cards of your deck into your mana zone. Then you may return a creature from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMSD-14-3">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momodachi Power!!!</name>
+      <text>
+■ Shield Trigger
+■ Kirifudash
+■ Destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMSD-14-9">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bat, New Guide</name>
+      <text>
+■ Kirifudash
+■ Speed Attacker
+■ Whenever this creature attacks, discard a card, then draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMSD-14-4">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nothankyou</name>
+      <text>
+■ This creature can't be attacked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMSD-14-15">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hettle and Fettle</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, choose one of the following.
+:► Destroy one of your opponent's creatures that has "blocker".
+:► Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>4</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMSD-14-6">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hospiyogale</name>
+      <text>
+■ Kirifudash
+■ Double Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures and put it into its owner's mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMSD-14-11">DMSD-14</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

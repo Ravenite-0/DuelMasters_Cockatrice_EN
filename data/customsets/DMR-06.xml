@@ -1,0 +1,445 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-06</name>
+      <longname>DMR-06</longname>
+      <settype>DMR-06</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Wedding Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution, non-light Angel Command creatures from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-14">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wedding Gate</name>
+      <text>
+■ Shield Trigger
+■ Put up to 2 non-evolution, non-light Angel Command creatures from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06- 14m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wedding, Zenith of "Celebration"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature, your opponent chooses a total of 4 cards from their hand and/or creatures in the battle zone and shieldify
+■ Whenever this creature would break a shield, your opponent puts that shield into their graveyard instead.
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMR-06-S2">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onimaru "Head", Victory Rush</name>
+      <text>
+■ Speed Attacker
+■ Power Attacker
+■ Triple Breaker
+■ Gachinko Judge 2
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Red Command Dragon/Hunter/Alien</type>
+        <manacost>10</manacost>
+        <colors>Fire</colors>
+        <pt>9000+</pt>
+      </prop>
+      <set num="DMR-06-V1">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Candle Service, Heaven Descent to Goodness</name>
+      <text>
+■ Blocker
+■ When this creature blocks, destroy it after it battles.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-06-43">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Candle Service, Heaven Descent to Goodness</name>
+      <text>
+■ Blocker
+■ When this creature blocks, destroy it after it battles.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-06- 43m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>True Heaven's</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's non-evolution creatures in the battle zone. If you have 5 or more Angel Commands in the battle zone, choose up to 3 of your opponent's non-evolution creatures instead of 1. Put these creatures into your opponent's shield zone face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-8">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codename iFormulaX</name>
+      <text>
+■ End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-06-10">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saint Flash, Secret Ore Flow</name>
+      <text>
+■ Attack Chance
+■ Choose a non-evolution creature that costs 6 or less in the battle zone and add it to its owner's shield zone face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-22">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saint Flash, Secret Ore Flow</name>
+      <text>
+■ Attack Chance
+■ Choose a non-evolution creature that costs 6 or less in the battle zone and add it to its owner's shield zone face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06- 22m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oninaguri, Last Attack</name>
+      <text>
+■ Evolution—Put on one of your Humans.
+■ Whenever this creature attacks, choose any number of your opponent's creatures that have total cost 6 or less and destroy them.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-06-S5">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Suspense, Zenith of "Curse"</name>
+      <text>
+■ Triple Breaker
+■ When you summon this creature into the battle zone, you may choose 2 cards from your opponent's hand or shields at random. Your opponent reveals those cards. You may cast any spells from the revealed cards For No Cost
+■ Eternal Omega
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown/Zenith</type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt>16000</pt>
+      </prop>
+      <set num="DMR-06-S1">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Princess Prin, the Curious</name>
+      <text>
+■ Each of your creatures in the battle zone gets the Alien and Hunter races. 
+■ Hunting
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMR-06-17">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Princess Prin, the Curious</name>
+      <text>
+■ Each of your creatures in the battle zone gets the Alien and Hunter races. 
+■ Hunting
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMR-06- 17m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lifeplan Charger</name>
+      <text>
+■ Look at the top 5 cards of your deck. You may take a creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order. 
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-55">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lifeplan Charger</name>
+      <text>
+■ Look at the top 5 cards of your deck. You may take a creature from among them, show that creature to your opponent, and put it into your hand. Then put the rest on the bottom of your deck in any order. 
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06- 55m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dash Charger</name>
+      <text>
+■ Each of your creatures in the battle zone gets "speed attacker" until the End Step
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-51">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codefight Misdirection</name>
+      <text>
+■ Whenever one of your Commands attack your opponent and isn't blocked, you may add the top card of your deck to your shields face down. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Unknown</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMR-06-1">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codefight Alibi Trick</name>
+      <text>
+■ Whenever one of your opponent's creatures is tapped, you may untap one of your creatures in the battle zone. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Unknown</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-06-6">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codefight Alibi Trick</name>
+      <text>
+■ Whenever one of your opponent's creatures is tapped, you may untap one of your creatures in the battle zone. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Unknown</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-06- 6m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Bone, Secret Wicked Dragon</name>
+      <text>
+■ Attack Chance
+■ Put a non-evolution Zombie Dragon from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-13">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel, Love Sniper</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature or a creature that costs 7 or more into the battle zone, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-06-29">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel, Love Sniper</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature or a creature that costs 7 or more into the battle zone, destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-06- 29m">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shirauo Giant</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature or a creature that costs 7 or more into the battle zone, you may put the top card of your deck into your  mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-06-31">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zenith Symphony, Secret Zenith</name>
+      <text>
+■ Attack Chance
+■ You may summon a creature that has both Zenith and Unknown races For No Cost
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>9</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-06-㊙1">DMR-06</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

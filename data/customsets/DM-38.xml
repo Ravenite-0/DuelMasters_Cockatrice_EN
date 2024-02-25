@@ -1,0 +1,460 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM-38</name>
+      <longname>DM-38</longname>
+      <settype>DM-38</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Überdragon Bajula, the 2nd</name>
+      <text>
+■ Evolution—Put on one of your Dragons.
+■ Whenever this creature attacks, put a card in your opponent’s mana zone into their graveyard. Then destroy one of your opponent’s creatures that has power 5000 or less.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM-38-12">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deepsea Janus, Temporal Warpanther</name>
+      <text>
+■ When this creature is awakened, draw a card.
+■ Loop Awaken—When a fire creature is put into the battle zone during your turn, Crimson Lord Janus, Temporal Warpanther
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Blue Monster</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-38-22a">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crimson Lord Janus, Temporal Warpanther</name>
+      <text>
+■ When this creature is awakened, choose one of your creatures in the battle zone. That creature gets "Power attacker +2000" and "Speed attacker" until the End Step
+■ Loop Awaken—When a water creature is put into the battle zone during your turn, Deepsea Janus, Temporal Warpanther
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Flame Monster</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DM-38-22b">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Storm Hole</name>
+      <text>
+■ Destroy one of your opponent's creatures that has power 5000 or less.
+■ Put a Fire psychic creature that costs 10 or less from your hyperspatial zone into the battle zone. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-38-51">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gabriel XENOM, the Reaper King</name>
+      <text>
+■ Evolution—Put on one of your Demon Commands or Angel Commands.
+■ Whenever this creature attacks, you may put the top 3 cards of your deck into your graveyard. If you do, destroy one of your opponent's creatures and return a Demon Command or Angel Command from your graveyard to your hand. 
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-38-26">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ballcadeias, Overlord of Demons</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your Angel Commands or Demon Commands. 
+■ When you put this creature into the battle zone, destroy all other creatures.
+■ Your opponent can't cast spells.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>10</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>14500</pt>
+      </prop>
+      <set num="DM-38-S5">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Romanov Hole</name>
+      <text>
+■ Your opponent chooses one of their creatures and destroys it. 
+■ Put a Darkness psychic creature that costs 10 or less from your hyperspatial zone into the battle zone. 
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-38-11">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>GENJI Double Cross, Blastdragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Flame Command/Samurai</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM-38-3">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ashliger, Holy Dark Beast</name>
+      <text>
+■ Multi
+■ Your Angel Commands and your Demon Commands may cost up to 2 less to summon. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Shine Monster/Dark Monster</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DM-38-34">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Storm Double Cross NEX, the Miracle Awakened</name>
+      <text>
+■ Whenever this creature attacks, reveal the top card of your deck. If that card is a Dragon, take an Extra Turn
+■ Quattro Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Armored Dragon/Flame Command</type>
+        <manacost>20</manacost>
+        <colors>Fire</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DM-38-S3b">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Storm Double Cross NEX, the Miracle Awakened</name>
+      <text>
+■ Whenever this creature attacks, reveal the top card of your deck. If that card is a Dragon, take an Extra Turn
+■ Quattro Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Armored Dragon/Flame Command</type>
+        <manacost>20</manacost>
+        <colors>Fire</colors>
+        <pt>23000</pt>
+      </prop>
+      <set num="DM-38-秘S3b">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyber J Eleven</name>
+      <text>
+■ Double Breaker
+■ If you have 11 or more water creatures in the battle zone, you Alternate Win
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command</type>
+        <manacost>11</manacost>
+        <colors>Water</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM-38-S1">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kankuro, Peerless Brute</name>
+      <text>
+■ Revenge Chance
+■ Quattro Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon/Giant/Samurai</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DM-38-S4">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cheval, Temporal Demonic Elemental</name>
+      <text>
+■ Awaken—At the start of each player's turn, if you have 2 Angel Commands or Demon Commands that cost 6 or more in the battle zone, Cheuxvelt, Awakened Demonic Elemental
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DM-38-33a">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cheuxvelt, Awakened Demonic Elemental</name>
+      <text>
+■ Whenever your opponent puts a creature into the battle zone, you may add the top card of your deck to your shields face down.
+■ Whenever your opponent casts a spell, this creature breaks one of your opponent's shields.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Angel Command/Demon Command</type>
+        <manacost>12</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DM-38-33b">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gorgeous Giant</name>
+      <text>
+■ Mana Reburst
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-38-52">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dimension Horn, of the Temporal Foundation</name>
+      <text>
+■ Tap Ability
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Horned Beast</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM-38-15">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Red Scorpion, Electro-mech</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone or when this creature leaves the battle zone, you may choose one of your opponent's creatures in the battle zone that has "blocker" and up to 2 cards in your opponent's graveyard. Your opponent puts the chosen cards on the bottom of their deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Merfolk/Armorloid</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-38-18">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>North Grande, Blue Divine Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Poseidia Dragon</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-38-40">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Capricorn, Earth's Reflection</name>
+      <text>
+■ Revenge Chance
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaia Command</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-38-31">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Parlock ~Cursed Voyage~</name>
+      <text>
+■ When you put this creature into the battle zone, choose 3 cards in your mana zone. Put one of them into your hand, put one on the bottom of your deck and then put one on the top of your deck.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM-38-23">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Benijishi Spider</name>
+      <text>
+■ Revenge Chance
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM-38-53">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Purification Trap</name>
+      <text>
+■ Put the top card of your deck into your mana zone.
+■ You may choose one or more cards from your opponent's graveyard. If you do, your opponent adds those cards to their deck and shuffles it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM-38-16">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bruce Quack</name>
+      <text>
+■ This creature doesn't untap at the start of your turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>1</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM-38-29">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eco Aini</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. If that card is a Dragon, put another card from the top of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM-38-55">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Masato, the Marauding Captain</name>
+      <text>
+■ Marshall Touch
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM-38-50">DM-38</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

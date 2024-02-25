@@ -1,0 +1,280 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-BD3</name>
+      <longname>DM22-BD3</longname>
+      <settype>DM22-BD3</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bolbalzak Ex</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, untap all cards in your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Earth Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-BD3-6">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gachanko Gachirobo</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or whenever it attacks, reveal the top 3 cards of your deck. If all are creatures that have the same cost, put them. Otherwise, put them on the bottom of your deck in any order.
+■ If your opponent has 2 shields or less, your Water creatures can't be attacked or blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Invader</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-BD3-3">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cyber I Choice</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may use a card that has "shield trigger" from your hand For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-BD3-11">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Smapon</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, destroy all your opponent's creatures that have power 2000 or less.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-BD3-13">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ichigotchi Tank/Let's Goichigo</name>
+      <text>
+■ Triple Breaker
+=========================
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>7</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-BD3-14">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Leledy Ba Gooba/Twinpact Map</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle. 
+■ This creature can't attack.
+=========================
+■ Reveal the top 3 cards of your deck. Put a twinpact card from among them into your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>7</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-BD3-2">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Medicalar Cobalt Kaiser/Eyed Wise Shutter</name>
+      <text>
+■ Double Breaker
+■ Whenever your opponent puts a creature, each of your opponent's creatures can't attack that turn.
+■ Whenever your opponent casts a spell, you may draw 2 cards.
+=========================
+■ Shield Trigger
+■ Choose up to 2 of your opponent's creatures and tap them. At the start of your opponent's next turn, they don't untap.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Blue Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Water/Light</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM22-BD3-9">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Stegoro Kaiser, Struggling Battlekind/Purification Sharrup</name>
+      <text>
+■ Mach Fighter
+■ Double Breaker
+■ Whenever this creature attacks, put the top card of your deck into your mana zone. Then you may return a card from your mana zone to your hand.
+=========================
+■ Put the top card of your deck into your mana zone.
+■ You may choose one or more cards from a player's graveyard. That player shuffles those cards into their deck.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jurassic Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-BD3-12">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holyend, Destiny Dragon Armored/Now or Never</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature, tap all your opponent's creatures. Then draw a card.
+=========================
+■ Shield Trigger
+■ You may put a non-evolution creature that costs 7 or less from your hand. Then return that creature to your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DM22-BD3-4">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>DOOOPPLER Macule</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever you put a creature, choose one of your opponent's creatures and tap it. 
+■ Magibomber
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Flame Command/Team Bomber</type>
+        <manacost>7</manacost>
+        <colors>Light/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-BD3-5">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King Manifest</name>
+      <text>
+■ Buzzrender
+■ File:Buzzrender2.png
+■ Mach Fighter
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tricks/Team Wave</type>
+        <manacost>7</manacost>
+        <colors>Water/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-BD3-1">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redgirazone, Roaring Revolution</name>
+      <text>
+■ Revolution Change
+■ Double Breaker
+■ Each of your Commands get "speed attacker", "mach fighter" and can't be blocked.
+■ Final Revolution: When you put this creature with "Revolution Change" and you haven't used another "Final Revolution" during this turn, untap all your other creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-BD3-7">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Double Cross DD Zeta, Concatenated Awakened</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Each of your creatures gets "speed attacker" and "slayer". 
+■ Whenever this creature attacks, you may put this creature's "EX Life" shield into your graveyard. If you do, your opponent can't cast spells until the start of your turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/Armored Dragon/World Command</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-BD3-10">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Royal Straight Flush Kaiser/Allin Charger</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks, you and your opponent play Gachinko Judge until you lose or stop yourself. Then for each time you win Gachinko Judge, this creature breaks one of your opponent's shields.
+=========================
+■ You and your opponent play Gachinko Judge. If you win, draw a card.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Red Command Dragon/Hunter/Alien</type>
+        <manacost>7</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-BD3-8">DM22-BD3</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

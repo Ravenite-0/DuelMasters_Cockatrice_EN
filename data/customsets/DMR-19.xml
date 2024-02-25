@@ -1,0 +1,664 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-19</name>
+      <longname>DMR-19</longname>
+      <settype>DMR-19</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Venom Charger</name>
+      <text>
+■ One of your creatures in the battle zone gets "slayer" until the End Step
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-40">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dreaming Moon Knife</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-19-86">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Peach Princess, Fearless Faerie</name>
+      <text>
+■ During your turn, the second creature you summon may cost up to 2 less to summon. It can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies/Snow Faerie</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-19-83">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dash Charger</name>
+      <text>
+■ Each of your creatures in the battle zone gets "speed attacker" until the End Step
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-79">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>De Baula Charger</name>
+      <text>
+■ Return a spell from your graveyard to your hand.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-57">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nyanko Hand of Hell</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that costs 6 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-72">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Baronarde, Glorious Wings</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, if your opponent has more cards in their mana zone than you have in yours, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-19-55">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emeralda, Pitch Dragon Elemental</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may choose one of your shields and add it to your hand. Then you may add a card from your hand to your shields face down. ''(You may use "shield trigger" ability of a shield put into your hand in this way.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMR-19-12">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Duenyan Emperor</name>
+      <text>
+■ Evolution—Put on one of your creatures.
+■ Invasion
+■ Double Breaker
+■ After this creature attacks, put a non-evolution Funky Knightmare that costs 6 or less from your graveyard under this creature.
+■ When this creature is destroyed, put all Funky Knightmares that were under this creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Funky Knightmare/Invader</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-19-5">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sutenyanko</name>
+      <text>
+■ Slayer
+■ At the start of your turn, if this creature is in your graveyard, you may destroy one of your creatures. If you do, put this creature into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Funky Knightmare/Invader</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-19-38">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trooper, Forbidden U</name>
+      <text>
+■ Whenever this creature attacks, put one of your seals from the battle zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human Baku/Invader/Initials</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-19-43">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Completely Unidentified</name>
+      <text>
+■ Triple Breaker
+■ During your opponent's turn, whenever your opponent puts a card in their mana zone or whenever they use a card, skip the rest of the turn
+■ Whenever an opponent's creature attacks, after the attack, skip the rest of the turn
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>???</type>
+        <manacost>11</manacost>
+        <colors>Water</colors>
+        <pt>16000</pt>
+      </prop>
+      <set num="DMR-19-S4">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dogiragon</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution fire creature, put it into the battle zone, and put this creature on top of it.
+■ Evolution—Put on one of your fire creatures.
+■ Triple Breaker
+■ When you put this creature or whenever it attacks, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-19-L2">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dogiragon</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution fire creature, put it into the battle zone, and put this creature on top of it.
+■ Evolution—Put on one of your fire creatures.
+■ Triple Breaker
+■ When you put this creature or whenever it attacks, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-19- L2㊙1">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dogiragon</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution fire creature, put it into the battle zone, and put this creature on top of it.
+■ Evolution—Put on one of your fire creatures.
+■ Triple Breaker
+■ When you put this creature or whenever it attacks, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-19- L2㊙2">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dogiragon</name>
+      <text>
+■ Revolution 0 Trigger—Whenever a creature attacks you, if you have no shields, you may reveal this creature from your hand. If you do, reveal the top card of your deck. If it's a non-evolution fire creature, put it into the battle zone, and put this creature on top of it.
+■ Evolution—Put on one of your fire creatures.
+■ Triple Breaker
+■ When you put this creature or whenever it attacks, you may choose one of your opponent's creatures in the battle zone. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-19- L2㊙3">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forbidden ~The Sealed X~</name>
+      <text>
+■ This impulse Cards that can be put into the Battle Zone at the start of the game
+■ This impulse can't leave the battle zone.
+■ Forbidden Liberate: When this impulse has no seals on it, flip it to its creature side. 
+■ Seal
+  </text>
+      <prop>
+        <maintype>Forbidden Impulse</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-FL1a㊙">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forbidden ~The Sealed X~</name>
+      <text>
+■ This impulse Cards that can be put into the Battle Zone at the start of the game
+■ This impulse can't leave the battle zone.
+■ Forbidden Liberate: When this impulse has no seals on it, flip it to its creature side. 
+■ Seal
+  </text>
+      <prop>
+        <maintype>Forbidden Impulse</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19- FL1a">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokindam X, The Legendary Forbidden</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Liberates, your opponent puts a seal on each of their creatures.
+■ Your opponent can't choose this creature with spells that cost 4 or less.
+■ If this card is in a zone other than the battle zone, Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Forbidden Creature</maintype>
+        <type></type>
+        <manacost>99</manacost>
+        <colors>Fire</colors>
+        <pt>99999</pt>
+      </prop>
+      <set num="DMR-19-FL1b㊙">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokindam X, The Legendary Forbidden</name>
+      <text>
+■ Triple Breaker
+■ When this creature Forbidden Liberates, your opponent puts a seal on each of their creatures.
+■ Your opponent can't choose this creature with spells that cost 4 or less.
+■ If this card is in a zone other than the battle zone, Alternate Loss Condition
+  </text>
+      <prop>
+        <maintype>Forbidden Creature</maintype>
+        <type></type>
+        <manacost>99</manacost>
+        <colors>Fire</colors>
+        <pt>99999</pt>
+      </prop>
+      <set num="DMR-19- FL1b">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>G.O.D., Extreme Invasion</name>
+      <text>
+■ Evolution—Put on one of your light creatures that cost 9.
+■ Invasion
+■ Triple Breaker
+■ When you put this creature into the battle zone, you may choose up to 9 light creatures that cost 9 from your hand or mana zone and put them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Invader</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>15500</pt>
+      </prop>
+      <set num="DMR-19-L1">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>G.O.D., Extreme Invasion</name>
+      <text>
+■ Evolution—Put on one of your light creatures that cost 9.
+■ Invasion
+■ Triple Breaker
+■ When you put this creature into the battle zone, you may choose up to 9 light creatures that cost 9 from your hand or mana zone and put them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Invader</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>15500</pt>
+      </prop>
+      <set num="DMR-19- L1㊙1">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>G.O.D., Extreme Invasion</name>
+      <text>
+■ Evolution—Put on one of your light creatures that cost 9.
+■ Invasion
+■ Triple Breaker
+■ When you put this creature into the battle zone, you may choose up to 9 light creatures that cost 9 from your hand or mana zone and put them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Invader</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>15500</pt>
+      </prop>
+      <set num="DMR-19- L1㊙2">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>G.O.D., Extreme Invasion</name>
+      <text>
+■ Evolution—Put on one of your light creatures that cost 9.
+■ Invasion
+■ Triple Breaker
+■ When you put this creature into the battle zone, you may choose up to 9 light creatures that cost 9 from your hand or mana zone and put them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Invader</type>
+        <manacost>9</manacost>
+        <colors>Light</colors>
+        <pt>15500</pt>
+      </prop>
+      <set num="DMR-19- L1㊙3">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deadzone, S-Rank Zombie</name>
+      <text>
+■ Evolution—Put on one of your darkness creatures.
+■ S-Rank Invasion "Zombie": Darkness Command ''(When one of your Darkness Commands attack, you may put this creature from your hand or graveyard onto it.)''
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures. That creature gets -9000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/S-Rank Invader</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-19-S5">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Adamski, S-Rank Space</name>
+      <text>
+■ Evolution—Put on one of your water creatures.
+■ S-Rank Invasion "Space"—Water Command ''(When one of your water commands attack, you may put this card from your hand or battle zone onto it.)''
+■ Double Breaker
+■ This creature can't be blocked.
+■ Whenever this creature would break a shield, your opponent puts the top 2 cards of their deck into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Magic Command/S-Rank Invader</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-19-S3">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redzone Neo, Supersonic</name>
+      <text>
+■ Evolution—Put on one of your fire creatures.
+■ Invasion
+■ After this creature attacks for the first time each turn, untap it.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-19-8">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kaiserbarra, War Dragon Elemental</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone, draw a card. Then you may put a non-evolution light creature that costs 7 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-19-1">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shuff, Eureka</name>
+      <text>
+■ When you put this creature or whenever it attacks, choose a number. Until the start of your next turn, your opponent can't cast spells that cost the same as that number and your opponent's creatures that cost the same can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Command/Great Mecha King/Invader</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-19-4">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyogyou, Revolutionkind</name>
+      <text>
+■ Evolution—Put on one of your nature creatures.
+■ Double Breaker
+■ Whenever your opponent puts a creature into the battle zone, you may put a non-evolution nature creature that costs less than that creature from your mana zone into the battle zone.
+■ Revolution 2—If you have 2 shields or less, this creature costs 5 less to summon.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Jurassic Command Dragon/Revolutionary</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-19-9">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scale of Gold and Binding</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Draw 2 cards.
+:► Choose up to 2 of your opponent's creatures. Until the start of your next turn, those creatures can't attack or block.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-34">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scale of Life and Death</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Return up to 2 creatures from your graveyard to your hand.
+:► Choose one of your opponent's creatures. That creature gets -5000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-39">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scale of Bravery and Love</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Discard a card from your hand, then draw 2 cards.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-46">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trio, Tribe</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go/Invader</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-19-50">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>T Anago</name>
+      <text>
+■ This creature can't attack.
+■ Saver: Water creature ''(When one of your water creatures would be destroyed, you may destroy this creature instead.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus Kai/Revolutionary</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-19-64">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Surf Spiral</name>
+      <text>
+■ Shield Trigger
+■ Choose a creature and return it to its owner's hand.
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-19-65">DMR-19</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

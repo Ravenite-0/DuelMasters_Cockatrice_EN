@@ -1,0 +1,1464 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-EX2</name>
+      <longname>DM22-EX2</longname>
+      <settype>DM22-EX2</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Jenny, the Dismantling Puppet</name>
+      <text>
+■ When you put this creature, look at your opponent's hand and discard a card from it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-EX2-57">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zero Phoenix, Phoenix of Darkness</name>
+      <text>
+■ Vortex evolution: Put on one of your darkness creatures and one of your fire creatures.
+■ Double Breaker
+■ Whenever this creature would break a shield, your opponent puts that shield into their graveyard instead.
+■ When this creature leaves the battle zone, your opponent discards 2 cards from their hand. Then you may choose 2 cards in your opponent's mana zone and put them into their graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-EX2-㊙3">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Lupia</name>
+      <text>
+■ Whenever one of your Dragons are destroyed, you may destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-EX2-60">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codename Dread Blood</name>
+      <text>
+■ Double Breaker
+■ At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-EX2-39">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dragon Bone, Secret Wicked Dragon</name>
+      <text>
+■ Attack Chance
+■ Put a non-evolution Zombie Dragon from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-18">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codeking Wilhelm</name>
+      <text>
+■ Triple Breaker
+■ When you put this creature, destroy one of your opponent's creatures. Then choose a card from your opponent's mana zone and put it into its owner's graveyard.
+■ Whenever your opponent puts a card into their graveyard from anywhere, you may put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2-S14">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pet Puppet, Puppet Trick</name>
+      <text>
+■ Gravity Zero
+■ Your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-64">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Mastermind"</name>
+      <text>
+■ When you summon this creature, your opponent discards their hand. 
+■ Triple Breaker
+■ Center God Link
+■ When this creature is linked as 3 cards, it breaks all players' shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>God Nova OMG/Oracle</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>12000+</pt>
+      </prop>
+      <set num="DM22-EX2-S2">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Redzone, Roaring Invasion</name>
+      <text>
+■ Evolution—Put on one of your fire creatures.
+■ Invasion
+■ Triple Breaker
+■ When you put this creature, destroy all your opponent's creatures that have the highest power.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2-㊙1">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Life</name>
+      <text>
+■ Look at the top 2 cards of your deck. Put one of them into your mana zone, and the other into your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-55">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Barlowe, Devil Priest</name>
+      <text>
+■ When you put this creature, you may summon an evolution creature that has "Ballom" in its name from your graveyard For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-EX2-38">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zombiebar, Zombie</name>
+      <text>
+■ Evolution—Put on one of your darkness creatures.
+■ Invasion
+■ Double Breaker
+■ When you put this creature , you may put the top 5 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Invader</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-EX2-37">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dokindam Area, Forbidden of D</name>
+      <text>
+■ Whenever one of your creatures would leave, put a seal on that creature instead. 
+■ Seal
+■ ''(Whenever another D2 Field is put, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-6">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evil Heat, Screaming Demon Dragon</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, put the top card of your deck into your graveyard. Then return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-10">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ballom Quake, Lord of Demons</name>
+      <text>
+■ Mana evolution: Choose a Demon Command in your mana zone and put this creature on top of that creature.
+■ Triple Breaker
+■ When you put this creature, destroy all creatures except Demon Commands.
+■ Whenever your opponent would put a creature For No Cost
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-EX2-S10">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-23">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Babylon Gelg</name>
+      <text>
+■ Super Shield Trigger
+■ Destroy one of your opponent's creatures. 
+■ Icon
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-17">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>卍 De Szark 卍</name>
+      <text>
+■ Gate of Moonless Night
+■ Double Breaker
+■ When you put this creature, destroy one of your opponent's creatures.
+■ If there are 4 or more cards under this creature, your opponent's creatures are put tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master Dolszak/Mafi Gang</type>
+        <manacost>8</manacost>
+        <colors>Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-EX2-㊙2">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>George Barbstein/Ghost Touch</name>
+      <text>
+■ Smash Burst
+■ Whenever your opponent discards a card, choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+=========================
+■ Shield Trigger
+■ Your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mafi Gang</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-EX2-5">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Melge No Man/"Now, this is my only wish"</name>
+      <text>
+■ You may summon this creature from your graveyard.
+■ Smash Burst
+=========================
+■ Discard a card from your hand, then draw a card.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Hedrian</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-EX2-59">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nasuloscha, Date Doll</name>
+      <text>
+■ When you put this creature, search your deck and put a card from it into your graveyard. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-58">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Belladonna, Demon Faerie</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, choose one of the following.
+:► Discard one of your opponent's cards at random.
+:► Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Funky Knightmare</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-EX2-54">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-EX2-33">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Assault, Onifuda Kingdom!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Destroy one of your opponent's creatures that costs 8 or less.
+:► Put a creature that costs 8 or less from your graveyard.
+■ Onitime
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-28">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dugenda, Gig</name>
+      <text>
+■ When you put this creature, draw 2 cards then discard 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-EX2-71">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyakki no Jaoumon</name>
+      <text>
+■ Oniend
+■ Put the top 4 cards of your deck into your graveyard. From among the cards put into your graveyard in this way, choose a darkness or fire non-evolution creature that costs 6 or less and put it. Then you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-29">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balad Vi Na Shura</name>
+      <text>
+■ When you would Prevents Defeat
+■ Speed Attacker
+■ Double Breaker
+■ File:Oniend.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-EX2-S9">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kooni Doji</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, choose one of the following.
+:► Your opponent discards a card at random from their hand.
+:► Destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-EX2-49">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Joydam Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ When you put this creature, put a creature that costs 3 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-43">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Demon's Ons</name>
+      <text>
+■ Each of your creatures gets "slayer" until the End Step
+■ Add one of your shields to your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-40">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rigel-2, Soul Crystal</name>
+      <text>
+■ Mach Fighter
+■ When you put this creature, you may return a card from your mana zone or graveyard to your hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-53">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dischalce Dony</name>
+      <text>
+■ Mach Fighter
+■ This creature gets "slayer" while attacking a creature that costs 5 or less.
+■ When you put this creature, you may put a creature from your hand that costs 5 or less .
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-EX2-13">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diszircon</name>
+      <text>
+■ Blocker
+■ You may summon this creature from your mana zone or your graveyard.
+■ When you put this creature, draw 2 cards and discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-EX2-34">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wiljavelin, Sutured Fakespear</name>
+      <text>
+■ EX Life
+■ Triple Breaker
+■ When you put this creature, choose one of your opponent's cards in the battle zone, one in their mana zone and one from your opponent's hand at random. Your opponent puts them into their graveyard.
+■ At the end of your turn, choose a player. That player draws 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/King Command Dragon/Liquid People</type>
+        <manacost>10</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM22-EX2-S12">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Disi Choice</name>
+      <text>
+■ Blocker
+■ Slayer
+⁯■ When you put this creature, you may choose a card that has "shield trigger" from your mana zone. Use the chosen card for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command/Distas</type>
+        <manacost>6</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-EX2-14">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zack Zevol, the Necro-Riser</name>
+      <text>
+■ Slayer 
+■ When you put this creature, you may discard a card. If you do, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Zombie Dragon</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-73">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyakume-4, Spirit Treasure</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature or your opponent chooses this creature, put the top card of your deck into your mana zone. Then your opponent discards a card at random from their hand.
+■ Sasagale
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Pandora's Box/Arc Seraphim/Distas</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-31">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Tripper, Shadow Speed</name>
+      <text>
+■ Speed Attacker
+■ Whenever your opponent puts a card into their mana zone, tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-EX2-48">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yatto Paulu</name>
+      <text>
+■ When you put this creature, return one of your shields to your hand. You can't use the "shield trigger" ability of that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-EX2-62">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lost Re:Soul</name>
+      <text>
+■ Guard Strike
+■ Your opponent discards all cards from their hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-19">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dis Zorro Star</name>
+      <text>
+■ When you put this creature, shieldify the top card of your deck. Then put the top card of your deck into your graveyard. Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Oracle/Distas</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DM22-EX2-32">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakunetsu's Devil Oni Scroll</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, put the top 2 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Demonio/Oni RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-66">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jenny's Shadow</name>
+      <text>
+■ Shinkarise
+■ When you put this tamaseed, discard a card at random from your opponent's hand.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Death Puppet/RexStars</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-EX2-65">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Necrodragon Dark of the Lunar</name>
+      <text>
+■ Graveyard Vortex evolution—Choose 2 darkness creatures in your graveyard and put this creature on top of those creatures.
+■ Double Breaker
+■ When you put this creature, put the top 6 cards of your deck into your graveyard.
+■ Whenever one of your dragons attack, you may put a darkness creature that costs less than that creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-EX2-H9A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Necrodragon Dark of the Lunar</name>
+      <text>
+■ Graveyard Vortex evolution—Choose 2 darkness creatures in your graveyard and put this creature on top of those creatures.
+■ Double Breaker
+■ When you put this creature, put the top 6 cards of your deck into your graveyard.
+■ Whenever one of your dragons attack, you may put a darkness creature that costs less than that creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-EX2- H9B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Necrodragon Dark of the Lunar</name>
+      <text>
+■ Graveyard Vortex evolution—Choose 2 darkness creatures in your graveyard and put this creature on top of those creatures.
+■ Double Breaker
+■ When you put this creature, put the top 6 cards of your deck into your graveyard.
+■ Whenever one of your dragons attack, you may put a darkness creature that costs less than that creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-EX2-3">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Abryze Dolba</name>
+      <text>
+■ Powered Breaker
+■ When you put this creature, break 3 of your shields. 
+■ This creature gets +2000 power for each creature in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM22-EX2-H1A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Abryze Dolba</name>
+      <text>
+■ Powered Breaker
+■ When you put this creature, break 3 of your shields. 
+■ This creature gets +2000 power for each creature in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM22-EX2- H1B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Necrodragon Abryze Dolba</name>
+      <text>
+■ Powered Breaker
+■ When you put this creature, break 3 of your shields. 
+■ This creature gets +2000 power for each creature in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zombie Dragon</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM22-EX2-S3">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jashin Emperor, Abyssal Darkness</name>
+      <text>
+■ Double Breaker
+■ When you put this tamaseed, put the top card of your deck into your graveyard. Then destroy one of your opponent's creatures or tamaseeds that costs the same as or less than the number of cards in your graveyard. 
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Whenever this creature attacks, you may put a non-evolution creature that costs 6 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-EX2-H2A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jashin Emperor, Abyssal Darkness</name>
+      <text>
+■ Double Breaker
+■ When you put this tamaseed, put the top card of your deck into your graveyard. Then destroy one of your opponent's creatures or tamaseeds that costs the same as or less than the number of cards in your graveyard. 
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Whenever this creature attacks, you may put a non-evolution creature that costs 6 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-EX2- H2B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jashin Emperor, Abyssal Darkness</name>
+      <text>
+■ Double Breaker
+■ When you put this tamaseed, put the top card of your deck into your graveyard. Then destroy one of your opponent's creatures or tamaseeds that costs the same as or less than the number of cards in your graveyard. 
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Whenever this creature attacks, you may put a non-evolution creature that costs 6 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-EX2-S">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romaticdam Alking, Profane Synthetic King</name>
+      <text>
+■ Galaxy Vortex evolution Omega: Choose a creature from your graveyard, mana zone and battle zone and put this card on top of them.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ World Breaker
+■ Whenever an "EX Life" shield leaves your shield zone, put a card under this creature into the graveyard. If it's a non-evolution creature, put it from your graveyard. 
+■ Each of your Dispectors in your shield zone gets "Guard Strike".
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>New World Dragon/Dispector</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DM22-EX2-H8A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romaticdam Alking, Profane Synthetic King</name>
+      <text>
+■ Galaxy Vortex evolution Omega: Choose a creature from your graveyard, mana zone and battle zone and put this card on top of them.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ World Breaker
+■ Whenever an "EX Life" shield leaves your shield zone, put a card under this creature into the graveyard. If it's a non-evolution creature, put it from your graveyard. 
+■ Each of your Dispectors in your shield zone gets "Guard Strike".
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>New World Dragon/Dispector</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DM22-EX2- H8B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romaticdam Alking, Profane Synthetic King</name>
+      <text>
+■ Galaxy Vortex evolution Omega: Choose a creature from your graveyard, mana zone and battle zone and put this card on top of them.
+■ Extra EX Life ''(As you put this creature, shieldify the top 2 cards of your deck. When this creature would leave, put one of its shields into your graveyard instead.)''
+■ World Breaker
+■ Whenever an "EX Life" shield leaves your shield zone, put a card under this creature into the graveyard. If it's a non-evolution creature, put it from your graveyard. 
+■ Each of your Dispectors in your shield zone gets "Guard Strike".
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>New World Dragon/Dispector</type>
+        <manacost>9</manacost>
+        <colors>Light/Water/Darkness/Fire/Nature</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DM22-EX2-S15">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blackzone, Forbidden Lightning Sonic</name>
+      <text>
+■ Evolution: Put on one of your darkness or fire creatures. 
+■ S-Rank Invasion "Lightning Sonic"—Darkness or Fire Command ''(When one of your darkness or fire commands attack, you may put this creature from your hand, battle zone or graveyard onto it.) ''
+■ Triple Breaker
+■ When you put this creature, your opponent puts a seal on all their creatures that have the lowest power. 
+■ ''(To seal a card, put the top of your deck on top of that card. Each player ignores that creature while it's sealed.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/S-Rank Invader</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2-H5A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blackzone, Forbidden Lightning Sonic</name>
+      <text>
+■ Evolution: Put on one of your darkness or fire creatures. 
+■ S-Rank Invasion "Lightning Sonic"—Darkness or Fire Command ''(When one of your darkness or fire commands attack, you may put this creature from your hand, battle zone or graveyard onto it.) ''
+■ Triple Breaker
+■ When you put this creature, your opponent puts a seal on all their creatures that have the lowest power. 
+■ ''(To seal a card, put the top of your deck on top of that card. Each player ignores that creature while it's sealed.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/S-Rank Invader</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2- H5B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blackzone, Forbidden Lightning Sonic</name>
+      <text>
+■ Evolution: Put on one of your darkness or fire creatures. 
+■ S-Rank Invasion "Lightning Sonic"—Darkness or Fire Command ''(When one of your darkness or fire commands attack, you may put this creature from your hand, battle zone or graveyard onto it.) ''
+■ Triple Breaker
+■ When you put this creature, your opponent puts a seal on all their creatures that have the lowest power. 
+■ ''(To seal a card, put the top of your deck on top of that card. Each player ignores that creature while it's sealed.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/S-Rank Invader</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2-S7">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Apollodeath Phoenix, Darkness Supernova</name>
+      <text>
+■ Galaxy Vortex Deck Evolution: Put this creature on top of the top 3 cards of your deck. ''(Put the cards from your deck face down without looking at them.)''
+■ Triple Breaker
+■ Meteorburn: Whenever this creature attacks, you may put any number of cards under this creature into your graveyard. For each card put into the graveyard in this way, each of your opponent's creatures gets -4000 power until the End Step
+■ Whenever your opponent chooses this creature, choose 2 of your opponent's shields and put them into their owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix/Armored Dragon/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM22-EX2-H4A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Apollodeath Phoenix, Darkness Supernova</name>
+      <text>
+■ Galaxy Vortex Deck Evolution: Put this creature on top of the top 3 cards of your deck. ''(Put the cards from your deck face down without looking at them.)''
+■ Triple Breaker
+■ Meteorburn: Whenever this creature attacks, you may put any number of cards under this creature into your graveyard. For each card put into the graveyard in this way, each of your opponent's creatures gets -4000 power until the End Step
+■ Whenever your opponent chooses this creature, choose 2 of your opponent's shields and put them into their owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix/Armored Dragon/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM22-EX2- H4B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Apollodeath Phoenix, Darkness Supernova</name>
+      <text>
+■ Galaxy Vortex Deck Evolution: Put this creature on top of the top 3 cards of your deck. ''(Put the cards from your deck face down without looking at them.)''
+■ Triple Breaker
+■ Meteorburn: Whenever this creature attacks, you may put any number of cards under this creature into your graveyard. For each card put into the graveyard in this way, each of your opponent's creatures gets -4000 power until the End Step
+■ Whenever your opponent chooses this creature, choose 2 of your opponent's shields and put them into their owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Phoenix/Armored Dragon/Zombie Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DM22-EX2-S6">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rudolph Alcadeia, Mystic Light Shinkan</name>
+      <text>
+■ Guard Strike
+■ Blocker
+■ Double Breaker
+■ When you put this creature, you may put the top 4 cards of your deck into your graveyard. Then you may put a creature that costs 8 or less from your graveyard that can evolve from this creature on top of this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Dark Lord/Knight</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-EX2-H3A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rudolph Alcadeia, Mystic Light Shinkan</name>
+      <text>
+■ Guard Strike
+■ Blocker
+■ Double Breaker
+■ When you put this creature, you may put the top 4 cards of your deck into your graveyard. Then you may put a creature that costs 8 or less from your graveyard that can evolve from this creature on top of this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Dark Lord/Knight</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-EX2- H3B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rudolph Alcadeia, Mystic Light Shinkan</name>
+      <text>
+■ Guard Strike
+■ Blocker
+■ Double Breaker
+■ When you put this creature, you may put the top 4 cards of your deck into your graveyard. Then you may put a creature that costs 8 or less from your graveyard that can evolve from this creature on top of this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Dark Lord/Knight</type>
+        <manacost>5</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-EX2-S5">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vogenmu, Darmugenma</name>
+      <text>
+■ Triple Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command/Magic Tool</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-EX2-H11A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vogenmu, Darmugenma</name>
+      <text>
+■ Triple Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command/Magic Tool</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-EX2- H11B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Vogenmu, Darmugenma</name>
+      <text>
+■ Triple Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command/Magic Tool</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-EX2-16">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bhutan, School Pig</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy 2 of your creatures. Then your opponent chooses one of their creatures and destroys it. 
+■ You can't put other exile creatures that have "School" in their name into the battle zone.
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-EX2-H12A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bhutan, School Pig</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy 2 of your creatures. Then your opponent chooses one of their creatures and destroys it. 
+■ You can't put other exile creatures that have "School" in their name into the battle zone.
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-EX2- H12B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bhutan, School Pig</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy 2 of your creatures. Then your opponent chooses one of their creatures and destroys it. 
+■ You can't put other exile creatures that have "School" in their name into the battle zone.
+  </text>
+      <prop>
+        <maintype>Exile Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-EX2-36">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect World, Connected Planetary Soul</name>
+      <text>
+■ EX Life
+■ Double Breaker
+■ Whenever a card is put from your shield zone into your graveyard, if it's a Distas or Dispector that costs the same as or or less than the number of cards in your mana zone, put it. Otherwise, add it to your hand.
+■ Each of your other creatures get "Sasagale 2".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/World Command Dragon/Distas</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-EX2-11">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kuroyu Lesia, Darkness's Grudgeful Grass Warrior</name>
+      <text>
+■ Revolution Change
+■ Triple Breaker
+■ Each of your Dragons gets "speed attacker".
+■ When this creature leaves, you may put a creature that costs 6 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon/Team Acme</type>
+        <manacost>8</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2-H6A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kuroyu Lesia, Darkness's Grudgeful Grass Warrior</name>
+      <text>
+■ Revolution Change
+■ Triple Breaker
+■ Each of your Dragons gets "speed attacker".
+■ When this creature leaves, you may put a creature that costs 6 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon/Team Acme</type>
+        <manacost>8</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2- H6B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kuroyu Lesia, Darkness's Grudgeful Grass Warrior</name>
+      <text>
+■ Revolution Change
+■ Triple Breaker
+■ Each of your Dragons gets "speed attacker".
+■ When this creature leaves, you may put a creature that costs 6 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon/Team Acme</type>
+        <manacost>8</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-EX2-S8">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jaouga Ogre, Oniga Villain</name>
+      <text>
+■ File:Oniend.png
+■ Speed Attacker
+■ When you put this creature, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Demon Command/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-EX2-H10A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jaouga Ogre, Oniga Villain</name>
+      <text>
+■ File:Oniend.png
+■ Speed Attacker
+■ When you put this creature, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Demon Command/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-EX2- H10B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jaouga Ogre, Oniga Villain</name>
+      <text>
+■ File:Oniend.png
+■ Speed Attacker
+■ When you put this creature, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Demon Command/Oni RexStars</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-EX2-9">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beethoven Solemnis, Zenith of "Requiem"</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, destroy all your opponent's Dragons. For each Dragon destroyed this way, put one of your opponent's shields into their owner's graveyard.
+■ Whenever your opponent would put a Dragon, your opponent puts it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM22-EX2-H7A">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beethoven Solemnis, Zenith of "Requiem"</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, destroy all your opponent's Dragons. For each Dragon destroyed this way, put one of your opponent's shields into their owner's graveyard.
+■ Whenever your opponent would put a Dragon, your opponent puts it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM22-EX2- H7B">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Beethoven Solemnis, Zenith of "Requiem"</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, destroy all your opponent's Dragons. For each Dragon destroyed this way, put one of your opponent's shields into their owner's graveyard.
+■ Whenever your opponent would put a Dragon, your opponent puts it into their graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM22-EX2-S13">DM22-EX2</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

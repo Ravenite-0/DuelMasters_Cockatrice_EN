@@ -1,0 +1,1589 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-15</name>
+      <longname>DMRP-15</longname>
+      <settype>DMRP-15</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Tulk, the Oracle</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer</type>
+        <manacost>1</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DMRP-15-63">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hearty Cap'n Polligon</name>
+      <text>
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-83">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Triguard Charger</name>
+      <text>
+■ You may return a shield to your hand. However, you can't use the "shield trigger" ability of that shield.
+■ You may add a card from your hand to your shields face down.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-13">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor, Infinite Dragon</name>
+      <text>
+■ Mugen Climb
+■ Infinity Breaker
+■ Blocker
+■ Ignore the ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Infinite Master Dragon/Team Zero</type>
+        <manacost></manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-KM1">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Genmu Emperor, Infinite Dragon</name>
+      <text>
+■ Mugen Climb
+■ Infinity Breaker
+■ Blocker
+■ Ignore the ability
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Infinite Master Dragon/Team Zero</type>
+        <manacost></manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15- 秘1">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zanboron, Gig</name>
+      <text>
+■ This creature can't attack.
+■ Whenever you tap this creature using the "Mugen Climb" ability, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-67">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zanboron, Gig</name>
+      <text>
+■ This creature can't attack.
+■ Whenever you tap this creature using the "Mugen Climb" ability, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 67f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zanboron, Gig</name>
+      <text>
+■ This creature can't attack.
+■ Whenever you tap this creature using the "Mugen Climb" ability, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 秘5">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bikabika Cho, Climb</name>
+      <text>
+■ Mugen Climb
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-65">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bikabika Cho, Climb</name>
+      <text>
+■ Mugen Climb
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 65f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meteorshower Auroratheater</name>
+      <text>
+■ Vividdraw
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, draw 3 cards.
+■ This creature can't be blocked.
+■ While this creature is attacking, your opponent can't put a creature that costs the same as or less than the number of cards in your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Phoenix/Bikkuri Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-15-KM2">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meteorshower Auroratheater</name>
+      <text>
+■ Vividdraw
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, draw 3 cards.
+■ This creature can't be blocked.
+■ While this creature is attacking, your opponent can't put a creature that costs the same as or less than the number of cards in your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Phoenix/Bikkuri Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Water/Fire</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-15- 秘6">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dugenda, Gig</name>
+      <text>
+■ When you put this creature, draw 2 cards then discard 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-91">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dugenda, Gig</name>
+      <text>
+■ When you put this creature, draw 2 cards then discard 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15- 91f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moon, Destruction, Satan and Angel</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature, put the top 2 cards of your deck into your shield zone face down.
+■ At the End Step
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command/Gekko Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DMRP-15-KM3">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moon, Destruction, Satan and Angel</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature, put the top 2 cards of your deck into your shield zone face down.
+■ At the End Step
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command/Gekko Kingdom</type>
+        <manacost>7</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DMRP-15- 秘11">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyakki no Jaoumon</name>
+      <text>
+■ Oniend
+■ Put the top 4 cards of your deck into your graveyard. From among the cards put into your graveyard in this way, choose a darkness or fire non-evolution creature that costs 6 or less and put it. Then you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-28">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shrubamie, Flame Actor</name>
+      <text>
+■ Vividdraw
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15-76">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shrubamie, Flame Actor</name>
+      <text>
+■ Vividdraw
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15- 76f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tsukai, Moon Magic</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, put one of your shields into your graveyard.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMRP-15-48">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tsukai, Moon Magic</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, put one of your shields into your graveyard.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DMRP-15- 48f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Loneliness, Treasure-Taking Moon</name>
+      <text>
+■ Double Breaker
+■ Your opponent's spells cost 1 more to cast.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Gekko Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMRP-15-S1">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Loneliness, Treasure-Taking Moon</name>
+      <text>
+■ Double Breaker
+■ Your opponent's spells cost 1 more to cast.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Gekko Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>6500</pt>
+      </prop>
+      <set num="DMRP-15- 秘12">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>「Celebrate! The final curtain of this story!」</name>
+      <text>
+■ Vividdraw
+■ Draw a card. Then put a water or fire creature that costs 7 or less from your hand into the battle zone. That creature gets "speed attacker". At the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>6</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-26">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>「Behold, this is the essence of super science!」</name>
+      <text>
+■ Vividdraw
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-68">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>「Behold, this is the essence of super science!」</name>
+      <text>
+■ Vividdraw
+■ Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15- 68f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Saikyo! Zero MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one water creature and at least one darkness creature in the battle zone, you may choose both.
+:► Choose up to 2 of your opponent's creatures. Until the start of your next turn, they can't attack or block.
+:► Put the top 4 cards of your deck into your graveyard. Then you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-25">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kamekamen, Magic Chain</name>
+      <text>
+■ Abarechain
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk/Bouken Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-1">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wodara Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ When you put this creature, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-34">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wodara Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ When you put this creature, draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15- 34f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shadow, Who Emerges From the Shadow and Returns to the Shadow</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put the top card of your deck into your shield zone face down.
+■ At the start of your opponent's turn, choose one of your opponent's creatures. That creature attacks this turn if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command/Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-15-6">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shadow, Who Emerges From the Shadow and Returns to the Shadow</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, put the top card of your deck into your shield zone face down.
+■ At the start of your opponent's turn, choose one of your opponent's creatures. That creature attacks this turn if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Demon Command/Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-15- 秘13">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Due Milioni, Immeasurably Big Dragon</name>
+      <text>
+■ Mugen Climb
+■ Double Breaker
+■ When you put this creature into the battle zone or whenever it attacks, choose one of your opponent's creatures. That creature gets -11000 power until the End Step
+■ Whenever any of your opponent's creatures are destroyed, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zero Dragon/Team Zero</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-15-S8">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Due Milioni, Immeasurably Big Dragon</name>
+      <text>
+■ Mugen Climb
+■ Double Breaker
+■ When you put this creature into the battle zone or whenever it attacks, choose one of your opponent's creatures. That creature gets -11000 power until the End Step
+■ Whenever any of your opponent's creatures are destroyed, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Zero Dragon/Team Zero</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-15- 秘2">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorokio Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ Shield Trigger
+■ Blocker
+■ Whenever this creature taps, choose one of your opponent's creatures. That creature can't attack or block until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-15">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorokio Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ Shield Trigger
+■ Blocker
+■ Whenever this creature taps, choose one of your opponent's creatures. That creature can't attack or block until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 秘4">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rojunior Advent</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard. Then choose up to 2 creatures from your graveyard that have total cost 2 or less and put them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-39">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rojunior Advent</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard. Then choose up to 2 creatures from your graveyard that have total cost 2 or less and put them into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15- 39f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zanblog, Gig</name>
+      <text>
+■ If you have 4 or more cards in your mana zone, you may discard a water or darkness creature from your hand to summon this creature instead of paying the cost.
+■ Blocker
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-52">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zanblog, Gig</name>
+      <text>
+■ If you have 4 or more cards in your mana zone, you may discard a water or darkness creature from your hand to summon this creature instead of paying the cost.
+■ Blocker
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15- 52f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Comic Relief, Plot Device</name>
+      <text>
+■ Vividdraw
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 8000 or less. Then choose one of your opponent's creatures and return it to it's owner's hand.
+■ Whenever one of your creatures would be destroyed, you may put it on the top of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-15-S9">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Comic Relief, Plot Device</name>
+      <text>
+■ Vividdraw
+■ Blocker
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has power 8000 or less. Then choose one of your opponent's creatures and return it to it's owner's hand.
+■ Whenever one of your creatures would be destroyed, you may put it on the top of your deck instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>8</manacost>
+        <colors>Water/Fire</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMRP-15- 秘7">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Villainheel, Absolute Antagonist</name>
+      <text>
+■ Vividdraw
+■ Double Breaker
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ Whenever this creature wins a battle, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-15-4">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Villainheel, Absolute Antagonist</name>
+      <text>
+■ Vividdraw
+■ Double Breaker
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ Whenever this creature wins a battle, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-15- 秘8">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Astrochuuno, Nayuta</name>
+      <text>
+■ Mugen Climb
+■ When you put this creature, each of your creatures gets "slayer" until the start of your next turn.
+■ When you put this creature, draw a card for each of your tapped creatures in the battle zone. Then for each card drawn this way, discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-15-8">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Astrochuuno, Nayuta</name>
+      <text>
+■ Mugen Climb
+■ When you put this creature, each of your creatures gets "slayer" until the start of your next turn.
+■ When you put this creature, draw a card for each of your tapped creatures in the battle zone. Then for each card drawn this way, discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>4</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-15- 秘3">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mujun! Gekko MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one darkness creature in the battle zone, you may choose both.
+:► Put the top card of your deck into your shield zone face down.
+:► Destroy one of your opponent's creatures. Then put one of your shields into your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Gekko Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-22">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ougon! Bouken MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one light creature and at least one nature creature in the battle zone, you may choose both.
+:► Put all your opponent's creatures that have power 2000 or less into your opponent's mana zone.
+:► Choose one of your opponent's non-evolution creatures and put it into its owner's shield zone face up.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bouken Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Light/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-23">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Senbatsu! Bikkuri MAX</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. If you have at least one water creature and at least one fire creature in the battle zone, you may choose both.
+:► Look at the top 2 cards of your deck. Put one of them on the bottom of your deck. Then you may draw a card.
+:► Destroy one of your opponent's creatures that costs less than the number of cards in your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-27">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momodachi Training!!!</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 13000 or less.
+■ Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers/Team Kirifuda</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-29">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Guruburu Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-15-90">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Guruburu Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-15- 90f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goguma Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ Double Breaker
+■ Whenever this creature attacks, choose one of your opponent's creatures. That creature gets -6000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-15-37">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goguma Gai, Climb</name>
+      <text>
+■ Mugen Climb
+■ Double Breaker
+■ Whenever this creature attacks, choose one of your opponent's creatures. That creature gets -6000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMRP-15- 37f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Durappa, Gig</name>
+      <text>
+■ When you put this creature into the battle zone, both players choose and discard a card from their hand.
+■ When this creature would be destroyed, return it to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15-53">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Durappa, Gig</name>
+      <text>
+■ When you put this creature into the battle zone, both players choose and discard a card from their hand.
+■ When this creature would be destroyed, return it to your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15- 53f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kurokokokera, Scene Shifter</name>
+      <text>
+■ When you put this creature into the battle zone, put your hand on the bottom of your deck in any order. Then draw the same number of cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15-55">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kurokokokera, Scene Shifter</name>
+      <text>
+■ When you put this creature into the battle zone, put your hand on the bottom of your deck in any order. Then draw the same number of cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15- 55f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kurokokokera, Scene Shifter</name>
+      <text>
+■ When you put this creature into the battle zone, put your hand on the bottom of your deck in any order. Then draw the same number of cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15- 秘9">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shinigami, Moon's Dusk</name>
+      <text>
+■ Slayer
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-17">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shinigami, Moon's Dusk</name>
+      <text>
+■ Slayer
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 秘14">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ningyo, Sinking Moonlight</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, put the top card of your deck into your graveyard.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-15-49">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ningyo, Sinking Moonlight</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, put the top card of your deck into your graveyard.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-15- 49f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ningyo, Sinking Moonlight</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, put the top card of your deck into your graveyard.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-15- 秘15">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pierrogue, the Jester</name>
+      <text>
+■ Vividdraw
+■ Speed Attacker
+■ This creature can't be blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-92">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pierrogue, the Jester</name>
+      <text>
+■ Vividdraw
+■ Speed Attacker
+■ This creature can't be blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 92f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pierrogue, the Jester</name>
+      <text>
+■ Vividdraw
+■ Speed Attacker
+■ This creature can't be blocked.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 秘10">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kumotsu, Moon's Unknown Death</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15-31">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kumotsu, Moon's Unknown Death</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-15- 31f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sakuratogaki, Dancer</name>
+      <text>
+■ Vividdraw
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15-33">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sakuratogaki, Dancer</name>
+      <text>
+■ Vividdraw
+■ Blocker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15- 33f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>「Press! Crush! Great Collapse!」</name>
+      <text>
+■ Vividdraw
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15-42">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>「Press! Crush! Great Collapse!」</name>
+      <text>
+■ Vividdraw
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 4000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-15- 42f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oshiyabami, Supporter</name>
+      <text>
+■ Whenever you summon a water or fire creature into the battle zone, discard a card, then draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15-54">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oshiyabami, Supporter</name>
+      <text>
+■ Whenever you summon a water or fire creature into the battle zone, discard a card, then draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15- 54f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kikai, Emotionless Moonlight</name>
+      <text>
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Shine Monster/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-62">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kikai, Emotionless Moonlight</name>
+      <text>
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Shine Monster/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15- 62f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ohakogakuya, Observer</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. Then put them back in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-66">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ohakogakuya, Observer</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. Then put them back in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15- 66f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Netanaraku, Geisha</name>
+      <text>
+■ Each turn, your second and subsequent creatures cost 1 less to summon. They can't cost 0 or less.
+■ Each turn, your second and subsequent spells by 1 cost 1 less to cast. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15-93">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Netanaraku, Geisha</name>
+      <text>
+■ Each turn, your second and subsequent creatures cost 1 less to summon. They can't cost 0 or less.
+■ Each turn, your second and subsequent spells by 1 cost 1 less to cast. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Bikkuri Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-15- 93f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wings that can't Fly, It's a Fallen Beast</name>
+      <text>
+■ Whenever this creature attacks, look at one of your shields. You may put that shield card on the bottom of your deck in any order. If you do, add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cosmo Walker/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-15-61">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wings that can't Fly, It's a Fallen Beast</name>
+      <text>
+■ Whenever this creature attacks, look at one of your shields. You may put that shield card on the bottom of your deck in any order. If you do, add the top card of your deck to your shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cosmo Walker/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMRP-15- 61f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akari, Moon's Unreachable Street</name>
+      <text>
+■ Blocker
+■ When this creature attacks, destroy it after the attack.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15-71">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akari, Moon's Unreachable Street</name>
+      <text>
+■ Blocker
+■ When this creature attacks, destroy it after the attack.
+■ Oshiokimoon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-15- 71f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Love-hungry Koroshiya</name>
+      <text>
+■ Blocker
+■ Slayer
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15-86">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Love-hungry Koroshiya</name>
+      <text>
+■ Blocker
+■ Slayer
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-15- 86f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kehai Lurking at Night</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMRP-15-87">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kehai Lurking at Night</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Devil Mask/Gekko Kingdom</type>
+        <manacost>2</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>4500</pt>
+      </prop>
+      <set num="DMRP-15- 87f">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gashadodokuro, Oni of "Soul Hunting"</name>
+      <text>
+■ This creature can't attack.
+■ Onitime
+■ At the start of your turn, put one of your shields into your hand. You can't use the "shield trigger".
+■ Quattro Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>21000</pt>
+      </prop>
+      <set num="DMRP-15-10">DMRP-15</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,103 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-05</name>
+      <longname>DMART-05</longname>
+      <settype>DMART-05</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Dark Masters, Demon Dragon</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, look at your opponent's hand and discard up to 3 cards from it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMART-05-5">DMART-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mega Magma Dragon</name>
+      <text>
+■ This creature costs 1 less to summon for each of your opponent's creatures in the battle zone. It can't cost 0 or less.
+■ Double Breaker
+■ When you put this creature into the battle zone, destroy all creatures that have 5000 power or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMART-05-2">DMART-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kirazeus Savark</name>
+      <text>
+■ Dragon Double Breaker ''(This creature breaks 2 shields. Before the break
+■ When you put this creature, choose one of your opponent's cards in the battle zone and put it on top of one of their shields Face Up
+■ Whenever one of your creatures would leave the battle zone, you may put a Face Up
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Master Dragon/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMART-05-1">DMART-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyaia, Ground Seal Dragon</name>
+      <text>
+■ Quattro Breaker
+■ Whenever your opponent would put a creature with an Ability that starts with "When you put this creature into the battle zone"
+■ During your turn, you may summon a creature from your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Gaia Command Dragon/Bouken Kingdom</type>
+        <manacost>9</manacost>
+        <colors>Nature</colors>
+        <pt>18000</pt>
+      </prop>
+      <set num="DMART-05-3">DMART-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiash Kaiser, the Meteor</name>
+      <text>
+■ At the end of your opponent's turn, if your opponent put a creature or cast a spell without tapping a card in their mana zone that turn, and you don't have a '''Gaiash Kaiser, the Meteor''', you may summon this creature for no cost.
+■ Double Breaker
+■ When you put this creature, draw 2 cards.
+■ Your creatures that cost 10 or more cost 4 less to summon. They can't cost 0 or less.
+■ Your opponent's creatures can't attack players on the turn they are put.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Command Dragon/Green Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Water/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMART-05-4">DMART-05</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

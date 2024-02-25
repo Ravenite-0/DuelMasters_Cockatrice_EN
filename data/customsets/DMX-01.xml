@@ -1,0 +1,690 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-01</name>
+      <longname>DMX-01</longname>
+      <settype>DMX-01</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Überdragon Bajula</name>
+      <text>
+■ Evolution—Put on one of your creatures that has Dragon in its race. 
+■ Whenever this creature attacks, choose up to 2 cards in your opponent's mana zone. Your opponent puts those cards into his graveyard. 
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMX-01-S1">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mist Rias, Sonic Guardian</name>
+      <text>
+■ Whenever another creature is put into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-01-4">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wind Axe, the Warrior Savage</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker." Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-01-26">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miraculous Plague</name>
+      <text>
+■ Multi
+■ Choose 2 of your opponent's creatures in the battle zone. Your opponent chooses one of them, puts it into his hand, and destroys the other one. Then choose 2 cards in your opponent's mana zone. Your opponent chooses one of them, puts it into his hand, and puts the other one into his graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-S2">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Reap and Sow</name>
+      <text>
+■ Multi
+■ Choose a card in your opponent's mana zone and put it into his graveyard. Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-27">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miraculous Snare</name>
+      <text>
+■ Multi
+■ Choose a non-evolution creature in the battle zone and add it to its owner's shields face down.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-2">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emergency Typhoon</name>
+      <text>
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-32">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Grave of Angels and Demons</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ If there are 2 or more creatures that have the same Card Name
+■ Look at each player's mana zone. If there are 2 or more cards that have the same Card Name
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-14">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Time Tripper, Shadow of Stagnation</name>
+      <text>
+■ Whenever your opponent's puts a card into their mana zone, tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-8">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dreaming Moon Knife</name>
+      <text>
+■ When you put this creature into the battle zone, you may put a card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-38">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pakurio</name>
+      <text>
+■ When you put this creature into the battle zone, you may look at your opponent's hand and add a card from it to their shields face down.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-18">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noble Enforcer</name>
+      <text>
+■ Cross Gear Effect 
+■ The crossed creature can't be attacked or blocked by creatures that have power 2000 or less.
+■ While this card isn't crossed with a creature, creatures that have power 2000 or less can't attack or block.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-7">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jenny, the Dismantling Puppet</name>
+      <text>
+■ When you put this creature, look at your opponent's hand and discard a card from it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-33">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ochappi, Pure Hearted Faerie</name>
+      <text>
+■ Strike Back
+■ When you put this creature into the battle zone, you may put a card from your graveyard into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-25">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crest of Mother</name>
+      <text>
+■ Choose a civilization. You may put one of your creatures that has the chosen civilization from the battle zone into your mana zone. If you do, choose a creature in your mana zone that has the same civilization as the chosen creature that costs the same as or less than than the number of cards in your mana zone and put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-10">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Romanesk, the Dragon Wizard</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may put the top 4 cards of your deck into your mana zone.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Apollonia Dragon/Armored Dragon/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light/Fire/Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-01-S3">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Queen Alcadeias, Holy Gaia</name>
+      <text>
+■ Multi
+■ Evolution—Put on one of your multicolored creatures.
+■ Your opponent can't cast spells other than multicolored spells.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Angel Command/Lost Crusader</type>
+        <manacost>6</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMX-01-3">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Amaterasu, Founder of the Blue Wolves</name>
+      <text>
+■ When you put this creature into the battle zone, choose one of the following.
+:► Search your deck. Choose a spell that costs 4 or less from it and shuffle your deck. Then cast that spell for no cost.
+:► Search your deck. Choose a cross gear that costs 4 or less from it and shuffle your deck. Then generate that cross gear for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Knight/Samurai/Origin</type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-01-6">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Galaxy, Immortality Elemental</name>
+      <text>
+■ Double Breaker
+■ Shield Force
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DMX-01-1">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chief De Baula, Machine King of Mystic Light</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When you put this creature into the battle zone, you may return a spell from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Knight</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-01-5">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mil Armor, Mecha King Vizier</name>
+      <text>
+■ Multi
+■ Blocker
+■ Your spells may each cost 1 less to cast. They can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Great Mecha King/Initiate</type>
+        <manacost>3</manacost>
+        <colors>Light/Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-01-40">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Lord Reis, Wisdom Elemental</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Whenever you put a creature that has "Blocker" into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-01-13">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sanctuary of the Mother</name>
+      <text>
+■ Put one of your non-evolution creatures in the battle zone into your mana zone. If you do, choose an evolution creature in your mana zone that costs the same as or less than the number of cards in your mana zone and put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-11">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tensai Janit of the Hidden Blade</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, you may choose another creature in the battle zone that costs 3 or less and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Shinobi</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-31">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hustle Castle</name>
+      <text>
+■ Castle Fortify
+■ Whenever you put a creature into the battle zone, you may draw a card. 
+■ If the fortified shield isn't fortified by any other castles, whenever the fortified shield would be broken by your opponent's creatures, you may return one of your other shields to your hand instead.
+  </text>
+      <prop>
+        <maintype>Castle</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-12">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rose Castle</name>
+      <text>
+■ Castle Fortify
+■ Each of your opponent's creatures in the battle zone gets -1000 power. ''(A creature that has power 0 or less is destroyed.)''
+  </text>
+      <prop>
+        <maintype>Castle</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-22">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Huckle Kirin Sawyer, Jungle Governor</name>
+      <text>
+■ Mana Evolution
+■ Shield Force
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Dreammate</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-01-24">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prince Avaraldo, Cavalier of Thunder</name>
+      <text>
+■ When you put this creature into the battle zone, reveal the top 3 cards of your deck. You may put any number of spells revealed in this way into your hand, and the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Arc Seraphim/Knight</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-16">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Submarine Fortress Lair</name>
+      <text>
+■ Castle Fortify
+■ At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Castle</maintype>
+        <type></type>
+        <manacost>1</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-19">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sol Habaki, Apocalyptic Sage</name>
+      <text>
+■ When you put this creature, you may return a card from your mana zone to your hand. If you do, put a card from your hand into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Light Bringer/Gladiator/Origin</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-30">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dark Sanji, Darkfang Ninja</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. That creature gets -2000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dark Monster/Shinobi</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-01-20">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kodamanma, All-Devouring Doll</name>
+      <text>
+■ When you put this creature into the battle zone, return one of your shields to your hand. You can't use the "shield trigger" ability of that shield.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-01-34">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terse Ruth, Lightboom Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ Whenever your opponent puts a card in your mana zone into your graveyard, you may return that card to your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMX-01-17">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fire Crystal Bomb</name>
+      <text>
+■ Destroy one of your opponent's creatures that has power 5000 or less.
+■ Return a card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-37">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Persistent Prison of Gaia</name>
+      <text>
+■ Multi
+■ Choose one of your opponent's creatures in the battle zone and return it to its owner's hand. Then your opponent discards a card at random from their hand. If the discarded creature has the same name as the returned creature, choose one of your opponent's shields and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-28">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Faerie Miracle</name>
+      <text>
+■ Put the top card of your deck into your mana zone.
+■ If you have all civilizations in your mana zone, put another card from the top of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-01-39">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Raging Dragon Lord</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>25000</pt>
+      </prop>
+      <set num="DMX-01-9">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Procyon Dragoon</name>
+      <text>
+■ When you first put a card into your mana zone during your turn, you may put a card from your mana zone into your graveyard. If you do, return that card to your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tyranno Drake/Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-01-21">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Psychen Pippi</name>
+      <text>
+■ Saver: file:Victory Rare.png
+■ When this creature is discarded during your opponent's turn, you may put a tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-01-23">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cheering Pippi</name>
+      <text>
+■ Your Dragons may cost 1 less to summon and your Commands may cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Flame Monster</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-01-35">DMX-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

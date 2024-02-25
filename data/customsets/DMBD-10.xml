@@ -1,0 +1,314 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-10</name>
+      <longname>DMBD-10</longname>
+      <settype>DMBD-10</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Varz Romanov, Dark Lord of Demons</name>
+      <text>
+■ Graveyard evolution—Choose a darkness creature in your graveyard and put this creature into the battle zone on top of that creature.
+■ When you put this creature into the battle zone, destroy one of your opponent's non-evolution creatures.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Dark Lord</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMBD-10-12">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Atsuto, Duel Hero Strategist</name>
+      <text>
+■ When you put this creature, you may draw 2 cards. If you do, discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-10-18">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ragnarok, the Clock</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, skip the rest of the turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-10-11">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Black Psycho, Revenge</name>
+      <text>
+■ Evolution—Put on one of your darkness creatures.
+■ Invasion
+■ Double Breaker
+■ When you put this creature into the battle zone, your opponent discards 2 cards at random from their hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Invader</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMBD-10-6">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deadzone, S-Rank Zombie</name>
+      <text>
+■ Evolution—Put on one of your darkness creatures.
+■ S-Rank Invasion "Zombie": Darkness Command ''(When one of your Darkness Commands attack, you may put this creature from your hand or graveyard onto it.)''
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures. That creature gets -9000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Sonic Command/S-Rank Invader</type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMBD-10-1">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shuff, Eureka</name>
+      <text>
+■ When you put this creature or whenever it attacks, choose a number. Until the start of your next turn, your opponent can't cast spells that cost the same as that number and your opponent's creatures that cost the same can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Command/Great Mecha King/Invader</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMBD-10-5">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zombiebar, Zombie</name>
+      <text>
+■ Evolution—Put on one of your darkness creatures.
+■ Invasion
+■ Double Breaker
+■ When you put this creature , you may put the top 5 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Invader</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-10-15">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorbro, Final Forbidden Gamma</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When this creature wins a battle, destroy this creature.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Initials X</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-10-16">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noron Up, "Question 2"</name>
+      <text>
+■ When you put this creature, draw 2 cards. Then discard 2 cards.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Revolutionary/Team Tech</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-10-17">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Platina Walsura S</name>
+      <text>
+■ Evolution―Put on one of your water creatures.
+■ Double Breaker
+■ Whenever this creature attacks, you may draw 3 cards. If you do, discard a card.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Magic Command/Initials</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-10-4">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-10-14">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyaribeta, Misfortune Demon 09</name>
+      <text>
+■ You may summon this creature from your graveyard.
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Demon Command</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMBD-10-3">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiner, Shock Doctor</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, use the next ability 3 times.
+:► Choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-10-13">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dead Damned, Triple S-Rank Disaster</name>
+      <text>
+■ Evolution: Put on one of your water, darkness or nature creatures.
+■ SSS-Rank Invasion "Disaster": Water, Darkness or Nature Command ''(When one of your Water, Darkness or Nature Commands attack, you may put this card from the battle zone, your hand, graveyard or mana zone onto it.)''
+■ Double Breaker
+■ When you put this creature onto another creature, choose one of your opponent's creatures and put it into its owner's graveyard or mana zone or return it to their hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Trinity Command/S-Rank Invader</type>
+        <manacost>8</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DMBD-10-2">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Belladonna, Demon Faerie</name>
+      <text>
+■ When you put this creature, you may destroy this creature. If you do, choose one of the following.
+:► Discard one of your opponent's cards at random.
+:► Put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Snow Faerie/Funky Knightmare</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-10-9">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deddam, Disaster</name>
+      <text>
+■ When you put this creature, look at the top 3 cards of your deck. Put one of them into your hand, one into your mana zone and one into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Trinity Command/Invader</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-10-10">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Verde, Rainbow Sonic</name>
+      <text>
+■ You may summon this creature from your mana zone.
+■ Mach Fighter
+■ This creature has all civilizations while in the battle zone or in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Invader</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMBD-10-8">DMBD-10</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

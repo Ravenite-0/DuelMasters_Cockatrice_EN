@@ -1,0 +1,219 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMBD-04</name>
+      <longname>DMBD-04</longname>
+      <settype>DMBD-04</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>DNA Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ If you have 2 shields or less, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-04-11">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Crysta, First Squad</name>
+      <text>
+■ Your Metallica cost 1 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-04-15">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bernine, Dragon Armored</name>
+      <text>
+■ When you put this creature or another Metallica into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dragon Guild/Metallica</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMBD-04-10">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Levoix, Blue Defense Silver</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may tap one of your creatures. If you do, choose one of your opponent's creatures and tap it.
+■ You may untap this creature to change your opponent's creature's attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMBD-04-4">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valha, Dragon Armored</name>
+      <text>
+■ Neo Evolution
+■ Double Breaker
+■ Whenever this creature attacks, choose up to 2 of your opponent's creatures and tap them. If this is a Neo Evolution Creature, the chosen creatures don't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Dragon Guild/Metallica</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMBD-04-9">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Topaz, Strange Stone</name>
+      <text>
+■ Neo Evolution
+■ You may untap this creature to change your opponent's creature's attack to this creature or one of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Metallica</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMBD-04-14">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Justy Luminarie</name>
+      <text>
+■ Shield Trigger
+■ You may put a non-evolution light creature that costs 5 or less from your hand into the battle zone.
+■ Labyrinth: If you have more shields than your opponent, you may put a non-evolution Metallica that costs 8 or less from your hand into the battle zone tapped.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-04-12">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Law Guard, Geared for War</name>
+      <text>
+■ When you put this creature into the battle zone, add the top card of your deck to your shields face down.
+■ Whenever a card is added to your shields, choose one of your opponent's creatures and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMBD-04-13">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>One Eye's Judgment</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-04-8">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Emesulm Luminarie</name>
+      <text>
+■ Instead of paying the cost, you may tap 4 of your light creatures to cast this spell.
+■ You may put a Metallica that costs 8 or less from your hand into the battle zone. Then you may tap it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMBD-04-7">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ial, Green Knowledge Silver</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature into the battle zone, if your opponent has more cards in their mana zone than you have in yours, put the top 2 cards of your deck into your mana zone.
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-04-5">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Makuro, Strange Stone</name>
+      <text>
+■ When you put this creature into the battle zone, look at the top 3 cards of your deck. You may choose a Metallica or a spell from among them, show that card to your opponent and add it to your hand. Put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Metallica</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMBD-04-6">DMBD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

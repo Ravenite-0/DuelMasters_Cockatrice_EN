@@ -1,0 +1,560 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-03</name>
+      <longname>DMR-03</longname>
+      <settype>DMR-03</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Prin Prin, the Eternal</name>
+      <text>
+■ Each of your Aliens in the battle zone, your mana zone, and your graveyard is a Hunter in addition to its other races.
+■ Each of your Hunters in the battle zone, your mana zone, and your graveyard is an Alien in addition to its other races.
+■ Whenever this creature would lose a battle and be destroyed, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Alien/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-03-14">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin Prin, the Eternal</name>
+      <text>
+■ Each of your Aliens in the battle zone, your mana zone, and your graveyard is a Hunter in addition to its other races.
+■ Each of your Hunters in the battle zone, your mana zone, and your graveyard is an Alien in addition to its other races.
+■ Whenever this creature would lose a battle and be destroyed, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Alien/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMR-03- 14m">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forever Kaiser, the Meteor</name>
+      <text>
+■ Your opponent's psychic creatures can't attack players.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-03-V1a">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forever Kaiser, the Meteor</name>
+      <text>
+■ Your opponent's psychic creatures can't attack players.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Red Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-03- V1b">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ukon Pippi</name>
+      <text>
+■ Each of your Dragons in the battle zone gets +2000 power.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-03-42a">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ukon Pippi</name>
+      <text>
+■ Each of your Dragons in the battle zone gets +2000 power.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-03-42b">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sakon Pippi</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-03-43a">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sakon Pippi</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-03-43b">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Joan of Arc, Goddess of Victory</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, whenever this creature attacks or whenever this creature blocks, you may choose up to 2 of your opponent's creatures in the battle zone and tap them. 
+■ Double Breaker
+■ Whenever your opponent would choose a creature in the battle zone by the effect of a fire spell or the ability of a fire creature, they Unchoosable
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Sol/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMR-03-S1">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Come On Pippi</name>
+      <text>
+■ When you put this creature, choose one of the following.
+:► Put up to 2 Fire Bird psychic creatures that cost 3 or less from your hyperspatial zone.
+:► Put a Fire psychic creature that costs 6 or less from your hyperspatial zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-03-26">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Come On Pippi</name>
+      <text>
+■ When you put this creature, choose one of the following.
+:► Put up to 2 Fire Bird psychic creatures that cost 3 or less from your hyperspatial zone.
+:► Put a Fire psychic creature that costs 6 or less from your hyperspatial zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Hunter</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-03- 26m">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Codename Sorge</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or another creature into the battle zone, you may choose another creature in the battle zone. If you do, those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Unknown</type>
+        <manacost>8</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-03-S5">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cosmo Cebu Lambda, the Super Electromagnetic</name>
+      <text>
+■ Evolution—Put on one of your fire or nature creatures.
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, draw 3 cards.
+■ Double Breaker
+■ At the Step#Step 2 (Draw)
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Cyber Command/Alien</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-03-1">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jealousy Shan, the Greedy</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't attack.
+■ Slayer
+■ When this creature would be destroyed, you may discard a light card from your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Hedrian/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMR-03-30">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jealousy Shan, the Greedy</name>
+      <text>
+■ Multi
+■ Blocker
+■ This creature can't attack.
+■ Slayer
+■ When this creature would be destroyed, you may discard a light card from your hand instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Initiate/Hedrian/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Light/Darkness</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMR-03- 30m">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Glennya, Boiling Water</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Blue Monster</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-03-51">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ryusei Dragon, Star Dragon King</name>
+      <text>
+■ Each of your creatures in the battle zone gets "speed attacker".
+■ Your opponent's psychic creatures can't attack or block.
+■ Whenever this creature attacks, you may put up to 2 cards from the top of your deck into your graveyard. For each card put into your graveyard in this way, put a psychic creature that has that card's cost or less from your hyperspatial zone into the battle zone. 
+■ Triple Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>King Command Dragon/Hunter</type>
+        <manacost>20</manacost>
+        <colors>Fire</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMR-03-V1b">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaial Ryusei Dragon, Star Dragon King</name>
+      <text>
+■ Each of your creatures in the battle zone gets "speed attacker".
+■ Your opponent's psychic creatures can't attack or block.
+■ Whenever this creature attacks, you may put up to 2 cards from the top of your deck into your graveyard. For each card put into your graveyard in this way, put a psychic creature that has that card's cost or less from your hyperspatial zone into the battle zone. 
+■ Triple Breaker
+■ Link Release
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>King Command Dragon/Hunter</type>
+        <manacost>20</manacost>
+        <colors>Fire</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DMR-03-42b">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-03-9">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Vacuuming Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If the card revealed this way was a fire or nature card, you may choose a creature and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-03- 9m">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hachiko, Jin's Faithful Dog</name>
+      <text>
+■ When this creature would be discarded from your hand by the effect of one of your opponent's spells or ability of an opponent's creature, you may put it into the battle zone instead.
+■ When you put this creature into the battle zone, search your deck. You may take a tooltip
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-03-27">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Game On! Charger</name>
+      <text>
+■ One of your creatures can attack untapped creatures until the End Step
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-03-13">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Spell Great Blue, the Blue Tide</name>
+      <text>
+■ When you put this creature or whenever it attacks, look at the top card of your deck. If it's a spell, you may cast it For No Cost
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Poseidia Dragon/Hunter</type>
+        <manacost>8</manacost>
+        <colors>Water</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-03-S2">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Libra, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your light or nature creatures.
+■ Double Breaker
+■ Whenever one of your other creatures would leave the battle zone by the effect of one of your opponent's spells, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Alien</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-03-10">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Libra, Lord of Demons</name>
+      <text>
+■ Evolution—Put on one of your light or nature creatures.
+■ Double Breaker
+■ Whenever one of your other creatures would leave the battle zone by the effect of one of your opponent's spells, it stays in the battle zone instead.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Demon Command/Alien</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-03- 10m">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Humpty</name>
+      <text>
+■ Hunting
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500+</pt>
+      </prop>
+      <set num="DMR-03-34">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Humpty</name>
+      <text>
+■ Hunting
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2500+</pt>
+      </prop>
+      <set num="DMR-03- 34m">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geo Nasuo</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone. Then put a card from your mana zone into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies/Alien</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMR-03-48">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Digging Now</name>
+      <text>
+■ Shield Trigger
+■ Return a creature from your graveyard to your hand. If a light or nature creature was returned in this way, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-03-41">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holy Land Rebirth</name>
+      <text>
+■ Put all cards in your graveyard into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-03-28">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deepsea Typhoon</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, you may draw a card. If you do, discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Monster/Hunter</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-03-38">DMR-03</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

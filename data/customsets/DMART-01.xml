@@ -1,0 +1,105 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-01</name>
+      <longname>DMART-01</longname>
+      <settype>DMART-01</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Assault, Onifuda Kingdom!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Destroy one of your opponent's creatures that costs 8 or less.
+:► Put a creature that costs 8 or less from your graveyard.
+■ Onitime
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-01-4">DMART-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyakki no Jaoumon</name>
+      <text>
+■ Oniend
+■ Put the top 4 cards of your deck into your graveyard. From among the cards put into your graveyard in this way, choose a darkness or fire non-evolution creature that costs 6 or less and put it. Then you may choose one of your opponent's creatures. Those 2 creatures battle.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Onifuda Kingdom</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-01-5">DMART-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gashadodokuro, Oni of "Soul Hunting"</name>
+      <text>
+■ This creature can't attack.
+■ Onitime
+■ At the start of your turn, put one of your shields into your hand. You can't use the "shield trigger".
+■ Quattro Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>21000</pt>
+      </prop>
+      <set num="DMART-01-3">DMART-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jaouga, Oniga Great King</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, you may add all your shields to your hand. You can't use the "shield trigger" abilities.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMART-01-1">DMART-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balad Vi Na Shura</name>
+      <text>
+■ When you would Prevents Defeat
+■ Speed Attacker
+■ Double Breaker
+■ File:Oniend.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demonio/Onifuda Kingdom</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMART-01-2">DMART-01</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

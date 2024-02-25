@@ -1,0 +1,257 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-62</name>
+      <longname>DMC-62</longname>
+      <settype>DMC-62</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Cocco Lupia</name>
+      <text>
+■ Your creatures that have Dragon in their race each cost 2 less to summon. ''(Dragonoids don't count.)'' They can't cost less than 2.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-62-16">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-62-13">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Überdragon Sunburst NEX</name>
+      <text>
+■ Evolution—Put on one of your Armored Dragons.
+■ Whenever this creature wins a battle, you may untap it.
+■ Whenever this creature would battle a creature that has power 12000 or more, this creature gets +11000 power.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>11000+</pt>
+      </prop>
+      <set num="DMC-62-2">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-62-12">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack NEX</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, search your deck. You may take a card that has Lupia in its Card Name
+■ This creature has "power attacker +1000" for each Fire Bird in your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000+</pt>
+      </prop>
+      <set num="DMC-62-10">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zack Pichi, Winged Dragon Admiral</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. Put all Armored Dragons and Fire Birds from among them into your hand, and put the rest on the bottom of your deck in any order. If all the revealed cards were Dragons, this creature gets "speed attacker" until the End Step
+■ When this creature would be discarded during your opponent's turn, you may put it instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-62-2">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bocco Lupia</name>
+      <text>
+■ When you put this creature into the battle zone, for each of your Dragons in the battle zone, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-62-5">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Shooting Hole</name>
+      <text>
+■ Destroy one of your opponent's creatures that has "blocker".
+■ Put a Fire psychic creature that costs 9 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-62-6">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Valkyrie Lupia, Sky Lord Dragonmech</name>
+      <text>
+■ Evolution—Put on one of your Armored Dragons or Fire Birds.
+■ When you put this creature into the battle zone, search your deck. You may take a Dragon from it, show that Dragon to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>5</manacost>
+        <colors>Light/Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-62-8">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drag Moon, the Enlightened</name>
+      <text>
+■ Ultimate evolution—Put on one of your evolution creatures.
+■ Whenever this creature attacks, destroy up to 2 of your opponent's creatures that have power 6000 or less.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Lunatic Emperor/Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMC-62-9">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Peace Lupia</name>
+      <text>
+■ Blocker
+■ This creature can't attack players.
+■ When this creature is destroyed, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-62-14">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mach Lupia</name>
+      <text>
+■ Your creatures that have NEX in their name each cost 1 less to summon. They can't cost less than 1. 
+■ Each of your Armored Dragons in the battle zone has "speed attacker".
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-62-18">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spear Lupia</name>
+      <text>
+■ This creature can attack untapped creatures.
+■ When this creature is destroyed, choose one of the following.
+:► Search your deck. You may take a Dragon from it, show that Dragon to your opponent, and put it into your hand. Then shuffle your deck.
+:► One of your creatures in the battle zone gets +2000 power and can attack untapped creatures until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-62-17">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jack Raidou, Battle Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take an evolution creature that has the same race as this creature from your deck, show that evolution creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Tyranno Drake/Samurai</type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-62-15">DMC-62</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

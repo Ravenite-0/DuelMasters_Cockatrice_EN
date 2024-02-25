@@ -1,0 +1,129 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMART-04</name>
+      <longname>DMART-04</longname>
+      <settype>DMART-04</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Perfect Water</name>
+      <text>
+■ If you have 4 or more spells in your graveyard, and this spell is in your shield zone, it has "shield trigger". 
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Draw a card.
+:► Gacharange summon. 
+:► Choose one of your opponent's creatures and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-04-5">DMART-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Nature</name>
+      <text>
+■ You may cast this spell from your mana zone. If you do, after casting, put it on the bottom of your deck instead.
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Put the top card of your deck into your mana zone tapped. 
+:► Put a creature that costs 5 or less from your mana zone into the battle zone.
+:► One of your creatures gets +3000 power and can attack tapped or untapped creatures until the end of the turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-04-2">DMART-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Fire</name>
+      <text>
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Put a creature that costs 3 or less from your hand.
+:► One of your creatures gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-04-3">DMART-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Darkness</name>
+      <text>
+■ You may cast this spell from your graveyard, If you do, after casting, put it on the bottom of your deck instead. 
+■  Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Your opponent chooses a card in their hand and discards it.
+:► Put a darkness creature that costs 4 or less or darkness aura that costs 4 or less from your graveyard into the battle zone. 
+:► Choose one of your opponent's creatures. That creature gets -4000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-04-1">DMART-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Light</name>
+      <text>
+■ Sympathy Creature
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Shieldify the top card of your deck.
+:► Put a non-evolution light creature that has "blocker" from your hand.
+:► Choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-04-6">DMART-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Jokers</name>
+      <text>
+■ Gravity Zero
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Choose a card that costs 3 or less and put it on the bottom of it’s owner’s deck. 
+:► One of your creatures can attack your opponent until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Jokers</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMART-04-4">DMART-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

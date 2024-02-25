@@ -1,0 +1,435 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMX-07</name>
+      <longname>DMX-07</longname>
+      <settype>DMX-07</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Thrash Crawler</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, return a card from your mana zone to your hand.
+■ This creature can't attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Eater</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-07-11">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tick Tick, Swift Viral Swordfighter</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Virus/Dragonoid</type>
+        <manacost>4</manacost>
+        <colors>Water/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-07-14">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mind Reset</name>
+      <text>
+■ Look at your opponent's hand and discard a spell from it.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-07-18">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dorgedos, the Reaper Drake</name>
+      <text>
+■ Graveyard evolution—Choose a darkness creature in your graveyard and put this creature into the battle zone on top of that creature.
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. This turn, that creature can't block.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Tyranno Drake</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMX-07-17">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pipippi, Electro-Riser</name>
+      <text>
+■ Multi
+■ Whenever this creature attacks, reveal the top card of your deck. If it's an evolution creature, you may put it into your hand. Otherwise, put it on the bottom of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird/Cyber Lord</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMX-07-21">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Tensai Janit of the Hidden Blade</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, you may choose another creature in the battle zone that costs 3 or less and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Shinobi</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMX-07-15">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fuuma Gorgonshack</name>
+      <text>
+■ All spells cost 2 more to cast.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Grand Devil</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-07-12">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Antoinette, Beautiful Battle Dragon Princess</name>
+      <text>
+■ Multi
+■ When this creature is destroyed, choose one of the following.
+:► Choose one of your opponent's creatures in the battle zone and return it to its owner's hand. 
+:► Discard your hand and then draw the same number of cards that you discarded in this way.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Splash Queen/Tyranno Drake</type>
+        <manacost>3</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-07-20">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Startdash Reviver, Crystalline Shadow</name>
+      <text>
+■ Evolution—Put on one of your water or darkness creatures.
+■ When you put this creature into the battle zone, you may put a creature that costs 3 or less from your graveyard into the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Liquid People/Ghost</type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMX-07-7">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Attack (BAGOOON Panzer)</name>
+      <text>
+■ Double Breaker
+■ At the Step#Step 2 (Draw)
+■ Your water Hunters can't be attacked.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-07-V1a">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Attack (BAGOOON Panzer)</name>
+      <text>
+■ Double Breaker
+■ At the Step#Step 2 (Draw)
+■ Your water Hunters can't be attacked.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-07- V1b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Cascade (ZABUUUN Cruiser)</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-07-10a">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Cascade (ZABUUUN Cruiser)</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>3</manacost>
+        <colors>Water</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-07- 10b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Jet (BOOON Sky)</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hunting
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-07-9a">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Jet (BOOON Sky)</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hunting
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMX-07-9b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Atsuto, Duel Hero Strategist</name>
+      <text>
+■ When you put this creature, you may draw 2 cards. If you do, discard 2 cards from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hero</type>
+        <manacost>2</manacost>
+        <colors>Water/Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMX-07-19">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mother Alien (Gladly)</name>
+      <text>
+■ Each of your Aliens in the battle zone gets "Saver: Alien". ''(When one of your Aliens would be destroyed, you may destroy a creature that has "Saver: Alien" instead.)''
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Alien</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-07-6a">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mother Alien (Gladly)</name>
+      <text>
+■ Each of your Aliens in the battle zone gets "Saver: Alien". ''(When one of your Aliens would be destroyed, you may destroy a creature that has "Saver: Alien" instead.)''
+■ Double Breaker
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Alien</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMX-07-6b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alien Father (Just 1 Song?)</name>
+      <text>
+■ All Aliens in the battle zone get "Slayer". ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-07-8a">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alien Father (Just 1 Song?)</name>
+      <text>
+■ All Aliens in the battle zone get "Slayer". ''(Whenever a creature that has "slayer" battles, destroy the other creature after the battle.)''
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMX-07-8b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fused Dreadnought! Jet Cascade Attack</name>
+      <text>
+■ Your Hunters can't be attacked or blocked.
+■ Whenever this creature attacks, draw up to 3 cards. Then reveal any number of cards in your hand. For each card revealed, choose one of your opponent's creatures in the battle zone that costs the same as or less than that revealed card and return it to its owner's hand.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Light/Water</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-07-V1b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fused Dreadnought! Jet Cascade Attack</name>
+      <text>
+■ Your Hunters can't be attacked or blocked.
+■ Whenever this creature attacks, draw up to 3 cards. Then reveal any number of cards in your hand. For each card revealed, choose one of your opponent's creatures in the battle zone that costs the same as or less than that revealed card and return it to its owner's hand.
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Super Creature</maintype>
+        <type>Liquid People/Hunter</type>
+        <manacost>24</manacost>
+        <colors>Light/Water</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMX-07-9b">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Killer Glasses Hole</name>
+      <text>
+■ Choose a number. Then look at your opponent's hand. For each card that costs the same as the chosen number, draw a card.
+■ Put up to 2 water psychic creatures that have total cost 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-07-13">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infernal Death Sunrise</name>
+      <text>
+■ Each creature in the battle zone gets -1000 power for each darkness card in your mana zone until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMX-07-4">DMX-07</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

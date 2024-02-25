@@ -1,0 +1,268 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-39</name>
+      <longname>DMC-39</longname>
+      <settype>DMC-39</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Bronze-Arm Tribe</name>
+      <text>
+■ When you put this creature into the battle zone, put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-39-32">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rumbling Terahorn</name>
+      <text>
+■ When you put this creature into the battle zone, search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Horned Beast</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMC-39-24">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fighter Dual Fang</name>
+      <text>
+■ Evolution—Put on one of your Beast Folk.
+■ When you put this creature into the battle zone, put the top 2 cards of your deck into your mana zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-39-13">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Jagalzor</name>
+      <text>
+■ Double Breaker
+■ Turbo Rush
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMC-39-16">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quixotic Hero Swine Snout</name>
+      <text>
+■ Whenever another creature is put into the battle zone, this creature gets +3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMC-39-33">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cavern Raider</name>
+      <text>
+■ Whenever this creature is attacking your opponent and isn't blocked, search your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-39-31">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Wind Axe, the Warrior Savage</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker." Then put the top card of your deck into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMC-39-27">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gonta, the Warrior Savage</name>
+      <text>
+■ Multi
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Beast Folk</type>
+        <manacost>2</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMC-39-28">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolberg Cross Dragon</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ You may cross your cross gear in the battle zone with this creature For No Cost
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-39-11">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-39-23">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bajula's Soul</name>
+      <text>
+■ Cross Gear Effect
+■ The crossed creature gets +2000 power and breaks one more shield.
+■ Whenever the crossed creature attacks, choose up to 2 cards in your opponent's mana zone and put them into their graveyard.
+  </text>
+      <prop>
+        <maintype>Cross Gear</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-39-12">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Überdragon Valkyrias</name>
+      <text>
+■ Evolution—Put on one of your Armored Dragons.
+■ When you put this creature into the battle zone, you may put a non-evolution Dragon from your mana zone into the battle zone.
+■ Triple breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-39-10">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Dragon Machine Dolzark</name>
+      <text>
+■ Multi
+■ Whenever one of your other creatures that has Dragon in its race attacks, you may choose one of your opponent's creatures in the battle zone that has power 5000 or less and put it into his mana zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-39-4">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helios Tiga Dragon</name>
+      <text>
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have power 2000 or less. If you have a tooltip
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-39-22">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolgress Bazz, Matchless Dragon Machine</name>
+      <text>
+■ Multi
+■ Double Breaker
+■ When you put this creature into the battle zone, you may return any number of Dragons from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Earth Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-39-3">DMC-39</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

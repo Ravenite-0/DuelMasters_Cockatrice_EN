@@ -1,0 +1,531 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMR-08</name>
+      <longname>DMR-08</longname>
+      <settype>DMR-08</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Shangri-La, Climax of "Cruelty"</name>
+      <text>
+■ Super Infinite evolution Omega—Put this creature into the battle zone on any number of Guardian creatures from your graveyard, mana zone or battle zone. 
+■ Triple Breaker
+■ Meteorburn—Whenever this creature attacks, you may put a card under this creature into your graveyard. If you do, choose one of your opponent's creatures and shuffle it into its owner's deck. 
+■ While this creature is tapped, your opponent's creatures can't attack.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Guardian/Zenith</type>
+        <manacost>11</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMR-08-V1">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kiramaru, Great Miracle</name>
+      <text>
+■ Triple Breaker
+■ Eternal Omega
+■ When you summon this creature into the battle zone, you and your opponent play Gachinko Judge 3 times. Each time you win and reveal a creature, put that creature into the battle zone instead of putting it on the bottom of your deck. Each time you win and reveal a spell, cast it For No Cost
+■ Each of your creatures in the battle zone gets "speed attacker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien/Zenith</type>
+        <manacost>12</manacost>
+        <colors>Colorless</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DMR-08-V2">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onidotsuki, Hammer Rascal</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-08-49">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onidotsuki, Hammer Rascal</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures that has "blocker".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-08- 49m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel, Love Attack</name>
+      <text>
+■ Power Attacker
+■ Double Breaker
+■ When this creature is destroyed, search your deck. You may choose a non-evolution Hunter that costs 8 or less from among it and put it into the battle zone. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-08-31">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Moel, Love Attack</name>
+      <text>
+■ Power Attacker
+■ Double Breaker
+■ When this creature is destroyed, search your deck. You may choose a non-evolution Hunter that costs 8 or less from among it and put it into the battle zone. Then shuffle your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Human/Hunter/Alien</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DMR-08- 31m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pepper, Golden Fighter</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command/Hunter/Alien</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-08-11">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pepper, Golden Fighter</name>
+      <text>
+■ At the Step#Step 2 (Draw)
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Command/Hunter/Alien</type>
+        <manacost>7</manacost>
+        <colors>Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-08- 11m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silva, Golden Fighter</name>
+      <text>
+■ End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Hunter/Alien</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-08-34">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Silva, Golden Fighter</name>
+      <text>
+■ End Step
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant/Hunter/Alien</type>
+        <manacost>7</manacost>
+        <colors>Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMR-08- 34m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kyumanomee, Support Guardian</name>
+      <text>
+■ Shield Trigger
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMR-08-37">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kyumanomee, Support Guardian</name>
+      <text>
+■ Shield Trigger
+■ This creature can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMR-08- 37m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Onishura, Golden Twins</name>
+      <text>
+■ Double Breaker
+■ When you put this creature or when this creature leaves the battle zone, you and your opponent play Gachinko Judge. If you win, choose one of the following.
+:► Put a file:Victory Rare.png
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Human</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMR-08-S5">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin, Reversal Princess</name>
+      <text>
+■ Shield Trigger
+■ When you reveal this card during Gachinko Judge or when you put this creature into the battle zone, you may tap or untap a creature in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-08-21">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Prin, Reversal Princess</name>
+      <text>
+■ Shield Trigger
+■ When you reveal this card during Gachinko Judge or when you put this creature into the battle zone, you may tap or untap a creature in the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hunter/Alien</type>
+        <manacost>5</manacost>
+        <colors>Colorless</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMR-08- 21m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Royal Straight Flush Kaiser</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks, you and your opponent play Gachinko Judge until you lose or stop yourself. Then for each time you win Gachinko Judge, this creature breaks one of your opponent's shields. Gachinko Judge
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Red Command Dragon/Hunter/Alien</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMR-08-4">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Truename Tiger Legend</name>
+      <text>
+■ Blocker
+■ When you put this creature into the battle zone, you and your opponent play Gachinko Judge until you lose or stop yourself. Then, for each time you win Gachinko Judge, you may put a non-evolution light creature that has "blocker" from your hand into the battle zone. Gachinko Judge
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command/Unknown</type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt>7500</pt>
+      </prop>
+      <set num="DMR-08-2">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Missile Burst G</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 3000 or less. 
+■ You and your opponent play Gachinko Judge. If you win, destroy one of your opponent's creatures that has power 6000 or less. Gachinko Judge
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-08-32">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trueking Viola Sonata</name>
+      <text>
+■ When you put this creature into the battle zone, destroy one of your opponent's creatures. Then you may put a non-evolution dragon from your graveyard into the battle zone.
+■ Triple Breaker
+■ Whenever one of your non-evolution dragons would be destroyed, add it to your shields face down instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Colorless</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-08-S2">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trueking Wagner</name>
+      <text>
+■ When you put this creature into the battle zone, reveal the top 3 cards of your deck to each player. Put all spells from among them into your hand, and the rest on the top of your deck in any order.
+■ Whenever this creature attacks, you may cast a spell from your hand For No Cost
+■ Triple Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Unknown</type>
+        <manacost>9</manacost>
+        <colors>Water</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMR-08-S3">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Noumen</name>
+      <text></text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Tristone</type>
+        <manacost>4</manacost>
+        <colors>Colorless</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-08-36">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Script</name>
+      <text>
+■ When you put this creature, choose another creature  and return it to its owner's hand. Then you may put a creature that costs less than that creature from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord</type>
+        <manacost>8</manacost>
+        <colors>Water</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-08-10">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Quick Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone that cost 6 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-08-39">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Pixie Life</name>
+      <text>
+■ Put the top card of your deck into your mana zone. Then you may return a colorless card from your mana zone to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-08-55">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Eternal Brain</name>
+      <text>
+■ Look at the top 2 cards of your deck and put them back in any order. 
+■ After you cast this spell, return it your hand instead.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-08-43">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Honenbe, Skeletal Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When you put this creature into the battle zone, you may put the top 3 cards of your deck into your graveyard. If you do, you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMR-08-29">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doll Finn, Burial Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When this creature wins a battle, destroy it.
+■ When this creature is destroyed, put the top 5 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-08-46">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doll Finn, Burial Guardian</name>
+      <text>
+■ Blocker
+■ This creature can't attack. 
+■ When this creature wins a battle, destroy it.
+■ When this creature is destroyed, put the top 5 cards of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMR-08- 46m">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Nyanko Hand of Hell</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that costs 6 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMR-08-47">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Large Gathering! Acorn Army</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, choose a creature in the battle zone. This turn, that creature gets +2000 power and can't attack players.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Wild Veggies</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>1000+</pt>
+      </prop>
+      <set num="DMR-08-54">DMR-08</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

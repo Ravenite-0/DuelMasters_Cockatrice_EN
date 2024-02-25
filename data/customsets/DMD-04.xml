@@ -1,0 +1,288 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-04</name>
+      <longname>DMD-04</longname>
+      <settype>DMD-04</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-04-9">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ten-Ton Crunch</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures that has power 3000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-04-15">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-04-11">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Revive Hole</name>
+      <text>
+■ Return a creature from your graveyard to your hand.
+■ Choose one of the following.
+:► Put any number of psychic creatures that have total cost 5 or less from your hyperspatial zone into the battle zone.
+:► Put a darkness psychic creature that costs 7 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-04-14">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hyperspatial Emperor Hole</name>
+      <text>
+■ Choose one of your opponent's creatures in the battle zone. That creature gets -2000 power until the End Step
+■ Put a Darkness psychic creature that costs 9 or less from your hyperspatial zone into the battle zone. Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-04-13">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Mars Gil Hydra, the Explosive</name>
+      <text>
+■ Space Charge
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Command/Alien</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-04-10">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Demona, Dead Sea Treasure</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may destroy one of your Darkness or Fire creatures. If you do, put a Darkness or Fire psychic creature that costs 4 or less from your hyperspatial zone into the battle zone.
+■ Hyperspatial Psychic
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Pandora's Box/Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-04-8">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Trash Train, Fuuma Devil</name>
+      <text>
+■ Whenever your other Aliens are destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hedrian/Grand Devil/Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-04-12">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Big Promo! Zabi Flower</name>
+      <text>
+■ Whenever this creature attacks, you may return an Alien from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Living Dead/Alien</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-04-2a">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Big Promo! Zabi Flower</name>
+      <text>
+■ Whenever this creature attacks, you may return an Alien from your graveyard to your hand.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Living Dead/Alien</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-04- 2b">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deis Rigel, Persistent Flame</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ This creature gets "Power attacker +1000" for each Alien in your graveyard.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Living Dead/Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMD-04-1a">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Deis Rigel, Persistent Flame</name>
+      <text>
+■ Psychic Link—At the Step#Step 2 (Draw)
+■ This creature gets "Power attacker +1000" for each Alien in your graveyard.
+  </text>
+      <prop>
+        <maintype>Psychic Creature</maintype>
+        <type>Living Dead/Alien</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMD-04- 1b">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Self-Destructing Gil Poser</name>
+      <text>
+■ When you put this creature into the battle zone, you may destroy this creature. If you do, destroy one of your opponent's creatures that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Machine Eater/Alien</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-04-6">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marauder Deis Drive</name>
+      <text>
+■ Multi
+■ Speed Attacker
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Living Dead/Dragonoid/Alien</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-04-7">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zabi Barrel, Western Doll</name>
+      <text>
+■ Blocker
+■ This creature can't attack.
+■ When you put this creature into the battle zone, your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Death Puppet/Alien</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-04-3">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bone Dance Charger</name>
+      <text>
+■ Put the top 2 cards of your deck into your graveyard.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-04-5">DMD-04</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

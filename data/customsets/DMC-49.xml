@@ -1,0 +1,269 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMC-49</name>
+      <longname>DMC-49</longname>
+      <settype>DMC-49</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Natural Snare</name>
+      <text>
+■ Shield Trigger
+■ Choose one of your opponent's creatures in the battle zone and put it into his mana zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-49-22">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Cocco Lupia</name>
+      <text>
+■ Your creatures that have Dragon in their race each cost 2 less to summon. ''(Dragonoids don't count.)'' They can't cost less than 2.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-49-26">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bazagazeal Dragon</name>
+      <text>
+■ Speed Attacker
+■ This creature can attack untapped creatures.
+■ Double Breaker
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMC-49-18">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Totto Pipicchi</name>
+      <text>
+■ Each creature in the battle zone that has Dragon in its race has "speed attacker." ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-49-29">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hell's Scrapper</name>
+      <text>
+■ Shield Trigger
+■ Destroy any number of your opponent's creatures that have total power 5000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMC-49-20">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chitta Peloru</name>
+      <text>
+■ All Dragons in the battle zone can attack untapped creatures.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMC-49-27">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Überdragon Valkyrias</name>
+      <text>
+■ Evolution—Put on one of your Armored Dragons.
+■ When you put this creature into the battle zone, you may put a non-evolution Dragon from your mana zone into the battle zone.
+■ Triple breaker
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>9</manacost>
+        <colors>Fire</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMC-49-9">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Geometeus Infinite Dragon</name>
+      <text>
+■ Whenever this creature attacks your opponent and isn't blocked, you may put a Dragon from your hand into the battle zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-49-4">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Super Dragon Machine Dolzark</name>
+      <text>
+■ Multi
+■ Whenever one of your other creatures that has Dragon in its race attacks, you may choose one of your opponent's creatures in the battle zone that has power 5000 or less and put it into his mana zone.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Earth Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-49-6">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Balga Geyser</name>
+      <text>
+■ Power Attacker
+■ Whenever this creature attacks, you may reveal the top card of your deck. If it's a Dragon, put it into the battle zone. Otherwise, put it into your graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DMC-49-10">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infinity "Hidden Blade" Dragon</name>
+      <text>
+■ Double Breaker
+■ Whenever one of your Dragon creatures is destroyed, you may put the top card of your deck into your graveyard. If that card is a Dragon or Samurai creature that costs 7 or less, you may put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-49-5">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balga Raiser, the Dragonic Meteor</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ Whenever this creature attacks, you may reveal the top card of your deck. If that card is a non-evolution Dragon, you may put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Samurai</type>
+        <manacost>8</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-49-3">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Magmadragon Gardos</name>
+      <text>
+■ Speed Attacker
+■ This creature can't attack players. 
+■ End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-49-25">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Terradragon Balgazarmas</name>
+      <text>
+■ Whenever one of your creatures that has Dragon in its race attacks, you may reveal the top card of your deck. If it's a Dragon, put it into your hand. If it isn't a Dragon, put it into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Earth Dragon</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMC-49-21">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Infinity Dragon</name>
+      <text>
+■ When one of your Dragons would leave the battle zone, put the top card of your deck into your graveyard. If it's a Dragon or a Fire Bird, it stays in the battle zone instead.
+■ Double Breaker
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DMC-49-19">DMC-49</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

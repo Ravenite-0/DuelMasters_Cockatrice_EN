@@ -1,0 +1,78 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-SP1</name>
+      <longname>DM22-SP1</longname>
+      <settype>DM22-SP1</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Fork %3D Fock</name>
+      <text>
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard. If you do, you may return an Abyss from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-SP1-2">DM22-SP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Keylock %3D Debok</name>
+      <text>
+■ Abyss Rush
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-SP1-3">DM22-SP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Knife %3D Alife</name>
+      <text>
+■ When you put this creature, each of your opponent's creatures gets -2000 power until the End Step
+■ Each turn, the first time a creature is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-SP1-1">DM22-SP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spoon %3D Nps</name>
+      <text>
+■ Abyss Rush
+■ When you put this creature, return a card from your shield zone to your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-SP1-4">DM22-SP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

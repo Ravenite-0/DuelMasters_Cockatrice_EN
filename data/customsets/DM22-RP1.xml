@@ -1,0 +1,2032 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DM22-RP1</name>
+      <longname>DM22-RP1</longname>
+      <settype>DM22-RP1</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Death March, Reaper Puppeteer</name>
+      <text>
+■ Blocker
+■ Graveyard evolution—Choose a darkness creature in your graveyard and put this card into the battle zone on top of that creature.
+■ Whenever this creature battles, your opponent's creature gets -4000 power until the end of the battle. ''(A creature that has power 0 or less is destroyed.)''
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Death Puppet</type>
+        <manacost>1</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-RP1-SP4">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Worm Gowarski, Masked Insect</name>
+      <text>
+■ Graveyard evolution—Choose a darkness creature in your graveyard and put this creature into the battle zone on top of that creature. 
+■ When this creature is destroyed, your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Parasite Worm/Devil Mask</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1-TF18">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Worm Gowarski, Masked Insect</name>
+      <text>
+■ Graveyard evolution—Choose a darkness creature in your graveyard and put this creature into the battle zone on top of that creature. 
+■ When this creature is destroyed, your opponent discards a card at random from their hand.
+  </text>
+      <prop>
+        <maintype>Evolution Creature</maintype>
+        <type>Parasite Worm/Devil Mask</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1- T18">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sannap, Tribe</name>
+      <text>
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go/Invader</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1-TF19">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sannap, Tribe</name>
+      <text>
+■ Mana Arms
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beast Folk Go/Invader</type>
+        <manacost>3</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1- T19">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zundoko Sunny Stage, Flowery Way of D</name>
+      <text>
+■ Whenever you put a creature, put the top card of your deck into your mana zone.
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TF11">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zundoko Sunny Stage, Flowery Way of D</name>
+      <text>
+■ Whenever you put a creature, put the top card of your deck into your mana zone.
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+■ D2 Wrap
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- T11">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TF12">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Team Tech's Wave Go!</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Return all your opponent's cards that cost 5 or less in the battle zone to their owner's hand.
+:► Destroy one of your opponent's creatures that costs 6 or more.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- T12">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Just Labyrinth</name>
+      <text>
+■ Shield Trigger
+■ You may tap any number of your creatures.
+■ Draw a card for each of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TF9">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Just Labyrinth</name>
+      <text>
+■ Shield Trigger
+■ You may tap any number of your creatures.
+■ Draw a card for each of your tapped creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- T9">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Great Grasper</name>
+      <text>
+■ Neo Evolution
+■ Triple Breaker
+■ When you put this creature into the battle zone, you may choose a creature and put it into its owner's mana zone.
+■ Whenever one of your neo creatures attacks, you may put a creature that has power less than that creature from your mana zone into the battle zone.
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Gransect</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DM22-RP1-TR5">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiner, Shock Doctor</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, use the next ability 3 times.
+:► Choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-RP1-TF10">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiner, Shock Doctor</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, use the next ability 3 times.
+:► Choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-RP1- T10">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Scora, Dimensional Storm</name>
+      <text>
+■ Gravity Zero
+■ Double Breaker
+■ When you summon this creature into the battle zone, if it's the first '''Scora, Dimensional Storm''' put into the battle zone during this game, take an extra turn after this one.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mutopia/Specials</type>
+        <manacost>11</manacost>
+        <colors>Water</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-RP1-TR3">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gompadu, Daspell</name>
+      <text>
+■ Look at the top 3 cards of your deck. Add one from among them into your hand and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Magic Tool</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TF17">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gompadu, Daspell</name>
+      <text>
+■ Look at the top 3 cards of your deck. Add one from among them into your hand and put the rest on the bottom of your deck in any order.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Magic Tool</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- T17">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ra Familie, Sabakinoseido</name>
+      <text>
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+■ Whenever any of your creatures attacks, if this card is in your shield zone Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TF8">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ra Familie, Sabakinoseido</name>
+      <text>
+■ After you cast this spell from your hand, put it on one of your shields Face Up
+■ Whenever any of your creatures attacks, if this card is in your shield zone Face Up
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type>Judgment Emblem</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- T8">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fernando Sesseur/Primal Scream</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone or whenever it attacks, you may put the top 2 cards of your deck into your graveyard. Then you may put a darkness creature that costs 3 or less from your graveyard into the battle zone.
+=========================
+■ Shield Trigger
+■ Put the top 4 cards of your deck into your graveyard. Then you may return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Mafi Gang</type>
+        <manacost>6</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1-TR4">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dragon/Duelist Charger</name>
+      <text>
+■ Double Breaker
+■ While attacking, this creature gets +1000 power for each fire card in your graveyard.
+=========================
+■ Reveal the top 3 cards of your deck. From among them, add all cards that have "Bolshack" in their name into your hand, and put the rest on the bottom of your deck in any order.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1-TF2">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Dragon/Duelist Charger</name>
+      <text>
+■ Double Breaker
+■ While attacking, this creature gets +1000 power for each fire card in your graveyard.
+=========================
+■ Reveal the top 3 cards of your deck. From among them, add all cards that have "Bolshack" in their name into your hand, and put the rest on the bottom of your deck in any order.
+■ Charger
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1- T2">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ra Suneyoma Panzer/Aurora of Reversal</name>
+      <text>
+■ Guardman
+■ This creature can't attack players.
+■ Whenever a card leaves your shield zone, put the top card of your deck into your mana zone.
+=========================
+■ Choose any number of your shields and put them into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>4</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-RP1-TF4">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ra Suneyoma Panzer/Aurora of Reversal</name>
+      <text>
+■ Guardman
+■ This creature can't attack players.
+■ Whenever a card leaves your shield zone, put the top card of your deck into your mana zone.
+=========================
+■ Choose any number of your shields and put them into your mana zone.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Gransect</type>
+        <manacost>4</manacost>
+        <colors>Nature/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-RP1- T4">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Basara (card)</name>
+      <text>
+■ ZERO
+■ Speed Attacker
+■ Double Breaker
+■ Revolution 0—When you put this creature if you have 0 shields, destroy all your opponent's creatures that have the highest power. For each creature destroyed, choose one of your opponent's shields and put it into their graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-RP1-TF6">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Basara (card)</name>
+      <text>
+■ ZERO
+■ Speed Attacker
+■ Double Breaker
+■ Revolution 0—When you put this creature if you have 0 shields, destroy all your opponent's creatures that have the highest power. For each creature destroyed, choose one of your opponent's shields and put it into their graveyard.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-RP1- T6">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Himitsu no Finale!</name>
+      <text>
+■ Shield Trigger
+■ Your opponent puts the top card of their deck into their graveyard. If that card's a creature, destroy one of your opponent's creatures. If that card's a spell, you may cast it for no cost and put it into its owner's graveyard. If it's not a creature or a spell, you may put a creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TF7">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Himitsu no Finale!</name>
+      <text>
+■ Shield Trigger
+■ Your opponent puts the top card of their deck into their graveyard. If that card's a creature, destroy one of your opponent's creatures. If that card's a spell, you may cast it for no cost and put it into its owner's graveyard. If it's not a creature or a spell, you may put a creature from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Water/Darkness/Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- T7">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akashic Final</name>
+      <text>
+■ Neo Evolution
+■ Invasion
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. Put all multicolored cards into your hand. Then put the rest into your graveyard.
+■ Your multicolored Dragons cost 2 less to summon. They can't cost 1 or less.
+  </text>
+      <prop>
+        <maintype>Neo Creature</maintype>
+        <type>Cyber Lord/Armored Dragon/Angel Command</type>
+        <manacost>6</manacost>
+        <colors>Light/Water/Fire</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-RP1-TR10">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Weimodel, Gig</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, put the top 3 cards of your deck into your graveyard. Then put a creature that costs 3 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1-TF14">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Weimodel, Gig</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, put the top 3 cards of your deck into your graveyard. Then put a creature that costs 3 or less from your graveyard into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang/Team Zero</type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1- T14">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Momoking Rex, Orai Hero</name>
+      <text>
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, discard a card from your hand and draw 2 cards. Then you may put a creature from your hand that costs 7 or less that can evolve from this creature.
+■ '''Shinkapower''': When this creature evolves, untap each time it wins a battle this turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Hero Dragon/Jokers/RexStars</type>
+        <manacost>5</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1-SP1">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Primal Giant</name>
+      <text>
+■ Guard Strike
+■ This creature can't attack players.
+■ Whenever your opponent would put a card from anywhere other than their hand, put it into its owner's mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1-TF15">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Primal Giant</name>
+      <text>
+■ Guard Strike
+■ This creature can't attack players.
+■ Whenever your opponent would put a card from anywhere other than their hand, put it into its owner's mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1- T15">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diszircon</name>
+      <text>
+■ Blocker
+■ You may summon this creature from your mana zone or your graveyard.
+■ When you put this creature, draw 2 cards and discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1-TF13">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Diszircon</name>
+      <text>
+■ Blocker
+■ You may summon this creature from your mana zone or your graveyard.
+■ When you put this creature, draw 2 cards and discard a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Spirit Quartz/Distas</type>
+        <manacost>3</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1- T13">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gyou Kinari, The Wicked Evil</name>
+      <text>
+■ Triple Breaker
+■ Whenever your opponent puts a creature and its ability would trigger, you use that ability instead.
+■ At the start of your opponent's turn, you may choose a creature in your opponent's graveyard. If you do, your opponent puts it tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jurassic Command Dragon</type>
+        <manacost>11</manacost>
+        <colors>Water/Darkness/Nature</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DM22-RP1-TR7">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Trial of God</name>
+      <text>
+■ Reveal cards from the top of your deck until you show 2 cards that have the same cost.
+■ If you reveal your entire deck in this way, take an Extra Turn
+■ Add all face up cards to your hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-TR8">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Grateful Ven, Connected Breaker Horror</name>
+      <text>
+■ EX Life
+■ Blocker
+■ When you put this creature, you may put all cards in your graveyard into your mana zone tapped.
+■ You may summon a creature from your mana zone once per turn. If it's a Distas, summon it for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Dispector/King Command Dragon/Gaia Command</type>
+        <manacost>8</manacost>
+        <colors>Light/Darkness/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-RP1-SP3">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Balga, Dragon Knight Wind Dragon</name>
+      <text>
+■ Gravity Zero
+■ Speed Attacker
+■ Triple Breaker
+■ When you put this creature, destroy all your opponent's creatures that have "blocker".
+■ Whenever this creature attacks, draw a card. Then you may put a Dragon from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Volcano Dragon/Armored Dragon</type>
+        <manacost>19</manacost>
+        <colors>Fire</colors>
+        <pt>17000</pt>
+      </prop>
+      <set num="DM22-RP1-TR1">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miradante Super Future, Future Pope</name>
+      <text>
+■ Revolution Change
+■ Triple Breaker
+■ Final Revolution: When you put this creature with "Revolution Change" and you haven't used another "Final Revolution" during this turn, you may draw a card. If you do, you may cast a light or water spell that costs 6 or less for no cost.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary/Team Doremi</type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt>12500</pt>
+      </prop>
+      <set num="DM22-RP1-TR2">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Superhero/Superhero Time</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy all non-psychic creatures that have power 3000 or less. Then destroy all psychic creatures that have power 5000 or less.
+=========================
+■ Choose one of your opponent's cards in the battle zone that costs 3 or less and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1-TF3">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Superhero/Superhero Time</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy all non-psychic creatures that have power 3000 or less. Then destroy all psychic creatures that have power 5000 or less.
+=========================
+■ Choose one of your opponent's cards in the battle zone that costs 3 or less and put it into its owner's graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Armored Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Fire/Fire</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1- T3">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Glory Lupia</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your mana zone tapped. If it's a dragon, put another card from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1-TF20">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Glory Lupia</name>
+      <text>
+■ When you put this creature, put the top card of your deck into your mana zone tapped. If it's a dragon, put another card from the top of your deck into your mana zone tapped.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon/Fire Bird</type>
+        <manacost>3</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1- T20">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bruce, Clearly Drive/"No hesitation. I have decided on what I must do."</name>
+      <text>
+■ Triple Breaker
+■ If you have less than 13 cards in your graveyard, this creature can't attack.
+■ At the End Step
+=========================
+■ Shield Trigger
+■ Put a creature that costs 3 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-RP1-TF1">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bruce, Clearly Drive/"No hesitation. I have decided on what I must do."</name>
+      <text>
+■ Triple Breaker
+■ If you have less than 13 cards in your graveyard, this creature can't attack.
+■ At the End Step
+=========================
+■ Shield Trigger
+■ Put a creature that costs 3 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-RP1- T1">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa, Burn the Heart</name>
+      <text>
+■ When you put this creature, draw up to 2 cards. Then discard the same number of cards you drew.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-RP1-TF5">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Testa Rossa, Burn the Heart</name>
+      <text>
+■ When you put this creature, draw up to 2 cards. Then discard the same number of cards you drew.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage MAX</type>
+        <manacost>2</manacost>
+        <colors>Water/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-RP1- T5">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Segare, Bei B</name>
+      <text>
+■ This creature can't attack.
+■ When your opponent would put a creature that costs more than the number of cards in their mana zone, your opponent puts it into its owner's mana zone instead, then put this creature into your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Milkboy</type>
+        <manacost>1</manacost>
+        <colors>Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DM22-RP1-SP5">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Gaiash Kaiser, the Meteor</name>
+      <text>
+■ At the end of your opponent's turn, if your opponent put a creature or cast a spell without tapping a card in their mana zone that turn, and you don't have a '''Gaiash Kaiser, the Meteor''', you may summon this creature for no cost.
+■ Double Breaker
+■ When you put this creature, draw 2 cards.
+■ Your creatures that cost 10 or more cost 4 less to summon. They can't cost 0 or less.
+■ Your opponent's creatures can't attack players on the turn they are put.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Blue Command Dragon/Green Command Dragon/Hunter</type>
+        <manacost>6</manacost>
+        <colors>Water/Nature</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-RP1-TR6">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sir Leopol Deenay, the Ice Fang/Emergency Typhoon</name>
+      <text>
+■ Whenever you cast a spell, you may draw a card.
+=========================
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Cyber Virus/Knight/Knight</type>
+        <manacost>4</manacost>
+        <colors>Water/Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-RP1-TF16">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sir Leopol Deenay, the Ice Fang/Emergency Typhoon</name>
+      <text>
+■ Whenever you cast a spell, you may draw a card.
+=========================
+■ Shield Trigger
+■ Draw up to 2 cards. Then discard a card from your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Cyber Virus/Knight/Knight</type>
+        <manacost>4</manacost>
+        <colors>Water/Water</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DM22-RP1- T16">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Galaxy Brand</name>
+      <text>
+■ Gogogo Gangan Galaxy: If you have 1 or less card in your hand, this creature costs 6 less to summon. 
+■ Speed Attacker
+■ Double Breaker
+■ When you put this creature, destroy one of your opponent's creatures that has power 6000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-RP1-TR9">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Rafululu Love, Acoustic Dragon Elemental/「It's coming from the future, so it's a Miracle」</name>
+      <text>
+■ Revolution Change
+■ Double Breaker
+■ When you put this creature, your opponent can't cast spells until the end of your opponent's next turn.
+=========================
+■ Draw 3 cards. Then you may cast a spell that costs 5 or less from your hand for no cost.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Angel Command Dragon/Team Doremi/Revolutionary</type>
+        <manacost>7</manacost>
+        <colors>Light/Water/Light/Water</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM22-RP1-SP2">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Fork %3D Fock</name>
+      <text>
+■ When you put this creature, you may put the top 3 cards of your deck into your graveyard. If you do, you may return an Abyss from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1-37">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doran Gorghini</name>
+      <text>
+■ When you put this tamaseed, tap up to 2 of your opponent's creatures. They don't untap at the start of your opponent's next turn. 
+■ If you don't have a total of 4 or more light creatures and/or light tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Double Breaker
+■ Whenever this creature attacks, you may put a creature that costs 5 or less from your hand. Then if you have more creatures than your opponent, your creatures can't be destroyed until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Mecha Del Dinero/Supercar Dragon/ACE</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DM22-RP1-OR2">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doran Gorghini</name>
+      <text>
+■ When you put this tamaseed, tap up to 2 of your opponent's creatures. They don't untap at the start of your opponent's next turn. 
+■ If you don't have a total of 4 or more light creatures and/or light tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Double Breaker
+■ Whenever this creature attacks, you may put a creature that costs 5 or less from your hand. Then if you have more creatures than your opponent, your creatures can't be destroyed until the start of your next turn.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Mecha Del Dinero/Supercar Dragon/ACE</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>11500</pt>
+      </prop>
+      <set num="DM22-RP1- 2B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyssbell %3D Jashin Emperor</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ Your Abyss creatures in your graveyard get "Abyss Rush". ''(You may summon a creature that has "Abyss Rush" from your graveyard. If you do, that creature can attack players this turn and is put on the bottom of your deck at the End Step
+■ When this creature would leave, you may discard 2 cards from your hand instead.
+■ Your creatures in your graveyard cost 2 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM22-RP1-OR1">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyssbell %3D Jashin Emperor</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ Your Abyss creatures in your graveyard get "Abyss Rush". ''(You may summon a creature that has "Abyss Rush" from your graveyard. If you do, that creature can attack players this turn and is put on the bottom of your deck at the End Step
+■ When this creature would leave, you may discard 2 cards from your hand instead.
+■ Your creatures in your graveyard cost 2 less to summon. They can't cost 0 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>7000</pt>
+      </prop>
+      <set num="DM22-RP1- 1B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Valkyrie</name>
+      <text>
+■ If you have 6 or more cards in your mana zone, you may pay Costicon
+■ Speed Attacker
+■ '''Civil Count 3''': Whenever this creature attacks, if you have a total of 3 or more fire creatures and/or fire tamaseeds, you may discard your hand. If you do, draw 3 cards. For each card discarded this way, this creature gets +4000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DM22-RP1-S5">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Valkyrie</name>
+      <text>
+■ If you have 6 or more cards in your mana zone, you may pay Costicon
+■ Speed Attacker
+■ '''Civil Count 3''': Whenever this creature attacks, if you have a total of 3 or more fire creatures and/or fire tamaseeds, you may discard your hand. If you do, draw 3 cards. For each card discarded this way, this creature gets +4000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DM22-RP1- 7B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Valkyrie</name>
+      <text>
+■ If you have 6 or more cards in your mana zone, you may pay Costicon
+■ Speed Attacker
+■ '''Civil Count 3''': Whenever this creature attacks, if you have a total of 3 or more fire creatures and/or fire tamaseeds, you may discard your hand. If you do, draw 3 cards. For each card discarded this way, this creature gets +4000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>6</manacost>
+        <colors>Fire</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DM22-RP1- 5A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torch %3D Totorot, Evil Light</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, your opponent chooses one of their creatures that has the lowest power and destroys it.
+■ '''Civil Count 3''': When you put this creature, if you have a total of 3 or more darkness creatures and/or darkness tamaseeds, your opponent chooses one of their creatures that has the highest power and destroys it.
+■ When this creature attacks, destroy this creature after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-RP1-5">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Torch %3D Totorot, Evil Light</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, your opponent chooses one of their creatures that has the lowest power and destroys it.
+■ '''Civil Count 3''': When you put this creature, if you have a total of 3 or more darkness creatures and/or darkness tamaseeds, your opponent chooses one of their creatures that has the highest power and destroys it.
+■ When this creature attacks, destroy this creature after the attack.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-RP1- 9A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Network</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may use a tamaseed that costs 5 or less or a spell that costs 5 or less from your hand for no cost.
+■ '''Civil Count 3''': If you have a total of 3 or more water creatures and/or water tamaseeds, this creature gets "blocker" and when this creature would be destroyed, return it to your hand instead. ''(You may tap a creature that "blocker" to change the attack target of your opponent's creature to that creature.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Liquid People</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-RP1-12">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Aqua Network</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may use a tamaseed that costs 5 or less or a spell that costs 5 or less from your hand for no cost.
+■ '''Civil Count 3''': If you have a total of 3 or more water creatures and/or water tamaseeds, this creature gets "blocker" and when this creature would be destroyed, return it to your hand instead. ''(You may tap a creature that "blocker" to change the attack target of your opponent's creature to that creature.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Magic Liquid People</type>
+        <manacost>5</manacost>
+        <colors>Water</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DM22-RP1- 12A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Annie Lupia</name>
+      <text>
+■ Each turn, the first time one of your dragons attacks, untap it.
+■ If you have a dragon, this creature gets +3000 power.
+■ '''Civil Count 3''': If you have a total of 3 or more fire creatures and/or fire tamaseeds, each of your other creatures gets "speed attacker". ''(A creature that has "speed attacker" doesn't get summoning sickness.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Fire Bird</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000+</pt>
+      </prop>
+      <set num="DM22-RP1-20">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Just In You</name>
+      <text>
+■ '''Civil Count 2''': If this spell is in your shield zone and you have a total of 2 or more darkness creatures and/or darkness tamaseeds, this spell gets "shield trigger".
+■ Put the top 4 cards of your deck into your graveyard. Then put an Abyss that costs 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-17">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Just In You</name>
+      <text>
+■ '''Civil Count 2''': If this spell is in your shield zone and you have a total of 2 or more darkness creatures and/or darkness tamaseeds, this spell gets "shield trigger".
+■ Put the top 4 cards of your deck into your graveyard. Then put an Abyss that costs 4 or less from your graveyard.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- 13A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Keylock %3D Debok</name>
+      <text>
+■ Abyss Rush
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1-68">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakedown Domeciale</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may draw a card for each of your light creatures and/or light tamaseeds.
+■ Your light creatures and light tamaseeds cost 2 less to use. They can't cost 0 or less.
+■ '''Civil Count 5''': If you have a total of 5 or more light creatures and/or light tamaseeds, this creature gets +10000 power, "triple breaker" and "Whenever this creature attacks, you may choose one of your opponent's creatures. Your opponent shieldify
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM22-RP1-S2">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakedown Domeciale</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may draw a card for each of your light creatures and/or light tamaseeds.
+■ Your light creatures and light tamaseeds cost 2 less to use. They can't cost 0 or less.
+■ '''Civil Count 5''': If you have a total of 5 or more light creatures and/or light tamaseeds, this creature gets +10000 power, "triple breaker" and "Whenever this creature attacks, you may choose one of your opponent's creatures. Your opponent shieldify
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM22-RP1- 4B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shakedown Domeciale</name>
+      <text>
+■ Blocker
+■ When you put this creature, you may draw a card for each of your light creatures and/or light tamaseeds.
+■ Your light creatures and light tamaseeds cost 2 less to use. They can't cost 0 or less.
+■ '''Civil Count 5''': If you have a total of 5 or more light creatures and/or light tamaseeds, this creature gets +10000 power, "triple breaker" and "Whenever this creature attacks, you may choose one of your opponent's creatures. Your opponent shieldify
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero</type>
+        <manacost>5</manacost>
+        <colors>Light</colors>
+        <pt>5500</pt>
+      </prop>
+      <set num="DM22-RP1- 2A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drache der`Zen</name>
+      <text>
+■ When you put this tamaseed, you may draw 3 cards. If you do, discard 2 cards from your hand.
+■ If you don't have a total of 4 or more water creatures and/or water tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Blocker
+■ Whenever this creature attacks, choose one of the following.
+:► You may use a tamaseed that costs 5 or less from your graveyard for no cost.
+:► You may cast a spell that costs 5 or less from your graveyard for no cost. If you do, after casting that spell, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Magic Command Dragon/ACE</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-RP1-S3">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drache der`Zen</name>
+      <text>
+■ When you put this tamaseed, you may draw 3 cards. If you do, discard 2 cards from your hand.
+■ If you don't have a total of 4 or more water creatures and/or water tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Blocker
+■ Whenever this creature attacks, choose one of the following.
+:► You may use a tamaseed that costs 5 or less from your graveyard for no cost.
+:► You may cast a spell that costs 5 or less from your graveyard for no cost. If you do, after casting that spell, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Magic Command Dragon/ACE</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-RP1- 5B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Drache der`Zen</name>
+      <text>
+■ When you put this tamaseed, you may draw 3 cards. If you do, discard 2 cards from your hand.
+■ If you don't have a total of 4 or more water creatures and/or water tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Blocker
+■ Whenever this creature attacks, choose one of the following.
+:► You may use a tamaseed that costs 5 or less from your graveyard for no cost.
+:► You may cast a spell that costs 5 or less from your graveyard for no cost. If you do, after casting that spell, put it on the bottom of your deck instead.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Magic Command Dragon/ACE</type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt>11000</pt>
+      </prop>
+      <set num="DM22-RP1- 3A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bauwauja, Abyssal Three Roar</name>
+      <text>
+■ When you put this tamaseed, you may put the top 4 cards of your deck into your graveyard.
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Blocker
+■ Triple Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+■ During your turn, this tamaseed can't leave except by being destroyed.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-RP1-S4">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bauwauja, Abyssal Three Roar</name>
+      <text>
+■ When you put this tamaseed, you may put the top 4 cards of your deck into your graveyard.
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Blocker
+■ Triple Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+■ During your turn, this tamaseed can't leave except by being destroyed.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-RP1- 6B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bauwauja, Abyssal Three Roar</name>
+      <text>
+■ When you put this tamaseed, you may put the top 4 cards of your deck into your graveyard.
+■ If you don't have a total of 4 or more darkness creatures and/or darkness tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Blocker
+■ Triple Breaker
+■ Whenever this creature attacks, destroy one of your opponent's creatures.
+■ During your turn, this tamaseed can't leave except by being destroyed.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Abyss Royale/ACE</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DM22-RP1- 4A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Force Dragon</name>
+      <text>
+■ When you put this tamaseed, destroy one of your opponent's creatures that has power 4000 or less.
+■ If you don't have a total of 4 or more fire creatures and/or fire tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Double Breaker
+■ Whenever this creature attacks, each of your other creatures gets "power attacker +6000", "speed attacker" and "powered breaker" until the End Step
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Armored Dragon/ACE</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-RP1-S6">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Force Dragon</name>
+      <text>
+■ When you put this tamaseed, destroy one of your opponent's creatures that has power 4000 or less.
+■ If you don't have a total of 4 or more fire creatures and/or fire tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Double Breaker
+■ Whenever this creature attacks, each of your other creatures gets "power attacker +6000", "speed attacker" and "powered breaker" until the End Step
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Armored Dragon/ACE</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-RP1- 8B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Force Dragon</name>
+      <text>
+■ When you put this tamaseed, destroy one of your opponent's creatures that has power 4000 or less.
+■ If you don't have a total of 4 or more fire creatures and/or fire tamaseeds, this tamaseed isn't treated as a creature in the battle zone.
+■ Double Breaker
+■ Whenever this creature attacks, each of your other creatures gets "power attacker +6000", "speed attacker" and "powered breaker" until the End Step
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Armored Dragon/ACE</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>9000</pt>
+      </prop>
+      <set num="DM22-RP1- 6A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orbimaker Par 100, Tenth Dragon</name>
+      <text>
+■ This creature costs 3 less to summon for each nature creature and/or nature tamaseed you put this turn. It can't cost 0 or less.
+■ Mach Fighter
+■ Quattro Breaker
+■ '''Civil Count 5''': If you have a total of 5 or more nature creatures and/or nature tamaseeds, during your opponent's turn, whenever your opponent puts a creature or tamaseed into the battle zone and that ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DM22-RP1-S7">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orbimaker Par 100, Tenth Dragon</name>
+      <text>
+■ This creature costs 3 less to summon for each nature creature and/or nature tamaseed you put this turn. It can't cost 0 or less.
+■ Mach Fighter
+■ Quattro Breaker
+■ '''Civil Count 5''': If you have a total of 5 or more nature creatures and/or nature tamaseeds, during your opponent's turn, whenever your opponent puts a creature or tamaseed into the battle zone and that ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DM22-RP1- 9B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Orbimaker Par 100, Tenth Dragon</name>
+      <text>
+■ This creature costs 3 less to summon for each nature creature and/or nature tamaseed you put this turn. It can't cost 0 or less.
+■ Mach Fighter
+■ Quattro Breaker
+■ '''Civil Count 5''': If you have a total of 5 or more nature creatures and/or nature tamaseeds, during your opponent's turn, whenever your opponent puts a creature or tamaseed into the battle zone and that ability would trigger, that ability won't trigger instead. ''(For example, your opponent can't use an ability that starts with "When you put this creature".)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Dragon</type>
+        <manacost>10</manacost>
+        <colors>Nature</colors>
+        <pt>19000</pt>
+      </prop>
+      <set num="DM22-RP1- 7A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Astmaple-T3</name>
+      <text>
+■ When you put this creature, you may put a creature that costs 3 or less or a tamaseed that costs 3 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1-28">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Astmaple-T3</name>
+      <text>
+■ When you put this creature, you may put a creature that costs 3 or less or a tamaseed that costs 3 or less from your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mecha Del Dinero</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1- 15A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Knife %3D Alife</name>
+      <text>
+■ When you put this creature, each of your opponent's creatures gets -2000 power until the End Step
+■ Each turn, the first time a creature is destroyed, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DM22-RP1-16">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spoon %3D Nps</name>
+      <text>
+■ Abyss Rush
+■ When you put this creature, return a card from your shield zone to your hand. You can't use the "shield trigger".
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Abyss Royale</type>
+        <manacost>2</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-RP1-62">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyss Diner</name>
+      <text>
+■ Each turn, the first time one of your creatures attacks, you may put a creature or tamaseed that costs less than that creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-41">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Abyss Diner</name>
+      <text>
+■ Each turn, the first time one of your creatures attacks, you may put a creature or tamaseed that costs less than that creature from your graveyard.
+  </text>
+      <prop>
+        <maintype>Tamaseed</maintype>
+        <type>Abyss Royale</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- 16A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Darakuma", Spirit Spell</name>
+      <text>
+■ Look at your opponent's hand, choose a card and discard it.
+■ '''Civil Count 2''': If you have a total of 2 or more darkness creatures and/or darkness tamaseeds, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-64">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>"Darakuma", Spirit Spell</name>
+      <text>
+■ Look at your opponent's hand, choose a card and discard it.
+■ '''Civil Count 2''': If you have a total of 2 or more darkness creatures and/or darkness tamaseeds, draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- 19A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goukai! Grandslam Scorpion</name>
+      <text>
+■ When you put this tamaseed, untap 4 cards in your mana zone. 
+■ If you don't have a total of 4 or more nature creatures and/or nature tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Triple Breaker
+■ Whenever this creature attacks, put the top card of your deck into your mana zone, then put a creature or tamaseed from your mana zone that costs the same as or less than the number of cards in your mana zone.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Giant Insect/ACE</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DM22-RP1-S8">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goukai! Grandslam Scorpion</name>
+      <text>
+■ When you put this tamaseed, untap 4 cards in your mana zone. 
+■ If you don't have a total of 4 or more nature creatures and/or nature tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Triple Breaker
+■ Whenever this creature attacks, put the top card of your deck into your mana zone, then put a creature or tamaseed from your mana zone that costs the same as or less than the number of cards in your mana zone.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Giant Insect/ACE</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DM22-RP1- 10B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goukai! Grandslam Scorpion</name>
+      <text>
+■ When you put this tamaseed, untap 4 cards in your mana zone. 
+■ If you don't have a total of 4 or more nature creatures and/or nature tamaseeds, this tamaseed isn't treated as a creature in the battle zone. 
+■ Triple Breaker
+■ Whenever this creature attacks, put the top card of your deck into your mana zone, then put a creature or tamaseed from your mana zone that costs the same as or less than the number of cards in your mana zone.
+  </text>
+      <prop>
+        <maintype>Tamaseed / Creature</maintype>
+        <type>Giant Insect/ACE</type>
+        <manacost>5</manacost>
+        <colors>Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DM22-RP1- 8A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Tail Dragon</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ '''Civil Count 3''': If you have a total of 3 or more fire creatures and/or fire tamaseeds, this creature gets +2000 power and "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM22-RP1-19">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Bolshack Tail Dragon</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+■ '''Civil Count 3''': If you have a total of 3 or more fire creatures and/or fire tamaseeds, this creature gets +2000 power and "double breaker". ''(A creature that has "double breaker" breaks 2 shields.)''
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Armored Dragon</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>5000+</pt>
+      </prop>
+      <set num="DM22-RP1- 14A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oilmane, Oil Lord Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ Each of your creatures gets "Escape".
+■ When you put this creature, shieldify the top card of your deck.
+■ Each turn, when you put a card into your shield zone for the first time, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-RP1-S1">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oilmane, Oil Lord Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ Each of your creatures gets "Escape".
+■ When you put this creature, shieldify the top card of your deck.
+■ Each turn, when you put a card into your shield zone for the first time, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-RP1- 3B">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Oilmane, Oil Lord Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ Each of your creatures gets "Escape".
+■ When you put this creature, shieldify the top card of your deck.
+■ Each turn, when you put a card into your shield zone for the first time, you may shieldify the top card of your deck.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DM22-RP1- 1A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Curse Mind</name>
+      <text>
+■ If a card was put into a players graveyard this turn, this spell costs 2 less to cast.
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Draw 2 cards. Then discard a card from your hand.
+:► Choose one of your opponent's creatures. That creature gets -1000 for each card in your graveyard until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1-8">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Curse Mind</name>
+      <text>
+■ If a card was put into a players graveyard this turn, this spell costs 2 less to cast.
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Draw 2 cards. Then discard a card from your hand.
+:► Choose one of your opponent's creatures. That creature gets -1000 for each card in your graveyard until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Water/Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DM22-RP1- 11A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sonkun, Blazing Fire Great Saint</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks or one of your creatures is destroyed, choose one of the following.
+:▶ Destroy one of your opponent's creatures that has "blocker".
+:▶ Destroy one of your opponent's creatures that costs 3 or less.
+:▶ Destroy one of your opponent's tamaseeds that costs 3 or less.
+:▶ Break one of your opponent's shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1-6">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Sonkun, Blazing Fire Great Saint</name>
+      <text>
+■ Speed Attacker
+■ Whenever this creature attacks or one of your creatures is destroyed, choose one of the following.
+:▶ Destroy one of your opponent's creatures that has "blocker".
+:▶ Destroy one of your opponent's creatures that costs 3 or less.
+:▶ Destroy one of your opponent's tamaseeds that costs 3 or less.
+:▶ Break one of your opponent's shields.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey</type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DM22-RP1- 10A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Caddy Beetle</name>
+      <text>
+■ During your opponent's turn, whenever your opponent would put a creature that costs more than the number of cards in their mana zone, put it into its owner's mana zone instead.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-RP1-49">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Caddy Beetle</name>
+      <text>
+■ During your opponent's turn, whenever your opponent would put a creature that costs more than the number of cards in their mana zone, put it into its owner's mana zone instead.
+■ When this creature would be destroyed, put it into your mana zone instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Giant Insect</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DM22-RP1- 17A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Al Hakob, Transport Guardian</name>
+      <text>
+■ When you put this creature, you may tap one of your untapped light creatures or one of your untapped light tamaseeds. If you do, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DM22-RP1-53">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Al Hakob, Transport Guardian</name>
+      <text>
+■ When you put this creature, you may tap one of your untapped light creatures or one of your untapped light tamaseeds. If you do, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>500</pt>
+      </prop>
+      <set num="DM22-RP1- 18A">DM22-RP1</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,183 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-30</name>
+      <longname>DMD-30</longname>
+      <settype>DMD-30</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Gaga Pikarian</name>
+      <text>
+■ When you put this creature into the battle zone, you may draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Cyber Lord/Alien</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-30-12">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Counterattacking Silent Spark</name>
+      <text>
+■ Multi
+■ Shield Trigger
+■ Choose one of the following.
+:► Tap all your opponent's creatures in the battle zone.
+:► Draw 2 cards.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light/Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-30-7">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Yuppal, Binding Guardian</name>
+      <text>
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it. It doesn't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Guardian/Unnoise</type>
+        <manacost>3</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-30-2">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Acroite, Start Dash</name>
+      <text>
+■ Each turn, you may have the first light creature you summon cost 1 less. It can't cost less than 1.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Light</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-30-13">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akyoora, Crossing Wings</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Justice Wing</type>
+        <manacost>4</manacost>
+        <colors>Light</colors>
+        <pt>2500</pt>
+      </prop>
+      <set num="DMD-30-11">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Koltiolu, Scale Dragon Elemental</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, for each of your Dragons in the battle zone, you may choose one of your opponent's creatures in the battle zone and tap it.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>8</manacost>
+        <colors>Light</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMD-30-8">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Master Spark</name>
+      <text>
+■ Shield Trigger
+■ Tap all your opponent's creatures in the battle zone. 
+■ Draw a card.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-30-10">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Commanduo, Order Dragon Elemental</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, draw a card. Then you may put a non-evolution light creature that costs 5 or less from your hand into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon</type>
+        <manacost>6</manacost>
+        <colors>Light</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMD-30-9">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Doremi, Time 1</name>
+      <text>
+■ When you put this creature into the battle zone, draw a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Revolutionary/Team Doremi</type>
+        <manacost>2</manacost>
+        <colors>Light/Water</colors>
+        <pt>1500</pt>
+      </prop>
+      <set num="DMD-30-6">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kernel, Blue Stagnation Dragon Elemental</name>
+      <text>
+■ Shield Trigger
+■ Blocker
+■ When you put this creature, choose one of your opponent’s creatures. Until the start of your next turn, that creature can't attack or block.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Dragon/Revolutionary</type>
+        <manacost>5</manacost>
+        <colors>Light/Water</colors>
+        <pt>3500</pt>
+      </prop>
+      <set num="DMD-30-3">DMD-30</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

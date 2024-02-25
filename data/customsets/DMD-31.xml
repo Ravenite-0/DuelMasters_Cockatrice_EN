@@ -1,0 +1,184 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMD-31</name>
+      <longname>DMD-31</longname>
+      <settype>DMD-31</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Terror Pit</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>6</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-31-7">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Western Barrel, Shadow of Riots</name>
+      <text>
+■ When you put this creature into the battle zone, your opponent discards a card from their hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-31-9">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Blazing Tiger, Crimson Lord</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, destroy all your opponent's creatures that have power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Flame Monster/Samurai</type>
+        <manacost>7</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-31-8">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Marauder Deis Drive</name>
+      <text>
+■ Multi
+■ Speed Attacker
+■ Slayer
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Living Dead/Dragonoid/Alien</type>
+        <manacost>3</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMD-31-11">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Suffocation Cloak, Shadow of Atrophy</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. That creature gets -3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Ghost</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-31-6">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Chaser, Dark Taiga</name>
+      <text>
+■ Multi
+■ When you put this creature into the battle zone, put the top card of your deck into your graveyard. If that card is fire, this creature gets "speed attacker" until the End Step
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Outrage</type>
+        <manacost>2</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMD-31-12">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Explosive Swordplay, Sweltering Heat Tricks</name>
+      <text>
+■ Shield Trigger
+■ Destroy one of your opponent's creatures in the battle zone that has power 2000 or less.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-31-10">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Forbidden Area Hellfire</name>
+      <text>
+■ Your creatures get +9999 power while battling. 
+■ ''(Whenever another D2 Field is put into the battle zone, put this D2 Field into your graveyard.)''
+  </text>
+      <prop>
+        <maintype>D2 Field</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMD-31-3">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Black V, Roaring Sound</name>
+      <text>
+■ Multi
+■ Speed Attacker
+■ Whenever this creature attacks, your opponent chooses and discards a card.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Initials</type>
+        <manacost>4</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-31-5">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Kizamu, Forbidden V</name>
+      <text>
+■ Shield Trigger
+■ When you put this creature, choose one of your opponent's creatures. That creature gets -2000 power until the End Step
+■ When you put this creature, you may choose one of your opponent's creatures. This creature and that creature battle.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Sonic Command/Initials</type>
+        <manacost>7</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMD-31-5">DMD-31</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

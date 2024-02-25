@@ -1,0 +1,685 @@
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DMRP-12</name>
+      <longname>DMRP-12</longname>
+      <settype>DMRP-12</settype>
+      <releasedate>2023-11-05</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Hanzou, Menacing Phantom</name>
+      <text>
+■ Ninja Strike
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone. That creature gets -6000 power until the End Step
+■ When this creature would be destroyed and you have at least one darkness card in your mana zone, you may put one of your shields into your graveyard instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command/Shinobi</type>
+        <manacost>7</manacost>
+        <colors>Darkness</colors>
+        <pt>5000</pt>
+      </prop>
+      <set num="DMRP-12-G6">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Evil Heat, Screaming Demon Dragon</name>
+      <text>
+■ Speed Attacker
+■ When you put this creature, put the top card of your deck into your graveyard. Then return a creature from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Demon Command Dragon</type>
+        <manacost>5</manacost>
+        <colors>Darkness/Fire</colors>
+        <pt>4000</pt>
+      </prop>
+      <set num="DMRP-12-G7">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Miradante Twelve, Time Pope</name>
+      <text>
+■ Revolution Change: Light or Water Dragon that costs 5 or more
+■ Triple Breaker
+■ When you put this creature, you may cast a light spell that costs 5 or less from your hand For No Cost
+■ Final Revolution: When you put this creature with "Revolution Change" and you haven't used another "Final Revolution" during this turn, your opponent can't summon creatures that cost 7 or less until the end of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Angel Command Dragon/Revolutionary/Team Doremi</type>
+        <manacost>8</manacost>
+        <colors>Light/Water</colors>
+        <pt>12000</pt>
+      </prop>
+      <set num="DMRP-12-G1">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Final Dogiragolden</name>
+      <text>
+■ Revolution Change: Fire or Nature dragon that costs 5 or more
+■ Triple Breaker
+■ When you put this creature into the battle zone, choose one of your opponent's creatures in the battle zone and put it into their mana zone. Then destroy one of your opponent's Forbidden Creatures.
+■ Final Final Revolution—When you put this creature into the battle zone, if you haven't used another "Final Revolution" in this game, your opponent's creatures that have power 1000000 or less can't attack you next turn.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mega Command Dragon/Revolutionary/Team Hamukatsu</type>
+        <manacost>8</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>14000</pt>
+      </prop>
+      <set num="DMRP-12-G2">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Shura Beethoven, Zenith of "Hadou"</name>
+      <text>
+■ Triple Breaker
+■ Whenever you summon a dragon into the battle zone, you may put the top 2 cards of your deck into your mana zone.
+■ Each of your dragons get "speed attacker" and "slayer".
+■ You may summon dragons from your mana zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>King Command Dragon/Zenith</type>
+        <manacost>10</manacost>
+        <colors>Darkness/Fire/Nature</colors>
+        <pt>13000</pt>
+      </prop>
+      <set num="DMRP-12-G5">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Spiner, Shock Doctor</name>
+      <text>
+■ Super Shield Trigger
+■ When you put this creature, use the next ability 3 times.
+:► Choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+■ Icon
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>9</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-12-G8">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>King the Slotton 7/Seventh Seven</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, reveal the top 3 cards of your deck. If all 3 cards are Jokers, you may put a creature from among them into the battle zone. During that turn, that creature can attack your opponent. Put the rest on the bottom of your deck in any order.
+=========================
+■ Shield Trigger
+■ Your opponent reveals the top 3 cards of their deck, and you choose one of them. Your opponent puts their creatures that cost the same as the chosen card along with the 3 revealed cards on the bottom of their deck in any order.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers</type>
+        <manacost>7</manacost>
+        <colors>Colorless</colors>
+        <pt>7777</pt>
+      </prop>
+      <set num="DMRP-12-G3">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Donjungle Strong Seven</name>
+      <text>
+■ Mach Fighter
+■ Double Breaker
+■ When you put this creature, you may put a creature that has power 7000 or less from your mana zone.
+■ While battling, this creature gets +6000 power.
+■ Whenever an opponent's creature attacks, they must attack this creature if able.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers</type>
+        <manacost>8</manacost>
+        <colors>Nature</colors>
+        <pt>8000+</pt>
+      </prop>
+      <set num="DMRP-12-G4">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ceremony of Graveyard</name>
+      <text>
+■ When you put a card in your graveyard, if you have 8 or more cards in your graveyard, you may link this Zeron Nebula to your Zerom, Origin of Destruction. If you do, choose one of your opponent's creatures. That creature gets -3000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Zeron Nebula</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-MZ3a">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ceremony of Hands</name>
+      <text>
+■ At the End Step
+  </text>
+      <prop>
+        <maintype>Zeron Nebula</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-MZ2a">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ceremony of Resurrection</name>
+      <text>
+■ When you put a card from your graveyard, you may link this Zeron Nebula to your Zerom, Origin of Destruction. If you do, put 2 cards from the top of your deck into your graveyard.
+  </text>
+      <prop>
+        <maintype>Zeron Nebula</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-MZ5a">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ceremony of Destruction</name>
+      <text>
+■ When a creature is destroyed, if 2 or more other creatures were destroyed this turn, you may link this Zeron Nebula to your Zerom, Origin of Destruction. If you do, return a darkness card from your graveyard to your hand.
+  </text>
+      <prop>
+        <maintype>Zeron Nebula</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-MZ4a">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zeron</name>
+      <text>
+■ World Breaker
+■ When this creature is Zeron Birthed, your opponent's creatures have 0 power until the End Step
+■ While this creature has 0 power or less, it can't leave the battle zone and Win All Battles
+■ If this card is in a zone other than the battle zone, you lose the game.
+  </text>
+      <prop>
+        <maintype>Zeron Creature</maintype>
+        <type>Master Dragon Z</type>
+        <manacost>0</manacost>
+        <colors>Darkness</colors>
+        <pt>0</pt>
+      </prop>
+      <set num="DMRP-12-MZ1">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zeron</name>
+      <text>
+■ World Breaker
+■ When this creature is Zeron Birthed, your opponent's creatures have 0 power until the End Step
+■ While this creature has 0 power or less, it can't leave the battle zone and Win All Battles
+■ If this card is in a zone other than the battle zone, you lose the game.
+  </text>
+      <prop>
+        <maintype>Zeron Creature</maintype>
+        <type>Master Dragon Z</type>
+        <manacost>0</manacost>
+        <colors>Darkness</colors>
+        <pt>0</pt>
+      </prop>
+      <set num="DMRP-12- MZ2">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zeron</name>
+      <text>
+■ World Breaker
+■ When this creature is Zeron Birthed, your opponent's creatures have 0 power until the End Step
+■ While this creature has 0 power or less, it can't leave the battle zone and Win All Battles
+■ If this card is in a zone other than the battle zone, you lose the game.
+  </text>
+      <prop>
+        <maintype>Zeron Creature</maintype>
+        <type>Master Dragon Z</type>
+        <manacost>0</manacost>
+        <colors>Darkness</colors>
+        <pt>0</pt>
+      </prop>
+      <set num="DMRP-12- MZ3">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zeron</name>
+      <text>
+■ World Breaker
+■ When this creature is Zeron Birthed, your opponent's creatures have 0 power until the End Step
+■ While this creature has 0 power or less, it can't leave the battle zone and Win All Battles
+■ If this card is in a zone other than the battle zone, you lose the game.
+  </text>
+      <prop>
+        <maintype>Zeron Creature</maintype>
+        <type>Master Dragon Z</type>
+        <manacost>0</manacost>
+        <colors>Darkness</colors>
+        <pt>0</pt>
+      </prop>
+      <set num="DMRP-12- MZ4">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zerom, Origin of Destruction</name>
+      <text>
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Cards that can be put into the Battle Zone at the start of the game
+■ Zeron cards can't leave the battle zone.
+■ Zeron Birth: When you link 4 Zeron Nebula with this card, flip all 5 cards to its Zeron
+  </text>
+      <prop>
+        <maintype>Ceremony of Zeron</maintype>
+        <type></type>
+        <manacost></manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-MZ1">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Akakage Redshadow</name>
+      <text>
+■ Mana Drive 5 (Fire): When you put this creature, if you have 5 or more cards in your mana zone and one or more of them is fire civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+■ While battling, this creature gets +2000 power.
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000+</pt>
+      </prop>
+      <set num="DMRP-12-S9">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Jogirasta the Johnny</name>
+      <text>
+■ Speed Attacker
+■ Mach Fighter
+■ Triple Breaker
+■ Whenever this creature wins a battle, gacharange summon. Then you may draw a card. 
+■ Master Jokers Gacharange: Before the break
+■ When one or more of your shields would be broken for the first time each turn, this creature breaks one of your opponent's shields instead.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>8</manacost>
+        <colors>Water/Fire/Nature</colors>
+        <pt>15000</pt>
+      </prop>
+      <set num="DMRP-12-M2">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>The Jogiragon Abaregun</name>
+      <text>
+■ Whenever this creature attacks, break one of your shields.
+■ Whenever this creature attacks, it attacks your opponent if able.
+■ Super Heaven Fever: If you have a total of 8 or more Jokers in the battle zone or mana zone, this creature gets +10000 power and "triple breaker".
+■ Super Super Super Heaven Fever: If you have a total of 20 or more Jokers in the battle zone or mana zone, each of your Jokers gets +10000 power and "world breaker". ''(Creatures that have "world breaker" break all opponent's shields.)''
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Master Dragon/Jokers/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Colorless</colors>
+        <pt>4000+</pt>
+      </prop>
+      <set num="DMRP-12-M1">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Darkness</name>
+      <text>
+■ You may cast this spell from your graveyard, If you do, after casting, put it on the bottom of your deck instead. 
+■  Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Your opponent chooses a card in their hand and discards it.
+:► Put a darkness creature that costs 4 or less or darkness aura that costs 4 or less from your graveyard into the battle zone. 
+:► Choose one of your opponent's creatures. That creature gets -4000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-S8">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Alogant Awayne</name>
+      <text>
+■ When this creature is put from your deck into your graveyard, put it into the battle zone.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Mafi Gang</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-12-83">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Ghirangrail, Galaxy Final Mode</name>
+      <text>
+■ Sympathy Creature
+■ Gacharange summon 12 times.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>12</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-3">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Dondon Blizzard Now</name>
+      <text>
+■ Shield Trigger
+■ Look at the top 5 cards of your deck. Reveal one and put it into your hand, then put the rest on the bottom of your deck in any order. If a light or darkness card was revealed in this way, you may choose a creature in the battle zone and return it to its owner's hand.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>4</manacost>
+        <colors>Water</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-21">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Christma Third</name>
+      <text>
+■ Mana Drive 3 (Nature): When you put this creature into the battle zone, if you have 3 or more cards in your mana zone and one or more of them is nature civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Gransect/Deletron</type>
+        <manacost>2</manacost>
+        <colors>Nature</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-12-57">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Climax Brand</name>
+      <text>
+■ When you put this creature, gacharange summon. 
+■ Whenever you put a gacharange creature, this turn, your next fire card costs 1 less. It can't cost 0 or less.
+■ If you have 3 or more gacharange creatures, this creature's attack target can't be changed.
+  </text>
+      <prop>
+        <maintype>Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>3</manacost>
+        <colors>Fire</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-12-S11">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Balbalbalchu</name>
+      <text>
+■ When you put this creature, return one of your shields to your hand. You can't use the "shield trigger" ability of that shield. 
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-12-89">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Burnmare the Silver/Oraora Slash</name>
+      <text>
+■ Double Breaker
+■ When you put this creature into the battle zone, gacharange summon twice. Those creatures get "speed attacker" until the End Step
+=========================
+■ Shield Trigger
+■ Until the start of your next turn, whenever an opponent's creature attacks, they must attack creatures if able.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Jokers/Wonderforce</type>
+        <manacost>6</manacost>
+        <colors>Fire/Nature</colors>
+        <pt>6000</pt>
+      </prop>
+      <set num="DMRP-12-S10">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Perfect Light</name>
+      <text>
+■ Sympathy Creature
+■ Choose 2 of the following. ''(You may choose the same one twice.)''
+:► Shieldify the top card of your deck.
+:► Put a non-evolution light creature that has "blocker" from your hand.
+:► Choose one of your opponent's creatures and tap it. That creature doesn't untap at the start of your opponent's next turn.
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>7</manacost>
+        <colors>Light</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-S3">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Holyend, Destiny Dragon Armored/Now or Never</name>
+      <text>
+■ Blocker
+■ Double Breaker
+■ When you put this creature, tap all your opponent's creatures. Then draw a card.
+=========================
+■ Shield Trigger
+■ You may put a non-evolution creature that costs 7 or less from your hand. Then return that creature to your hand.
+  </text>
+      <prop>
+        <maintype>Twinpact</maintype>
+        <type>Dragon Guild/Metallica</type>
+        <manacost>7</manacost>
+        <colors>Light/Water</colors>
+        <pt>9500</pt>
+      </prop>
+      <set num="DMRP-12-S1">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hei-Sanshiki, Tomurai</name>
+      <text>
+■ When you put this creature, choose up to 3 cards in your opponent's graveyard. Your opponent puts them on the bottom of their deck in any order.
+■ Gacharange Reminder
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>3000</pt>
+      </prop>
+      <set num="DMRP-12-81">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Meccha Bayetataki</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following. 
+:► Destroy one of your opponent's creatures that has power 3000 or less.
+:► Destroy one of your opponent's Non-Creature Card
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-56">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Goldongoldo</name>
+      <text>
+■ Mana Drive 4 (Fire): When you put this creature, if you have 4 or more cards in your mana zone and one or more of them is fire civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Beat Jockey/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Fire</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-12-51">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Hei-Nishiki, Cut</name>
+      <text>
+■ Mana Drive 5 (Darkness): When you put this creature into the battle zone, if you have 5 or more cards in your mana zone and one or more of them is darkness civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>3</manacost>
+        <colors>Darkness</colors>
+        <pt>2000</pt>
+      </prop>
+      <set num="DMRP-12-45">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Southern A</name>
+      <text>
+■ Mana Drive 4 (Water): When you put this creature, if you have 4 or more cards in your mana zone and one or more of them is water civilization, you may destroy this creature. If you do, use this creature's Icon
+■ Icon
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Tricks/Wonderforce</type>
+        <manacost>2</manacost>
+        <colors>Water</colors>
+        <pt>1000</pt>
+      </prop>
+      <set num="DMRP-12-39">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Zainty Zain</name>
+      <text>
+■ Shield Trigger
+■ Choose one of the following.
+:► Choose one of your opponent's creatures. That creature gets -12000 power until the End Step
+  </text>
+      <prop>
+        <maintype>Spell</maintype>
+        <type></type>
+        <manacost>5</manacost>
+        <colors>Darkness</colors>
+        <pt></pt>
+      </prop>
+      <set num="DMRP-12-23">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+    <card>
+      <name>Helegrigory-Zeroshiki</name>
+      <text>
+■ Double Breaker
+■ When you put this creature, destroy one of your other gacharange creatures.
+  </text>
+      <prop>
+        <maintype>Gacharange Creature</maintype>
+        <type>Mafi Gang/Deletron</type>
+        <manacost>4</manacost>
+        <colors>Darkness</colors>
+        <pt>8000</pt>
+      </prop>
+      <set num="DMRP-12-S7">DMRP-12</set>
+      <related></related>
+      <tablerow>2</tablerow>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
